@@ -11,6 +11,7 @@ Browse them: https://grammar.ilearnczech.com/etymology/
 - `lookup.json`: every way of asking (as slugs) → the map's file, small, fetched on each search
 - `index.json`: every map with its level, plus the lookup
 - `index.html`: the directory page
+- `app/`: [mindstr](https://github.com/melvincarvalho/mindstr) as a git submodule. Maps open in this copy, on the same site, so the click on a word also lets the map play its sounds. Clone with `--recursive`; update with `git submodule update --remote app`, then commit and push.
 
 ## Sources
 
