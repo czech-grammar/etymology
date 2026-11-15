@@ -75,7 +75,7 @@
     // Every map in index.json, grouped by level. A map opens in mindstr, growing from its root.
     // ?app= points the links at another copy of the app (for a local preview).
     const ICONS = { 'A1 nouns': '🌱', 'A2 nouns': '🌿', 'B1 nouns': '🌳', 'B2 nouns': '🏔️' }
-    const app = new URLSearchParams(location.search).get('app') || 'https://mindstr.org/'
+    const app = new URLSearchParams(location.search).get('app') || new URL('app/', location.href).href // our copy of mindstr (a submodule), so a click here counts there
     const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '')
     const $ = s => document.querySelector(s)
     const el = (tag, props = {}, ...kids) => {
