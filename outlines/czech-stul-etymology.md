@@ -1,0 +1,24 @@
+category: A1 nouns
+aliases: stůl etymology, origin of stůl, stůl word origin, etymology of stůl
+- Czech stůl etymology
+  - Meaning: “table”
+    - Table
+  - Word history
+    - Old Czech stól
+    - Proto-Slavic *stolъ
+    - Proto-Balto-Slavic *stálan, “table, seat”
+    - Probably from *stati, “to stand”
+  - Slavic cousins
+    - Polish stół
+    - Slovak stôl
+    - Russian стол
+  - Wider family
+    - Russian стул, “chair”: Germanic loan
+    - Like English stool
+  - Related Czech words
+    - stolek: small table
+    - stolice: stool, seat
+    - stolovat: to dine
+  - Sources
+    - [Wiktionary: stůl](https://en.wiktionary.org/wiki/st%C5%AFl#Czech)
+    - [Wiktionary: Proto-Slavic *stolъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/stol%D1%8A)

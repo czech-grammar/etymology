@@ -1,0 +1,25 @@
+category: A1 nouns
+aliases: mléko etymology, origin of mléko, mléko word origin, etymology of mléko
+- Czech mléko etymology
+  - Meaning: “milk”
+    - Milk
+  - Word history
+    - Old Czech mléko
+    - Proto-Slavic *melko
+    - Probably borrowed from Germanic
+    - Compare Gothic miluks, “milk”
+    - Proto-Indo-European *h₂melǵ-, “to milk”
+  - Slavic cousins
+    - Polish mleko
+    - Slovak mlieko
+    - Ukrainian молоко
+  - Wider family
+    - English milk
+    - German Milch
+  - Related Czech words
+    - mlékárna: dairy
+    - mléčný: milky, dairy
+    - mlíko: everyday spoken form
+  - Sources
+    - [Wiktionary: mléko](https://en.wiktionary.org/wiki/ml%C3%A9ko#Czech)
+    - [Wiktionary: Proto-Slavic *melko](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/melko)

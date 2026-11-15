@@ -1,0 +1,25 @@
+category: A1 nouns
+aliases: žena etymology, origin of žena, žena word origin, etymology of žena
+- Czech žena etymology
+  - Meaning: “woman”
+    - Woman
+    - Also: wife
+  - Word history
+    - Old Czech žena
+    - Proto-Slavic *žena
+    - Proto-Balto-Slavic *génāˀ
+    - Proto-Indo-European *gʷén-eh₂
+  - Slavic cousins
+    - Polish żona, “wife”
+    - Slovak žena
+    - Russian жена, “wife”
+  - Wider family
+    - English queen
+    - Greek gynē, as in gynaecology
+  - Related Czech words
+    - ženatý: married (of a man)
+    - oženit se: to marry
+    - ženství: womanhood
+  - Sources
+    - [Wiktionary: žena](https://en.wiktionary.org/wiki/%C5%BEena#Czech)
+    - [Wiktionary: Proto-Slavic *žena](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C5%BEena)

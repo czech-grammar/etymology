@@ -1,0 +1,25 @@
+category: A1 nouns
+aliases: slunce etymology, origin of slunce, slunce word origin, etymology of slunce
+- Czech slunce etymology
+  - Meaning: “sun”
+    - Sun
+  - Word history
+    - Old Czech slunce
+    - Proto-Slavic *sъlnьce
+    - A “little sun”: *sъlnь + -ьce
+    - Proto-Indo-European *sóh₂wl̥, “sun”
+  - Slavic cousins
+    - Polish słońce
+    - Slovak slnce
+    - Russian солнце
+  - Wider family
+    - Latin sōl
+    - English sun
+    - Greek hḗlios
+  - Related Czech words
+    - slunečnice: sunflower
+    - slunovrat: solstice
+    - sluníčko: little sun
+  - Sources
+    - [Wiktionary: slunce](https://en.wiktionary.org/wiki/slunce#Czech)
+    - [Wiktionary: Proto-Slavic *sъlnьce](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/s%D1%8Aln%D1%8Cce)

@@ -1,0 +1,273 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech slunce etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#kbanzf",
+      "name": "Meaning: “sun”",
+      "x": -226,
+      "y": -36,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kxvaes",
+      "name": "Sun",
+      "x": -441,
+      "y": -70,
+      "parent": "#kbanzf"
+    },
+    {
+      "@id": "#knivwq",
+      "name": "Word history",
+      "x": -88,
+      "y": -170,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#68y88g",
+      "name": "Old Czech slunce",
+      "x": -374,
+      "y": -200,
+      "parent": "#knivwq"
+    },
+    {
+      "@id": "#ytt9i9",
+      "name": "Proto-Slavic *sъlnьce",
+      "x": -250,
+      "y": -299,
+      "parent": "#knivwq"
+    },
+    {
+      "@id": "#fjitsu",
+      "name": "A “little sun”: *sъlnь + -ьce",
+      "x": -88,
+      "y": -353,
+      "parent": "#knivwq"
+    },
+    {
+      "@id": "#n94dvd",
+      "name": "Proto-Indo-European *sóh₂wl̥, “sun”",
+      "x": 100,
+      "y": -401,
+      "parent": "#knivwq"
+    },
+    {
+      "@id": "#zij9zp",
+      "name": "Slavic cousins",
+      "x": 191,
+      "y": -102,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d958qf",
+      "name": "Polish słońce",
+      "x": 250,
+      "y": -299,
+      "parent": "#zij9zp"
+    },
+    {
+      "@id": "#4mqb58",
+      "name": "Slovak slnce",
+      "x": 374,
+      "y": -200,
+      "parent": "#zij9zp"
+    },
+    {
+      "@id": "#gqafex",
+      "name": "Russian солнце",
+      "x": 441,
+      "y": -70,
+      "parent": "#zij9zp"
+    },
+    {
+      "@id": "#5eandy",
+      "name": "Wider family",
+      "x": 191,
+      "y": 102,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j2vixy",
+      "name": "Latin sōl",
+      "x": 441,
+      "y": 70,
+      "parent": "#5eandy"
+    },
+    {
+      "@id": "#gjyxja",
+      "name": "English sun",
+      "x": 374,
+      "y": 200,
+      "parent": "#5eandy"
+    },
+    {
+      "@id": "#a92dth",
+      "name": "Greek hḗlios",
+      "x": 250,
+      "y": 299,
+      "parent": "#5eandy"
+    },
+    {
+      "@id": "#egecs3",
+      "name": "Related Czech words",
+      "x": -45,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q7kayp",
+      "name": "slunečnice: sunflower",
+      "x": 88,
+      "y": 353,
+      "parent": "#egecs3"
+    },
+    {
+      "@id": "#848qms",
+      "name": "slunovrat: solstice",
+      "x": -100,
+      "y": 401,
+      "parent": "#egecs3"
+    },
+    {
+      "@id": "#2imnkg",
+      "name": "sluníčko: little sun",
+      "x": -250,
+      "y": 299,
+      "parent": "#egecs3"
+    },
+    {
+      "@id": "#2h75g3",
+      "name": "Sources",
+      "x": -212,
+      "y": 70,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yz5afu",
+      "name": "Wiktionary: slunce",
+      "x": -374,
+      "y": 200,
+      "link": "https://en.wiktionary.org/wiki/slunce#Czech",
+      "parent": "#2h75g3"
+    },
+    {
+      "@id": "#6n4z5c",
+      "name": "Wiktionary: Proto-Slavic *sъlnьce",
+      "x": -461,
+      "y": 73,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/s%D1%8Aln%D1%8Cce",
+      "parent": "#2h75g3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    }
+  ],
+  "selectedNode": 0
+}

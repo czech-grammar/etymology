@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kočka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#42f7yy",
+      "name": "Meaning: “cat”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sqmp5r",
+      "name": "Cat",
+      "x": -432,
+      "y": -101,
+      "parent": "#42f7yy"
+    },
+    {
+      "@id": "#nxd6jt",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#edjw4d",
+      "name": "Old Czech kočka",
+      "x": -295,
+      "y": -272,
+      "parent": "#nxd6jt"
+    },
+    {
+      "@id": "#7u7b59",
+      "name": "Proto-Slavic *kotъka",
+      "x": -64,
+      "y": -356,
+      "parent": "#nxd6jt"
+    },
+    {
+      "@id": "#j9vera",
+      "name": "A diminutive of *kotъ, “cat”",
+      "x": 211,
+      "y": -372,
+      "parent": "#nxd6jt"
+    },
+    {
+      "@id": "#8gd8kn",
+      "name": "Slavic cousins",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fj4qc7",
+      "name": "Polish kotka",
+      "x": 379,
+      "y": -195,
+      "parent": "#8gd8kn"
+    },
+    {
+      "@id": "#8evrnb",
+      "name": "Ukrainian кітка",
+      "x": 450,
+      "y": 0,
+      "parent": "#8gd8kn"
+    },
+    {
+      "@id": "#zrmnhv",
+      "name": "Related Czech words",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iyvvj7",
+      "name": "kocour: tomcat",
+      "x": 379,
+      "y": 195,
+      "parent": "#zrmnhv"
+    },
+    {
+      "@id": "#x4z6z7",
+      "name": "kotě: kitten",
+      "x": 187,
+      "y": 327,
+      "parent": "#zrmnhv"
+    },
+    {
+      "@id": "#rt6d56",
+      "name": "kočičí: cat’s, feline",
+      "x": -64,
+      "y": 356,
+      "parent": "#zrmnhv"
+    },
+    {
+      "@id": "#y5vdym",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fruzdc",
+      "name": "Wiktionary: kočka",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/ko%C4%8Dka#Czech",
+      "parent": "#y5vdym"
+    },
+    {
+      "@id": "#sdprdu",
+      "name": "Wiktionary: Proto-Slavic *kotъka",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kot%D1%8Aka",
+      "parent": "#y5vdym"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

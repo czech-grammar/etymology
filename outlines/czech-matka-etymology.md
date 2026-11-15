@@ -1,0 +1,25 @@
+category: A1 nouns
+aliases: matka etymology, origin of matka, matka word origin, etymology of matka
+- Czech matka etymology
+  - Meaning: “mother”
+    - Mother
+  - Word history
+    - Old Czech matka
+    - Proto-Slavic *matъka
+    - Built on máti + -ka
+    - Proto-Slavic *mati
+    - Proto-Indo-European *méh₂tēr
+  - Slavic cousins
+    - Polish matka
+    - Slovak matka
+    - Russian мать
+  - Wider family
+    - English mother
+    - Latin māter
+  - Related Czech words
+    - máma: mum
+    - mateřský: maternal
+    - mateřídouška: wild thyme
+  - Sources
+    - [Wiktionary: matka](https://en.wiktionary.org/wiki/matka#Czech)
+    - [Wiktionary: Proto-Slavic *mati](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/mati)

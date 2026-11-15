@@ -1,0 +1,250 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kniha etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#pf3xac",
+      "name": "Meaning: “book”",
+      "x": -225,
+      "y": -38,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dspxyb",
+      "name": "Book",
+      "x": -440,
+      "y": -75,
+      "parent": "#pf3xac"
+    },
+    {
+      "@id": "#eqrvds",
+      "name": "Word history",
+      "x": 24,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fevuef",
+      "name": "Old Czech kniha",
+      "x": -364,
+      "y": -212,
+      "parent": "#eqrvds"
+    },
+    {
+      "@id": "#v3ud5k",
+      "name": "Proto-Slavic *kъňiga",
+      "x": -225,
+      "y": -312,
+      "parent": "#eqrvds"
+    },
+    {
+      "@id": "#nuvtd3",
+      "name": "Origin disputed",
+      "x": -49,
+      "y": -374,
+      "parent": "#eqrvds"
+    },
+    {
+      "@id": "#ejcr7n",
+      "name": "Theory: Germanic, Old High German kenning",
+      "x": 175,
+      "y": -432,
+      "parent": "#eqrvds"
+    },
+    {
+      "@id": "#w9wxtw",
+      "name": "Theory: Akkadian “seal”, via Armenian",
+      "x": 301,
+      "y": -268,
+      "parent": "#eqrvds"
+    },
+    {
+      "@id": "#snbnas",
+      "name": "Theory: native, from *kъnъ, “trunk”",
+      "x": 411,
+      "y": -146,
+      "parent": "#eqrvds"
+    },
+    {
+      "@id": "#8bbm9g",
+      "name": "Slavic cousins",
+      "x": 210,
+      "y": 75,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s5j2uf",
+      "name": "Polish księga",
+      "x": 450,
+      "y": 0,
+      "parent": "#8bbm9g"
+    },
+    {
+      "@id": "#p6wf37",
+      "name": "Slovak kniha",
+      "x": 411,
+      "y": 146,
+      "parent": "#8bbm9g"
+    },
+    {
+      "@id": "#e2xun7",
+      "name": "Russian книга",
+      "x": 301,
+      "y": 268,
+      "parent": "#8bbm9g"
+    },
+    {
+      "@id": "#w3sakm",
+      "name": "Related Czech words",
+      "x": -24,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jfz8uw",
+      "name": "knihovna: library",
+      "x": 139,
+      "y": 342,
+      "parent": "#w3sakm"
+    },
+    {
+      "@id": "#8h25gp",
+      "name": "knihkupectví: bookshop",
+      "x": -51,
+      "y": 390,
+      "parent": "#w3sakm"
+    },
+    {
+      "@id": "#nd6fht",
+      "name": "knihomol: bookworm",
+      "x": -225,
+      "y": 312,
+      "parent": "#w3sakm"
+    },
+    {
+      "@id": "#emu8tg",
+      "name": "Sources",
+      "x": -210,
+      "y": 75,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jc3h2x",
+      "name": "Wiktionary: kniha",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/kniha#Czech",
+      "parent": "#emu8tg"
+    },
+    {
+      "@id": "#tynmhk",
+      "name": "Wiktionary: Proto-Slavic *kъňiga",
+      "x": -460,
+      "y": 78,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/k%D1%8A%C5%88iga",
+      "parent": "#emu8tg"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 3,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    }
+  ],
+  "selectedNode": 0
+}

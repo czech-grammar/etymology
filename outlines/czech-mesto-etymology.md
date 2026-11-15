@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: město etymology, origin of město, město word origin, etymology of město
+- Czech město etymology
+  - Meaning: “town”
+    - Town, city
+  - Word history
+    - Old Czech město
+    - Proto-Slavic *město, “place”
+    - Same source as místo, “place”
+    - “City” sense copied German Stadt
+  - Slavic cousins
+    - Polish miasto, “city”
+    - Slovak mesto
+    - Russian место, “place”
+  - Related Czech words
+    - náměstí: town square
+    - městský: urban
+    - měšťan: townsman
+  - Sources
+    - [Wiktionary: město](https://en.wiktionary.org/wiki/m%C4%9Bsto#Czech)
+    - [Wiktionary: Proto-Slavic *město](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/m%C4%9Bsto)

@@ -1,0 +1,24 @@
+category: A1 nouns
+aliases: pes etymology, origin of pes, pes word origin, etymology of pes
+- Czech pes etymology
+  - Meaning: “dog”
+    - Dog
+    - Also: scoundrel
+  - Word history
+    - Old Czech pes
+    - Proto-Slavic *pьsъ
+    - Deeper origin uncertain
+    - Theory: “spotted”, from *peyḱ-
+    - Theory: “watchful”, from *speḱ-, “see”
+    - Theory: “herding dog”, from *péḱu, “livestock”
+  - Slavic cousins
+    - Polish pies
+    - Slovak pes
+    - Russian пёс
+  - Related Czech words
+    - pejsek: doggy
+    - psí: dog’s, canine
+    - psovitý: of the dog family
+  - Sources
+    - [Wiktionary: pes](https://en.wiktionary.org/wiki/pes#Czech)
+    - [Wiktionary: Proto-Slavic *pьsъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/p%D1%8Cs%D1%8A)

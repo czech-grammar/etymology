@@ -1,0 +1,262 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech hrad etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#9nhiv9",
+      "name": "Meaning: “castle”",
+      "x": -225,
+      "y": -38,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2ikg77",
+      "name": "Castle",
+      "x": -440,
+      "y": -75,
+      "parent": "#9nhiv9"
+    },
+    {
+      "@id": "#25f9cb",
+      "name": "Word history",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vkw7fb",
+      "name": "Old Czech hrad",
+      "x": -364,
+      "y": -212,
+      "parent": "#25f9cb"
+    },
+    {
+      "@id": "#34zzhr",
+      "name": "Proto-Slavic *gordъ, “enclosure, fort”",
+      "x": -225,
+      "y": -312,
+      "parent": "#25f9cb"
+    },
+    {
+      "@id": "#rauh5c",
+      "name": "Proto-Balto-Slavic *gárdas",
+      "x": -49,
+      "y": -374,
+      "parent": "#25f9cb"
+    },
+    {
+      "@id": "#ruwwg8",
+      "name": "PIE *gʰerdʰ-, “to enclose”",
+      "x": 175,
+      "y": -432,
+      "parent": "#25f9cb"
+    },
+    {
+      "@id": "#syrak3",
+      "name": "Slavic cousins",
+      "x": 210,
+      "y": -75,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#52s5vq",
+      "name": "Polish gród, “fortified town”",
+      "x": 301,
+      "y": -268,
+      "parent": "#syrak3"
+    },
+    {
+      "@id": "#rpgbf5",
+      "name": "Slovak hrad",
+      "x": 411,
+      "y": -146,
+      "parent": "#syrak3"
+    },
+    {
+      "@id": "#3z5spq",
+      "name": "Russian город, “city”",
+      "x": 450,
+      "y": 0,
+      "parent": "#syrak3"
+    },
+    {
+      "@id": "#dyjnc3",
+      "name": "Wider family",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y2mkmr",
+      "name": "English yard and garden",
+      "x": 411,
+      "y": 146,
+      "parent": "#dyjnc3"
+    },
+    {
+      "@id": "#bxhnt4",
+      "name": "Novgorod: “new town”",
+      "x": 301,
+      "y": 268,
+      "parent": "#dyjnc3"
+    },
+    {
+      "@id": "#ydctf8",
+      "name": "Related Czech words",
+      "x": -24,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#isxyh2",
+      "name": "hradiště: hillfort",
+      "x": 139,
+      "y": 342,
+      "parent": "#ydctf8"
+    },
+    {
+      "@id": "#rgysdh",
+      "name": "Vyšehrad: “high castle”, Prague",
+      "x": -51,
+      "y": 390,
+      "parent": "#ydctf8"
+    },
+    {
+      "@id": "#dttnpv",
+      "name": "hradní: of a castle",
+      "x": -225,
+      "y": 312,
+      "parent": "#ydctf8"
+    },
+    {
+      "@id": "#wzz57v",
+      "name": "Sources",
+      "x": -210,
+      "y": 75,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2y4hjw",
+      "name": "Wiktionary: hrad",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/hrad#Czech",
+      "parent": "#wzz57v"
+    },
+    {
+      "@id": "#dfuygp",
+      "name": "Wiktionary: Proto-Slavic *gordъ",
+      "x": -460,
+      "y": 78,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/gord%D1%8A",
+      "parent": "#wzz57v"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    }
+  ],
+  "selectedNode": 0
+}

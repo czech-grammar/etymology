@@ -1,0 +1,23 @@
+category: A1 nouns
+aliases: škola etymology, origin of škola, škola word origin, etymology of škola
+- Czech škola etymology
+  - Meaning: “school”
+    - School
+  - Word history
+    - Borrowed from Latin schola
+    - From Ancient Greek skholḗ
+    - Greek skholḗ first meant “leisure”
+  - Slavic cousins
+    - Polish szkoła
+    - Slovak škola
+    - Russian школа
+  - Wider family
+    - English school
+    - German Schule
+  - Related Czech words
+    - školka: nursery school
+    - školák: schoolboy
+    - autoškola: driving school
+  - Sources
+    - [Wiktionary: škola](https://en.wiktionary.org/wiki/%C5%A1kola#Czech)
+    - [Wiktionary: Latin schola](https://en.wiktionary.org/wiki/schola#Latin)

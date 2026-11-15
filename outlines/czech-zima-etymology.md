@@ -1,0 +1,25 @@
+category: A1 nouns
+aliases: zima etymology, origin of zima, zima word origin, etymology of zima
+- Czech zima etymology
+  - Meaning: “winter”
+    - Winter
+    - Cold
+  - Word history
+    - Old Czech zima
+    - Proto-Slavic *zima
+    - Proto-Balto-Slavic *źeimā́ˀ
+    - Proto-Indo-European *ǵʰéyōm, “winter”
+  - Slavic cousins
+    - Polish zima
+    - Slovak zima
+    - Russian зима
+  - Wider family
+    - Latin hiems
+    - Sanskrit himá, “snow”: Himalaya
+  - Related Czech words
+    - podzim: autumn, “before winter”
+    - zimní: wintry
+    - zimnice: fever, chills
+  - Sources
+    - [Wiktionary: zima](https://en.wiktionary.org/wiki/zima#Czech)
+    - [Wiktionary: Proto-Slavic *zima](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/zima)

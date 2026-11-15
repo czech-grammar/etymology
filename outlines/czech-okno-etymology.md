@@ -1,0 +1,24 @@
+category: A1 nouns
+aliases: okno etymology, origin of okno, okno word origin, etymology of okno
+- Czech okno etymology
+  - Meaning: “window”
+    - Window
+    - Colloquial: blackout
+  - Word history
+    - Old Czech okno
+    - Proto-Slavic *okъno
+    - From *oko, “eye”, + -ъno
+    - Literally an “eye” in the wall
+  - Slavic cousins
+    - Polish okno
+    - Slovak okno
+    - Russian окно
+  - Wider family
+    - Finnish akkuna, borrowed early
+    - English window: Norse “wind-eye”
+  - Related Czech words
+    - oko: eye
+    - okenní: of a window
+  - Sources
+    - [Wiktionary: okno](https://en.wiktionary.org/wiki/okno#Czech)
+    - [Wiktionary: Proto-Slavic *okъno](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/ok%D1%8Ano)

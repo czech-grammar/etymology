@@ -1,0 +1,24 @@
+category: A1 nouns
+aliases: otec etymology, origin of otec, otec word origin, etymology of otec
+- Czech otec etymology
+  - Meaning: “father”
+    - Father
+  - Word history
+    - Old Czech otec
+    - Proto-Slavic *otьcь
+    - From *otъ, “father”, + -ьcь
+    - Proto-Indo-European *átta, “daddy”
+  - Slavic cousins
+    - Polish ojciec
+    - Slovak otec
+    - Russian отец
+  - Wider family
+    - Gothic atta, “father”
+    - Latin atta, “daddy”
+  - Related Czech words
+    - otčím: stepfather
+    - praotec: forefather
+    - otčenáš: the Lord’s Prayer
+  - Sources
+    - [Wiktionary: otec](https://en.wiktionary.org/wiki/otec#Czech)
+    - [Wiktionary: Proto-Slavic *otьcь](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/ot%D1%8Cc%D1%8C)

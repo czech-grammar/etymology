@@ -1,0 +1,23 @@
+category: A1 nouns
+aliases: auto etymology, origin of auto, auto word origin, etymology of auto
+- Czech auto etymology
+  - Meaning: “car”
+    - Car
+  - Word history
+    - Short for automobil
+    - Borrowed from French automobile
+    - Greek autos, “self”
+    - Latin mobilis, “movable”
+  - Slavic cousins
+    - Polish auto
+    - Slovak auto
+  - Wider family
+    - German Auto
+    - English auto
+  - Related Czech words
+    - automobil: the full, formal word
+    - autobus: bus
+    - autoškola: driving school
+  - Sources
+    - [Wiktionary: auto](https://en.wiktionary.org/wiki/auto#Czech)
+    - [Wiktionary: automobil](https://en.wiktionary.org/wiki/automobil#Czech)

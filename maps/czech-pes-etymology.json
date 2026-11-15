@@ -1,0 +1,261 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech pes etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8csbex",
+      "name": "Meaning: “dog”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vitehx",
+      "name": "Dog",
+      "x": -441,
+      "y": -70,
+      "parent": "#8csbex"
+    },
+    {
+      "@id": "#en2nk4",
+      "name": "Also: scoundrel",
+      "x": -374,
+      "y": -200,
+      "parent": "#8csbex"
+    },
+    {
+      "@id": "#p6u7gq",
+      "name": "Word history",
+      "x": 88,
+      "y": -170,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8nv3de",
+      "name": "Old Czech pes",
+      "x": -250,
+      "y": -299,
+      "parent": "#p6u7gq"
+    },
+    {
+      "@id": "#wi3yp2",
+      "name": "Proto-Slavic *pьsъ",
+      "x": -88,
+      "y": -353,
+      "parent": "#p6u7gq"
+    },
+    {
+      "@id": "#imuunj",
+      "name": "Deeper origin uncertain",
+      "x": 100,
+      "y": -401,
+      "parent": "#p6u7gq"
+    },
+    {
+      "@id": "#vajug6",
+      "name": "Theory: “spotted”, from *peyḱ-",
+      "x": 250,
+      "y": -299,
+      "parent": "#p6u7gq"
+    },
+    {
+      "@id": "#djdkax",
+      "name": "Theory: “watchful”, from *speḱ-, “see”",
+      "x": 374,
+      "y": -200,
+      "parent": "#p6u7gq"
+    },
+    {
+      "@id": "#93r6tq",
+      "name": "Theory: “herding dog”, from *péḱu, “livestock”",
+      "x": 441,
+      "y": -70,
+      "parent": "#p6u7gq"
+    },
+    {
+      "@id": "#gcv4sw",
+      "name": "Slavic cousins",
+      "x": 191,
+      "y": 102,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#arfffn",
+      "name": "Polish pies",
+      "x": 441,
+      "y": 70,
+      "parent": "#gcv4sw"
+    },
+    {
+      "@id": "#zfw8bc",
+      "name": "Slovak pes",
+      "x": 374,
+      "y": 200,
+      "parent": "#gcv4sw"
+    },
+    {
+      "@id": "#2jkwes",
+      "name": "Russian пёс",
+      "x": 250,
+      "y": 299,
+      "parent": "#gcv4sw"
+    },
+    {
+      "@id": "#fyrm56",
+      "name": "Related Czech words",
+      "x": -45,
+      "y": 180,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9bq2tj",
+      "name": "pejsek: doggy",
+      "x": 88,
+      "y": 353,
+      "parent": "#fyrm56"
+    },
+    {
+      "@id": "#uctyht",
+      "name": "psí: dog’s, canine",
+      "x": -100,
+      "y": 401,
+      "parent": "#fyrm56"
+    },
+    {
+      "@id": "#udmnqu",
+      "name": "psovitý: of the dog family",
+      "x": -250,
+      "y": 299,
+      "parent": "#fyrm56"
+    },
+    {
+      "@id": "#9rhg29",
+      "name": "Sources",
+      "x": -212,
+      "y": 70,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bbqt83",
+      "name": "Wiktionary: pes",
+      "x": -374,
+      "y": 200,
+      "link": "https://en.wiktionary.org/wiki/pes#Czech",
+      "parent": "#9rhg29"
+    },
+    {
+      "@id": "#tx3kin",
+      "name": "Wiktionary: Proto-Slavic *pьsъ",
+      "x": -461,
+      "y": 73,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/p%D1%8Cs%D1%8A",
+      "parent": "#9rhg29"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 4,
+      "end": 9
+    },
+    {
+      "start": 4,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    }
+  ],
+  "selectedNode": 0
+}

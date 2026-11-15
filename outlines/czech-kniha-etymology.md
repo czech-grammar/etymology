@@ -1,0 +1,23 @@
+category: A1 nouns
+aliases: kniha etymology, origin of kniha, kniha word origin, etymology of kniha
+- Czech kniha etymology
+  - Meaning: “book”
+    - Book
+  - Word history
+    - Old Czech kniha
+    - Proto-Slavic *kъňiga
+    - Origin disputed
+    - Theory: Germanic, Old High German kenning
+    - Theory: Akkadian “seal”, via Armenian
+    - Theory: native, from *kъnъ, “trunk”
+  - Slavic cousins
+    - Polish księga
+    - Slovak kniha
+    - Russian книга
+  - Related Czech words
+    - knihovna: library
+    - knihkupectví: bookshop
+    - knihomol: bookworm
+  - Sources
+    - [Wiktionary: kniha](https://en.wiktionary.org/wiki/kniha#Czech)
+    - [Wiktionary: Proto-Slavic *kъňiga](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/k%D1%8A%C5%88iga)

@@ -1,0 +1,24 @@
+category: A1 nouns
+aliases: pivo etymology, origin of pivo, pivo word origin, etymology of pivo
+- Czech pivo etymology
+  - Meaning: “beer”
+    - Beer
+  - Word history
+    - Old Czech pivo
+    - Proto-Slavic *pivo
+    - From *piti, “to drink”, + -ivo
+    - Literally “a drink”
+  - Slavic cousins
+    - Polish piwo
+    - Slovak pivo
+    - Russian пиво
+  - Wider family
+    - PIE *peh₃-, “to drink”
+    - Latin pōtiō, as in potion
+  - Related Czech words
+    - pít: to drink
+    - pivovar: brewery
+    - pivař: beer lover
+  - Sources
+    - [Wiktionary: pivo](https://en.wiktionary.org/wiki/pivo#Czech)
+    - [Wiktionary: Proto-Slavic *pivo](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/pivo)

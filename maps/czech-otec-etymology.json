@@ -1,0 +1,262 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech otec etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#amtana",
+      "name": "Meaning: “father”",
+      "x": -225,
+      "y": -38,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bd7b7e",
+      "name": "Father",
+      "x": -440,
+      "y": -75,
+      "parent": "#amtana"
+    },
+    {
+      "@id": "#k7aznj",
+      "name": "Word history",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#if5psw",
+      "name": "Old Czech otec",
+      "x": -364,
+      "y": -212,
+      "parent": "#k7aznj"
+    },
+    {
+      "@id": "#yhuwzm",
+      "name": "Proto-Slavic *otьcь",
+      "x": -225,
+      "y": -312,
+      "parent": "#k7aznj"
+    },
+    {
+      "@id": "#5ug9uf",
+      "name": "From *otъ, “father”, + -ьcь",
+      "x": -49,
+      "y": -374,
+      "parent": "#k7aznj"
+    },
+    {
+      "@id": "#ka2yfh",
+      "name": "Proto-Indo-European *átta, “daddy”",
+      "x": 175,
+      "y": -432,
+      "parent": "#k7aznj"
+    },
+    {
+      "@id": "#ckwy8u",
+      "name": "Slavic cousins",
+      "x": 210,
+      "y": -75,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9tu8aj",
+      "name": "Polish ojciec",
+      "x": 301,
+      "y": -268,
+      "parent": "#ckwy8u"
+    },
+    {
+      "@id": "#pner6h",
+      "name": "Slovak otec",
+      "x": 411,
+      "y": -146,
+      "parent": "#ckwy8u"
+    },
+    {
+      "@id": "#cvkexb",
+      "name": "Russian отец",
+      "x": 450,
+      "y": 0,
+      "parent": "#ckwy8u"
+    },
+    {
+      "@id": "#uxmg9k",
+      "name": "Wider family",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#syv3u5",
+      "name": "Gothic atta, “father”",
+      "x": 411,
+      "y": 146,
+      "parent": "#uxmg9k"
+    },
+    {
+      "@id": "#yy959b",
+      "name": "Latin atta, “daddy”",
+      "x": 301,
+      "y": 268,
+      "parent": "#uxmg9k"
+    },
+    {
+      "@id": "#cztgze",
+      "name": "Related Czech words",
+      "x": -24,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hm5mz4",
+      "name": "otčím: stepfather",
+      "x": 139,
+      "y": 342,
+      "parent": "#cztgze"
+    },
+    {
+      "@id": "#zsmbzx",
+      "name": "praotec: forefather",
+      "x": -51,
+      "y": 390,
+      "parent": "#cztgze"
+    },
+    {
+      "@id": "#it2rb2",
+      "name": "otčenáš: the Lord’s Prayer",
+      "x": -225,
+      "y": 312,
+      "parent": "#cztgze"
+    },
+    {
+      "@id": "#u4fzjv",
+      "name": "Sources",
+      "x": -210,
+      "y": 75,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9593pm",
+      "name": "Wiktionary: otec",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/otec#Czech",
+      "parent": "#u4fzjv"
+    },
+    {
+      "@id": "#6asjra",
+      "name": "Wiktionary: Proto-Slavic *otьcь",
+      "x": -460,
+      "y": 78,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/ot%D1%8Cc%D1%8C",
+      "parent": "#u4fzjv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    }
+  ],
+  "selectedNode": 0
+}

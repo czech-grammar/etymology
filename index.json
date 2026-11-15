@@ -1,0 +1,409 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "name": "A1 nouns",
+      "maps": 22
+    }
+  ],
+  "maps": [
+    {
+      "topic": "Czech auto etymology",
+      "slug": "czech-auto-etymology",
+      "category": "A1 nouns",
+      "aliases": [
+        "auto-etymology",
+        "origin-of-auto",
+        "auto-word-origin",
+        "etymology-of-auto"
+      ],
+      "file": "maps/czech-auto-etymology.json",
+      "nodes": 21
+    },
+    {
+      "topic": "Czech den etymology",
+      "slug": "czech-den-etymology",
+      "category": "A1 nouns",
+      "aliases": [
+        "den-etymology",
+        "origin-of-den",
+        "den-word-origin",
+        "etymology-of-den"
+      ],
+      "file": "maps/czech-den-etymology.json",
+      "nodes": 23
+    },
+    {
+      "topic": "Czech dům etymology",
+      "slug": "czech-dum-etymology",
+      "category": "A1 nouns",
+      "aliases": [
+        "dum-etymology",
+        "origin-of-dum",
+        "dum-word-origin",
+        "etymology-of-dum"
+      ],
+      "file": "maps/czech-dum-etymology.json",
+      "nodes": 23
+    },
+    {
+      "topic": "Czech hrad etymology",
+      "slug": "czech-hrad-etymology",
+      "category": "A1 nouns",
+      "aliases": [
+        "hrad-etymology",
+        "origin-of-hrad",
+        "hrad-word-origin",
+        "etymology-of-hrad"
+      ],
+      "file": "maps/czech-hrad-etymology.json",
+      "nodes": 22
+    },
+    {
+      "topic": "Czech kniha etymology",
+      "slug": "czech-kniha-etymology",
+      "category": "A1 nouns",
+      "aliases": [
+        "kniha-etymology",
+        "origin-of-kniha",
+        "kniha-word-origin",
+        "etymology-of-kniha"
+      ],
+      "file": "maps/czech-kniha-etymology.json",
+      "nodes": 21
+    },
+    {
+      "topic": "Czech kočka etymology",
+      "slug": "czech-kocka-etymology",
+      "category": "A1 nouns",
+      "aliases": [
+        "kocka-etymology",
+        "origin-of-kocka",
+        "kocka-word-origin",
+        "etymology-of-kocka"
+      ],
+      "file": "maps/czech-kocka-etymology.json",
+      "nodes": 17
+    },
+    {
+      "topic": "Czech matka etymology",
+      "slug": "czech-matka-etymology",
+      "category": "A1 nouns",
+      "aliases": [
+        "matka-etymology",
+        "origin-of-matka",
+        "matka-word-origin",
+        "etymology-of-matka"
+      ],
+      "file": "maps/czech-matka-etymology.json",
+      "nodes": 23
+    },
+    {
+      "topic": "Czech město etymology",
+      "slug": "czech-mesto-etymology",
+      "category": "A1 nouns",
+      "aliases": [
+        "mesto-etymology",
+        "origin-of-mesto",
+        "mesto-word-origin",
+        "etymology-of-mesto"
+      ],
+      "file": "maps/czech-mesto-etymology.json",
+      "nodes": 19
+    },
+    {
+      "topic": "Czech mléko etymology",
+      "slug": "czech-mleko-etymology",
+      "category": "A1 nouns",
+      "aliases": [
+        "mleko-etymology",
+        "origin-of-mleko",
+        "mleko-word-origin",
+        "etymology-of-mleko"
+      ],
+      "file": "maps/czech-mleko-etymology.json",
+      "nodes": 23
+    },
+    {
+      "topic": "Czech muž etymology",
+      "slug": "czech-muz-etymology",
+      "category": "A1 nouns",
+      "aliases": [
+        "muz-etymology",
+        "origin-of-muz",
+        "muz-word-origin",
+        "etymology-of-muz"
+      ],
+      "file": "maps/czech-muz-etymology.json",
+      "nodes": 23
+    },
+    {
+      "topic": "Czech okno etymology",
+      "slug": "czech-okno-etymology",
+      "category": "A1 nouns",
+      "aliases": [
+        "okno-etymology",
+        "origin-of-okno",
+        "okno-word-origin",
+        "etymology-of-okno"
+      ],
+      "file": "maps/czech-okno-etymology.json",
+      "nodes": 22
+    },
+    {
+      "topic": "Czech oko etymology",
+      "slug": "czech-oko-etymology",
+      "category": "A1 nouns",
+      "aliases": [
+        "oko-etymology",
+        "origin-of-oko",
+        "oko-word-origin",
+        "etymology-of-oko"
+      ],
+      "file": "maps/czech-oko-etymology.json",
+      "nodes": 22
+    },
+    {
+      "topic": "Czech otec etymology",
+      "slug": "czech-otec-etymology",
+      "category": "A1 nouns",
+      "aliases": [
+        "otec-etymology",
+        "origin-of-otec",
+        "otec-word-origin",
+        "etymology-of-otec"
+      ],
+      "file": "maps/czech-otec-etymology.json",
+      "nodes": 22
+    },
+    {
+      "topic": "Czech pes etymology",
+      "slug": "czech-pes-etymology",
+      "category": "A1 nouns",
+      "aliases": [
+        "pes-etymology",
+        "origin-of-pes",
+        "pes-word-origin",
+        "etymology-of-pes"
+      ],
+      "file": "maps/czech-pes-etymology.json",
+      "nodes": 22
+    },
+    {
+      "topic": "Czech pivo etymology",
+      "slug": "czech-pivo-etymology",
+      "category": "A1 nouns",
+      "aliases": [
+        "pivo-etymology",
+        "origin-of-pivo",
+        "pivo-word-origin",
+        "etymology-of-pivo"
+      ],
+      "file": "maps/czech-pivo-etymology.json",
+      "nodes": 22
+    },
+    {
+      "topic": "Czech ruka etymology",
+      "slug": "czech-ruka-etymology",
+      "category": "A1 nouns",
+      "aliases": [
+        "ruka-etymology",
+        "origin-of-ruka",
+        "ruka-word-origin",
+        "etymology-of-ruka"
+      ],
+      "file": "maps/czech-ruka-etymology.json",
+      "nodes": 21
+    },
+    {
+      "topic": "Czech škola etymology",
+      "slug": "czech-skola-etymology",
+      "category": "A1 nouns",
+      "aliases": [
+        "skola-etymology",
+        "origin-of-skola",
+        "skola-word-origin",
+        "etymology-of-skola"
+      ],
+      "file": "maps/czech-skola-etymology.json",
+      "nodes": 21
+    },
+    {
+      "topic": "Czech slunce etymology",
+      "slug": "czech-slunce-etymology",
+      "category": "A1 nouns",
+      "aliases": [
+        "slunce-etymology",
+        "origin-of-slunce",
+        "slunce-word-origin",
+        "etymology-of-slunce"
+      ],
+      "file": "maps/czech-slunce-etymology.json",
+      "nodes": 23
+    },
+    {
+      "topic": "Czech stůl etymology",
+      "slug": "czech-stul-etymology",
+      "category": "A1 nouns",
+      "aliases": [
+        "stul-etymology",
+        "origin-of-stul",
+        "stul-word-origin",
+        "etymology-of-stul"
+      ],
+      "file": "maps/czech-stul-etymology.json",
+      "nodes": 22
+    },
+    {
+      "topic": "Czech voda etymology",
+      "slug": "czech-voda-etymology",
+      "category": "A1 nouns",
+      "aliases": [
+        "voda-etymology",
+        "origin-of-voda",
+        "voda-word-origin",
+        "etymology-of-voda"
+      ],
+      "file": "maps/czech-voda-etymology.json",
+      "nodes": 22
+    },
+    {
+      "topic": "Czech žena etymology",
+      "slug": "czech-zena-etymology",
+      "category": "A1 nouns",
+      "aliases": [
+        "zena-etymology",
+        "origin-of-zena",
+        "zena-word-origin",
+        "etymology-of-zena"
+      ],
+      "file": "maps/czech-zena-etymology.json",
+      "nodes": 23
+    },
+    {
+      "topic": "Czech zima etymology",
+      "slug": "czech-zima-etymology",
+      "category": "A1 nouns",
+      "aliases": [
+        "zima-etymology",
+        "origin-of-zima",
+        "zima-word-origin",
+        "etymology-of-zima"
+      ],
+      "file": "maps/czech-zima-etymology.json",
+      "nodes": 23
+    }
+  ],
+  "lookup": {
+    "auto-etymology": "maps/czech-auto-etymology.json",
+    "auto-word-origin": "maps/czech-auto-etymology.json",
+    "czech-auto-etymology": "maps/czech-auto-etymology.json",
+    "czech-den-etymology": "maps/czech-den-etymology.json",
+    "czech-dum-etymology": "maps/czech-dum-etymology.json",
+    "czech-hrad-etymology": "maps/czech-hrad-etymology.json",
+    "czech-kniha-etymology": "maps/czech-kniha-etymology.json",
+    "czech-kocka-etymology": "maps/czech-kocka-etymology.json",
+    "czech-matka-etymology": "maps/czech-matka-etymology.json",
+    "czech-mesto-etymology": "maps/czech-mesto-etymology.json",
+    "czech-mleko-etymology": "maps/czech-mleko-etymology.json",
+    "czech-muz-etymology": "maps/czech-muz-etymology.json",
+    "czech-okno-etymology": "maps/czech-okno-etymology.json",
+    "czech-oko-etymology": "maps/czech-oko-etymology.json",
+    "czech-otec-etymology": "maps/czech-otec-etymology.json",
+    "czech-pes-etymology": "maps/czech-pes-etymology.json",
+    "czech-pivo-etymology": "maps/czech-pivo-etymology.json",
+    "czech-ruka-etymology": "maps/czech-ruka-etymology.json",
+    "czech-skola-etymology": "maps/czech-skola-etymology.json",
+    "czech-slunce-etymology": "maps/czech-slunce-etymology.json",
+    "czech-stul-etymology": "maps/czech-stul-etymology.json",
+    "czech-voda-etymology": "maps/czech-voda-etymology.json",
+    "czech-zena-etymology": "maps/czech-zena-etymology.json",
+    "czech-zima-etymology": "maps/czech-zima-etymology.json",
+    "den-etymology": "maps/czech-den-etymology.json",
+    "den-word-origin": "maps/czech-den-etymology.json",
+    "dum-etymology": "maps/czech-dum-etymology.json",
+    "dum-word-origin": "maps/czech-dum-etymology.json",
+    "etymology-of-auto": "maps/czech-auto-etymology.json",
+    "etymology-of-den": "maps/czech-den-etymology.json",
+    "etymology-of-dum": "maps/czech-dum-etymology.json",
+    "etymology-of-hrad": "maps/czech-hrad-etymology.json",
+    "etymology-of-kniha": "maps/czech-kniha-etymology.json",
+    "etymology-of-kocka": "maps/czech-kocka-etymology.json",
+    "etymology-of-matka": "maps/czech-matka-etymology.json",
+    "etymology-of-mesto": "maps/czech-mesto-etymology.json",
+    "etymology-of-mleko": "maps/czech-mleko-etymology.json",
+    "etymology-of-muz": "maps/czech-muz-etymology.json",
+    "etymology-of-okno": "maps/czech-okno-etymology.json",
+    "etymology-of-oko": "maps/czech-oko-etymology.json",
+    "etymology-of-otec": "maps/czech-otec-etymology.json",
+    "etymology-of-pes": "maps/czech-pes-etymology.json",
+    "etymology-of-pivo": "maps/czech-pivo-etymology.json",
+    "etymology-of-ruka": "maps/czech-ruka-etymology.json",
+    "etymology-of-skola": "maps/czech-skola-etymology.json",
+    "etymology-of-slunce": "maps/czech-slunce-etymology.json",
+    "etymology-of-stul": "maps/czech-stul-etymology.json",
+    "etymology-of-voda": "maps/czech-voda-etymology.json",
+    "etymology-of-zena": "maps/czech-zena-etymology.json",
+    "etymology-of-zima": "maps/czech-zima-etymology.json",
+    "hrad-etymology": "maps/czech-hrad-etymology.json",
+    "hrad-word-origin": "maps/czech-hrad-etymology.json",
+    "kniha-etymology": "maps/czech-kniha-etymology.json",
+    "kniha-word-origin": "maps/czech-kniha-etymology.json",
+    "kocka-etymology": "maps/czech-kocka-etymology.json",
+    "kocka-word-origin": "maps/czech-kocka-etymology.json",
+    "matka-etymology": "maps/czech-matka-etymology.json",
+    "matka-word-origin": "maps/czech-matka-etymology.json",
+    "mesto-etymology": "maps/czech-mesto-etymology.json",
+    "mesto-word-origin": "maps/czech-mesto-etymology.json",
+    "mleko-etymology": "maps/czech-mleko-etymology.json",
+    "mleko-word-origin": "maps/czech-mleko-etymology.json",
+    "muz-etymology": "maps/czech-muz-etymology.json",
+    "muz-word-origin": "maps/czech-muz-etymology.json",
+    "okno-etymology": "maps/czech-okno-etymology.json",
+    "okno-word-origin": "maps/czech-okno-etymology.json",
+    "oko-etymology": "maps/czech-oko-etymology.json",
+    "oko-word-origin": "maps/czech-oko-etymology.json",
+    "origin-of-auto": "maps/czech-auto-etymology.json",
+    "origin-of-den": "maps/czech-den-etymology.json",
+    "origin-of-dum": "maps/czech-dum-etymology.json",
+    "origin-of-hrad": "maps/czech-hrad-etymology.json",
+    "origin-of-kniha": "maps/czech-kniha-etymology.json",
+    "origin-of-kocka": "maps/czech-kocka-etymology.json",
+    "origin-of-matka": "maps/czech-matka-etymology.json",
+    "origin-of-mesto": "maps/czech-mesto-etymology.json",
+    "origin-of-mleko": "maps/czech-mleko-etymology.json",
+    "origin-of-muz": "maps/czech-muz-etymology.json",
+    "origin-of-okno": "maps/czech-okno-etymology.json",
+    "origin-of-oko": "maps/czech-oko-etymology.json",
+    "origin-of-otec": "maps/czech-otec-etymology.json",
+    "origin-of-pes": "maps/czech-pes-etymology.json",
+    "origin-of-pivo": "maps/czech-pivo-etymology.json",
+    "origin-of-ruka": "maps/czech-ruka-etymology.json",
+    "origin-of-skola": "maps/czech-skola-etymology.json",
+    "origin-of-slunce": "maps/czech-slunce-etymology.json",
+    "origin-of-stul": "maps/czech-stul-etymology.json",
+    "origin-of-voda": "maps/czech-voda-etymology.json",
+    "origin-of-zena": "maps/czech-zena-etymology.json",
+    "origin-of-zima": "maps/czech-zima-etymology.json",
+    "otec-etymology": "maps/czech-otec-etymology.json",
+    "otec-word-origin": "maps/czech-otec-etymology.json",
+    "pes-etymology": "maps/czech-pes-etymology.json",
+    "pes-word-origin": "maps/czech-pes-etymology.json",
+    "pivo-etymology": "maps/czech-pivo-etymology.json",
+    "pivo-word-origin": "maps/czech-pivo-etymology.json",
+    "ruka-etymology": "maps/czech-ruka-etymology.json",
+    "ruka-word-origin": "maps/czech-ruka-etymology.json",
+    "skola-etymology": "maps/czech-skola-etymology.json",
+    "skola-word-origin": "maps/czech-skola-etymology.json",
+    "slunce-etymology": "maps/czech-slunce-etymology.json",
+    "slunce-word-origin": "maps/czech-slunce-etymology.json",
+    "stul-etymology": "maps/czech-stul-etymology.json",
+    "stul-word-origin": "maps/czech-stul-etymology.json",
+    "voda-etymology": "maps/czech-voda-etymology.json",
+    "voda-word-origin": "maps/czech-voda-etymology.json",
+    "zena-etymology": "maps/czech-zena-etymology.json",
+    "zena-word-origin": "maps/czech-zena-etymology.json",
+    "zima-etymology": "maps/czech-zima-etymology.json",
+    "zima-word-origin": "maps/czech-zima-etymology.json"
+  }
+}

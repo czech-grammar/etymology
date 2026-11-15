@@ -1,0 +1,25 @@
+category: A1 nouns
+aliases: dům etymology, origin of dům, dům word origin, etymology of dům
+- Czech dům etymology
+  - Meaning: “house”
+    - House, building
+    - Home
+  - Word history
+    - Old Czech dóm
+    - Proto-Slavic *domъ
+    - Proto-Balto-Slavic *damús, “house”
+    - Proto-Indo-European *dṓm, “home, house”
+  - Slavic cousins
+    - Polish dom
+    - Slovak dom
+    - Russian дом
+  - Wider family
+    - Latin domus, “house”
+    - English domestic, via Latin
+  - Related Czech words
+    - domov: home
+    - domácnost: household
+    - domovina: homeland
+  - Sources
+    - [Wiktionary: dům](https://en.wiktionary.org/wiki/d%C5%AFm#Czech)
+    - [Wiktionary: Proto-Slavic *domъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/dom%D1%8A)

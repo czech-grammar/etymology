@@ -1,0 +1,24 @@
+category: A1 nouns
+aliases: oko etymology, origin of oko, oko word origin, etymology of oko
+- Czech oko etymology
+  - Meaning: “eye”
+    - Eye
+  - Word history
+    - Old Czech oko
+    - Proto-Slavic *oko
+    - Proto-Balto-Slavic *ak-
+    - Proto-Indo-European *h₃ókʷs, “eye”
+  - Slavic cousins
+    - Polish oko
+    - Slovak oko
+    - Russian око (archaic)
+  - Wider family
+    - Latin oculus, as in ocular
+    - English eye
+  - Related Czech words
+    - okamžik: moment
+    - oční: of the eye
+    - okno: window, built on oko
+  - Sources
+    - [Wiktionary: oko](https://en.wiktionary.org/wiki/oko#Czech)
+    - [Wiktionary: Proto-Slavic *oko](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/oko)

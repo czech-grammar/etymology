@@ -1,0 +1,262 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech oko etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#m64rvm",
+      "name": "Meaning: “eye”",
+      "x": -225,
+      "y": -38,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#crhxph",
+      "name": "Eye",
+      "x": -440,
+      "y": -75,
+      "parent": "#m64rvm"
+    },
+    {
+      "@id": "#mn546d",
+      "name": "Word history",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z267ep",
+      "name": "Old Czech oko",
+      "x": -364,
+      "y": -212,
+      "parent": "#mn546d"
+    },
+    {
+      "@id": "#6edebp",
+      "name": "Proto-Slavic *oko",
+      "x": -225,
+      "y": -312,
+      "parent": "#mn546d"
+    },
+    {
+      "@id": "#azudeh",
+      "name": "Proto-Balto-Slavic *ak-",
+      "x": -49,
+      "y": -374,
+      "parent": "#mn546d"
+    },
+    {
+      "@id": "#r2z6b7",
+      "name": "Proto-Indo-European *h₃ókʷs, “eye”",
+      "x": 175,
+      "y": -432,
+      "parent": "#mn546d"
+    },
+    {
+      "@id": "#84k3gb",
+      "name": "Slavic cousins",
+      "x": 210,
+      "y": -75,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t5k5h2",
+      "name": "Polish oko",
+      "x": 301,
+      "y": -268,
+      "parent": "#84k3gb"
+    },
+    {
+      "@id": "#3m4aty",
+      "name": "Slovak oko",
+      "x": 411,
+      "y": -146,
+      "parent": "#84k3gb"
+    },
+    {
+      "@id": "#m72apt",
+      "name": "Russian око (archaic)",
+      "x": 450,
+      "y": 0,
+      "parent": "#84k3gb"
+    },
+    {
+      "@id": "#hdbk52",
+      "name": "Wider family",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#22v9z2",
+      "name": "Latin oculus, as in ocular",
+      "x": 429,
+      "y": 152,
+      "parent": "#hdbk52"
+    },
+    {
+      "@id": "#33tptz",
+      "name": "English eye",
+      "x": 301,
+      "y": 268,
+      "parent": "#hdbk52"
+    },
+    {
+      "@id": "#cii96v",
+      "name": "Related Czech words",
+      "x": -24,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dvbpux",
+      "name": "okamžik: moment",
+      "x": 139,
+      "y": 342,
+      "parent": "#cii96v"
+    },
+    {
+      "@id": "#hiht69",
+      "name": "oční: of the eye",
+      "x": -51,
+      "y": 390,
+      "parent": "#cii96v"
+    },
+    {
+      "@id": "#ypgkpm",
+      "name": "okno: window, built on oko",
+      "x": -225,
+      "y": 312,
+      "parent": "#cii96v"
+    },
+    {
+      "@id": "#3hjjxp",
+      "name": "Sources",
+      "x": -210,
+      "y": 75,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aytqnp",
+      "name": "Wiktionary: oko",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/oko#Czech",
+      "parent": "#3hjjxp"
+    },
+    {
+      "@id": "#xf588h",
+      "name": "Wiktionary: Proto-Slavic *oko",
+      "x": -440,
+      "y": 75,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/oko",
+      "parent": "#3hjjxp"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,25 @@
+category: A1 nouns
+aliases: muž etymology, origin of muž, muž word origin, etymology of muž
+- Czech muž etymology
+  - Meaning: “man”
+    - Man
+    - Also: husband
+  - Word history
+    - Old Czech muž
+    - Proto-Slavic *mǫžь
+    - Proto-Balto-Slavic *mangjás
+    - Proto-Indo-European *mon-gʷ-yó-s
+    - Replaced an older Slavic *virъ
+  - Slavic cousins
+    - Polish mąż, “husband”
+    - Slovak muž
+    - Russian муж, “husband”
+  - Wider family
+    - From PIE *mon-, “man”
+  - Related Czech words
+    - mužský: male, masculine
+    - mužstvo: team
+    - zmužilý: brave
+  - Sources
+    - [Wiktionary: muž](https://en.wiktionary.org/wiki/mu%C5%BE#Czech)
+    - [Wiktionary: Proto-Slavic *mǫžь](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/m%C7%AB%C5%BE%D1%8C)

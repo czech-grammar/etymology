@@ -1,0 +1,24 @@
+category: A1 nouns
+aliases: voda etymology, origin of voda, voda word origin, etymology of voda
+- Czech voda etymology
+  - Meaning: “water”
+    - Water
+  - Word history
+    - Old Czech voda
+    - Proto-Slavic *voda
+    - Proto-Balto-Slavic *wandō
+    - Proto-Indo-European *wódr̥, “water”
+  - Slavic cousins
+    - Polish woda
+    - Slovak voda
+    - Russian вода
+  - Wider family
+    - English water
+    - Greek hýdōr, as in hydro-
+  - Related Czech words
+    - vodník: water goblin
+    - povodeň: flood
+    - vodka: “little water”, via Russian
+  - Sources
+    - [Wiktionary: voda](https://en.wiktionary.org/wiki/voda#Czech)
+    - [Wiktionary: Proto-Slavic *voda](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/voda)

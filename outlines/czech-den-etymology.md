@@ -1,0 +1,25 @@
+category: A1 nouns
+aliases: den etymology, origin of den, den word origin, etymology of den
+- Czech den etymology
+  - Meaning: “day”
+    - Day
+  - Word history
+    - Old Czech den
+    - Proto-Slavic *dьnь
+    - Proto-Balto-Slavic *dein-
+    - PIE root *dey-, “to shine”
+  - Slavic cousins
+    - Polish dzień
+    - Slovak deň
+    - Russian день
+  - Wider family
+    - Lithuanian diena
+    - Sanskrit dina, “day”
+    - Latin diēs, from the same root
+  - Related Czech words
+    - dnes: today
+    - denní: daily
+    - deník: diary, daily paper
+  - Sources
+    - [Wiktionary: den](https://en.wiktionary.org/wiki/den#Czech)
+    - [Wiktionary: Proto-Slavic *dьnь](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/d%D1%8Cn%D1%8C)

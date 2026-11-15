@@ -1,0 +1,23 @@
+category: A1 nouns
+aliases: ruka etymology, origin of ruka, ruka word origin, etymology of ruka
+- Czech ruka etymology
+  - Meaning: “hand”
+    - Hand
+    - Arm
+  - Word history
+    - Old Czech ruka
+    - Proto-Slavic *rǫka
+    - Proto-Balto-Slavic *ránkāˀ
+  - Slavic cousins
+    - Polish ręka
+    - Slovak ruka
+    - Russian рука
+  - Wider family
+    - Lithuanian ranka, “hand”
+  - Related Czech words
+    - rukavice: glove
+    - rukáv: sleeve
+    - příručka: handbook
+  - Sources
+    - [Wiktionary: ruka](https://en.wiktionary.org/wiki/ruka#Czech)
+    - [Wiktionary: Proto-Slavic *rǫka](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/r%C7%ABka)

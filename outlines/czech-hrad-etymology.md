@@ -1,0 +1,24 @@
+category: A1 nouns
+aliases: hrad etymology, origin of hrad, hrad word origin, etymology of hrad
+- Czech hrad etymology
+  - Meaning: “castle”
+    - Castle
+  - Word history
+    - Old Czech hrad
+    - Proto-Slavic *gordъ, “enclosure, fort”
+    - Proto-Balto-Slavic *gárdas
+    - PIE *gʰerdʰ-, “to enclose”
+  - Slavic cousins
+    - Polish gród, “fortified town”
+    - Slovak hrad
+    - Russian город, “city”
+  - Wider family
+    - English yard and garden
+    - Novgorod: “new town”
+  - Related Czech words
+    - hradiště: hillfort
+    - Vyšehrad: “high castle”, Prague
+    - hradní: of a castle
+  - Sources
+    - [Wiktionary: hrad](https://en.wiktionary.org/wiki/hrad#Czech)
+    - [Wiktionary: Proto-Slavic *gordъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/gord%D1%8A)

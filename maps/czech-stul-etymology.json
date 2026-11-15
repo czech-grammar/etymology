@@ -1,0 +1,262 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech stůl etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#v429tk",
+      "name": "Meaning: “table”",
+      "x": -225,
+      "y": -38,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tnijyk",
+      "name": "Table",
+      "x": -440,
+      "y": -75,
+      "parent": "#v429tk"
+    },
+    {
+      "@id": "#e4j6sb",
+      "name": "Word history",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tcium9",
+      "name": "Old Czech stól",
+      "x": -364,
+      "y": -212,
+      "parent": "#e4j6sb"
+    },
+    {
+      "@id": "#5wwkyc",
+      "name": "Proto-Slavic *stolъ",
+      "x": -225,
+      "y": -312,
+      "parent": "#e4j6sb"
+    },
+    {
+      "@id": "#ejmi84",
+      "name": "Proto-Balto-Slavic *stálan, “table, seat”",
+      "x": -49,
+      "y": -374,
+      "parent": "#e4j6sb"
+    },
+    {
+      "@id": "#36yp2v",
+      "name": "Probably from *stati, “to stand”",
+      "x": 175,
+      "y": -432,
+      "parent": "#e4j6sb"
+    },
+    {
+      "@id": "#qk9zij",
+      "name": "Slavic cousins",
+      "x": 210,
+      "y": -75,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qu5nym",
+      "name": "Polish stół",
+      "x": 301,
+      "y": -268,
+      "parent": "#qk9zij"
+    },
+    {
+      "@id": "#dhg56r",
+      "name": "Slovak stôl",
+      "x": 411,
+      "y": -146,
+      "parent": "#qk9zij"
+    },
+    {
+      "@id": "#533u43",
+      "name": "Russian стол",
+      "x": 450,
+      "y": 0,
+      "parent": "#qk9zij"
+    },
+    {
+      "@id": "#2njhir",
+      "name": "Wider family",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n2xg7j",
+      "name": "Russian стул, “chair”: Germanic loan",
+      "x": 447,
+      "y": 158,
+      "parent": "#2njhir"
+    },
+    {
+      "@id": "#d8u4x3",
+      "name": "Like English stool",
+      "x": 301,
+      "y": 268,
+      "parent": "#2njhir"
+    },
+    {
+      "@id": "#68igqg",
+      "name": "Related Czech words",
+      "x": -24,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c52tcx",
+      "name": "stolek: small table",
+      "x": 139,
+      "y": 342,
+      "parent": "#68igqg"
+    },
+    {
+      "@id": "#p2u5pt",
+      "name": "stolice: stool, seat",
+      "x": -51,
+      "y": 390,
+      "parent": "#68igqg"
+    },
+    {
+      "@id": "#5rddje",
+      "name": "stolovat: to dine",
+      "x": -225,
+      "y": 312,
+      "parent": "#68igqg"
+    },
+    {
+      "@id": "#c6evkk",
+      "name": "Sources",
+      "x": -210,
+      "y": 75,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#giityq",
+      "name": "Wiktionary: stůl",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/st%C5%AFl#Czech",
+      "parent": "#c6evkk"
+    },
+    {
+      "@id": "#duq5hh",
+      "name": "Wiktionary: Proto-Slavic *stolъ",
+      "x": -460,
+      "y": 78,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/stol%D1%8A",
+      "parent": "#c6evkk"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    }
+  ],
+  "selectedNode": 0
+}

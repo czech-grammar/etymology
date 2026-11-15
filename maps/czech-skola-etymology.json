@@ -1,0 +1,251 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech škola etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#y5nm2u",
+      "name": "Meaning: “school”",
+      "x": -243,
+      "y": -45,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#urqvzn",
+      "name": "School",
+      "x": -439,
+      "y": -80,
+      "parent": "#y5nm2u"
+    },
+    {
+      "@id": "#vqfbii",
+      "name": "Word history",
+      "x": -100,
+      "y": -166,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mrp7ic",
+      "name": "Borrowed from Latin schola",
+      "x": -352,
+      "y": -224,
+      "parent": "#vqfbii"
+    },
+    {
+      "@id": "#7gqqkv",
+      "name": "From Ancient Greek skholḗ",
+      "x": -195,
+      "y": -324,
+      "parent": "#vqfbii"
+    },
+    {
+      "@id": "#8cdgwq",
+      "name": "Greek skholḗ first meant “leisure”",
+      "x": 0,
+      "y": -376,
+      "parent": "#vqfbii"
+    },
+    {
+      "@id": "#asrmr2",
+      "name": "Slavic cousins",
+      "x": 180,
+      "y": -115,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ih4b5p",
+      "name": "Polish szkoła",
+      "x": 195,
+      "y": -324,
+      "parent": "#asrmr2"
+    },
+    {
+      "@id": "#erfigf",
+      "name": "Slovak škola",
+      "x": 352,
+      "y": -224,
+      "parent": "#asrmr2"
+    },
+    {
+      "@id": "#vcndkx",
+      "name": "Russian школа",
+      "x": 439,
+      "y": -80,
+      "parent": "#asrmr2"
+    },
+    {
+      "@id": "#kchbte",
+      "name": "Wider family",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#65pc7b",
+      "name": "English school",
+      "x": 439,
+      "y": 80,
+      "parent": "#kchbte"
+    },
+    {
+      "@id": "#wh8brf",
+      "name": "German Schule",
+      "x": 352,
+      "y": 224,
+      "parent": "#kchbte"
+    },
+    {
+      "@id": "#qhei3b",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xmrfhd",
+      "name": "školka: nursery school",
+      "x": 195,
+      "y": 324,
+      "parent": "#qhei3b"
+    },
+    {
+      "@id": "#p3tnck",
+      "name": "školák: schoolboy",
+      "x": 0,
+      "y": 376,
+      "parent": "#qhei3b"
+    },
+    {
+      "@id": "#dvs4nb",
+      "name": "autoškola: driving school",
+      "x": -195,
+      "y": 324,
+      "parent": "#qhei3b"
+    },
+    {
+      "@id": "#pk9ebu",
+      "name": "Sources",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ecu2pp",
+      "name": "Wiktionary: škola",
+      "x": -352,
+      "y": 224,
+      "link": "https://en.wiktionary.org/wiki/%C5%A1kola#Czech",
+      "parent": "#pk9ebu"
+    },
+    {
+      "@id": "#tiki7n",
+      "name": "Wiktionary: Latin schola",
+      "x": -439,
+      "y": 80,
+      "link": "https://en.wiktionary.org/wiki/schola#Latin",
+      "parent": "#pk9ebu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    }
+  ],
+  "selectedNode": 0
+}
