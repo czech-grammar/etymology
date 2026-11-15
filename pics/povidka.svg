@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M6 22 Q32 16 58 24 L58 92 Q32 84 6 90 Z" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M110 22 Q84 16 58 24 L58 92 Q84 84 110 90 Z" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M58 24 V92" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M28 34 H50" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+    <path d="M28 44 H50 M28 52 H50 M28 60 H50 M28 68 H50 M28 76 H44" stroke="#9aa0a8" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M66 34 H86 M66 42 H86 M66 50 H80" stroke="#9aa0a8" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="76" y="64" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="7" fill="#333">KONEC</text>
+    <path d="M92 18 V70 L98 64 L104 70 V18 Z" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M10 4 Q2 26 16 48 Q24 30 10 4 Z" fill="#ddd" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M11 12 L15 38" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M16 48 L24 66" stroke="#333" stroke-width="3" stroke-linecap="round"/></svg>

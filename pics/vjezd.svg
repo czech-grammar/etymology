@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="6" y="4" width="56" height="16" rx="3" fill="#3f9d55" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="34" y="16" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="11" fill="#fff">VJEZD</text>
+    <path d="M4 96 H116" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+    <rect x="96" y="60" width="10" height="36" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M101 62 L113 14" stroke="#333" stroke-width="8" stroke-linecap="round"/>
+    <path d="M101 62 L113 14" stroke="#fff" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M103 54 L111 22" stroke="#e63946" stroke-width="4.5" stroke-dasharray="7 7"/>
+    <path d="M52 42 H78" stroke="#3f9d55" stroke-width="6" stroke-linecap="round"/>
+    <path d="M76 32 L92 42 L76 52 Z" fill="#3f9d55" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M18 74 L28 58 H60 L74 74 Z" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="6" y="72" width="80" height="18" rx="4" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M24 72 L32 61 H46 V72 Z" fill="#bde0fe" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M50 61 H60 L70 72 H50 Z" fill="#bde0fe" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="80" y="76" width="5" height="6" rx="1" fill="#f9c74f"/>
+    <circle cx="24" cy="90" r="7" fill="#333" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="24" cy="90" r="2.5" fill="#9aa0a8"/>
+    <circle cx="68" cy="90" r="7" fill="#333" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="68" cy="90" r="2.5" fill="#9aa0a8"/></svg>

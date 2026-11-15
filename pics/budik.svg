@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M4 58 Q6 50 14 52 Q26 48 36 54 V86 Q26 90 14 86 Q6 88 4 80 Z" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M10 62 Q12 70 10 78 M18 60 Q20 70 18 80" fill="none" stroke="#bde0fe" stroke-width="2.5" stroke-linecap="round"/>
+    <rect x="46" y="86" width="12" height="6" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="86" y="86" width="12" height="6" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="60" y="24" width="24" height="10" rx="3" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="40" y="32" width="64" height="56" rx="8" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="46" y="42" width="52" height="30" rx="3" fill="#1d2a5a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="72" y="64" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="18" fill="#6cc06a">6:30</text>
+    <path d="M108 42 q6 12 0 24 M114 36 q9 18 0 36" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="72" cy="80" r="3" fill="#333"/></svg>

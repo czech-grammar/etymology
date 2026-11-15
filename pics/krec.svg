@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="4" y="74" width="112" height="22" fill="#c0392b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M4 85 H116" stroke="#fff" stroke-width="2.5"/>
+    <path d="M46 68 L72 68 L100 70" fill="none" stroke="#333" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M46 68 L72 68 L100 70" fill="none" stroke="#ffd8b8" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M46 68 H62" stroke="#1d2a5a" stroke-width="11" stroke-linecap="round"/>
+    <ellipse cx="106" cy="71" rx="9" ry="5" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M32 42 H50 L54 74 H28 Z" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M36 46 L82 62 M48 46 L88 70" fill="none" stroke="#333" stroke-width="8" stroke-linecap="round"/>
+    <path d="M36 46 L82 62 M48 46 L88 70" fill="none" stroke="#ffd8b8" stroke-width="4.5" stroke-linecap="round"/>
+    <circle cx="82" cy="61" r="4.5" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="88" cy="71" r="4.5" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="41" cy="30" r="10" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M31 30 Q31 20 41 20 Q51 20 51 30 Q46 25 31 30 Z" fill="#3b2a1a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M35 30 L39 32 L35 34 M47 30 L43 32 L47 34" fill="none" stroke="#333" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="41" cy="37" rx="2.5" ry="2" fill="#333"/>
+    <path d="M25 20 Q22 12 19 20 Q22 24 25 20 Z" fill="#4fa3e3"/>
+    <path d="M22 30 Q18 26 16 30 Q18 34 22 30 Z" fill="#4fa3e3"/>
+    <path d="M84 52 L88 44 M94 54 L102 50 M104 62 L112 60 M74 54 L68 48" stroke="#e63946" stroke-width="2.5" stroke-linecap="round"/></svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="26" y="8" width="20" height="8" rx="2" fill="#ffe08a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M14 34 L24 14 H48 L58 34 Z" fill="#ffe08a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="14" y="34" width="44" height="58" fill="#f4a261" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="20" y="40" width="32" height="28" rx="3" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M36 47 Q40 38 47 42 Q41 47 36 47 Z" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="36" cy="56" r="9" fill="#f4a261" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="36" y="85" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#fff">DŽUS</text>
+    <path d="M68 36 H112 L107 92 H73 Z" fill="#dff3ff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M69.5 50 H110.5 L107 92 H73 Z" fill="#f4a261" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="84" cy="66" r="2.5" fill="#ffe08a"/><circle cx="98" cy="76" r="2.5" fill="#ffe08a"/><circle cx="88" cy="84" r="2" fill="#ffe08a"/>
+    <path d="M92 46 L108 10" stroke="#333" stroke-width="8" stroke-linecap="round"/>
+    <path d="M92 46 L108 10" stroke="#e63946" stroke-width="4" stroke-linecap="round"/></svg>

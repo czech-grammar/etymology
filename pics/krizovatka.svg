@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="2" y="2" width="40" height="30" fill="#8fd18a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="78" y="2" width="40" height="30" fill="#8fd18a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="2" y="68" width="40" height="30" fill="#8fd18a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="78" y="68" width="40" height="30" fill="#8fd18a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="2" y="32" width="116" height="36" fill="#777" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="42" y="2" width="36" height="96" fill="#777" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="40.5" y="30.5" width="39" height="39" fill="#777"/>
+    <g fill="#fff">
+      <rect x="46" y="18" width="4" height="10"/><rect x="52" y="18" width="4" height="10"/><rect x="58" y="18" width="4" height="10"/><rect x="64" y="18" width="4" height="10"/><rect x="70" y="18" width="4" height="10"/>
+      <rect x="46" y="72" width="4" height="10"/><rect x="52" y="72" width="4" height="10"/><rect x="58" y="72" width="4" height="10"/><rect x="64" y="72" width="4" height="10"/><rect x="70" y="72" width="4" height="10"/>
+      <rect x="18" y="36" width="10" height="4"/><rect x="18" y="42" width="10" height="4"/><rect x="18" y="48" width="10" height="4"/><rect x="18" y="54" width="10" height="4"/><rect x="18" y="60" width="10" height="4"/>
+      <rect x="92" y="36" width="10" height="4"/><rect x="92" y="42" width="10" height="4"/><rect x="92" y="48" width="10" height="4"/><rect x="92" y="54" width="10" height="4"/><rect x="92" y="60" width="10" height="4"/>
+    </g>
+    <path d="M60 4 V15 M60 85 V96 M4 50 H15 M105 50 H116" fill="none" stroke="#fff" stroke-width="3" stroke-dasharray="5 4"/>
+    <rect x="46" y="43" width="26" height="14" rx="4" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="63" y="45" width="5" height="10" rx="1" fill="#bde0fe"/>
+    <rect x="50" y="45" width="4" height="10" rx="1" fill="#bde0fe"/>
+    <rect x="71" y="44" width="2" height="3" fill="#f9c74f"/><rect x="71" y="53" width="2" height="3" fill="#f9c74f"/></svg>

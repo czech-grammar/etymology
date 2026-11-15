@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M12 30 L18 10 H58 L64 30 Z" fill="#ddd" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M17 18 H59" fill="none" stroke="#9aa0a8" stroke-width="2" stroke-linecap="round"/>
+    <rect x="12" y="30" width="52" height="66" rx="3" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M38 36 V48 M38 38 L33 35 M38 38 L43 35 M38 43 L33 40 M38 43 L43 40" fill="none" stroke="#e0a030" stroke-width="2.5" stroke-linecap="round"/>
+    <rect x="12" y="52" width="52" height="18" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="38" y="65" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#fff">MOUKA</text>
+    <path d="M68 96 Q90 76 114 96 Z" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(86 62) rotate(-35)">
+      <rect x="10" y="-4" width="22" height="8" rx="4" fill="#b5722f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M-24 -11 H-2 Q12 -11 12 0 Q12 11 -2 11 H-24 Z" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M-24 -11 Q-14 -22 0 -11 Z" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g fill="#fff" stroke="#9aa0a8" stroke-width="2">
+      <circle cx="76" cy="28" r="6"/><circle cx="88" cy="20" r="8"/><circle cx="102" cy="26" r="6"/><circle cx="94" cy="34" r="5"/>
+    </g></svg>

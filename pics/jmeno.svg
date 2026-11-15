@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M42 34 L38 66 M78 34 L82 66" stroke="#3b2a1a" stroke-width="8" stroke-linecap="round"/>
+    <path d="M46 52 L74 52 L86 96 L34 96 Z" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="60" cy="34" r="18" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M42 34 Q42 10 60 10 Q78 10 78 34 Q72 22 60 22 Q48 22 42 34 Z" fill="#3b2a1a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="53" cy="35" r="2.5" fill="#333"/><circle cx="67" cy="35" r="2.5" fill="#333"/>
+    <path d="M52 42 Q60 49 68 42" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="37" y="60" width="46" height="26" rx="3" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="37" y="60" width="46" height="8" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="60" y="82" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="13" fill="#333">ANNA</text></svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="8" y="18" width="104" height="16" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M16 18 V23 M24 18 V27 M32 18 V23 M40 18 V27 M48 18 V23 M56 18 V27 M64 18 V23 M72 18 V27 M80 18 V23 M88 18 V27 M96 18 V23 M104 18 V27" fill="none" stroke="#333" stroke-width="1.5"/>
+    <path d="M12 40 H80" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(80 40) rotate(-45)">
+      <polygon points="0,0 12,-5 12,5" fill="#ffe08a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <polygon points="0,0 5,-2 5,2" fill="#333"/>
+      <rect x="12" y="-5" width="26" height="10" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="38" y="-5" width="4" height="10" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="42" y="-5" width="6" height="10" rx="3" fill="#e94b8a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <path d="M12 78 Q22 62 32 78 T52 78 T72 78 T92 78 T112 78" fill="none" stroke="#e63946" stroke-width="3" stroke-linecap="round"/></svg>

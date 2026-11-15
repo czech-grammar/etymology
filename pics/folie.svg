@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M12 52 V6 H54 L50 12 L55 18 L50 24 L55 30 L50 36 L55 42 L50 48 V52 Z" fill="#ddd" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M20 14 V44" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+    <rect x="8" y="48" width="54" height="18" rx="9" fill="#ddd" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="62" cy="57" rx="6" ry="9" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="62" cy="57" r="2.5" fill="#333"/>
+    <rect x="4" y="64" width="64" height="30" rx="2" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="36" y="85" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="13" fill="#fff">FÓLIE</text>
+    <rect x="74" y="42" width="40" height="14" rx="5" fill="#f4a261" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M72 62 L76 54 L80 62 L84 54 L88 62 L92 54 L96 62 L100 54 L104 62 L108 54 L112 62 L116 58 V64 H72 Z" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="74" y="62" width="40" height="8" fill="#e94b8a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M70 70 L74 66 L80 70 L86 66 L92 70 L98 66 L104 70 L110 66 L116 70 L118 94 H70 Z" fill="#ddd" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M78 78 L82 90" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/></svg>

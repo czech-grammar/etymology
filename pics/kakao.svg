@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M34 20 q-5 -6 0 -12 M56 20 q-5 -6 0 -12" fill="none" stroke="#9aa0a8" stroke-width="3" stroke-linecap="round"/>
+    <path d="M72 46 Q90 46 90 60 Q90 74 72 74" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="16" y="32" width="58" height="56" rx="6" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="45" cy="34" rx="29" ry="7" fill="#5a3a22" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="30" y="29" width="12" height="9" rx="2" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="46" y="31" width="12" height="9" rx="2" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="38" y="23" width="12" height="9" rx="2" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="45" y="70" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#fff">KAKAO</text>
+    <path d="M100 48 V40" fill="none" stroke="#3f9d55" stroke-width="3" stroke-linecap="round"/>
+    <ellipse cx="100" cy="70" rx="12" ry="22" fill="#f4a261" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M95 50 Q90 70 95 90 M105 50 Q110 70 105 90" fill="none" stroke="#c0392b" stroke-width="2" stroke-linecap="round"/></svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="18" y="22" width="84" height="70" rx="6" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M18 28 a6 6 0 0 1 6 -6 h72 a6 6 0 0 1 6 6 v12 H18 Z" fill="#e94b8a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="32" y="12" width="6" height="16" rx="3" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="82" y="12" width="6" height="16" rx="3" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#ddd">
+      <rect x="26" y="48" width="10" height="9" rx="2"/><rect x="40" y="48" width="10" height="9" rx="2"/><rect x="54" y="48" width="10" height="9" rx="2"/><rect x="68" y="48" width="10" height="9" rx="2"/><rect x="82" y="48" width="10" height="9" rx="2"/>
+      <rect x="26" y="62" width="10" height="9" rx="2"/><rect x="82" y="62" width="10" height="9" rx="2"/>
+      <rect x="26" y="76" width="10" height="9" rx="2"/><rect x="40" y="76" width="10" height="9" rx="2"/><rect x="54" y="76" width="10" height="9" rx="2"/><rect x="68" y="76" width="10" height="9" rx="2"/><rect x="82" y="76" width="10" height="9" rx="2"/>
+    </g>
+    <g fill="#4fa3e3">
+      <rect x="40" y="62" width="10" height="9" rx="2"/><rect x="54" y="62" width="10" height="9" rx="2"/><rect x="68" y="62" width="10" height="9" rx="2"/>
+    </g></svg>

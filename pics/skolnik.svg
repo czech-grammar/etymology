@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="72" y="36" width="36" height="60" rx="3" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="78" y="42" width="24" height="20" fill="#b5722f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="78" y="68" width="24" height="20" fill="#b5722f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="103" cy="66" r="2.5" fill="#f9c74f"/>
+    <rect x="66" y="16" width="38" height="16" rx="2" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="85" y="28" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#333">ŠKOLA</text>
+    <path d="M108 29 Q108 17 113 17 Q118 17 118 29 L119 31 H107 Z" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="113" cy="33" r="2.5" fill="#333"/>
+    <path d="M18 46 L42 46 L52 96 L8 96 Z" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M22 58 L38 58 L44 96 L16 96 Z" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="30" cy="32" r="14" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M16 32 Q16 14 30 14 Q44 14 44 32 Q39 23 30 23 Q21 23 16 32 Z" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="25" cy="33" r="2.2" fill="#333"/><circle cx="35" cy="33" r="2.2" fill="#333"/>
+    <path d="M25 39 Q30 44 35 39" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M14 38 L10 80" fill="none" stroke="#333" stroke-width="6" stroke-linecap="round"/>
+    <path d="M14 38 L10 80" fill="none" stroke="#b5722f" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M3 80 H17 L19 96 H1 Z" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M7 84 L6 93 M10 84 V93 M13 84 L14 93" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M18 56 L13 60" fill="none" stroke="#333" stroke-width="9" stroke-linecap="round"/>
+    <path d="M18 56 L13 60" fill="none" stroke="#ffd8b8" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="12" cy="60" r="4.5" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M42 56 L56 66" fill="none" stroke="#333" stroke-width="9" stroke-linecap="round"/>
+    <path d="M42 56 L56 66" fill="none" stroke="#ffd8b8" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="60" cy="76" r="7" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M57 82 L53 93 L57 95 M63 82 L67 93 L63 95" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="58" cy="67" r="4.5" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>

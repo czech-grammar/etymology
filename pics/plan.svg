@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="6" y="6" width="56" height="88" rx="3" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="6" y="6" width="56" height="16" rx="3" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="34" y="18" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="9" fill="#fff">PLÁN</text>
+    <g fill="#fff" stroke="#333" stroke-width="2"><rect x="12" y="30" width="12" height="12" rx="2"/><rect x="12" y="50" width="12" height="12" rx="2"/><rect x="12" y="70" width="12" height="12" rx="2"/></g>
+    <path d="M14 36 L17 40 L23 32 M14 56 L17 60 L23 52" fill="none" stroke="#3f9d55" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <g font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="9" fill="#1d2a5a"><text x="29" y="40">1</text><text x="29" y="60">2</text><text x="29" y="80">3</text></g>
+    <path d="M38 36 H56 M38 56 H56 M38 76 H56" fill="none" stroke="#9aa0a8" stroke-width="2" stroke-linecap="round"/>
+    <rect x="68" y="26" width="46" height="62" rx="2" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M76 56 L91 40 L106 56 V82 H76 Z" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round"/>
+    <rect x="86" y="68" width="10" height="14" fill="none" stroke="#fff" stroke-width="2"/>
+    <rect x="80" y="60" width="6" height="6" fill="none" stroke="#fff" stroke-width="1.5"/><rect x="96" y="60" width="6" height="6" fill="none" stroke="#fff" stroke-width="1.5"/></svg>

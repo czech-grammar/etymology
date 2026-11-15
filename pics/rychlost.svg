@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><circle cx="60" cy="38" r="34" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M80.5 17.5 A29 29 0 0 1 89 38" fill="none" stroke="#e63946" stroke-width="5"/>
+    <path d="M29 38 H34 M38.1 16.1 L41.6 19.6 M60 7 V12 M81.9 16.1 L78.4 19.6 M91 38 H86 M38.1 59.9 L41.6 56.4 M81.9 59.9 L78.4 56.4" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="60" y="56" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="7" fill="#7a7f87">KM/H</text>
+    <path d="M60 38 L84 20" stroke="#e63946" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="60" cy="38" r="4" fill="#333"/>
+    <path d="M28 78 H52 M22 86 H46 M32 94 H50" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+    <path d="M60 92 V84 L70 74 H94 L104 84 H114 V92 Z" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M72 83 L76 76 H92 L98 83 Z" fill="#bde0fe" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="72" cy="92" r="5" fill="#333" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="102" cy="92" r="5" fill="#333" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>

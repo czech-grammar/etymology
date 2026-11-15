@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M4 96 H116" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M4 62 H36 M4 80 H36 M6 62 V96 M34 62 V96" stroke="#b5722f" stroke-width="4" stroke-linecap="round"/>
+    <path d="M84 62 H116 M84 80 H116 M86 62 V96 M114 62 V96" stroke="#b5722f" stroke-width="4" stroke-linecap="round"/>
+    <g stroke="#333" stroke-width="1.5">
+      <rect x="9" y="52" width="10" height="8" fill="#e63946"/><rect x="21" y="50" width="10" height="10" fill="#4fa3e3"/>
+      <rect x="9" y="68" width="10" height="10" fill="#f9c74f"/><rect x="21" y="70" width="10" height="8" fill="#6cc06a"/>
+      <rect x="89" y="52" width="10" height="8" fill="#5a3fbf"/><rect x="101" y="50" width="10" height="10" fill="#f4a261"/>
+      <rect x="89" y="70" width="10" height="8" fill="#e94b8a"/><rect x="101" y="68" width="10" height="10" fill="#2a9d8f"/>
+    </g>
+    <rect x="57" y="62" width="6" height="34" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="22" y="6" width="76" height="58" rx="4" fill="#1d2a5a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M24 25 H96 M24 44 H96" stroke="#fff" stroke-width="1.5"/>
+    <text x="28" y="20" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#fff">HRAČKY</text>
+    <text x="28" y="39" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#fff">OBUV</text>
+    <text x="28" y="58" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#fff">SPORT</text>
+    <polygon points="80,12 90,16 80,20 82,16" fill="#f9c74f"/>
+    <polygon points="85,28 89,36 81,36" fill="#f9c74f"/>
+    <path d="M85 36 V41" stroke="#f9c74f" stroke-width="3"/>
+    <polygon points="90,50 80,54 90,58 88,54" fill="#f9c74f"/></svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M90 12 H100 V88 H90 Z" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M100 20 H92 M100 30 H92 M100 40 H92 M100 50 H92 M100 60 H92 M100 70 H92 M100 80 H92" stroke="#9aa0a8" stroke-width="1.5"/>
+    <path d="M80 90 L78 98 H88 L86 90 Z" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="20" y="8" width="72" height="84" rx="3" fill="#444" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M26 14 H86 V86 H26 Z" fill="none" stroke="#f9c74f" stroke-width="1.5"/>
+    <text x="56" y="30" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="11" fill="#f9c74f">BIBLE</text>
+    <path d="M56 40 V78 M42 52 H70" stroke="#333" stroke-width="9" stroke-linecap="round"/>
+    <path d="M56 40 V78 M42 52 H70" stroke="#f9c74f" stroke-width="5" stroke-linecap="round"/></svg>

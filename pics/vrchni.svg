@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M36 50 L66 50 L76 96 L26 96 Z" fill="#333" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M42 50 L51 68 L60 50 Z" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M41 52 L51 58 L61 52 L61 64 L51 58 L41 64 Z" fill="#1d2a5a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="51" cy="32" r="14" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M37 32 Q37 14 51 14 Q65 14 65 32 Q61 23 51 23 Q41 23 37 32 Z" fill="#3b2a1a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="46" cy="33" r="2.2" fill="#333"/><circle cx="56" cy="33" r="2.2" fill="#333"/>
+    <path d="M45 39 Q51 43 57 39 Q51 41 45 39 Z" fill="#3b2a1a"/>
+    <path d="M46 43 Q51 47 56 43" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M36 58 L16 62" fill="none" stroke="#333" stroke-width="9" stroke-linecap="round"/>
+    <path d="M12 58 H34 L32 84 Q23 76 14 84 Z" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M18 62 V78 M25 62 V80" fill="none" stroke="#ddd" stroke-width="2"/>
+    <path d="M68 60 L84 68" fill="none" stroke="#333" stroke-width="9" stroke-linecap="round"/>
+    <circle cx="86" cy="69" r="4.5" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="86" y="52" width="22" height="15" rx="1" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M90 57 H104 M90 62 H100" fill="none" stroke="#9aa0a8" stroke-width="1.5"/>
+    <rect x="82" y="62" width="30" height="24" rx="2" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M97 62 V86" fill="none" stroke="#5a3a1a" stroke-width="2"/></svg>

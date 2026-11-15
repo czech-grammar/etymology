@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M18 24 V4" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+    <rect x="19" y="4" width="26" height="8" fill="#fff"/>
+    <rect x="19" y="12" width="26" height="8" fill="#e63946"/>
+    <path d="M19 4 L32 12 L19 20 Z" fill="#1d2a5a"/>
+    <rect x="19" y="4" width="26" height="16" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="14" y="24" width="92" height="62" fill="#ddd" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="10" y="18" width="100" height="8" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="34" y="30" width="52" height="14" rx="2" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="60" y="41" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="11" fill="#333">ÚŘAD</text>
+    <rect x="20" y="50" width="12" height="10" fill="#bde0fe" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="38" y="50" width="12" height="10" fill="#bde0fe" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="70" y="50" width="12" height="10" fill="#bde0fe" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="46" y="66" width="16" height="20" fill="#5a3a22" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="68" y="66" width="30" height="30" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M73 76 H93 M73 82 H93 M73 88 H83" stroke="#9aa0a8" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="80" cy="82" r="8" fill="none" stroke="#e63946" stroke-width="2"/>
+    <path d="M76 82 L79 85 L84 79" fill="none" stroke="#e63946" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="95" y="52" width="10" height="16" rx="5" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="86" y="68" width="28" height="8" rx="2" fill="#333" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>

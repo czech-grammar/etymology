@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M60 18 V8" fill="none" stroke="#333" stroke-width="3"/>
+    <circle cx="60" cy="7" r="4" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="38" y="18" width="44" height="30" rx="4" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="50" cy="31" r="6.5" fill="#ffe08a"/><circle cx="70" cy="31" r="6.5" fill="#ffe08a"/>
+    <circle cx="50" cy="31" r="3.5" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="70" cy="31" r="3.5" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="50" y="40" width="20" height="4" fill="#333"/>
+    <path d="M55 40 V44 M60 40 V44 M65 40 V44" fill="none" stroke="#9aa0a8" stroke-width="1.5"/>
+    <rect x="54" y="48" width="12" height="6" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="30" y="54" width="60" height="32" rx="4" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="46" y="60" width="28" height="14" rx="2" fill="#ddd" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="53" cy="67" r="3" fill="#e63946"/><circle cx="60" cy="67" r="3" fill="#6cc06a"/><circle cx="67" cy="67" r="3" fill="#4fa3e3"/>
+    <path d="M30 62 L14 76 M90 62 L106 76" fill="none" stroke="#333" stroke-width="9" stroke-linecap="round"/>
+    <path d="M30 62 L14 76 M90 62 L106 76" fill="none" stroke="#9aa0a8" stroke-width="5" stroke-linecap="round"/>
+    <path d="M16 74 L6 66 L4 72 L10 77 L4 82 L6 88 L16 80 Z" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M104 74 L114 66 L116 72 L110 77 L116 82 L114 88 L104 80 Z" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="40" y="86" width="12" height="6" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="68" y="86" width="12" height="6" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="34" y="91" width="22" height="5" rx="2" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="64" y="91" width="22" height="5" rx="2" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>

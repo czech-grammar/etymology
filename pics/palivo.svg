@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M18 30 V20 H38 V30" fill="none" stroke="#333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M18 30 V20 H38 V30" fill="none" stroke="#c0392b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="42" y="20" width="8" height="12" rx="2" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="6" y="30" width="44" height="56" rx="5" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M28 44 C 37 55, 39 63, 28 67 C 17 63, 19 55, 28 44 Z" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M94 46 Q84 24 100 8" fill="none" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+    <path d="M56 88 V76 H62 L72 62 H98 L108 76 H114 V88 Z" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="74,64 84,64 84,74 66,74" fill="#bde0fe" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="88,64 96,64 104,74 88,74" fill="#bde0fe" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="68" cy="88" r="7" fill="#333" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="68" cy="88" r="3" fill="#9aa0a8"/>
+    <circle cx="102" cy="88" r="7" fill="#333" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="102" cy="88" r="3" fill="#9aa0a8"/>
+    <rect x="103" y="74" width="8" height="6" fill="#333"/>
+    <rect x="96" y="66" width="7" height="6" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-60 103 74)"/>
+    <rect x="90" y="42" width="22" height="12" rx="3" fill="#555" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="94" y="54" width="6" height="10" rx="2" fill="#333"/>
+    <rect x="104" y="54" width="6" height="22" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>

@@ -48,6 +48,8 @@
       text-decoration: none; font-weight: 650; transition: border-color 0.15s, transform 0.15s;
     }
     .card:hover { border-color: var(--accent); transform: translateY(-1px); }
+    .card img { flex: none; width: 48px; height: 40px; margin: -6px 0 -6px -6px; }
+    .card b { flex: 1; font-weight: inherit; }
     .card span { flex: none; font-size: 12px; font-weight: 600; color: var(--muted); }
     .empty { text-align: center; color: var(--muted); margin-top: 40px; }
     .empty a { color: var(--accent); font-weight: 700; }
@@ -89,12 +91,18 @@
     $('#lede').textContent = `${total} Czech words and where they come from. Pick one and watch it grow.`
     const openUrl = m => `${app}?uri=${new URL(m.file, location.href).href}&replay=0.1s&autoplay`
 
+    // the word's flash-card picture (from czech-grammar/nouns), fetched only as it scrolls into view
+    const picture = m => {
+      const img = el('img', { src: 'pics/' + m.slug.replace(/^czech-|-etymology$/g, '') + '.svg', alt: '', loading: 'lazy', decoding: 'async', width: 48, height: 40 })
+      img.onerror = () => (img.style.visibility = 'hidden')
+      return img
+    }
     for (const c of index.categories) {
       const id = slug(c.name)
       $('#nav').append(el('a', { href: '#' + id }, `${ICONS[c.name] || '•'} ${c.name} `, el('span', {}, String(c.maps))))
       const maps = index.maps.filter(m => m.category === c.name).sort((a, b) => a.topic.localeCompare(b.topic))
       const grid = el('div', { className: 'grid' }, ...maps.map(m => {
-        const a = el('a', { className: 'card', href: openUrl(m), title: `Watch “${m.topic}” grow` }, m.topic.replace(/^Czech (.+) etymology$/, '$1'), el('span', {}, `${m.nodes} ideas`))
+        const a = el('a', { className: 'card', href: openUrl(m), title: `Watch “${m.topic}” grow` }, picture(m), el('b', {}, m.topic.replace(/^Czech (.+) etymology$/, '$1')), el('span', {}, `${m.nodes} ideas`))
         a.dataset.words = [m.topic, ...m.aliases].join(' ').toLowerCase() + ' ' + [m.slug, ...m.aliases].join(' ')
         return a
       }))

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="4" y="4" width="112" height="92" rx="8" fill="#4fa3e3"/>
+    <path d="M10 60 Q16 56 22 60 M100 50 Q106 46 112 50 M12 90 Q18 86 24 90 M96 90 Q102 86 108 90 M60 14 Q66 10 72 14" fill="none" stroke="#dff3ff" stroke-width="2.5" stroke-linecap="round"/>
+    <ellipse cx="60" cy="78" rx="44" ry="13" fill="#ffe08a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M42 78 Q40 58 36 40" fill="none" stroke="#333" stroke-width="9" stroke-linecap="round"/>
+    <path d="M42 78 Q40 58 36 40" fill="none" stroke="#b5722f" stroke-width="5" stroke-linecap="round"/>
+    <g fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <ellipse cx="22" cy="34" rx="14" ry="5" transform="rotate(-20 22 34)"/>
+      <ellipse cx="50" cy="34" rx="14" ry="5" transform="rotate(20 50 34)"/>
+      <ellipse cx="25" cy="46" rx="13" ry="5" transform="rotate(35 25 46)"/>
+      <ellipse cx="47" cy="46" rx="13" ry="5" transform="rotate(-35 47 46)"/>
+      <ellipse cx="36" cy="26" rx="5" ry="12"/>
+    </g>
+    <circle cx="33" cy="42" r="3" fill="#8b4a2b" stroke="#333" stroke-width="1.5"/>
+    <circle cx="39" cy="42" r="3" fill="#8b4a2b" stroke="#333" stroke-width="1.5"/>
+    <path d="M80 78 L84 34 H96 L100 78 Z" fill="#fff"/>
+    <path d="M83.5 46 H96.5 M82.5 60 H97.5" stroke="#e63946" stroke-width="5"/>
+    <path d="M80 78 L84 34 H96 L100 78 Z" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="87" y="68" width="6" height="10" fill="#333"/>
+    <path d="M78 22 L68 18 M102 22 L112 18" stroke="#f9c74f" stroke-width="3" stroke-linecap="round"/>
+    <rect x="82" y="26" width="16" height="8" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M80 26 L90 14 L100 26 Z" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="4" y="4" width="112" height="92" rx="8" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>

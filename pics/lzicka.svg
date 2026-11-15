@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M40 22 Q44 16 40 10 Q36 4 40 4 M56 22 Q60 16 56 10 Q52 4 56 4" fill="none" stroke="#9aa0a8" stroke-width="2.5" stroke-linecap="round"/>
+    <ellipse cx="52" cy="76" rx="48" ry="14" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="52" cy="76" rx="26" ry="7" fill="none" stroke="#bde0fe" stroke-width="2"/>
+    <path d="M76 46 Q94 44 92 56 Q90 64 76 62" fill="none" stroke="#333" stroke-width="8" stroke-linecap="round"/>
+    <path d="M76 46 Q94 44 92 56 Q90 64 76 62" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+    <path d="M26 38 Q28 70 50 70 Q72 70 74 38 Z" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="50" cy="38" rx="24" ry="7" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="12" y="70" width="11" height="9" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="12,70 16,66 27,66 23,70" fill="#ddd" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="23,70 27,66 27,75 23,79" fill="#ddd" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M64 86 L100 72" fill="none" stroke="#333" stroke-width="8" stroke-linecap="round"/>
+    <path d="M64 86 L100 72" fill="none" stroke="#9aa0a8" stroke-width="4" stroke-linecap="round"/>
+    <ellipse cx="58" cy="87" rx="9" ry="6" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="57" cy="86" rx="4" ry="2.5" fill="#ddd"/></svg>

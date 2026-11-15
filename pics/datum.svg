@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="24" y="14" width="72" height="80" rx="6" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M24 20 a6 6 0 0 1 6 -6 h60 a6 6 0 0 1 6 6 v16 H24 Z" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="38" y="6" width="6" height="16" rx="3" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="76" y="6" width="6" height="16" rx="3" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="60" y="32" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="11" fill="#fff">ZÁŘÍ</text>
+    <text x="60" y="80" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="38" fill="#333">15</text>
+    <path d="M60 44 A22 22 0 1 0 75.6 50.4" fill="none" stroke="#e63946" stroke-width="3.5" stroke-linecap="round"/></svg>

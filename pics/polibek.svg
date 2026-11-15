@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M62 34 C46 24, 44 6, 55 6 C59 6, 62 10, 62 12 C62 10, 65 6, 69 6 C80 6, 78 24, 62 34 Z" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M31 44 Q27 66 33 80 H63 Q68 66 65 44 Z" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M36 60 L58 60 L66 96 H26 Z" fill="#e94b8a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="48" cy="46" r="15" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M33 46 Q33 28 48 28 Q63 28 63 46 Q58 37 48 37 Q38 37 33 46 Z" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M41 46 Q44 43 47 46 M53 46 Q56 43 59 46" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+    <path d="M70 70 L86 70 L90 96 H66 Z" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="80" cy="58" r="12" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M68 58 Q68 44 80 44 Q92 44 92 58 Q88 51 80 51 Q72 51 68 58 Z" fill="#f2c14e" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="79" cy="59" r="2" fill="#333"/><circle cx="87" cy="59" r="2" fill="#333"/>
+    <path d="M80 65 Q84 68 88 65" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="71" cy="63" r="3.5" fill="#ffb3c6"/>
+    <ellipse cx="63" cy="55" rx="4.5" ry="3.2" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M40 68 Q58 76 70 80" fill="none" stroke="#333" stroke-width="9" stroke-linecap="round"/>
+    <path d="M40 68 Q58 76 70 80" fill="none" stroke="#ffd8b8" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="71" cy="81" r="4" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>

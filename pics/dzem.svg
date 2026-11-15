@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M62 50 Q62 36 74 36 Q82 28 90 36 Q98 28 106 36 Q116 36 116 50 V92 H62 Z" fill="#b5722f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M67 52 Q67 42 76 41 Q82 35 90 41 Q98 35 104 41 Q111 42 111 52 V88 H67 Z" fill="#f5e6c8"/>
+    <path d="M74 56 Q84 46 96 52 Q108 50 104 64 Q108 78 96 80 Q82 84 76 76 Q68 68 74 56 Z" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(92 14) rotate(35)">
+      <rect x="-3" y="-2" width="6" height="30" rx="3" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <ellipse cx="0" cy="-8" rx="7" ry="9" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <ellipse cx="0" cy="-8" rx="4" ry="5" fill="#e63946"/>
+    </g>
+    <path d="M10 40 H56 V86 Q56 92 50 92 H16 Q10 92 10 86 Z" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="18" y="56" width="30" height="18" rx="3" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="33" y="69" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#e63946">DŽEM</text>
+    <path d="M6 42 Q10 22 33 20 Q56 22 60 42 Z" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M16 40 Q20 30 24 40 M26 40 Q30 26 34 40 M36 40 Q40 26 44 40 M46 40 Q50 32 54 40" fill="none" stroke="#e63946" stroke-width="2" stroke-linecap="round"/>
+    <path d="M10 40 Q33 46 56 40" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M6 42 Q8 50 12 54" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/></svg>

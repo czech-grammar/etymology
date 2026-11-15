@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M14 96 Q16 76 46 76 Q76 76 78 96 Z" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(46 46) rotate(-25)">
+      <circle cx="0" cy="0" r="28" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M-28 -4 Q-28 -30 0 -30 Q28 -30 28 -4 Q20 -18 0 -18 Q-20 -18 -28 -4 Z" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M-17 -2 q6 -8 12 0 M5 -2 q6 -8 12 0" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+      <ellipse cx="0" cy="15" rx="13" ry="11" fill="#c0392b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="-11" y="5" width="22" height="4" fill="#fff"/>
+      <ellipse cx="0" cy="23" rx="7" ry="4" fill="#e94b8a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="-21" cy="8" r="4" fill="#ffb4a2"/><circle cx="21" cy="8" r="4" fill="#ffb4a2"/>
+    </g>
+    <path d="M74 14 l7 -6 M84 26 l9 -5 M90 42 l10 -2 M18 12 l-6 -6" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+    <text x="84" y="62" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="14" fill="#e63946">HA</text>
+    <text x="90" y="84" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="18" fill="#e63946">HA</text></svg>

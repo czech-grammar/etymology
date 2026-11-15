@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M14 30 L10 62 M38 30 L42 62" stroke="#8b4a2b" stroke-width="8" stroke-linecap="round"/>
+    <path d="M16 46 L36 46 L46 96 L6 96 Z" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="26" cy="32" r="14" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M12 32 Q12 14 26 14 Q40 14 40 32 Q36 23 26 23 Q16 23 12 32 Z" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="21" cy="33" r="2.2" fill="#333"/><circle cx="31" cy="33" r="2.2" fill="#333"/>
+    <path d="M20 39 Q26 45 32 39" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M36 54 L52 56" fill="none" stroke="#333" stroke-width="9" stroke-linecap="round"/>
+    <path d="M36 54 L52 56" fill="none" stroke="#ffd8b8" stroke-width="4" stroke-linecap="round"/>
+    <path d="M53 56 L66 66" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="53" cy="56" r="4" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M84 64 Q86 36 112 40 L112 64 Z" fill="#1d2a5a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="100" cy="56" r="7" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="97" cy="56" r="1.5" fill="#333"/><circle cx="103" cy="56" r="1.5" fill="#333"/>
+    <path d="M97 60 Q100 62 103 60" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="60" y="62" width="52" height="22" rx="8" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="74" cy="88" r="8" fill="#333"/><circle cx="74" cy="88" r="3" fill="#ddd"/>
+    <circle cx="100" cy="88" r="8" fill="#333"/><circle cx="100" cy="88" r="3" fill="#ddd"/></svg>

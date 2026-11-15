@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="0" y="0" width="120" height="100" fill="#f4a261"/>
+    <path d="M0 14 H120 M0 34 H120 M0 54 H120 M0 74 H120 M0 94 H120 M20 0 V14 M60 0 V14 M100 0 V14 M40 14 V34 M80 14 V34 M20 34 V54 M60 34 V54 M100 34 V54 M40 54 V74 M80 54 V74 M20 74 V94 M60 74 V94 M100 74 V94" stroke="#c0392b" stroke-width="2"/>
+    <rect x="22" y="6" width="76" height="88" fill="#ffe08a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="28" y="12" width="64" height="20" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="60" y="27" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="13" fill="#fff">KONCERT</text>
+    <path d="M52 72 Q40 72 40 60 Q40 50 50 50 Q50 40 60 40 Q70 40 70 50 Q80 50 80 60 Q80 72 68 72 Z" fill="#b5722f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="60" cy="58" r="5" fill="#333"/>
+    <path d="M60 40 V22" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+    <text x="60" y="88" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="12" fill="#333">12. 5. 20:00</text></svg>

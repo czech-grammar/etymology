@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M12 52 Q26 32 42 42 Q50 38 58 42 Q74 32 88 52 Q50 44 12 52 Z" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M12 52 Q50 60 88 52 Q76 82 50 82 Q24 82 12 52 Z" fill="#c0392b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M12 52 Q50 46 88 52" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+    <path d="M34 43 q8 -4 16 -1" fill="none" stroke="#ffb4a2" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M26 66 q10 -5 20 -2" fill="none" stroke="#ffb4a2" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M96 44 V36 Q96 30 102 30 Q108 30 108 36 V44 Z" fill="#ffe08a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="92" y="42" width="20" height="12" rx="3" fill="#f4a261" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="92" y="54" width="20" height="40" rx="3" fill="#e94b8a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="92" y="64" width="20" height="14" fill="#fff"/>
+    <text x="102" y="75" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="9" fill="#e94b8a">RTY</text></svg>

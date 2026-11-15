@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="8" y="12" width="8" height="60" fill="#b5722f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="104" y="12" width="8" height="60" fill="#b5722f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M4 12 H20 M100 12 H116" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M12 16 Q60 32 108 16" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M28 22 V42 Q28 50 36 50 H40 Q46 50 46 44 V40 H36 V22 Z" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M54 26 V46 Q54 54 62 54 H66 Q72 54 72 48 V44 H62 V26 Z" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M80 22 V42 Q80 50 88 50 H92 Q98 50 98 44 V40 H88 V22 Z" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M28 26 H36 M54 30 H62 M80 26 H88" fill="none" stroke="#fff" stroke-width="2"/>
+    <rect x="30" y="16" width="4" height="10" fill="#f4a261" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="56" y="20" width="4" height="10" fill="#f4a261" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="82" y="16" width="4" height="10" fill="#f4a261" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M26 82 C 26 72, 60 72, 60 82 C 60 92, 26 92, 26 82 M32 84 C 32 74, 66 74, 66 84 C 66 94, 32 94, 32 84 M38 86 C 38 76, 72 76, 72 86 C 72 96, 38 96, 38 86 M72 86 H84" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="84" y="80" width="14" height="12" rx="2" fill="#333" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M98 83 H106 M98 89 H106" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round"/></svg>

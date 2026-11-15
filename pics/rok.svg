@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="10" y="14" width="100" height="80" rx="6" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M10 20 a6 6 0 0 1 6 -6 h88 a6 6 0 0 1 6 6 v14 H10 Z" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="30" y="6" width="6" height="16" rx="3" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="84" y="6" width="6" height="16" rx="3" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="60" y="30" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="11" fill="#fff">2026</text>
+    <g fill="#fff" stroke="#333" stroke-width="1.5">
+      <rect x="15" y="40" width="20" height="14" rx="1.5"/><rect x="38" y="40" width="20" height="14" rx="1.5"/>
+      <rect x="61" y="40" width="20" height="14" rx="1.5"/><rect x="84" y="40" width="20" height="14" rx="1.5"/>
+      <rect x="15" y="57" width="20" height="14" rx="1.5"/><rect x="38" y="57" width="20" height="14" rx="1.5"/>
+      <rect x="61" y="57" width="20" height="14" rx="1.5"/><rect x="84" y="57" width="20" height="14" rx="1.5"/>
+      <rect x="15" y="74" width="20" height="14" rx="1.5"/><rect x="38" y="74" width="20" height="14" rx="1.5"/>
+      <rect x="61" y="74" width="20" height="14" rx="1.5"/><rect x="84" y="74" width="20" height="14" rx="1.5"/>
+    </g>
+    <g>
+      <rect x="15" y="40" width="20" height="4" fill="#4fa3e3"/><rect x="38" y="40" width="20" height="4" fill="#4fa3e3"/>
+      <rect x="61" y="40" width="20" height="4" fill="#6cc06a"/><rect x="84" y="40" width="20" height="4" fill="#6cc06a"/>
+      <rect x="15" y="57" width="20" height="4" fill="#6cc06a"/><rect x="38" y="57" width="20" height="4" fill="#f9c74f"/>
+      <rect x="61" y="57" width="20" height="4" fill="#f9c74f"/><rect x="84" y="57" width="20" height="4" fill="#f9c74f"/>
+      <rect x="15" y="74" width="20" height="4" fill="#f4a261"/><rect x="38" y="74" width="20" height="4" fill="#f4a261"/>
+      <rect x="61" y="74" width="20" height="4" fill="#f4a261"/><rect x="84" y="74" width="20" height="4" fill="#4fa3e3"/>
+    </g>
+    <path d="M18 48 H32 M18 51 H28 M41 48 H55 M41 51 H51 M64 48 H78 M64 51 H74 M87 48 H101 M87 51 H97 M18 65 H32 M18 68 H28 M41 65 H55 M41 68 H51 M64 65 H78 M64 68 H74 M87 65 H101 M87 68 H97 M18 82 H32 M18 85 H28 M41 82 H55 M41 85 H51 M64 82 H78 M64 85 H74 M87 82 H101 M87 85 H97" stroke="#ddd" stroke-width="1.5" stroke-linecap="round"/></svg>

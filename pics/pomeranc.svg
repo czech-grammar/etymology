@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="42" y="16" width="6" height="12" rx="3" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M48 24 Q54 6 76 10 Q66 26 48 24 Z" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="44" cy="58" r="34" fill="#f4a261" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="30" cy="50" r="1.6" fill="#e07a2a"/><circle cx="40" cy="42" r="1.6" fill="#e07a2a"/><circle cx="54" cy="46" r="1.6" fill="#e07a2a"/><circle cx="26" cy="64" r="1.6" fill="#e07a2a"/><circle cx="38" cy="70" r="1.6" fill="#e07a2a"/><circle cx="52" cy="62" r="1.6" fill="#e07a2a"/><circle cx="44" cy="80" r="1.6" fill="#e07a2a"/><circle cx="60" cy="74" r="1.6" fill="#e07a2a"/>
+    <circle cx="94" cy="68" r="22" fill="#f4a261" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="94" cy="68" r="16" fill="#ffe08a"/>
+    <path d="M94 52 V84 M78 68 H110 M83 57 L105 79 M105 57 L83 79" stroke="#f4a261" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="94" cy="68" r="3" fill="#fff"/></svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="8" y="22" width="104" height="52" fill="#1d2a5a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M4 74 H116 V96 H4 Z" fill="#b5722f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M6 85 H114" stroke="#8b4a2b" stroke-width="2"/>
+    <path d="M8 22 H38 Q36 36 28 46 Q18 52 16 58 Q16 66 26 74 H8 Z" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M112 22 H82 Q84 36 92 46 Q102 52 104 58 Q104 66 94 74 H112 Z" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="9" y="50" width="15" height="6" rx="3" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="96" y="50" width="15" height="6" rx="3" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M4 22 H116 V28 Q102 38 88 28 Q74 38 60 28 Q46 38 32 28 Q18 38 4 28 Z" fill="#c0392b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="4" y="4" width="112" height="18" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="60" y="17.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="11" fill="#f9c74f">DIVADLO</text>
+    <path d="M60 44 Q74 38 88 44 Q90 66 74 74 Q58 66 60 44 Z" fill="#c7b6f5" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="68" cy="53" rx="3.5" ry="2.5" fill="#333"/><ellipse cx="80" cy="53" rx="3.5" ry="2.5" fill="#333"/>
+    <path d="M66 68 Q74 60 82 68 Z" fill="#333"/>
+    <path d="M32 40 Q46 34 60 40 Q62 62 46 70 Q30 62 32 40 Z" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="40" cy="49" rx="3.5" ry="2.5" fill="#333"/><ellipse cx="52" cy="49" rx="3.5" ry="2.5" fill="#333"/>
+    <path d="M38 57 Q46 66 54 57 Z" fill="#333"/></svg>

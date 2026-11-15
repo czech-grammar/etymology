@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M74 26 V16 Q74 8 80 8 Q86 8 86 14" fill="none" stroke="#7a7f87" stroke-width="3" stroke-linecap="round"/>
+    <path d="M46 30 L32 52 L46 56 V94 H102 V56 L116 52 L102 30 L88 26 L74 40 L60 26 Z" fill="#1d2a5a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M60 26 L74 44 L66 64 L58 62 Z" fill="#2f4180" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M88 26 L74 44 L82 64 L90 62 Z" fill="#2f4180" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="46" y="26" width="16" height="6" rx="2" fill="#f9c74f" transform="rotate(-14 54 29)" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="86" y="26" width="16" height="6" rx="2" fill="#f9c74f" transform="rotate(14 94 29)" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="74" cy="68" r="2.5" fill="#f9c74f" stroke="#333" stroke-width="1.5"/><circle cx="74" cy="78" r="2.5" fill="#f9c74f" stroke="#333" stroke-width="1.5"/><circle cx="74" cy="88" r="2.5" fill="#f9c74f" stroke="#333" stroke-width="1.5"/>
+    <polygon points="56,63.6 58.1,69.2 64,69.4 59.3,73.1 60.9,78.8 56,75.5 51.1,78.8 52.7,73.1 48,69.4 53.9,69.2" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="84" y="72" width="12" height="10" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M6 28 Q6 10 22 10 Q38 10 38 28 Z" fill="#1d2a5a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="6" y="24" width="32" height="4" fill="#e63946"/>
+    <polygon points="4,28 40,28 36,34 10,34" fill="#333" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="22" cy="20" r="4" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="6" y="14" width="84" height="80" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="6" y="14" width="84" height="12" fill="#1d2a5a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="6.5" fill="#fff" text-anchor="middle">
+      <text x="14.4" y="23">PO</text><text x="31.2" y="23">ÚT</text><text x="48" y="23">ST</text><text x="64.8" y="23">ČT</text><text x="81.6" y="23">PÁ</text>
+    </g>
+    <path d="M22.8 26 V94 M39.6 26 V94 M56.4 26 V94 M73.2 26 V94 M6 43 H90 M6 60 H90 M6 77 H90" fill="none" stroke="#333" stroke-width="1.5"/>
+    <g stroke="#333" stroke-width="1.5">
+      <rect x="7.5" y="27.5" width="13.8" height="14" fill="#e63946"/><rect x="7.5" y="44.5" width="13.8" height="14" fill="#4fa3e3"/><rect x="7.5" y="61.5" width="13.8" height="14" fill="#6cc06a"/><rect x="7.5" y="78.5" width="13.8" height="14" fill="#f9c74f"/>
+      <rect x="24.3" y="27.5" width="13.8" height="14" fill="#c7b6f5"/><rect x="24.3" y="61.5" width="13.8" height="14" fill="#e63946"/>
+      <rect x="41.1" y="27.5" width="13.8" height="14" fill="#6cc06a"/><rect x="41.1" y="44.5" width="13.8" height="14" fill="#f9c74f"/><rect x="41.1" y="78.5" width="13.8" height="14" fill="#4fa3e3"/>
+      <rect x="57.9" y="44.5" width="13.8" height="14" fill="#e63946"/><rect x="57.9" y="61.5" width="13.8" height="14" fill="#c7b6f5"/>
+      <rect x="74.7" y="27.5" width="13.8" height="14" fill="#4fa3e3"/><rect x="74.7" y="44.5" width="13.8" height="14" fill="#6cc06a"/>
+    </g>
+    <circle cx="104" cy="26" r="11" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M104 26 V19 M104 26 L109 29" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="104" cy="26" r="1.5" fill="#333"/></svg>

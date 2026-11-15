@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="12" y="6" width="18" height="88" fill="#ffe08a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M12 14 H20 M12 22 H24 M12 30 H20 M12 38 H24 M12 46 H20 M12 54 H24 M12 62 H20 M12 70 H24 M12 78 H20 M12 86 H24" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M6 94 H114" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+    <path d="M52 46 L46 68 M76 46 L82 68" stroke="#333" stroke-width="9" stroke-linecap="round"/>
+    <path d="M52 46 L46 68 M76 46 L82 68" stroke="#ffd8b8" stroke-width="5" stroke-linecap="round"/>
+    <path d="M52 44 H76 L82 78 H46 Z" fill="#e94b8a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M57 78 V90 M71 78 V90" stroke="#333" stroke-width="9" stroke-linecap="round"/>
+    <path d="M57 78 V90 M71 78 V90" stroke="#ffd8b8" stroke-width="5" stroke-linecap="round"/>
+    <path d="M50 94 H64 V88 H52 Z M78 94 H64 V88 H76 Z" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M50 44 L51 28 Q51 16 64 16 Q77 16 77 28 L78 44 Z" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="64" cy="30" r="12" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M52 28 Q52 18 64 18 Q76 18 76 28 Q70 23 64 23 Q58 23 52 28 Z" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="59.5" cy="31" r="1.8" fill="#333"/><circle cx="68.5" cy="31" r="1.8" fill="#333"/>
+    <path d="M60 36 Q64 39 68 36" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+    <text x="104" y="12" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="9" fill="#333">VÝŠKA</text>
+    <path d="M104 24 V86" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+    <polygon points="104,16 98.5,26 109.5,26" fill="#333"/>
+    <polygon points="104,94 98.5,84 109.5,84" fill="#333"/>
+    <path d="M92 16 H116 M92 94 H116" stroke="#333" stroke-width="2" stroke-linecap="round"/></svg>

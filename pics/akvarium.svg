@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="12" y="90" width="7" height="6" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="101" y="90" width="7" height="6" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="6" y="82" width="108" height="9" rx="2" fill="#b5722f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="20" y="14" width="80" height="68" rx="3" fill="#dff3ff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="23" y="26" width="74" height="53" fill="#4fa3e3"/>
+    <path d="M23 71 Q30 66 38 71 Q46 66 54 71 Q62 66 70 71 Q78 66 86 71 Q92 66 97 71 V79 H23 Z" fill="#f9c74f"/>
+    <path d="M40 74 Q34 58 42 44 Q46 60 40 74 Z" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M46 74 Q52 60 48 40 Q58 56 46 74 Z" fill="#3f9d55" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M32 74 Q26 62 34 52 Q36 64 32 74 Z" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="64" cy="44" rx="10" ry="6.5" fill="#f4a261" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M73 44 L81 37 V51 Z" fill="#f4a261" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="60" cy="43" r="1.8" fill="#333"/>
+    <ellipse cx="80" cy="62" rx="8" ry="5.5" fill="#f4a261" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M73 62 L66 56 V68 Z" fill="#f4a261" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="83" cy="61" r="1.6" fill="#333"/>
+    <circle cx="88" cy="46" r="2.5" fill="#dff3ff" stroke="#333" stroke-width="1.5"/>
+    <circle cx="91" cy="38" r="2" fill="#dff3ff" stroke="#333" stroke-width="1.5"/>
+    <circle cx="88" cy="32" r="1.5" fill="#dff3ff" stroke="#333" stroke-width="1.5"/>
+    <rect x="18" y="10" width="84" height="6" rx="2" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><polygon points="10,76 54,76 50,70 14,70" fill="#ffe08a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="6,90 58,90 54,76 10,76" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="66,76 110,76 106,70 70,70" fill="#ffe08a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="62,90 114,90 110,76 66,76" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="38,56 82,56 78,50 42,50" fill="#ffe08a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="34,70 86,70 82,56 38,56" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="60" y="66.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="9" fill="#8b4a2b">ZLATO</text>
+    <polygon points="8,70 12,58 24,54 32,60 30,70" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M14 62 l4 -3" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="100" cy="54" r="9" fill="none" stroke="#333" stroke-width="8"/>
+    <circle cx="100" cy="54" r="9" fill="none" stroke="#f9c74f" stroke-width="4.5"/>
+    <polygon points="28,24 29.5,28.5 34,30 29.5,31.5 28,36 26.5,31.5 22,30 26.5,28.5" fill="#f9c74f" stroke="#333" stroke-width="1.5"/>
+    <polygon points="64,32 65.5,36.5 70,38 65.5,39.5 64,44 62.5,39.5 58,38 62.5,36.5" fill="#f9c74f" stroke="#333" stroke-width="1.5"/>
+    <polygon points="104,20 105.5,24.5 110,26 105.5,27.5 104,32 102.5,27.5 98,26 102.5,24.5" fill="#f9c74f" stroke="#333" stroke-width="1.5"/>
+    <polygon points="84,40 85,43 88,44 85,45 84,48 83,45 80,44 83,43" fill="#f9c74f" stroke="#333" stroke-width="1.5"/></svg>

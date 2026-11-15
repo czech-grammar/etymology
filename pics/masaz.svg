@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="16" y="72" width="7" height="24" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="97" y="72" width="7" height="24" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="6" y="64" width="108" height="8" fill="#b5722f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="84" y="50" width="30" height="14" rx="7" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="30" y="44" width="42" height="20" rx="8" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="66" y="44" width="26" height="20" rx="3" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="22" cy="52" r="13" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M9 50 Q9 38 22 38 Q35 38 35 50 Q30 44 22 44 Q14 44 9 50 Z" fill="#3b2a1a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M15 53 q3 2 6 0 M25 53 q3 2 6 0" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M18 59 q4 3 8 0" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="14" cy="57" r="2.5" fill="#ffb4a2"/><circle cx="30" cy="57" r="2.5" fill="#ffb4a2"/>
+    <path d="M44 4 L48 36 M72 4 L68 36" stroke="#333" stroke-width="10" stroke-linecap="round"/>
+    <path d="M44 4 L48 36 M72 4 L68 36" stroke="#6cc06a" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="48" cy="42" r="8" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="68" cy="42" r="8" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M44 46 v4 M48 47 v4 M52 46 v4 M64 46 v4 M68 47 v4 M72 46 v4" stroke="#e0a880" stroke-width="2" stroke-linecap="round"/>
+    <polygon points="98,8 100,14 106,16 100,18 98,24 96,18 90,16 96,14" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="14,10 15.5,14 20,15.5 15.5,17 14,21 12.5,17 8,15.5 12.5,14" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>

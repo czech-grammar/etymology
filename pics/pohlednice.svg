@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><g transform="rotate(-3 54 40)">
+      <rect x="8" y="9" width="92" height="62" rx="3" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M54 15 V65" stroke="#333" stroke-width="2"/>
+      <path d="M14 26 H46 M14 36 H46 M14 46 H40 M14 56 H30" stroke="#bbb" stroke-width="2.5" stroke-linecap="round"/>
+      <path d="M62 44 H92 M62 54 H92 M62 64 H84" stroke="#9aa0a8" stroke-width="3" stroke-linecap="round"/>
+      <rect x="80" y="14" width="14" height="16" fill="#f4a261" stroke="#333" stroke-width="2" stroke-dasharray="3 2"/>
+    </g>
+    <g transform="rotate(3 66 62)">
+      <rect x="20" y="31" width="92" height="62" rx="3" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="25" y="36" width="82" height="42" fill="#dff3ff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="96" cy="46" r="5" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M25 78 V66 Q50 56 66 64 Q88 54 107 66 V78 Z" fill="#8fd18a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="38" y="46" width="8" height="22" fill="#f7f0dc" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M36 46 L42 38 L48 46 Z" fill="#c0392b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="80" y="46" width="8" height="22" fill="#f7f0dc" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M78 46 L84 38 L90 46 Z" fill="#c0392b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="46" y="52" width="34" height="16" fill="#f7f0dc" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="59" y="42" width="8" height="10" fill="#f7f0dc" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M57 42 L63 30 L69 42 Z" fill="#c0392b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="25" y="72" width="82" height="6" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="25" y="78" width="82" height="10" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="66" y="86" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="8" fill="#fff">AHOJ Z PRAHY</text>
+    </g></svg>

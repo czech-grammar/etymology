@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="8" y="50" width="104" height="46" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="16" y="6" width="88" height="46" fill="#b5722f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M22 50 V26 H30 V50 M34 50 V16 H42 V50 M46 50 V8 H54 V50 M58 50 V4 H66 V50 M70 50 V8 H78 V50 M82 50 V16 H90 V50 M94 50 V26 H102 V50" fill="#ddd" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M26 32 L26 44 M38 22 V44 M50 14 V44 M62 10 V44 M74 14 V44 M86 22 V44 M98 32 V44" stroke="#9aa0a8" stroke-width="2"/>
+    <rect x="16" y="60" width="88" height="24" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M27 60 V84 M38 60 V84 M49 60 V84 M60 60 V84 M71 60 V84 M82 60 V84 M93 60 V84" stroke="#333" stroke-width="1.5"/>
+    <g fill="#333">
+      <rect x="24" y="60" width="6" height="14"/><rect x="35" y="60" width="6" height="14"/><rect x="57" y="60" width="6" height="14"/><rect x="68" y="60" width="6" height="14"/><rect x="79" y="60" width="6" height="14"/>
+    </g></svg>

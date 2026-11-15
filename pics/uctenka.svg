@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M36 14 L40 7 L44 14 L48 7 L52 14 L56 7 L60 14 L64 7 L68 14 L72 7 L76 14 L80 7 L84 14 V64 H36 Z" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="60" y="27" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="9" fill="#333">ÚČTENKA</text>
+    <path d="M42 35 H62 M70 35 H78 M42 43 H58 M70 43 H78 M42 51 H64 M70 51 H78" stroke="#9aa0a8" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M42 57 H78" stroke="#333" stroke-width="1.5" stroke-dasharray="3 2"/>
+    <rect x="28" y="60" width="64" height="14" rx="3" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="10" y="72" width="100" height="22" rx="4" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="6" y="50" width="22" height="16" rx="2" fill="#1d2a5a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="17" y="62" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="9" fill="#6cc06a">89</text>
+    <g fill="#ddd">
+      <rect x="18" y="78" width="9" height="5" rx="1.5"/><rect x="31" y="78" width="9" height="5" rx="1.5"/><rect x="44" y="78" width="9" height="5" rx="1.5"/><rect x="57" y="78" width="9" height="5" rx="1.5"/><rect x="70" y="78" width="9" height="5" rx="1.5"/><rect x="83" y="78" width="9" height="5" rx="1.5"/>
+      <rect x="18" y="86" width="9" height="5" rx="1.5"/><rect x="31" y="86" width="9" height="5" rx="1.5"/><rect x="44" y="86" width="9" height="5" rx="1.5"/><rect x="57" y="86" width="9" height="5" rx="1.5"/><rect x="70" y="86" width="9" height="5" rx="1.5"/><rect x="83" y="86" width="9" height="5" rx="1.5"/>
+    </g></svg>

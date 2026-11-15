@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M6 90 Q30 72 54 58 Q80 42 114 24" fill="none" stroke="#333" stroke-width="12" stroke-linecap="round"/>
+    <path d="M6 90 Q30 72 54 58 Q80 42 114 24" fill="none" stroke="#8b4a2b" stroke-width="7" stroke-linecap="round"/>
+    <path d="M30 71 L26 60 M62 51 L66 42 M92 34 L88 24" fill="none" stroke="#333" stroke-width="6" stroke-linecap="round"/>
+    <path d="M30 71 L26 60 M62 51 L66 42 M92 34 L88 24" fill="none" stroke="#8b4a2b" stroke-width="3" stroke-linecap="round"/>
+    <ellipse cx="44" cy="80" rx="9" ry="5" transform="rotate(20 44 80)" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="78" cy="54" rx="9" ry="5" transform="rotate(25 78 54)" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="26" cy="51" rx="8" ry="10" fill="#f9c6da" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="26" cy="51" rx="8" ry="10" transform="rotate(72 26 62)" fill="#f9c6da" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="26" cy="51" rx="8" ry="10" transform="rotate(144 26 62)" fill="#f9c6da" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="26" cy="51" rx="8" ry="10" transform="rotate(216 26 62)" fill="#f9c6da" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="26" cy="51" rx="8" ry="10" transform="rotate(288 26 62)" fill="#f9c6da" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="26" cy="62" r="5" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="64" cy="24" rx="7" ry="9" fill="#f9c6da" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="64" cy="24" rx="7" ry="9" transform="rotate(72 64 34)" fill="#f9c6da" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="64" cy="24" rx="7" ry="9" transform="rotate(144 64 34)" fill="#f9c6da" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="64" cy="24" rx="7" ry="9" transform="rotate(216 64 34)" fill="#f9c6da" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="64" cy="24" rx="7" ry="9" transform="rotate(288 64 34)" fill="#f9c6da" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="64" cy="34" r="4.5" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="94" cy="60" rx="7" ry="9" fill="#f9c6da" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="94" cy="60" rx="7" ry="9" transform="rotate(72 94 70)" fill="#f9c6da" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="94" cy="60" rx="7" ry="9" transform="rotate(144 94 70)" fill="#f9c6da" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="94" cy="60" rx="7" ry="9" transform="rotate(216 94 70)" fill="#f9c6da" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="94" cy="60" rx="7" ry="9" transform="rotate(288 94 70)" fill="#f9c6da" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="94" cy="70" r="4.5" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M94 70 V52" fill="none" stroke="#8b4a2b" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="88" cy="18" r="5" fill="#e94b8a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M52 62 V56" fill="none" stroke="#8b4a2b" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="52" cy="52" r="5" fill="#e94b8a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>

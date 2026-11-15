@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M4 42 Q4 22 20 20 H48 Q64 22 64 42 V62 H4 Z" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M26 20 L34 34 L42 20" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M12 86 V48 Q8 36 14 26 L34 48 L54 26 Q60 36 56 48 V86 L46 92 L34 84 L22 92 Z" fill="#1d2a5a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M34 48 V84" stroke="#4fa3e3" stroke-width="1.5"/>
+    <circle cx="34" cy="58" r="2.2" fill="#f9c74f" stroke="#333" stroke-width="1.5"/>
+    <circle cx="34" cy="68" r="2.2" fill="#f9c74f" stroke="#333" stroke-width="1.5"/>
+    <circle cx="34" cy="78" r="2.2" fill="#f9c74f" stroke="#333" stroke-width="1.5"/>
+    <path d="M70 92 V44 Q66 34 72 28 L82 24 Q90 32 98 24 L108 28 Q114 34 110 44 V92 Z" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M70 56 H110 M70 68 H110 M70 80 H110" stroke="#c0392b" stroke-width="2.5"/>
+    <path d="M90 34 V92" stroke="#333" stroke-width="2" stroke-dasharray="3 2"/>
+    <path d="M76 26 L84 16 Q90 20 96 16 L104 26 Q90 32 76 26 Z" fill="#c0392b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>

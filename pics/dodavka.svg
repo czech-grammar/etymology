@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M4 92 H116" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="30" y="22" width="62" height="56" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="70" y="28" width="22" height="50" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="72" y="60" width="18" height="16" fill="#b5722f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="74" y="44" width="16" height="16" fill="#b5722f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M81 60 V76 M82 44 V60" stroke="#ffe08a" stroke-width="2"/>
+    <polygon points="92,22 114,10 114,66 92,78" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="96,28 110,20 110,36 96,44" fill="#bde0fe" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M30 78 H8 V58 Q8 40 24 40 H30 Z" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M12 56 V48 Q12 44 16 44 H28 V56 Z" fill="#bde0fe" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="30" y="60" width="40" height="7" fill="#4fa3e3"/>
+    <circle cx="12" cy="66" r="3" fill="#f9c74f" stroke="#333" stroke-width="1.5"/>
+    <circle cx="24" cy="82" r="8" fill="#333" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="24" cy="82" r="3" fill="#9aa0a8"/>
+    <circle cx="70" cy="82" r="8" fill="#333" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="70" cy="82" r="3" fill="#9aa0a8"/>
+    <rect x="98" y="76" width="16" height="16" fill="#b5722f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M106 76 V92" stroke="#ffe08a" stroke-width="2"/></svg>

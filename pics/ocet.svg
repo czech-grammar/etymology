@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="26" y="4" width="20" height="8" rx="2" fill="#c0392b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M30 12 H42 V24 Q54 30 54 40 V88 Q54 94 48 94 H24 Q18 94 18 88 V40 Q18 30 30 24 Z" fill="#ffe08a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="21" y="48" width="30" height="22" rx="2" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="36" y="63" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="9" fill="#333">OCET</text>
+    <ellipse cx="86" cy="42" rx="26" ry="9" fill="#8fd18a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M64 40 Q70 30 78 38 Q86 28 96 36 Q104 30 108 40" fill="#8fd18a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="94" cy="42" r="5.5" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M58 46 Q62 72 86 72 Q110 72 114 46 Z" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="86" cy="86" rx="28" ry="7" fill="#3f9d55" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M66 84 Q86 80 104 84" fill="none" stroke="#8fd18a" stroke-width="2" stroke-linecap="round"/></svg>

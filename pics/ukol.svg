@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M24 42 Q24 26 38 26 Q52 26 52 42" fill="none" stroke="#333" stroke-width="7" stroke-linecap="round"/>
+    <path d="M24 42 Q24 26 38 26 Q52 26 52 42" fill="none" stroke="#c0392b" stroke-width="3" stroke-linecap="round"/>
+    <rect x="8" y="38" width="60" height="20" rx="6" fill="#c0392b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="26" y="6" width="44" height="66" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="48" y="30" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="18" fill="#e63946">DÚ</text>
+    <path d="M34 40 H62 M34 47 H56" fill="none" stroke="#9aa0a8" stroke-width="2.5" stroke-linecap="round"/>
+    <rect x="8" y="50" width="60" height="44" rx="8" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="22" y="66" width="32" height="20" rx="4" fill="#c0392b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="98" cy="24" r="15" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M98 24 V14 M98 24 H105" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="98" cy="24" r="2" fill="#333"/>
+    <path d="M84 62 H112 L104 46 H92 Z" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M98 62 V88" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="84" y="86" width="28" height="8" rx="3" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>

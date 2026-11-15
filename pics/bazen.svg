@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M4 26 L60 6 L116 26 Z" fill="#c0392b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="4" y="26" width="112" height="20" fill="#dff3ff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M24 26 V46 M44 26 V46 M64 26 V46 M84 26 V46 M104 26 V46" fill="none" stroke="#bde0fe" stroke-width="1.5"/>
+    <rect x="4" y="44" width="112" height="8" fill="#ddd" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="4" y="50" width="112" height="46" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M4 64 H116 M4 80 H116" fill="none" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+    <path d="M4 64 H116 M4 80 H116" fill="none" stroke="#e63946" stroke-width="3" stroke-dasharray="6 6"/>
+    <path d="M4 64 H116 M4 80 H116" fill="none" stroke="#fff" stroke-width="3" stroke-dasharray="6 6" stroke-dashoffset="6"/>
+    <path d="M94 76 V36 Q94 30 100 30 Q106 30 106 36 V76" fill="none" stroke="#333" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M94 76 V36 Q94 30 100 30 Q106 30 106 36 V76" fill="none" stroke="#ddd" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M94 48 H106 M94 58 H106 M94 68 H106" fill="none" stroke="#333" stroke-width="6" stroke-linecap="round"/>
+    <path d="M94 48 H106 M94 58 H106 M94 68 H106" fill="none" stroke="#ddd" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M12 91 q4 -3 8 0 t8 0 M36 92 q4 -3 8 0 t8 0 M62 91 q4 -3 8 0 t8 0" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/></svg>

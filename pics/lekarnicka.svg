@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="30" y="32" width="8" height="12" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="82" y="32" width="8" height="12" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="14" y="6" width="92" height="30" rx="4" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M55 11 H65 V16 H70 V26 H65 V31 H55 V26 H50 V16 H55 Z" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="14" y="40" width="92" height="52" rx="4" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="16" y="42" width="88" height="5" fill="#e63946"/>
+    <circle cx="34" cy="70" r="14" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="34" cy="70" r="9.5" fill="none" stroke="#ddd" stroke-width="1.5"/>
+    <circle cx="34" cy="70" r="5" fill="#ddd" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(64 62) rotate(-15)">
+      <rect x="-14" y="-4.5" width="28" height="9" rx="4.5" fill="#e8c39e" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="-5" y="-2.5" width="10" height="5" rx="1" fill="#fff2e0" stroke="#333" stroke-width="1.5"/>
+    </g>
+    <g transform="translate(64 78) rotate(-15)">
+      <rect x="-14" y="-4.5" width="28" height="9" rx="4.5" fill="#e8c39e" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="-5" y="-2.5" width="10" height="5" rx="1" fill="#fff2e0" stroke="#333" stroke-width="1.5"/>
+    </g>
+    <polygon points="85,50 90,50 98,74 94,76" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="100,50 95,50 87,74 91,76" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="92.5" cy="64" r="2" fill="#333"/>
+    <circle cx="85" cy="82" r="5.5" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="97" cy="82" r="5.5" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>

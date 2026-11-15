@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="18" y="6" width="84" height="88" fill="#dff3ff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="28" y="12" width="64" height="16" rx="2" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="60" y="24.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="12" fill="#e63946">FIRMA</text>
+    <circle cx="60" cy="42" r="8" fill="#f4a261" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="60,36.5 61.6,40.6 66,40.9 62.6,43.7 63.7,48 60,45.6 56.3,48 57.4,43.7 54,40.9 58.4,40.6" fill="#fff"/>
+    <g fill="#4fa3e3" stroke="#333" stroke-width="2">
+      <rect x="26" y="34" width="12" height="12"/><rect x="82" y="34" width="12" height="12"/>
+      <rect x="26" y="52" width="12" height="12"/><rect x="54" y="54" width="12" height="10"/><rect x="82" y="52" width="12" height="12"/>
+    </g>
+    <path d="M6 88 H40 V70 H6 Z" fill="#1d2a5a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M114 88 H80 V70 H114 Z" fill="#1d2a5a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M82 72 H62 Q50 72 50 80 Q50 88 62 88 H82 Z" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M38 72 H60 Q72 72 72 80 Q72 88 60 88 H38 Z" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M56 77 H68 M56 81.5 H70 M56 86 H68" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M42 74 Q50 66 58 74" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>

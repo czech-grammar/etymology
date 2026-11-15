@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M28 96 L58 34 H62 L92 96 Z" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M60 46 V52 M60 60 V70 M60 80 V96" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M14 96 V70 M106 96 V70" stroke="#333" stroke-width="7" stroke-linecap="round"/>
+    <path d="M14 96 V70 M106 96 V70" stroke="#8b4a2b" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="14" cy="54" r="16" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="106" cy="54" r="16" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M32 74 V58 M88 74 V58" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+    <path d="M32 74 V58 M88 74 V58" stroke="#8b4a2b" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="32" cy="48" r="10.5" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="88" cy="48" r="10.5" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M45 60 V50 M75 60 V50" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+    <path d="M45 60 V50 M75 60 V50" stroke="#8b4a2b" stroke-width="1.8" stroke-linecap="round"/>
+    <circle cx="45" cy="43" r="7" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="75" cy="43" r="7" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="53" cy="38" r="4.5" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="67" cy="38" r="4.5" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="60" cy="35" r="3.5" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>

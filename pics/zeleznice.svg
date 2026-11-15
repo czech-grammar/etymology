@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M11.7 77.7 L68.3 98.3 M26.8 62.4 L66.6 83.4 M37.4 53.5 L67.3 73.0 M46.9 46.5 L69.3 63.7 M55.8 40.6 L72.3 55.3 M64.2 35.5 L76.1 47.6 M72.3 30.9 L80.7 40.4 M80.1 26.6 L85.8 33.9 M87.8 22.6 L91.5 27.9" stroke="#333" stroke-width="7" stroke-linecap="round"/>
+    <path d="M11.7 77.7 L68.3 98.3 M26.8 62.4 L66.6 83.4 M37.4 53.5 L67.3 73.0 M46.9 46.5 L69.3 63.7 M55.8 40.6 L72.3 55.3 M64.2 35.5 L76.1 47.6 M72.3 30.9 L80.7 40.4 M80.1 26.6 L85.8 33.9 M87.8 22.6 L91.5 27.9" stroke="#b5722f" stroke-width="4" stroke-linecap="round"/>
+    <path d="M16.0 79.3 L22.4 71.8 L29.0 64.9 L35.7 58.4 L42.7 52.5 L49.7 46.9 L57.0 41.7 L64.3 36.9 L71.8 32.2 L79.4 27.8 L87.2 23.5 L95.2 19.1 L103.2 14.7 M64.0 96.7 L63.4 89.7 L63.5 82.7 L64.3 75.6 L65.8 68.4 L68.0 61.3 L71.0 54.3 L74.8 47.4 L79.3 40.7 L84.6 34.2 L90.6 28.1 L97.3 22.4 L104.8 17.3" fill="none" stroke="#333" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M16.0 79.3 L22.4 71.8 L29.0 64.9 L35.7 58.4 L42.7 52.5 L49.7 46.9 L57.0 41.7 L64.3 36.9 L71.8 32.2 L79.4 27.8 L87.2 23.5 L95.2 19.1 L103.2 14.7 M64.0 96.7 L63.4 89.7 L63.5 82.7 L64.3 75.6 L65.8 68.4 L68.0 61.3 L71.0 54.3 L74.8 47.4 L79.3 40.7 L84.6 34.2 L90.6 28.1 L97.3 22.4 L104.8 17.3" fill="none" stroke="#9aa0a8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M22 70 V38" stroke="#333" stroke-width="6" stroke-linecap="round"/>
+    <path d="M22 70 V38" stroke="#9aa0a8" stroke-width="3" stroke-linecap="round"/>
+    <rect x="6" y="18" width="32" height="9" rx="2" transform="rotate(30 22 22.5)" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="6" y="18" width="32" height="9" rx="2" transform="rotate(-30 22 22.5)" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="8.5" y="20.5" width="27" height="4" rx="1" transform="rotate(30 22 22.5)" fill="#fff"/>
+    <rect x="8.5" y="20.5" width="27" height="4" rx="1" transform="rotate(-30 22 22.5)" fill="#fff"/></svg>

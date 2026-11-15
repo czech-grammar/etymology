@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M14 62 Q16 40 32 44 Q34 24 52 32 Q60 16 74 30 Q90 22 94 42 Q108 42 106 62 Z" fill="#8fd18a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M26 54 Q34 46 44 52 M56 40 Q64 36 72 42 M82 54 Q90 48 98 54 M48 60 Q56 64 64 58" fill="none" stroke="#3f9d55" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="40" cy="46" r="9" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="40" cy="46" r="5.5" fill="#ffb4a2"/>
+    <circle cx="76" cy="44" r="9" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="76" cy="44" r="5.5" fill="#ffb4a2"/>
+    <g transform="translate(108 8) rotate(30)">
+      <rect x="-3" y="0" width="6" height="40" rx="3" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="-8" y="38" width="16" height="10" rx="3" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M-6 48 V58 M-2 48 V58 M2 48 V58 M6 48 V58" fill="none" stroke="#333" stroke-width="5" stroke-linecap="round"/>
+      <path d="M-6 48 V58 M-2 48 V58 M2 48 V58 M6 48 V58" fill="none" stroke="#9aa0a8" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <path d="M12 62 A48 8 0 0 0 108 62 Q108 92 60 92 Q12 92 12 62 Z" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>

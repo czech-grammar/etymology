@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M2 88 Q6 26 60 18 Q114 26 118 88 Z" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="18" cy="52" r="8" fill="#3f9d55" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="102" cy="48" r="8" fill="#3f9d55" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M60 26 Q40 30 34 46 M60 26 Q80 30 88 44" fill="none" stroke="#3f9d55" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M22 88 V60 a38 38 0 0 1 76 0 V88 Z" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M32 88 V60 a28 28 0 0 1 56 0 V88 Z" fill="#333" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="40" cy="54" r="2.5" fill="#f9c74f"/><circle cx="46" cy="60" r="2" fill="#f9c74f"/><circle cx="51" cy="65" r="1.5" fill="#f9c74f"/>
+    <circle cx="80" cy="54" r="2.5" fill="#f9c74f"/><circle cx="74" cy="60" r="2" fill="#f9c74f"/><circle cx="69" cy="65" r="1.5" fill="#f9c74f"/>
+    <rect x="2" y="86" width="116" height="10" fill="#777" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M8 91 H20 M28 91 H40 M80 91 H92 M100 91 H112" stroke="#fff" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M50 68 L54 57 H68 L72 68 Z" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="55" y="58" width="12" height="8" rx="1" fill="#bde0fe" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="44" y="68" width="34" height="17" rx="3" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="49" cy="78" r="2.5" fill="#f9c74f"/><circle cx="73" cy="78" r="2.5" fill="#f9c74f"/>
+    <ellipse cx="51" cy="86" rx="5.5" ry="3" fill="#333"/><ellipse cx="71" cy="86" rx="5.5" ry="3" fill="#333"/></svg>

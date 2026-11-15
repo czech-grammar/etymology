@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M8 20 H16 M8 30 H16 M8 40 H16 M8 50 H16 M8 60 H16 M8 70 H16 M8 80 H16 M104 20 H112 M104 30 H112 M104 40 H112 M104 50 H112 M104 60 H112 M104 70 H112 M104 80 H112" fill="none" stroke="#333" stroke-width="6" stroke-linecap="round"/>
+    <path d="M8 20 H16 M8 30 H16 M8 40 H16 M8 50 H16 M8 60 H16 M8 70 H16 M8 80 H16 M104 20 H112 M104 30 H112 M104 40 H112 M104 50 H112 M104 60 H112 M104 70 H112 M104 80 H112" fill="none" stroke="#ffe08a" stroke-width="3" stroke-linecap="round"/>
+    <rect x="16" y="12" width="88" height="76" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="26" y="22" width="68" height="56" fill="none" stroke="#f9c74f" stroke-width="3"/>
+    <polygon points="60,34 78,50 60,66 42,50" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="60,42 68,50 60,58 52,50" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="34" cy="30" r="3"/><circle cx="86" cy="30" r="3"/><circle cx="34" cy="70" r="3"/><circle cx="86" cy="70" r="3"/></g></svg>

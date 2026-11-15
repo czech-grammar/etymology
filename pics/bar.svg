@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="6" y="26" width="108" height="6" fill="#b5722f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="12" y="12" width="10" height="14" rx="1" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="15" y="5" width="4" height="8" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="26" y="14" width="10" height="12" rx="1" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="29" y="7" width="4" height="8" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="88" y="12" width="10" height="14" rx="1" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="91" y="5" width="4" height="8" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="102" y="14" width="10" height="12" rx="1" fill="#c7b6f5" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="105" y="7" width="4" height="8" fill="#c7b6f5" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="50" y="4" width="30" height="20" rx="3" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="65" y="19" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="13" fill="#fff">BAR</text>
+    <rect x="42" y="38" width="14" height="16" rx="1" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="49" cy="38" rx="7" ry="3" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="2" y="52" width="116" height="10" rx="2" fill="#b5722f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="8" y="62" width="104" height="26" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M8 76 H112" stroke="#5a3a22" stroke-width="2"/>
+    <path d="M30 70 V90 M86 70 V90" stroke="#333" stroke-width="8" stroke-linecap="round"/>
+    <path d="M30 70 V90 M86 70 V90" stroke="#9aa0a8" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M22 82 H38 M78 82 H94" stroke="#9aa0a8" stroke-width="3" stroke-linecap="round"/>
+    <ellipse cx="30" cy="68" rx="12" ry="4.5" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="86" cy="68" rx="12" ry="4.5" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="30" cy="93" rx="10" ry="3.5" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="86" cy="93" rx="10" ry="3.5" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>

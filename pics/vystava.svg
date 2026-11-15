@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="14" y="6" width="92" height="16" rx="3" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="60" y="18" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="11" fill="#fff">VÝSTAVA</text>
+    <rect x="8" y="66" width="22" height="30" fill="#ddd" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="42" y="58" width="24" height="38" fill="#ddd" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="76" y="70" width="20" height="26" fill="#ddd" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M14 66 Q8 52 17 44 L16 36 H22 L21 44 Q30 52 24 66 Z" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M44 58 Q44 46 54 46 Q64 46 64 58 Z" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="54" cy="36" r="9" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="51" cy="35" r="1.5" fill="#333"/><circle cx="57" cy="35" r="1.5" fill="#333"/>
+    <path d="M52 40 Q54 42 56 40" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+    <circle cx="86" cy="58" r="10" fill="#f4a261" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="86" cy="58" r="3" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M105 80 V94 M111 80 V94" fill="none" stroke="#333" stroke-width="6" stroke-linecap="round"/>
+    <path d="M105 80 V94 M111 80 V94" fill="none" stroke="#1d2a5a" stroke-width="3" stroke-linecap="round"/>
+    <path d="M102 55 H114 L117 80 H99 Z" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="108" cy="48" r="7" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M101 48 Q101 40 108 40 Q115 40 115 48 Q110 44 101 48 Z" fill="#3b2a1a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="104.5" cy="49" r="1.4" fill="#333"/><circle cx="109" cy="49" r="1.4" fill="#333"/>
+    <path d="M104 52 Q106.5 54 109 52" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round"/></svg>

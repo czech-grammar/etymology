@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M6 92 H114" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M34 36 Q30 24 24 16 Q40 26 54 24 Q70 26 86 16 Q78 26 76 36 Z" fill="#e8c48a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M30 40 Q20 66 26 84 Q28 92 42 92 H70 Q84 92 84 82 Q88 62 80 40 Z" fill="#dcb27a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M40 52 Q38 70 42 88 M56 50 Q55 70 56 88 M70 52 Q73 70 70 88" fill="none" stroke="#c49a5e" stroke-width="2.5" stroke-linecap="round"/>
+    <rect x="26" y="34" width="58" height="9" rx="4" fill="#b5722f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M34 34 L40 43 M48 34 L54 43 M62 34 L68 43 M74 34 L80 43" fill="none" stroke="#8b4a2b" stroke-width="2"/>
+    <ellipse cx="70" cy="26" rx="9" ry="7" fill="#c49a5e" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-15 70 26)"/>
+    <ellipse cx="86" cy="44" rx="10" ry="7.5" fill="#c49a5e" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="rotate(25 86 44)"/>
+    <ellipse cx="96" cy="64" rx="10" ry="7.5" fill="#c49a5e" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-20 96 64)"/>
+    <ellipse cx="94" cy="84" rx="11" ry="8" fill="#c49a5e" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="108" cy="86" rx="8" ry="6" fill="#c49a5e" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="rotate(15 108 86)"/>
+    <g fill="#8b4a2b"><circle cx="68" cy="24" r="1.2"/><circle cx="73" cy="28" r="1.2"/><circle cx="84" cy="42" r="1.2"/><circle cx="89" cy="47" r="1.2"/><circle cx="94" cy="62" r="1.2"/><circle cx="99" cy="67" r="1.2"/><circle cx="91" cy="82" r="1.2"/><circle cx="97" cy="87" r="1.2"/><circle cx="107" cy="85" r="1.2"/></g></svg>

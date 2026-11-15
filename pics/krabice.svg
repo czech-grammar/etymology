@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="26" y="8" width="56" height="24" fill="#e8c48a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="10,44 26,30 20,12 4,26" fill="#e8c48a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="66,44 82,30 90,12 74,26" fill="#e8c48a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="10,44 66,44 82,30 26,30" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="10" y="44" width="56" height="48" fill="#dcb27a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="66,44 82,30 82,78 66,92" fill="#c49a5e" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="10" y="44" width="56" height="18" fill="#e8c48a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M22 72 H54" fill="none" stroke="#8b4a2b" stroke-width="2.5" stroke-linecap="round"/>
+    <polygon points="88,72 110,72 116,66 94,66" fill="#e8c48a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="88" y="72" width="22" height="20" fill="#dcb27a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="110,72 116,66 116,86 110,92" fill="#c49a5e" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M99 66 L99 72" fill="none" stroke="#8b4a2b" stroke-width="2" stroke-linecap="round"/></svg>

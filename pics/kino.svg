@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="8" y="30" width="104" height="66" fill="#c7b6f5" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="44" y="60" width="32" height="36" fill="#5a3a22" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M60 60 V96" stroke="#333" stroke-width="2"/>
+    <rect x="49" y="66" width="6" height="8" fill="#bde0fe"/><rect x="65" y="66" width="6" height="8" fill="#bde0fe"/>
+    <rect x="4" y="8" width="112" height="26" rx="4" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#f9c74f">
+      <circle cx="12" cy="13" r="2"/><circle cx="24" cy="13" r="2"/><circle cx="36" cy="13" r="2"/><circle cx="48" cy="13" r="2"/><circle cx="60" cy="13" r="2"/><circle cx="72" cy="13" r="2"/><circle cx="84" cy="13" r="2"/><circle cx="96" cy="13" r="2"/><circle cx="108" cy="13" r="2"/>
+      <circle cx="12" cy="21" r="2"/><circle cx="12" cy="29" r="2"/><circle cx="108" cy="21" r="2"/><circle cx="108" cy="29" r="2"/>
+    </g>
+    <text x="60" y="30" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="15" fill="#e63946">KINO</text>
+    <circle cx="18" cy="58" r="5" fill="#ffe08a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="34" cy="58" r="5" fill="#ffe08a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="26" cy="52" r="6" fill="#ffe08a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="26" cy="60" r="4.5" fill="#ffe08a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M12 62 H40 L36 96 H16 Z" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M19 65 L21 93 M26 65 V93 M33 65 L31 93" stroke="#e63946" stroke-width="4" stroke-linecap="round"/>
+    <g transform="translate(94 80) rotate(-20)">
+      <rect x="-17" y="-9" width="34" height="18" rx="2" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M-7 -9 V9" stroke="#333" stroke-width="1.5" stroke-dasharray="2 2"/>
+      <path d="M-2 -2 H12 M-2 3 H8" stroke="#c9a227" stroke-width="2.5" stroke-linecap="round"/>
+    </g></svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="40" y="10" width="42" height="20" rx="3" fill="#1d2a5a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="61" y="25" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="12" fill="#6cc06a">45 Kč</text>
+    <rect x="57" y="30" width="8" height="8" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="26" y="20" width="14" height="18" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M29 26 H37 M29 31 H37" stroke="#bbb" stroke-width="2" stroke-linecap="round"/>
+    <path d="M24 66 L28 38 H94 L98 66 Z" fill="#ddd" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#7a7f87">
+      <rect x="40" y="44" width="8" height="6" rx="1.5"/><rect x="52" y="44" width="8" height="6" rx="1.5"/><rect x="64" y="44" width="8" height="6" rx="1.5"/><rect x="76" y="44" width="8" height="6" rx="1.5"/>
+      <rect x="39" y="54" width="8" height="6" rx="1.5"/><rect x="51" y="54" width="8" height="6" rx="1.5"/><rect x="63" y="54" width="8" height="6" rx="1.5"/><rect x="75" y="54" width="8" height="6" rx="1.5"/>
+    </g>
+    <rect x="12" y="66" width="96" height="28" rx="4" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="20" y="72" width="80" height="16" rx="2" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="50" y="78" width="20" height="4" rx="2" fill="#ddd"/></svg>

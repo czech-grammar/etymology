@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><polygon points="40,78 84,78 80,72 44,72" fill="#ddd" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="36,92 88,92 84,78 40,78" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="62" y="88.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="8" fill="#333">STŘÍBRO</text>
+    <path d="M70 6 H94 L88 32 H76 Z" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="82" cy="44" r="15" fill="#ddd" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="82" cy="44" r="10" fill="none" stroke="#9aa0a8" stroke-width="2"/>
+    <text x="82" y="50.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="18" fill="#333">2</text>
+    <path d="M28 37 L48 70" fill="none" stroke="#333" stroke-width="8" stroke-linecap="round"/>
+    <path d="M28 37 L48 70" fill="none" stroke="#ddd" stroke-width="4.5" stroke-linecap="round"/>
+    <ellipse cx="22" cy="26" rx="10" ry="13" transform="rotate(-30 22 26)" fill="#ddd" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="22" cy="26" rx="6" ry="8.5" transform="rotate(-30 22 26)" fill="#9aa0a8"/>
+    <polygon points="46,13 47.5,17.5 52,19 47.5,20.5 46,25 44.5,20.5 40,19 44.5,17.5" fill="#ddd" stroke="#333" stroke-width="1.5"/>
+    <polygon points="108,56 109.5,60.5 114,62 109.5,63.5 108,68 106.5,63.5 102,62 106.5,60.5" fill="#ddd" stroke="#333" stroke-width="1.5"/>
+    <polygon points="12,58 13.5,62.5 18,64 13.5,65.5 12,70 10.5,65.5 6,64 10.5,62.5" fill="#ddd" stroke="#333" stroke-width="1.5"/></svg>

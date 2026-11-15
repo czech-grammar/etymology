@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="92" y="80" width="6" height="16" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="78" y="36" width="34" height="46" rx="3" fill="#f4a261" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="84" y="46" width="22" height="5" rx="1" fill="#333"/>
+    <path d="M30 46 L50 46 L62 96 L18 96 Z" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M48 48 L14 62" fill="none" stroke="#8b4a2b" stroke-width="5" stroke-linecap="round"/>
+    <rect x="10" y="52" width="12" height="9" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="20" y="50" width="12" height="9" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M10 52 L16 57 L22 52 M20 50 L26 55 L32 50" fill="none" stroke="#333" stroke-width="1.5"/>
+    <rect x="6" y="60" width="30" height="26" rx="3" fill="#b5722f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="6" y="60" width="30" height="7" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="40" cy="32" r="14" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M26 32 Q26 14 40 14 Q54 14 54 32 Q50 23 40 23 Q30 23 26 32 Z" fill="#3b2a1a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M26 28 Q26 12 40 12 Q54 12 54 28 Z" fill="#1d2a5a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="24" y="26" width="32" height="5" rx="2" fill="#1d2a5a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="35" cy="34" r="2.2" fill="#333"/><circle cx="45" cy="34" r="2.2" fill="#333"/>
+    <path d="M34 40 Q40 46 46 40" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="70" y="40" width="16" height="10" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M70 40 L78 46 L86 40" fill="none" stroke="#333" stroke-width="1.5"/>
+    <path d="M50 56 L72 46" fill="none" stroke="#333" stroke-width="9" stroke-linecap="round"/>
+    <path d="M50 56 L72 46" fill="none" stroke="#ffd8b8" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="72" cy="46" r="4.5" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="20" y="16" width="86" height="28" rx="14" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="4" y="12" width="26" height="36" rx="4" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="42" cy="26" r="4" fill="#ffb4a2"/><circle cx="54" cy="34" r="4" fill="#ffb4a2"/><circle cx="62" cy="22" r="4" fill="#ffb4a2"/><circle cx="74" cy="32" r="4" fill="#ffb4a2"/><circle cx="84" cy="24" r="4" fill="#ffb4a2"/><circle cx="94" cy="34" r="4" fill="#ffb4a2"/><circle cx="48" cy="38" r="4" fill="#ffb4a2"/>
+    <circle cx="42" cy="26" r="2.2" fill="#e63946"/><circle cx="54" cy="34" r="2.2" fill="#e63946"/><circle cx="62" cy="22" r="2.2" fill="#e63946"/><circle cx="74" cy="32" r="2.2" fill="#e63946"/><circle cx="84" cy="24" r="2.2" fill="#e63946"/><circle cx="94" cy="34" r="2.2" fill="#e63946"/><circle cx="48" cy="38" r="2.2" fill="#e63946"/>
+    <rect x="22" y="62" width="60" height="26" rx="6" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="30" y="70" width="44" height="10" fill="#4fa3e3"/>
+    <text x="52" y="78" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="8" fill="#fff">KRÉM</text>
+    <rect x="82" y="69" width="10" height="12" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="92" y="66" width="12" height="18" rx="3" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>

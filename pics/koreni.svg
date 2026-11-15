@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="4" y="76" width="112" height="7" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M12 83 L18 94 M108 83 L102 94" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+    <rect x="12" y="24" width="18" height="8" rx="2" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="8" y="30" width="26" height="46" rx="4" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="10" y="44" width="22" height="12" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="21" y="53" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="5.5" fill="#333">PAPRIKA</text>
+    <rect x="44" y="24" width="18" height="8" rx="2" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="40" y="30" width="26" height="46" rx="4" fill="#b5722f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="42" y="44" width="22" height="12" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="53" y="53" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="6.5" fill="#333">KMÍN</text>
+    <rect x="76" y="24" width="18" height="8" rx="2" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="72" y="30" width="26" height="46" rx="4" fill="#333" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="74" y="44" width="22" height="12" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="85" y="53" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="6.5" fill="#333">PEPŘ</text>
+    <path d="M102 76 Q98 60 108 44 Q118 58 108 76 Z" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M108 44 Q110 36 116 36" fill="none" stroke="#3f9d55" stroke-width="3" stroke-linecap="round"/></svg>

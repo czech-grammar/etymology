@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><polygon points="52,16 62,36.7 84.9,35 72,54 84.9,73 62,71.3 52,92 42,71.3 19.1,73 32,54 19.1,35 42,36.7" fill="#f4a261" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="52,28 58.5,42.7 74.5,41 65,54 74.5,67 58.5,65.3 52,80 45.5,65.3 29.5,67 39,54 29.5,41 45.5,42.7" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="52" y="61" text-anchor="middle" font-size="17" font-family="Arial, Helvetica, sans-serif" font-weight="bold" fill="#c0392b">BUM!</text>
+    <path d="M102 24 V12 M102 24 L112 15 M102 24 L114 26 M102 24 L110 35 M102 24 L100 37 M102 24 L91 33 M102 24 L89 23 M102 24 L92 13" fill="none" stroke="#e94b8a" stroke-width="3" stroke-linecap="round"/>
+    <g fill="#5a3fbf">
+      <circle cx="102" cy="10" r="2.4"/><circle cx="113" cy="13.6" r="2.4"/><circle cx="115.6" cy="26.4" r="2.4"/>
+      <circle cx="111" cy="36.6" r="2.4"/><circle cx="99.6" cy="38.6" r="2.4"/><circle cx="89.6" cy="34.4" r="2.4"/>
+      <circle cx="87.4" cy="22.8" r="2.4"/><circle cx="90.8" cy="11.6" r="2.4"/>
+    </g>
+    <path d="M10 12 V22 M5 17 H15" stroke="#f9c74f" stroke-width="3" stroke-linecap="round"/>
+    <path d="M100 60 V70 M95 65 H105" stroke="#f9c74f" stroke-width="3" stroke-linecap="round"/></svg>

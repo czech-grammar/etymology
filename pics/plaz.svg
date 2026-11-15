@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M4 4 H116 V40 Q100 32 84 40 Q68 48 52 40 Q36 32 20 40 Q12 44 4 40 Z" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M16 20 Q24 14 32 20 M62 24 Q70 18 78 24 M90 14 Q98 8 106 14" fill="none" stroke="#dff3ff" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M4 40 Q12 44 20 40 Q36 32 52 40 Q68 48 84 40 Q100 32 116 40 V96 H4 Z" fill="#ffe08a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M8 44 Q14 46 20 44 Q36 36 52 44 Q68 52 84 44 Q100 36 114 44" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+    <rect x="66" y="70" width="42" height="20" fill="#f4a261" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M66 70 V64 H72 V70 M78 70 V64 H84 V70 M90 70 V64 H96 V70 M102 70 V64 H108 V70" fill="#f4a261" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="79" y="48" width="16" height="24" fill="#f4a261" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M79 48 V42 H84 V48 M90 48 V42 H95 V48" fill="#f4a261" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M83 90 V82 A4 4 0 0 1 91 82 V90 Z" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M87 42 V28" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M87 28 L99 33 L87 38 Z" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="18" cy="56" rx="3.5" ry="5.5" transform="rotate(-20 18 56)" fill="#f4a261" stroke="#333" stroke-width="1.5"/>
+    <ellipse cx="30" cy="64" rx="3.5" ry="5.5" transform="rotate(-20 30 64)" fill="#f4a261" stroke="#333" stroke-width="1.5"/>
+    <ellipse cx="24" cy="74" rx="3.5" ry="5.5" transform="rotate(-20 24 74)" fill="#f4a261" stroke="#333" stroke-width="1.5"/>
+    <ellipse cx="36" cy="82" rx="3.5" ry="5.5" transform="rotate(-20 36 82)" fill="#f4a261" stroke="#333" stroke-width="1.5"/>
+    <ellipse cx="30" cy="92" rx="3.5" ry="5.5" transform="rotate(-20 30 92)" fill="#f4a261" stroke="#333" stroke-width="1.5"/></svg>

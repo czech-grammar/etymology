@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M4 52 V20 Q30 8 60 14 Q90 20 116 10 V52 Z" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M18 34 Q24 30 30 34 M84 28 Q90 24 96 28 M100 40 Q106 36 112 40" fill="none" stroke="#dff3ff" stroke-width="2" stroke-linecap="round"/>
+    <path d="M14 44 V22 M22 44 V26" stroke="#3f9d55" stroke-width="2.5" stroke-linecap="round"/>
+    <ellipse cx="14" cy="22" rx="2.5" ry="5" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="22" cy="26" rx="2.5" ry="5" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="44" cy="47" rx="10" ry="5.5" fill="#3b2a1a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M38 44 L50 50 M40 50 L48 44 M44 42 V52" stroke="#8b4a2b" stroke-width="1.2"/>
+    <ellipse cx="60" cy="42" rx="14" ry="9.5" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="75" cy="38" r="7.5" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="72" cy="31" r="2.5" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="77" cy="36" r="1.4" fill="#333"/>
+    <circle cx="81.5" cy="39" r="1.8" fill="#333"/>
+    <rect x="77.5" y="41.5" width="4.5" height="4" fill="#fff" stroke="#333" stroke-width="1"/>
+    <rect x="4" y="50" width="112" height="14" fill="#6cc06a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="4" y="64" width="112" height="16" fill="#3f9d55" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M14 50 L16 44 L19 50 M40 50 L42 45 L45 50 M96 50 L98 44 L101 50 M70 50 L72 45 L75 50" fill="none" stroke="#3f9d55" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M10 88 Q20 82 30 88 T50 88 T70 88 T90 88 T110 88" fill="none" stroke="#bde0fe" stroke-width="3" stroke-linecap="round"/></svg>

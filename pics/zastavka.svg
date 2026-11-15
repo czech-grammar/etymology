@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="48" y="24" width="64" height="52" fill="#dff3ff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="42" y="14" width="76" height="10" rx="2" fill="#2a9d8f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="46" y="24" width="4" height="72" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="110" y="24" width="4" height="72" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="56" y="66" width="46" height="6" rx="2" fill="#b5722f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M60 72 V80 M98 72 V80" stroke="#8b4a2b" stroke-width="4" stroke-linecap="round"/>
+    <path d="M72 34 L69 54 M92 34 L95 54" stroke="#8b4a2b" stroke-width="7" stroke-linecap="round"/>
+    <path d="M74 52 H90 L96 96 H68 Z" fill="#e94b8a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="82" cy="38" r="12" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M70 38 Q70 22 82 22 Q94 22 94 38 Q90 30 82 30 Q74 30 70 38 Z" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="78" cy="39" r="1.8" fill="#333"/><circle cx="86" cy="39" r="1.8" fill="#333"/>
+    <path d="M78 44 Q82 48 86 44" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+    <rect x="20" y="42" width="4" height="54" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="6" y="8" width="32" height="34" rx="3" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="10" y="16" width="24" height="16" rx="3" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="13" y="19" width="7" height="6" fill="#fff"/><rect x="24" y="19" width="7" height="6" fill="#fff"/>
+    <circle cx="16" cy="33" r="3" fill="#333"/><circle cx="28" cy="33" r="3" fill="#333"/></svg>

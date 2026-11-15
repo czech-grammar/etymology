@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="14" y="4" width="82" height="92" rx="3" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="12" fill="#333">
+      <text x="22" y="32">1.</text><text x="22" y="56">2.</text><text x="22" y="80">3.</text>
+    </g>
+    <path d="M40 32 H76 M40 56 H76 M40 80 H76" stroke="#bbb" stroke-width="2" stroke-linecap="round"/>
+    <path d="M42 28 Q48 22 54 28 T66 28 T74 28" fill="none" stroke="#4fa3e3" stroke-width="3" stroke-linecap="round"/>
+    <path d="M42 52 Q48 46 54 52 T64 52" fill="none" stroke="#4fa3e3" stroke-width="3" stroke-linecap="round"/>
+    <path d="M80 30 L86 36 L98 20" fill="none" stroke="#3f9d55" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(66 52) rotate(45)">
+      <polygon points="0,0 12,-6 12,6" fill="#ffe08a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <polygon points="0,0 5,-2.5 5,2.5" fill="#333"/>
+      <rect x="12" y="-6" width="36" height="12" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="48" y="-6" width="6" height="12" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="54" y="-6" width="8" height="12" rx="3" fill="#e94b8a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    </g></svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><g transform="rotate(-6 60 50)">
+      <path d="M12 26 H80 L83 31 L80 36 L83 41 L80 46 L83 51 L80 56 L83 61 L80 66 L83 71 L80 76 H12 a4 4 0 0 1 -4 -4 V30 a4 4 0 0 1 4 -4 Z" fill="#c7b6f5" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M108 26 H90 L87 31 L90 36 L87 41 L90 46 L87 51 L90 56 L87 61 L90 66 L87 71 L90 76 H108 a4 4 0 0 0 4 -4 V30 a4 4 0 0 0 -4 -4 Z" fill="#c7b6f5" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <polygon points="44,29 47.3,37.5 56.4,38 49.3,43.7 51.6,52.5 44,47.6 36.4,52.5 38.7,43.7 31.6,38 40.7,37.5" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="44" y="69" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#333">VSTUPENKA</text>
+      <text x="100" y="55" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#333">12</text>
+    </g></svg>

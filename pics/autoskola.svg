@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M4 92 H116" stroke="#333" stroke-width="3" stroke-linecap="round"/>
+    <rect x="32" y="6" width="56" height="16" rx="3" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="60" y="18" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="9" fill="#333">AUTOŠKOLA</text>
+    <path d="M60 22 V32" stroke="#333" stroke-width="3"/>
+    <path d="M22 58 L34 32 H90 L102 58 Z" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="6" y="56" width="108" height="26" rx="5" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M28 56 L38 36 H58 V56 Z" fill="#bde0fe" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M64 36 H86 L96 56 H64 Z" fill="#bde0fe" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="48" cy="48" r="7" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M41 48 Q41 41 48 41 Q55 41 55 48 Q52 45 48 45 Q44 45 41 48 Z" fill="#3b2a1a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="47" cy="49" r="1.2" fill="#333"/><circle cx="51" cy="49" r="1.2" fill="#333"/>
+    <circle cx="78" cy="48" r="7" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M71 48 Q71 41 78 41 Q85 41 85 48 L86 56 H70 Z" fill="#f2c14e" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M73 48 Q78 45 83 48 L83 56 H73 Z" fill="#ffd8b8"/>
+    <circle cx="77" cy="49" r="1.2" fill="#333"/><circle cx="81" cy="49" r="1.2" fill="#333"/>
+    <path d="M60 58 V80" stroke="#333" stroke-width="2"/>
+    <rect x="12" y="62" width="12" height="14" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="18" y="73.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="11" fill="#e63946">L</text>
+    <rect x="107" y="62" width="6" height="8" rx="1" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="30" cy="84" r="9" fill="#333" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="30" cy="84" r="3.5" fill="#9aa0a8"/>
+    <circle cx="92" cy="84" r="9" fill="#333" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="92" cy="84" r="3.5" fill="#9aa0a8"/></svg>

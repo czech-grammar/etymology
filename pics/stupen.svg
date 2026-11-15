@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="18" y="6" width="14" height="70" rx="7" fill="#dff3ff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="22" y="34" width="6" height="44" fill="#e63946"/>
+    <circle cx="25" cy="84" r="11" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M34 16 h5 M34 26 h5 M34 36 h5 M34 46 h5 M34 56 h5 M34 66 h5" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+    <rect x="46" y="18" width="68" height="40" rx="4" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="74" y="48" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="22" fill="#1d2a5a">20</text>
+    <circle cx="80" cy="32" r="5" fill="none" stroke="#e63946" stroke-width="3.5"/>
+    <text x="88" y="48" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="22" fill="#1d2a5a">C</text>
+    <path d="M76 94 H112 M76 94 V64" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M88 94 A12 12 0 0 0 76 82" fill="none" stroke="#e63946" stroke-width="3" stroke-linecap="round"/>
+    <text x="102" y="82" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#333">90°</text></svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="70" y="4" width="46" height="92" fill="#ddd" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="76" y="12" width="12" height="12" fill="#bde0fe" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="98" y="12" width="12" height="12" fill="#bde0fe" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="80" y="40" width="28" height="56" fill="#5a3a22" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M94 40 V96" stroke="#333" stroke-width="2"/>
+    <rect x="4" y="4" width="62" height="14" rx="2" fill="#1d2a5a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="35" y="14.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="9" fill="#fff">VRÁTNICE</text>
+    <rect x="8" y="18" width="54" height="34" fill="#dff3ff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="8" y="50" width="54" height="32" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M24 50 L26 42 H44 L46 50 Z" fill="#1d2a5a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="35" cy="34" r="9" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M25 32 Q25 22 35 22 Q45 22 45 32 Z" fill="#1d2a5a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M24 32 H46" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="32" cy="35" r="1.5" fill="#333"/><circle cx="38" cy="35" r="1.5" fill="#333"/>
+    <path d="M32 39 Q35 42 38 39" fill="none" stroke="#333" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="10" y="84" width="8" height="12" fill="#7a7f87" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="16" y="85" width="100" height="7" rx="3" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="24" y="85" width="10" height="7" fill="#e63946"/><rect x="44" y="85" width="10" height="7" fill="#e63946"/><rect x="64" y="85" width="10" height="7" fill="#e63946"/><rect x="84" y="85" width="10" height="7" fill="#e63946"/><rect x="104" y="85" width="10" height="7" fill="#e63946"/></svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="8" y="26" width="104" height="68" fill="#ffe08a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="14" y="6" width="92" height="18" rx="3" fill="#1d2a5a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="60" y="19" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="11" fill="#fff">SMĚNÁRNA</text>
+    <rect x="14" y="34" width="56" height="42" rx="2" fill="#333" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="19" y="41" width="12" height="8" fill="#1d2a5a" stroke="#fff" stroke-width="1"/>
+    <circle cx="25" cy="45" r="2" fill="#f9c74f"/>
+    <text x="36" y="48.5" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="8" fill="#6cc06a">EUR 25</text>
+    <rect x="19" y="55" width="12" height="8" fill="#fff" stroke="#fff" stroke-width="1"/>
+    <path d="M19 57 H31 M19 60 H31 M19 63 H31" stroke="#e63946" stroke-width="1.5"/>
+    <rect x="19" y="55" width="5" height="4.5" fill="#1d2a5a"/>
+    <text x="36" y="62.5" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="8" fill="#6cc06a">USD 23</text>
+    <path d="M19 69 H65" stroke="#7a7f87" stroke-width="1.5"/>
+    <rect x="76" y="34" width="28" height="16" rx="2" fill="#dff3ff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="90" y="46" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#333">€ $</text>
+    <rect x="80" y="58" width="22" height="36" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="98" cy="78" r="2.5" fill="#f9c74f"/></svg>

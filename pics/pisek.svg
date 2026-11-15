@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M4 90 H116" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M14 90 Q30 62 52 60 Q74 58 88 90 Z" fill="#ffe08a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M24 82 Q34 76 44 80 M56 78 Q66 72 76 78" fill="none" stroke="#f4a261" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M16 36 V44 M24 39 V47 M32 37 V45" fill="none" stroke="#333" stroke-width="8" stroke-linecap="round"/>
+    <path d="M16 36 V44 M24 39 V47 M32 37 V45" fill="none" stroke="#ffd8b8" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M10 12 Q4 24 12 34 Q22 42 34 36 Q42 30 38 18 Q32 8 20 8 Q12 6 10 12 Z" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M14 28 Q24 34 34 28" fill="none" stroke="#e8b48c" stroke-width="2" stroke-linecap="round"/>
+    <g fill="#f4a261">
+      <circle cx="18" cy="50" r="1.8"/><circle cx="26" cy="52" r="1.6"/><circle cx="21" cy="58" r="1.8"/>
+      <circle cx="29" cy="60" r="1.6"/><circle cx="23" cy="66" r="1.8"/><circle cx="31" cy="68" r="1.6"/>
+      <circle cx="26" cy="74" r="1.8"/><circle cx="34" cy="76" r="1.6"/>
+    </g>
+    <path d="M70 62 L86 26" fill="none" stroke="#333" stroke-width="8" stroke-linecap="round"/>
+    <path d="M70 62 L86 26" fill="none" stroke="#b5722f" stroke-width="4" stroke-linecap="round"/>
+    <path d="M82 22 H92 V30 H82 Z" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M62 78 L74 56 L82 62 L70 82 Z" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M92 62 H116 L112 90 H96 Z" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M92 64 Q104 48 116 64" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M96 62 Q104 52 112 62 Z" fill="#ffe08a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>

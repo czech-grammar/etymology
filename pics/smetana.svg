@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M10 42 L18 92 Q18 96 24 96 H60 Q66 96 66 92 L74 42 Z" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="42" cy="42" rx="34" ry="8" fill="#bde0fe" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="16" y="58" width="52" height="18" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="42" y="71" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="9" textLength="44" lengthAdjust="spacingAndGlyphs" fill="#fff">SMETANA</text>
+    <g transform="translate(90 34) rotate(-35)">
+      <rect x="-5" y="4" width="10" height="34" rx="5" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <ellipse cx="0" cy="-6" rx="13" ry="17" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M-14 -2 Q-16 -30 -5 -22 Q0 -44 8 -22 Q16 -30 14 -2 Q0 8 -14 -2 Z" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <path d="M80 74 C72 74 70 80 72 84 C74 90 78 93 80 96 C82 93 86 90 88 84 C90 80 88 74 80 74 Z" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M80 76 L73 73 L78 70 L80 73 L82 70 L87 73 Z" fill="#3f9d55" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M104 74 C96 74 94 80 96 84 C98 90 102 93 104 96 C106 93 110 90 112 84 C114 80 112 74 104 74 Z" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M104 76 L97 73 L102 70 L104 73 L106 70 L111 73 Z" fill="#3f9d55" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#ffe08a"><circle cx="77" cy="82" r="1.2"/><circle cx="83" cy="84" r="1.2"/><circle cx="80" cy="89" r="1.2"/><circle cx="101" cy="82" r="1.2"/><circle cx="107" cy="84" r="1.2"/><circle cx="104" cy="89" r="1.2"/></g></svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M46 30 L41 24 M74 30 L79 24 M60 30 V23" stroke="#4fa3e3" stroke-width="3" stroke-linecap="round"/>
+    <rect x="50" y="32" width="20" height="8" rx="2" fill="#4fa3e3" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M26 58 L36 40 H84 L96 58 Z" fill="#ddd" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M30 57 L38 43 H58 V57 Z" fill="#bde0fe" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M62 43 H82 L91 57 H62 Z" fill="#bde0fe" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="6" y="58" width="108" height="24" rx="4" fill="#ddd" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="7.5" y="70" width="105" height="8" fill="#4fa3e3"/>
+    <rect x="7.5" y="68" width="105" height="2" fill="#f9c74f"/>
+    <text x="60" y="66.5" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="8" fill="#1d2a5a">POLICIE</text>
+    <rect x="108" y="61" width="4" height="5" fill="#f9c74f"/>
+    <circle cx="30" cy="82" r="8" fill="#333"/><circle cx="30" cy="82" r="3.5" fill="#9aa0a8"/>
+    <circle cx="90" cy="82" r="8" fill="#333"/><circle cx="90" cy="82" r="3.5" fill="#9aa0a8"/></svg>

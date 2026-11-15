@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><path d="M22 96 L30 50 M98 96 L90 50" fill="none" stroke="#333" stroke-width="7" stroke-linecap="round"/>
+    <path d="M22 96 L30 50 M98 96 L90 50" fill="none" stroke="#b5722f" stroke-width="3" stroke-linecap="round"/>
+    <rect x="16" y="8" width="88" height="70" rx="3" fill="#b5722f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="22" y="14" width="76" height="56" fill="#1b6e64" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="60" y="32" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="13" fill="#fff">MENU</text>
+    <path d="M32 37 H88" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="40" cy="54" r="9" fill="none" stroke="#fff" stroke-width="2"/>
+    <circle cx="40" cy="54" r="4.5" fill="#f4a261"/>
+    <text x="76" y="58" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="10" fill="#f9c74f">89 KČ</text>
+    <rect x="16" y="76" width="88" height="6" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="30" y="71" width="12" height="4" rx="1" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg>

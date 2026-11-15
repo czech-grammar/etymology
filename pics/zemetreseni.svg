@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="4" y="64" width="112" height="32" fill="#8fd18a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="4" y="76" width="112" height="14" fill="#9aa0a8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M8 83 H112" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 5"/>
+    <path d="M62 64 L56 72 L64 80 L58 88 L64 96" fill="none" stroke="#333" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M56 72 L46 70 M64 80 L74 84 M58 88 L50 92" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+    <g transform="rotate(-8 30 60)">
+      <rect x="14" y="38" width="36" height="28" fill="#ffe08a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M10 40 L32 20 L54 40 Z" fill="#c0392b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="28" y="52" width="9" height="14" fill="#8b4a2b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="17" y="44" width="8" height="8" fill="#bde0fe" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M42 44 L46 52 L42 58 L46 66" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <rect x="54" y="14" width="7" height="14" rx="1" transform="rotate(40 57.5 21)" fill="#c0392b" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M66 10 L70 6 M68 20 L74 18" fill="none" stroke="#333" stroke-width="2" stroke-linecap="round"/>
+    <path d="M94 76 L98 42" fill="none" stroke="#333" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="99" cy="38" r="5" fill="#f9c74f" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M4 30 H12 M6 40 H14 M4 50 H12 M106 30 H114 M104 40 H112 M106 50 H114" fill="none" stroke="#333" stroke-width="2.5" stroke-linecap="round"/></svg>

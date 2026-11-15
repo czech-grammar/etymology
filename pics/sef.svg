@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100"><rect x="58" y="6" width="58" height="46" rx="2" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M58 21 H116 M58 36 H116" fill="none" stroke="#ddd" stroke-width="2"/>
+    <path d="M64 46 L78 34 L88 40 L104 20" fill="none" stroke="#3f9d55" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="112,12 107,25 99,16" fill="#3f9d55" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M22 50 L48 50 L58 96 L12 96 Z" fill="#1d2a5a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M29 50 L35 62 L41 50 Z" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M33 58 L37 58 L38 72 L35 76 L32 72 Z" fill="#e63946" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="35" cy="32" r="14" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M21 32 Q21 14 35 14 Q49 14 49 32 Q45 23 35 23 Q25 23 21 32 Z" fill="#3b2a1a" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="30" cy="33" r="2.2" fill="#333"/><circle cx="40" cy="33" r="2.2" fill="#333"/>
+    <path d="M30 39 Q35 44 40 39" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M46 56 L62 40" fill="none" stroke="#333" stroke-width="9" stroke-linecap="round"/>
+    <path d="M46 56 L62 40" fill="none" stroke="#1d2a5a" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="63" cy="39" r="5" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M64 38 L74 31" fill="none" stroke="#333" stroke-width="6" stroke-linecap="round"/>
+    <path d="M64 38 L74 31" fill="none" stroke="#ffd8b8" stroke-width="3" stroke-linecap="round"/>
+    <path d="M22 58 L13 68" fill="none" stroke="#333" stroke-width="9" stroke-linecap="round"/>
+    <path d="M22 58 L13 68" fill="none" stroke="#1d2a5a" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="12" cy="69" r="4.5" fill="#ffd8b8" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M9 60 Q7 56 10 52 M18 60 Q16 56 19 52" fill="none" stroke="#9aa0a8" stroke-width="2" stroke-linecap="round"/>
+    <rect x="2" y="64" width="22" height="20" rx="2" fill="#fff" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M24 69 Q31 74 24 79" fill="none" stroke="#333" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="13" y="78" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="9" fill="#333">ŠÉF</text></svg>
