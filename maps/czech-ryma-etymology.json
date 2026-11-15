@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech rýma etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#q6h9pn",
+      "name": "Meaning: “runny nose”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wdrs2z",
+      "name": "Runny nose",
+      "x": -225,
+      "y": -312,
+      "parent": "#q6h9pn"
+    },
+    {
+      "@id": "#pyvfuj",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pz4k7k",
+      "name": "Borrowed from French rhume, “a cold”",
+      "x": 510,
+      "y": 0,
+      "parent": "#pyvfuj"
+    },
+    {
+      "@id": "#vx4qhs",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gs25z8",
+      "name": "Wiktionary: rýma",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/r%C3%BDma#Czech",
+      "parent": "#vx4qhs"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

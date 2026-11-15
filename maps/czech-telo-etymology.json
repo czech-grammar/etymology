@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech tělo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8hrrvi",
+      "name": "Meaning: “body”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xrww3t",
+      "name": "Body",
+      "x": -435,
+      "y": -93,
+      "parent": "#8hrrvi"
+    },
+    {
+      "@id": "#favagf",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v77tv8",
+      "name": "Old Czech tělo",
+      "x": -318,
+      "y": -255,
+      "parent": "#favagf"
+    },
+    {
+      "@id": "#fzb7m5",
+      "name": "Proto-Slavic *tělo",
+      "x": -116,
+      "y": -348,
+      "parent": "#favagf"
+    },
+    {
+      "@id": "#sx3qt3",
+      "name": "Deeper origin uncertain",
+      "x": 126,
+      "y": -378,
+      "parent": "#favagf"
+    },
+    {
+      "@id": "#en7hpq",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#twrnji",
+      "name": "Polish ciało",
+      "x": 318,
+      "y": -255,
+      "parent": "#en7hpq"
+    },
+    {
+      "@id": "#3jqc3g",
+      "name": "Slovak telo",
+      "x": 435,
+      "y": -93,
+      "parent": "#en7hpq"
+    },
+    {
+      "@id": "#mvjtuk",
+      "name": "Russian тело",
+      "x": 435,
+      "y": 93,
+      "parent": "#en7hpq"
+    },
+    {
+      "@id": "#7rskzq",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#exywvu",
+      "name": "nátělník: singlet",
+      "x": 318,
+      "y": 255,
+      "parent": "#7rskzq"
+    },
+    {
+      "@id": "#xi4p25",
+      "name": "tělocvična: gym",
+      "x": 116,
+      "y": 348,
+      "parent": "#7rskzq"
+    },
+    {
+      "@id": "#h4q5jj",
+      "name": "tělocvik: physical education",
+      "x": -131,
+      "y": 393,
+      "parent": "#7rskzq"
+    },
+    {
+      "@id": "#ntiebd",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#77ki7x",
+      "name": "Wiktionary: tělo",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/t%C4%9Blo#Czech",
+      "parent": "#ntiebd"
+    },
+    {
+      "@id": "#krtx3x",
+      "name": "Wiktionary: Proto-Slavic *tělo",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/t%C4%9Blo",
+      "parent": "#ntiebd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

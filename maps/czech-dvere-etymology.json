@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech dveře etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#dme952",
+      "name": "Meaning: “door”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#br34gf",
+      "name": "Door",
+      "x": -432,
+      "y": -101,
+      "parent": "#dme952"
+    },
+    {
+      "@id": "#9qsizq",
+      "name": "Word history",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c93u9u",
+      "name": "Old Czech dřvi",
+      "x": -295,
+      "y": -272,
+      "parent": "#9qsizq"
+    },
+    {
+      "@id": "#ja3c5j",
+      "name": "Proto-Slavic *dvьrь",
+      "x": -64,
+      "y": -356,
+      "parent": "#9qsizq"
+    },
+    {
+      "@id": "#c4cwsy",
+      "name": "Proto-Balto-Slavic *dwírs",
+      "x": 187,
+      "y": -327,
+      "parent": "#9qsizq"
+    },
+    {
+      "@id": "#tdqhzr",
+      "name": "Proto-Indo-European *dʰwer-",
+      "x": 379,
+      "y": -195,
+      "parent": "#9qsizq"
+    },
+    {
+      "@id": "#hkmzep",
+      "name": "Slavic cousins",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xhvrki",
+      "name": "Polish drzwi",
+      "x": 450,
+      "y": 0,
+      "parent": "#hkmzep"
+    },
+    {
+      "@id": "#pscwit",
+      "name": "Slovak dvere",
+      "x": 379,
+      "y": 195,
+      "parent": "#hkmzep"
+    },
+    {
+      "@id": "#ikikt9",
+      "name": "Russian дверь",
+      "x": 187,
+      "y": 327,
+      "parent": "#hkmzep"
+    },
+    {
+      "@id": "#7u6jqb",
+      "name": "Related Czech words",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h4cnma",
+      "name": "dveřník: doorman",
+      "x": -64,
+      "y": 356,
+      "parent": "#7u6jqb"
+    },
+    {
+      "@id": "#s8hpfi",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#du3f4x",
+      "name": "Wiktionary: dveře",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/dve%C5%99e#Czech",
+      "parent": "#s8hpfi"
+    },
+    {
+      "@id": "#mimzzj",
+      "name": "Wiktionary: Proto-Slavic *dvьrь",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/dv%D1%8Cr%D1%8C",
+      "parent": "#s8hpfi"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

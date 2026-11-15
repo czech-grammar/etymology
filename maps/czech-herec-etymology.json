@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech herec etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#dairqt",
+      "name": "Meaning: “actor”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wqvwyd",
+      "name": "Actor",
+      "x": -423,
+      "y": -123,
+      "parent": "#dairqt"
+    },
+    {
+      "@id": "#swkwpv",
+      "name": "Word history",
+      "x": 115,
+      "y": -159,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#27hr3n",
+      "name": "Old Czech jhřec",
+      "x": -225,
+      "y": -312,
+      "parent": "#swkwpv"
+    },
+    {
+      "@id": "#nmd7vx",
+      "name": "Proto-Slavic *jьgrьcь",
+      "x": 78,
+      "y": -355,
+      "parent": "#swkwpv"
+    },
+    {
+      "@id": "#qit8qx",
+      "name": "From *jьgrati + *-ьcь",
+      "x": 345,
+      "y": -231,
+      "parent": "#swkwpv"
+    },
+    {
+      "@id": "#6z38k6",
+      "name": "Built from jhráti + -ec",
+      "x": 450,
+      "y": 0,
+      "parent": "#swkwpv"
+    },
+    {
+      "@id": "#j7cs7h",
+      "name": "Slavic cousins",
+      "x": 115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hmnccn",
+      "name": "Slovak herec",
+      "x": 345,
+      "y": 231,
+      "parent": "#j7cs7h"
+    },
+    {
+      "@id": "#rkfhey",
+      "name": "Ukrainian грець",
+      "x": 78,
+      "y": 355,
+      "parent": "#j7cs7h"
+    },
+    {
+      "@id": "#adrbj9",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y3tess",
+      "name": "Wiktionary: herec",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/herec#Czech",
+      "parent": "#adrbj9"
+    },
+    {
+      "@id": "#5eypby",
+      "name": "Wiktionary: Proto-Slavic *jьgrьcь",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/j%D1%8Cgr%D1%8Cc%D1%8C",
+      "parent": "#adrbj9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

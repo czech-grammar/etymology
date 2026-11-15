@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech lékařka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#79vpag",
+      "name": "Meaning: “doctor (f)”",
+      "x": -176,
+      "y": -118,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xv2cxx",
+      "name": "Doctor (f)",
+      "x": -423,
+      "y": -123,
+      "parent": "#79vpag"
+    },
+    {
+      "@id": "#untsam",
+      "name": "Doctor, physician",
+      "x": -225,
+      "y": -312,
+      "parent": "#79vpag"
+    },
+    {
+      "@id": "#iciqx4",
+      "name": "Word history",
+      "x": 216,
+      "y": -63,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mhpbuj",
+      "name": "From lékař + -ka",
+      "x": 78,
+      "y": -355,
+      "parent": "#iciqx4"
+    },
+    {
+      "@id": "#x65ws7",
+      "name": "Root: Proto-Slavic *lěkъ",
+      "x": 345,
+      "y": -231,
+      "parent": "#iciqx4"
+    },
+    {
+      "@id": "#5448v3",
+      "name": "Proto-Balto-Slavic *lajkás",
+      "x": 450,
+      "y": 0,
+      "parent": "#iciqx4"
+    },
+    {
+      "@id": "#4qyu6b",
+      "name": "Proto-Indo-European *loykʷós",
+      "x": 345,
+      "y": 231,
+      "parent": "#iciqx4"
+    },
+    {
+      "@id": "#7stmww",
+      "name": "Cousins of the root *lěkъ",
+      "x": 40,
+      "y": 181,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ch9xeq",
+      "name": "Russian лек",
+      "x": 78,
+      "y": 355,
+      "parent": "#7stmww"
+    },
+    {
+      "@id": "#wunfqs",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fytzsz",
+      "name": "Wiktionary: lékařka",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/l%C3%A9ka%C5%99ka#Czech",
+      "parent": "#wunfqs"
+    },
+    {
+      "@id": "#ruchpz",
+      "name": "Wiktionary: Proto-Slavic *lěkъ",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/l%C4%9Bk%D1%8A",
+      "parent": "#wunfqs"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

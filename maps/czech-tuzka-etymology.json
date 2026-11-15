@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech tužka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#86eqgh",
+      "name": "Meaning: “pencil”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4xgzwb",
+      "name": "Pencil",
+      "x": -318,
+      "y": -255,
+      "parent": "#86eqgh"
+    },
+    {
+      "@id": "#wkz7h5",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ahasas",
+      "name": "From tuha + -ka",
+      "x": 318,
+      "y": -255,
+      "parent": "#wkz7h5"
+    },
+    {
+      "@id": "#kukmqj",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hii367",
+      "name": "tuha: graphite",
+      "x": 318,
+      "y": 255,
+      "parent": "#kukmqj"
+    },
+    {
+      "@id": "#wsviid",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yx6hxk",
+      "name": "Wiktionary: tužka",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/tu%C5%BEka#Czech",
+      "parent": "#wsviid"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

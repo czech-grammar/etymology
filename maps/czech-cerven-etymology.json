@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech červen etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gh2pq5",
+      "name": "Meaning: “June”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ns5uv4",
+      "name": "June",
+      "x": -318,
+      "y": -255,
+      "parent": "#gh2pq5"
+    },
+    {
+      "@id": "#68isyw",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v9zw8z",
+      "name": "Old Czech črven, “June”",
+      "x": 318,
+      "y": -255,
+      "parent": "#68isyw"
+    },
+    {
+      "@id": "#nea6vw",
+      "name": "Proto-Slavic *čьrvьnъ",
+      "x": 318,
+      "y": 255,
+      "parent": "#68isyw"
+    },
+    {
+      "@id": "#j9pp2x",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gv3fqq",
+      "name": "Wiktionary: červen",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/%C4%8Derven#Czech",
+      "parent": "#j9pp2x"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

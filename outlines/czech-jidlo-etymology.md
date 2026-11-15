@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: jídlo etymology, origin of jídlo, jídlo word origin, etymology of jídlo
+- Czech jídlo etymology
+  - Meaning: “food, meal”
+    - Food, meal
+  - Word history
+    - Old Czech jiedlo
+    - Proto-Slavic *ědlo
+    - From *ěd- + *-lo
+    - Built from jíst + -dlo
+  - Slavic cousins
+    - Polish jadło
+    - Slovak jedlo
+    - Russian ело
+  - Related Czech words
+    - jídelna: dining room
+    - jídelníček: menu
+    - jedlík: big eater
+  - Sources
+    - [Wiktionary: jídlo](https://en.wiktionary.org/wiki/j%C3%ADdlo#Czech)
+    - [Wiktionary: Proto-Slavic *ědlo](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C4%9Bdlo)

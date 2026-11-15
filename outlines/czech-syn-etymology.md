@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: syn etymology, origin of syn, syn word origin, etymology of syn
+- Czech syn etymology
+  - Meaning: “son”
+    - Son
+  - Word history
+    - Old Czech syn
+    - Proto-Slavic *sy̑nъ
+    - Proto-Balto-Slavic *sū́ˀnus
+    - Proto-Indo-European *suHnús
+  - Slavic cousins
+    - Polish syn
+    - Slovak syn
+    - Russian сын
+  - Related Czech words
+    - synovec: nephew
+    - zkurvysyn: son of a bitch
+    - zlosyn: villain
+  - Sources
+    - [Wiktionary: syn](https://en.wiktionary.org/wiki/syn#Czech)
+    - [Wiktionary: Proto-Slavic *synъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/syn%D1%8A)

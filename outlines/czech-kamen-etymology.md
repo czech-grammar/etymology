@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: kámen etymology, origin of kámen, kámen word origin, etymology of kámen
+- Czech kámen etymology
+  - Meaning: “stone”
+    - Stone
+  - Word history
+    - Old Czech kámen
+    - Proto-Slavic *kamy
+    - Proto-Balto-Slavic *kā́ˀmō
+    - Proto-Indo-European *h₂éḱmō
+  - Slavic cousins
+    - Polish kamień
+    - Slovak kameň
+    - Russian камень
+  - Related Czech words
+    - drahokam: gemstone
+    - kamenář: gemcutter
+    - kamenět: to turn into stone
+  - Sources
+    - [Wiktionary: kámen](https://en.wiktionary.org/wiki/k%C3%A1men#Czech)
+    - [Wiktionary: Proto-Slavic *kamy](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kamy)

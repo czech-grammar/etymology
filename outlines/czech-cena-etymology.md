@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: cena etymology, origin of cena, cena word origin, etymology of cena
+- Czech cena etymology
+  - Meaning: “price”
+    - Price
+  - Word history
+    - Old Czech cěna
+    - Proto-Slavic *cěna
+    - Proto-Balto-Slavic *kainā́ˀ
+    - Proto-Indo-European *kʷoynéh₂
+  - Slavic cousins
+    - Polish cena
+    - Slovak cena
+    - Russian цена
+  - Related Czech words
+    - cenina: stamp
+    - ceník: price list
+    - cenovka: price tag
+  - Sources
+    - [Wiktionary: cena](https://en.wiktionary.org/wiki/cena#Czech)
+    - [Wiktionary: Proto-Slavic *cěna](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/c%C4%9Bna)

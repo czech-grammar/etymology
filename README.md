@@ -17,6 +17,15 @@ Browse them: https://grammar.ilearnczech.com/etymology/
 
 The facts come from English Wiktionary's Czech entries and its Proto-Slavic reconstructions, and each map links the pages it used. Where an origin is disputed, the map says so and lists the theories rather than picking one.
 
+## Making maps for a list of words
+
+`tools/` builds outlines from Wiktionary, with no dependencies:
+
+- `node tools/fetch.js --words tools/a1.json` caches the Czech entries (slowly: Wiktionary rate-limits)
+- `node tools/make.js tools/a1.json "A1 nouns"` reads them, fetches the Proto-Slavic entries they name and short glosses for related words, and writes `outlines/czech-<word>-etymology.md`. An outline that already exists is left alone, so hand edits survive.
+
+Only cognates Wiktionary names as cognates are used, an uncertain origin says so, and a word built in Czech shows its root's Slavic cousins under that heading. Words with no etymology on Wiktionary are skipped.
+
 ## Adding or changing a map
 
 1. Write or edit `outlines/czech-<word>-etymology.md` (the slug drops accents: `žena` → `zena`). First lines: `category: A1 nouns` (or A2, B1, B2) and `aliases:` for other ways to ask. Labels of at most 7 words, at most one link per label (the whole label).

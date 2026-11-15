@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech bratr etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3uwb6d",
+      "name": "Meaning: “brother”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ainj6p",
+      "name": "Brother",
+      "x": -435,
+      "y": -93,
+      "parent": "#3uwb6d"
+    },
+    {
+      "@id": "#intvdu",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v5xqw8",
+      "name": "Old Czech bratr",
+      "x": -318,
+      "y": -255,
+      "parent": "#intvdu"
+    },
+    {
+      "@id": "#s6p4rk",
+      "name": "Proto-Slavic *bratrъ, *bratъ",
+      "x": -116,
+      "y": -348,
+      "parent": "#intvdu"
+    },
+    {
+      "@id": "#ruimsd",
+      "name": "Proto-Indo-European *bʰréh₂tēr",
+      "x": 136,
+      "y": -408,
+      "parent": "#intvdu"
+    },
+    {
+      "@id": "#2658d9",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#afs8jg",
+      "name": "Polish bracia",
+      "x": 318,
+      "y": -255,
+      "parent": "#2658d9"
+    },
+    {
+      "@id": "#tps58u",
+      "name": "Slovak bratia",
+      "x": 435,
+      "y": -93,
+      "parent": "#2658d9"
+    },
+    {
+      "@id": "#rgs9gr",
+      "name": "Russian братья",
+      "x": 435,
+      "y": 93,
+      "parent": "#2658d9"
+    },
+    {
+      "@id": "#guyptk",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rujw49",
+      "name": "bratrský: brotherly",
+      "x": 318,
+      "y": 255,
+      "parent": "#guyptk"
+    },
+    {
+      "@id": "#rncq84",
+      "name": "bratranec: cousin",
+      "x": 116,
+      "y": 348,
+      "parent": "#guyptk"
+    },
+    {
+      "@id": "#97mnjq",
+      "name": "bratrství: brotherhood",
+      "x": -116,
+      "y": 348,
+      "parent": "#guyptk"
+    },
+    {
+      "@id": "#txgyne",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wbjag5",
+      "name": "Wiktionary: bratr",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/bratr#Czech",
+      "parent": "#txgyne"
+    },
+    {
+      "@id": "#cmrq6m",
+      "name": "Wiktionary: Proto-Slavic *bratrьja",
+      "x": -454,
+      "y": 97,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/bratr%D1%8Cja",
+      "parent": "#txgyne"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

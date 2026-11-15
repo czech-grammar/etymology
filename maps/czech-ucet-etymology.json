@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech účet etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#r88xcp",
+      "name": "Meaning: “bill, account”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xva9ph",
+      "name": "Bill, account",
+      "x": -428,
+      "y": -111,
+      "parent": "#r88xcp"
+    },
+    {
+      "@id": "#kr64pa",
+      "name": "Word history",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ussir2",
+      "name": "From u- + číst",
+      "x": -265,
+      "y": -291,
+      "parent": "#kr64pa"
+    },
+    {
+      "@id": "#ksifs8",
+      "name": "Root: Proto-Slavic *čisti",
+      "x": 0,
+      "y": -360,
+      "parent": "#kr64pa"
+    },
+    {
+      "@id": "#yxbedz",
+      "name": "Proto-Balto-Slavic *(s)keistéi",
+      "x": 265,
+      "y": -291,
+      "parent": "#kr64pa"
+    },
+    {
+      "@id": "#n98r8w",
+      "name": "Proto-Indo-European *(s)kʷeyt-, “to notice”",
+      "x": 428,
+      "y": -111,
+      "parent": "#kr64pa"
+    },
+    {
+      "@id": "#ke5rwa",
+      "name": "Cousins of the root *čisti",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jvy6uv",
+      "name": "Polish czyść",
+      "x": 428,
+      "y": 111,
+      "parent": "#ke5rwa"
+    },
+    {
+      "@id": "#v62xwp",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nueng7",
+      "name": "účetnictví: accounting",
+      "x": 265,
+      "y": 291,
+      "parent": "#v62xwp"
+    },
+    {
+      "@id": "#dk8mxv",
+      "name": "účtovat: to charge",
+      "x": 0,
+      "y": 360,
+      "parent": "#v62xwp"
+    },
+    {
+      "@id": "#6rb8ri",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xzsvta",
+      "name": "Wiktionary: účet",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/%C3%BA%C4%8Det#Czech",
+      "parent": "#6rb8ri"
+    },
+    {
+      "@id": "#9ygncn",
+      "name": "Wiktionary: Proto-Slavic *čisti",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C4%8Disti",
+      "parent": "#6rb8ri"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

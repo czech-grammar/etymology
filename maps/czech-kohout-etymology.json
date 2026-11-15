@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kohout etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#d9b273",
+      "name": "Meaning: “rooster”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pndyac",
+      "name": "Rooster",
+      "x": -416,
+      "y": -138,
+      "parent": "#d9b273"
+    },
+    {
+      "@id": "#hbaj88",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u8pk62",
+      "name": "Old Czech kohút",
+      "x": -172,
+      "y": -333,
+      "parent": "#hbaj88"
+    },
+    {
+      "@id": "#yrpq8d",
+      "name": "Proto-Slavic *kokotъ",
+      "x": 172,
+      "y": -333,
+      "parent": "#hbaj88"
+    },
+    {
+      "@id": "#nr9f44",
+      "name": "Slavic cousins",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k3dp45",
+      "name": "Polish kogut",
+      "x": 416,
+      "y": -138,
+      "parent": "#nr9f44"
+    },
+    {
+      "@id": "#25i5rj",
+      "name": "Slovak kohút",
+      "x": 416,
+      "y": 138,
+      "parent": "#nr9f44"
+    },
+    {
+      "@id": "#vs6dpk",
+      "name": "Russian кокот",
+      "x": 172,
+      "y": 333,
+      "parent": "#nr9f44"
+    },
+    {
+      "@id": "#jcmkzx",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j7bye8",
+      "name": "Wiktionary: kohout",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/kohout#Czech",
+      "parent": "#jcmkzx"
+    },
+    {
+      "@id": "#pwvxuc",
+      "name": "Wiktionary: Proto-Slavic *kokotъ",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kokot%D1%8A",
+      "parent": "#jcmkzx"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

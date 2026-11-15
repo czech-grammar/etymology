@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: déšť etymology, origin of déšť, déšť word origin, etymology of déšť
+- Czech déšť etymology
+  - Meaning: “rain”
+    - Rain
+  - Word history
+    - Old Czech déšč
+    - Proto-Slavic *dъždžь of uncertain origin
+    - Proto-Indo-European *dus-diu-, “bad day”
+    - From *dus + *dyew-
+  - Slavic cousins
+    - Polish deszcz
+    - Slovak dážď
+    - Russian дожж
+  - Related Czech words
+    - deštivý: rainy
+    - deštník: umbrella
+    - dešťovka: earthworm
+  - Sources
+    - [Wiktionary: déšť](https://en.wiktionary.org/wiki/d%C3%A9%C5%A1%C5%A5#Czech)
+    - [Wiktionary: Proto-Slavic *dъždžь](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/d%D1%8A%C5%BEd%C5%BE%D1%8C)

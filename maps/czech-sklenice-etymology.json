@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech sklenice etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#irkj27",
+      "name": "Meaning: “glass”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fcs9u9",
+      "name": "Glass",
+      "x": -225,
+      "y": -312,
+      "parent": "#irkj27"
+    },
+    {
+      "@id": "#aq6u52",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#946bni",
+      "name": "From sklo + -nice",
+      "x": 450,
+      "y": 0,
+      "parent": "#aq6u52"
+    },
+    {
+      "@id": "#28p593",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nrxzg2",
+      "name": "Wiktionary: sklenice",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/sklenice#Czech",
+      "parent": "#28p593"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

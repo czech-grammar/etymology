@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kůň etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5zqgeg",
+      "name": "Meaning: “horse”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sz9ep6",
+      "name": "Horse",
+      "x": -416,
+      "y": -138,
+      "parent": "#5zqgeg"
+    },
+    {
+      "@id": "#xnms7f",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7sk7j3",
+      "name": "Old Czech kóň",
+      "x": -172,
+      "y": -333,
+      "parent": "#xnms7f"
+    },
+    {
+      "@id": "#g6nydg",
+      "name": "Proto-Slavic *kòňь",
+      "x": 172,
+      "y": -333,
+      "parent": "#xnms7f"
+    },
+    {
+      "@id": "#89h8fm",
+      "name": "Slavic cousins",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6f7vnf",
+      "name": "Polish koń",
+      "x": 416,
+      "y": -138,
+      "parent": "#89h8fm"
+    },
+    {
+      "@id": "#9kp9ev",
+      "name": "Slovak kôň",
+      "x": 416,
+      "y": 138,
+      "parent": "#89h8fm"
+    },
+    {
+      "@id": "#6ze2np",
+      "name": "Russian конь",
+      "x": 172,
+      "y": 333,
+      "parent": "#89h8fm"
+    },
+    {
+      "@id": "#b7jkjq",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kuuchz",
+      "name": "Wiktionary: kůň",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/k%C5%AF%C5%88#Czech",
+      "parent": "#b7jkjq"
+    },
+    {
+      "@id": "#a3uwpc",
+      "name": "Wiktionary: Proto-Slavic *koňь",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/ko%C5%88%D1%8C",
+      "parent": "#b7jkjq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

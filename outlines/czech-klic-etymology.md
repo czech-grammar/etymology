@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: klíč etymology, origin of klíč, klíč word origin, etymology of klíč
+- Czech klíč etymology
+  - Meaning: “key”
+    - Key
+  - Word history
+    - Old Czech kľúč
+    - Proto-Slavic *kľučь
+    - Proto-Balto-Slavic *kljaukjas
+    - Proto-Indo-European *klewk-yo-s
+  - Slavic cousins
+    - Polish klucz
+    - Slovak kľúč
+    - Russian ключ
+  - Related Czech words
+    - paklíč: picklock
+    - petrklíč: primrose
+    - rozklíčovat: to decrypt
+  - Sources
+    - [Wiktionary: klíč](https://en.wiktionary.org/wiki/kl%C3%AD%C4%8D#Czech)
+    - [Wiktionary: Proto-Slavic *kľučь](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/k%C4%BEu%C4%8D%D1%8C)

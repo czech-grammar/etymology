@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech nápad etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2m8jvp",
+      "name": "Meaning: “idea”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2xaayp",
+      "name": "Idea",
+      "x": -423,
+      "y": -123,
+      "parent": "#2m8jvp"
+    },
+    {
+      "@id": "#8uhy9y",
+      "name": "Word history",
+      "x": 40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#36hgzb",
+      "name": "Old Czech nápad",
+      "x": -225,
+      "y": -312,
+      "parent": "#8uhy9y"
+    },
+    {
+      "@id": "#s83baz",
+      "name": "Proto-Slavic *napadъ",
+      "x": 78,
+      "y": -355,
+      "parent": "#8uhy9y"
+    },
+    {
+      "@id": "#tqzejk",
+      "name": "From the verb *napasti",
+      "x": 345,
+      "y": -231,
+      "parent": "#8uhy9y"
+    },
+    {
+      "@id": "#pczu3n",
+      "name": "Slavic cousins",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pu4cqv",
+      "name": "Polish napad",
+      "x": 450,
+      "y": 0,
+      "parent": "#pczu3n"
+    },
+    {
+      "@id": "#fxc6i4",
+      "name": "Slovak nápad",
+      "x": 345,
+      "y": 231,
+      "parent": "#pczu3n"
+    },
+    {
+      "@id": "#ikvi6n",
+      "name": "Ukrainian напад",
+      "x": 78,
+      "y": 355,
+      "parent": "#pczu3n"
+    },
+    {
+      "@id": "#kzhte2",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m4mur3",
+      "name": "Wiktionary: nápad",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/n%C3%A1pad#Czech",
+      "parent": "#kzhte2"
+    },
+    {
+      "@id": "#nf46y8",
+      "name": "Wiktionary: Proto-Slavic *napadъ",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/napad%D1%8A",
+      "parent": "#kzhte2"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

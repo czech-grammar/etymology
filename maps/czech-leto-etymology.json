@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech léto etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#yreya8",
+      "name": "Meaning: “summer”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f7shp6",
+      "name": "Summer",
+      "x": -432,
+      "y": -101,
+      "parent": "#yreya8"
+    },
+    {
+      "@id": "#99i6bq",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ckx8in",
+      "name": "Old Czech léto",
+      "x": -295,
+      "y": -272,
+      "parent": "#99i6bq"
+    },
+    {
+      "@id": "#2v2evk",
+      "name": "Proto-Slavic *lěto",
+      "x": -64,
+      "y": -356,
+      "parent": "#99i6bq"
+    },
+    {
+      "@id": "#vvdd49",
+      "name": "Proto-Balto-Slavic *laitan",
+      "x": 187,
+      "y": -327,
+      "parent": "#99i6bq"
+    },
+    {
+      "@id": "#ek2ech",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mt3xxa",
+      "name": "Polish lato",
+      "x": 379,
+      "y": -195,
+      "parent": "#ek2ech"
+    },
+    {
+      "@id": "#wfjfrt",
+      "name": "Slovak leto",
+      "x": 450,
+      "y": 0,
+      "parent": "#ek2ech"
+    },
+    {
+      "@id": "#3f97ai",
+      "name": "Russian лето",
+      "x": 379,
+      "y": 195,
+      "parent": "#ek2ech"
+    },
+    {
+      "@id": "#77tpe7",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#enperi",
+      "name": "plnoletost: age",
+      "x": 187,
+      "y": 327,
+      "parent": "#77tpe7"
+    },
+    {
+      "@id": "#wehgsq",
+      "name": "zletilost: majority",
+      "x": -64,
+      "y": 356,
+      "parent": "#77tpe7"
+    },
+    {
+      "@id": "#3kspur",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9h9q2k",
+      "name": "Wiktionary: léto",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/l%C3%A9to#Czech",
+      "parent": "#3kspur"
+    },
+    {
+      "@id": "#u5q832",
+      "name": "Wiktionary: Proto-Slavic *lěto",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/l%C4%9Bto",
+      "parent": "#3kspur"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

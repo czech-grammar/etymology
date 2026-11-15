@@ -1,0 +1,250 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech obraz etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#6n8rqw",
+      "name": "Meaning: “picture”",
+      "x": -245,
+      "y": -41,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m6y4ec",
+      "name": "Picture",
+      "x": -440,
+      "y": -75,
+      "parent": "#6n8rqw"
+    },
+    {
+      "@id": "#6yg4qh",
+      "name": "Word history",
+      "x": 24,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6qnet9",
+      "name": "Old Czech obraz",
+      "x": -364,
+      "y": -212,
+      "parent": "#6yg4qh"
+    },
+    {
+      "@id": "#8dr7ka",
+      "name": "Proto-Slavic *obrazъ",
+      "x": -225,
+      "y": -312,
+      "parent": "#6yg4qh"
+    },
+    {
+      "@id": "#n6atwx",
+      "name": "From the verb *obraziti",
+      "x": -49,
+      "y": -374,
+      "parent": "#6yg4qh"
+    },
+    {
+      "@id": "#qyd7vt",
+      "name": "From *ob- + *raziti (ESSJa)",
+      "x": 175,
+      "y": -432,
+      "parent": "#6yg4qh"
+    },
+    {
+      "@id": "#xn7gv2",
+      "name": "From *ob- + *razъ (Vasmer)",
+      "x": 301,
+      "y": -268,
+      "parent": "#6yg4qh"
+    },
+    {
+      "@id": "#uhmenv",
+      "name": "Built from deverbal from obrazit",
+      "x": 411,
+      "y": -146,
+      "parent": "#6yg4qh"
+    },
+    {
+      "@id": "#nwyc6v",
+      "name": "Slavic cousins",
+      "x": 210,
+      "y": 75,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#69jech",
+      "name": "Polish obraz",
+      "x": 450,
+      "y": 0,
+      "parent": "#nwyc6v"
+    },
+    {
+      "@id": "#5r2tej",
+      "name": "Slovak obraz",
+      "x": 411,
+      "y": 146,
+      "parent": "#nwyc6v"
+    },
+    {
+      "@id": "#mva2qz",
+      "name": "Russian образ",
+      "x": 301,
+      "y": 268,
+      "parent": "#nwyc6v"
+    },
+    {
+      "@id": "#t3fijb",
+      "name": "Related Czech words",
+      "x": -24,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sy2f4w",
+      "name": "obrazec: figure",
+      "x": 139,
+      "y": 342,
+      "parent": "#t3fijb"
+    },
+    {
+      "@id": "#grsjts",
+      "name": "obraznost: imagination",
+      "x": -51,
+      "y": 390,
+      "parent": "#t3fijb"
+    },
+    {
+      "@id": "#dy392y",
+      "name": "obrazovka: screen",
+      "x": -225,
+      "y": 312,
+      "parent": "#t3fijb"
+    },
+    {
+      "@id": "#5mn99p",
+      "name": "Sources",
+      "x": -210,
+      "y": 75,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pah2k3",
+      "name": "Wiktionary: obraz",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/obraz#Czech",
+      "parent": "#5mn99p"
+    },
+    {
+      "@id": "#797xkz",
+      "name": "Wiktionary: Proto-Slavic *obrazъ",
+      "x": -460,
+      "y": 78,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/obraz%D1%8A",
+      "parent": "#5mn99p"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 3,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    }
+  ],
+  "selectedNode": 0
+}

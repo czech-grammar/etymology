@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: slovník etymology, origin of slovník, slovník word origin, etymology of slovník
+- Czech slovník etymology
+  - Meaning: “dictionary”
+    - Dictionary
+  - Word history
+    - From slovo, “word” + -ník
+    - Root: Proto-Slavic *slovo
+    - Proto-Balto-Slavic *ślawas
+    - Proto-Indo-European *ḱléwos, “that which is heard”
+  - Cousins of the root *slovo
+    - Polish słowo
+    - Slovak slovo
+    - Russian слово
+  - Related Czech words
+    - slovníkář: lexicographer
+    - Wikislovník: Wiktionary
+    - sloveso: verb
+  - Sources
+    - [Wiktionary: slovník](https://en.wiktionary.org/wiki/slovn%C3%ADk#Czech)
+    - [Wiktionary: Proto-Slavic *slovo](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/slovo)

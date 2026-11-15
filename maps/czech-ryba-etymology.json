@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech ryba etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7dqdii",
+      "name": "Meaning: “fish”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9urvfu",
+      "name": "Fish",
+      "x": -432,
+      "y": -101,
+      "parent": "#7dqdii"
+    },
+    {
+      "@id": "#5kzeze",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f4razd",
+      "name": "Old Czech ryba",
+      "x": -295,
+      "y": -272,
+      "parent": "#5kzeze"
+    },
+    {
+      "@id": "#eqqs34",
+      "name": "Proto-Slavic *ryba",
+      "x": -64,
+      "y": -356,
+      "parent": "#5kzeze"
+    },
+    {
+      "@id": "#y2wm35",
+      "name": "Deeper origin uncertain",
+      "x": 187,
+      "y": -327,
+      "parent": "#5kzeze"
+    },
+    {
+      "@id": "#n3um4a",
+      "name": "Slavic cousins",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h272pd",
+      "name": "Slovak ryba",
+      "x": 379,
+      "y": -195,
+      "parent": "#n3um4a"
+    },
+    {
+      "@id": "#xnk5rk",
+      "name": "Russian рыба",
+      "x": 450,
+      "y": 0,
+      "parent": "#n3um4a"
+    },
+    {
+      "@id": "#neepx6",
+      "name": "Related Czech words",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hx9n3c",
+      "name": "paryba: cartilaginous fish",
+      "x": 379,
+      "y": 195,
+      "parent": "#neepx6"
+    },
+    {
+      "@id": "#fzrxnn",
+      "name": "rybárna: fishmonger's",
+      "x": 187,
+      "y": 327,
+      "parent": "#neepx6"
+    },
+    {
+      "@id": "#uhfaaz",
+      "name": "rybář: fisher",
+      "x": -64,
+      "y": 356,
+      "parent": "#neepx6"
+    },
+    {
+      "@id": "#xqs8eu",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h9iauj",
+      "name": "Wiktionary: ryba",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/ryba#Czech",
+      "parent": "#xqs8eu"
+    },
+    {
+      "@id": "#tdf2ap",
+      "name": "Wiktionary: Proto-Slavic *ryba",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/ryba",
+      "parent": "#xqs8eu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

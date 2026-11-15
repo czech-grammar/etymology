@@ -1,0 +1,115 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech duben etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#34kzc2",
+      "name": "Meaning: “April”",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tvi9qp",
+      "name": "April",
+      "x": -364,
+      "y": -212,
+      "parent": "#34kzc2"
+    },
+    {
+      "@id": "#2qhkvc",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m2uc92",
+      "name": "Old Czech duben",
+      "x": 139,
+      "y": -342,
+      "parent": "#2qhkvc"
+    },
+    {
+      "@id": "#4ya2a8",
+      "name": "Proto-Slavic *dǫbьnъ",
+      "x": 450,
+      "y": 0,
+      "parent": "#2qhkvc"
+    },
+    {
+      "@id": "#xj234b",
+      "name": "Built from dub + -en",
+      "x": 139,
+      "y": 342,
+      "parent": "#2qhkvc"
+    },
+    {
+      "@id": "#krb869",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dnj8kg",
+      "name": "Wiktionary: duben",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/duben#Czech",
+      "parent": "#krb869"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

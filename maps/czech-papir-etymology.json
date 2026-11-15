@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech papír etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#6tu26c",
+      "name": "Meaning: “paper”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t2wi85",
+      "name": "Paper",
+      "x": -390,
+      "y": -180,
+      "parent": "#6tu26c"
+    },
+    {
+      "@id": "#g6z37f",
+      "name": "Word history",
+      "x": 115,
+      "y": -159,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ag74yf",
+      "name": "Borrowed from Middle High German papier",
+      "x": 0,
+      "y": -360,
+      "parent": "#g6z37f"
+    },
+    {
+      "@id": "#9d5nnz",
+      "name": "Old French papier",
+      "x": 390,
+      "y": -180,
+      "parent": "#g6z37f"
+    },
+    {
+      "@id": "#veaeuu",
+      "name": "Related Czech words",
+      "x": 115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#et2jjv",
+      "name": "hajzlpapír: toilet paper",
+      "x": 390,
+      "y": 180,
+      "parent": "#veaeuu"
+    },
+    {
+      "@id": "#3aee2c",
+      "name": "papírna: paper mill",
+      "x": 0,
+      "y": 360,
+      "parent": "#veaeuu"
+    },
+    {
+      "@id": "#kzfnhm",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mqdj33",
+      "name": "Wiktionary: papír",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/pap%C3%ADr#Czech",
+      "parent": "#kzfnhm"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

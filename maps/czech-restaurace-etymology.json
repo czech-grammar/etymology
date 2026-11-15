@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech restaurace etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ebvepe",
+      "name": "Meaning: “restaurant”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bi7ujb",
+      "name": "Restaurant",
+      "x": -318,
+      "y": -255,
+      "parent": "#ebvepe"
+    },
+    {
+      "@id": "#dza9up",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#atsmjt",
+      "name": "Borrowed from Austrian German Restauration",
+      "x": 318,
+      "y": -255,
+      "parent": "#dza9up"
+    },
+    {
+      "@id": "#ymftvs",
+      "name": "Late Latin restaurātiōnem",
+      "x": 318,
+      "y": 255,
+      "parent": "#dza9up"
+    },
+    {
+      "@id": "#gm5hni",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i9qitu",
+      "name": "Wiktionary: restaurace",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/restaurace#Czech",
+      "parent": "#gm5hni"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

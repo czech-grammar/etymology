@@ -1,0 +1,115 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech červenec etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#32ka3d",
+      "name": "Meaning: “July”",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wxswjg",
+      "name": "July",
+      "x": -364,
+      "y": -212,
+      "parent": "#32ka3d"
+    },
+    {
+      "@id": "#udiedd",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sp65k6",
+      "name": "Old Czech črvnec",
+      "x": 139,
+      "y": -342,
+      "parent": "#udiedd"
+    },
+    {
+      "@id": "#rk82nf",
+      "name": "Proto-Slavic *čьrvьnьcь",
+      "x": 450,
+      "y": 0,
+      "parent": "#udiedd"
+    },
+    {
+      "@id": "#n2i8xx",
+      "name": "Built from červen + -ec",
+      "x": 139,
+      "y": 342,
+      "parent": "#udiedd"
+    },
+    {
+      "@id": "#52j9aw",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h843yy",
+      "name": "Wiktionary: červenec",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/%C4%8Dervenec#Czech",
+      "parent": "#52j9aw"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

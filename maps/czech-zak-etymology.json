@@ -1,0 +1,149 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech žák etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#sanpuk",
+      "name": "Meaning: “pupil”",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pmp5ze",
+      "name": "Pupil",
+      "x": -405,
+      "y": -156,
+      "parent": "#sanpuk"
+    },
+    {
+      "@id": "#c3c5bp",
+      "name": "Word history",
+      "x": 143,
+      "y": -144,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bzc4eu",
+      "name": "Old Czech žák",
+      "x": -100,
+      "y": -351,
+      "parent": "#c3c5bp"
+    },
+    {
+      "@id": "#ue25ih",
+      "name": "Ecclesiastical Latin diācus",
+      "x": 281,
+      "y": -281,
+      "parent": "#c3c5bp"
+    },
+    {
+      "@id": "#prvnv9",
+      "name": "Ancient Greek διάκος (diákos) (see διάκονος (diákonos))",
+      "x": 450,
+      "y": 0,
+      "parent": "#c3c5bp"
+    },
+    {
+      "@id": "#k8rzj6",
+      "name": "Related Czech words",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fepv9f",
+      "name": "spolužák: classmate",
+      "x": 281,
+      "y": 281,
+      "parent": "#k8rzj6"
+    },
+    {
+      "@id": "#2jv7mq",
+      "name": "žactvo: pupils",
+      "x": -100,
+      "y": 351,
+      "parent": "#k8rzj6"
+    },
+    {
+      "@id": "#aedppp",
+      "name": "Sources",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tf5qhd",
+      "name": "Wiktionary: žák",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wiktionary.org/wiki/%C5%BE%C3%A1k#Czech",
+      "parent": "#aedppp"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

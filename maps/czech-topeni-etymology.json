@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech topení etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#atcqkz",
+      "name": "Meaning: “heating”",
+      "x": -204,
+      "y": -86,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jksxs8",
+      "name": "Heating",
+      "x": -437,
+      "y": -86,
+      "parent": "#atcqkz"
+    },
+    {
+      "@id": "#2ikiwg",
+      "name": "Verbal noun of topit",
+      "x": -337,
+      "y": -239,
+      "parent": "#atcqkz"
+    },
+    {
+      "@id": "#ty27mu",
+      "name": "Word history",
+      "x": 131,
+      "y": -151,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wy97uy",
+      "name": "From topit + -ení",
+      "x": -160,
+      "y": -337,
+      "parent": "#ty27mu"
+    },
+    {
+      "@id": "#ab42bf",
+      "name": "Root: Proto-Slavic *topiti",
+      "x": 58,
+      "y": -389,
+      "parent": "#ty27mu"
+    },
+    {
+      "@id": "#47zz7y",
+      "name": "Proto-Balto-Slavic *tapīˀtei",
+      "x": 256,
+      "y": -296,
+      "parent": "#ty27mu"
+    },
+    {
+      "@id": "#42b6pn",
+      "name": "Proto-Indo-European *top-éye-ti",
+      "x": 398,
+      "y": -167,
+      "parent": "#ty27mu"
+    },
+    {
+      "@id": "#6mxvrg",
+      "name": "Proto-Indo-European *tep-, “hot”",
+      "x": 450,
+      "y": 0,
+      "parent": "#ty27mu"
+    },
+    {
+      "@id": "#sbxqcn",
+      "name": "Cousins of the root *topiti",
+      "x": 131,
+      "y": 151,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ynheui",
+      "name": "Polish topić, “to melt”",
+      "x": 416,
+      "y": 174,
+      "parent": "#sbxqcn"
+    },
+    {
+      "@id": "#p25irn",
+      "name": "Slovak topiť",
+      "x": 256,
+      "y": 296,
+      "parent": "#sbxqcn"
+    },
+    {
+      "@id": "#pp9htb",
+      "name": "Russian топить",
+      "x": 54,
+      "y": 357,
+      "parent": "#sbxqcn"
+    },
+    {
+      "@id": "#zrryjr",
+      "name": "Related Czech words",
+      "x": -96,
+      "y": 202,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s6q2aq",
+      "name": "topit: to stoke",
+      "x": -160,
+      "y": 337,
+      "parent": "#zrryjr"
+    },
+    {
+      "@id": "#skdd4x",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jyns3p",
+      "name": "Wiktionary: topení",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/topen%C3%AD#Czech",
+      "parent": "#skdd4x"
+    },
+    {
+      "@id": "#jj2ehc",
+      "name": "Wiktionary: Proto-Slavic *topiti",
+      "x": -456,
+      "y": 90,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/topiti",
+      "parent": "#skdd4x"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 4,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

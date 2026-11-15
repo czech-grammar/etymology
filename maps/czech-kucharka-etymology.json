@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kuchařka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ccp5x7",
+      "name": "Meaning: “cook (f)”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8cwzuf",
+      "name": "Cook (f)",
+      "x": -318,
+      "y": -255,
+      "parent": "#ccp5x7"
+    },
+    {
+      "@id": "#rqe8v9",
+      "name": "Cookbook",
+      "x": 318,
+      "y": -255,
+      "parent": "#ccp5x7"
+    },
+    {
+      "@id": "#bzqsu4",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#agptz3",
+      "name": "From kuchař + -ka",
+      "x": 318,
+      "y": 255,
+      "parent": "#bzqsu4"
+    },
+    {
+      "@id": "#32phuq",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cs4fmm",
+      "name": "Wiktionary: kuchařka",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/kucha%C5%99ka#Czech",
+      "parent": "#32phuq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

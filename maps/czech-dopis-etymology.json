@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech dopis etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#27bx2a",
+      "name": "Meaning: “letter (mail)”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sxpkta",
+      "name": "Letter (mail)",
+      "x": -318,
+      "y": -255,
+      "parent": "#27bx2a"
+    },
+    {
+      "@id": "#cqcg3c",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5ujce9",
+      "name": "From the verb dopisovat",
+      "x": 318,
+      "y": -255,
+      "parent": "#cqcg3c"
+    },
+    {
+      "@id": "#9snfw9",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6mzytj",
+      "name": "dopisní: letter",
+      "x": 318,
+      "y": 255,
+      "parent": "#9snfw9"
+    },
+    {
+      "@id": "#uvwg23",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ktd76r",
+      "name": "Wiktionary: dopis",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/dopis#Czech",
+      "parent": "#uvwg23"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

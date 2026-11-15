@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech vejce etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#uswhzx",
+      "name": "Meaning: “egg”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nnf5mp",
+      "name": "Egg",
+      "x": -432,
+      "y": -101,
+      "parent": "#uswhzx"
+    },
+    {
+      "@id": "#ztrj37",
+      "name": "Word history",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v5er42",
+      "name": "Old Czech vajce",
+      "x": -295,
+      "y": -272,
+      "parent": "#ztrj37"
+    },
+    {
+      "@id": "#d92s8m",
+      "name": "Proto-Slavic *ājьcè",
+      "x": -64,
+      "y": -356,
+      "parent": "#ztrj37"
+    },
+    {
+      "@id": "#tsg8tn",
+      "name": "Proto-Balto-Slavic *ōjan",
+      "x": 187,
+      "y": -327,
+      "parent": "#ztrj37"
+    },
+    {
+      "@id": "#vdxycc",
+      "name": "Proto-Indo-European *h₂ōwyóm, “egg”",
+      "x": 379,
+      "y": -195,
+      "parent": "#ztrj37"
+    },
+    {
+      "@id": "#r9d8in",
+      "name": "Slavic cousins",
+      "x": 221,
+      "y": 52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yp5vqj",
+      "name": "Polish jajo",
+      "x": 450,
+      "y": 0,
+      "parent": "#r9d8in"
+    },
+    {
+      "@id": "#e9s6tt",
+      "name": "Ukrainian яйо",
+      "x": 379,
+      "y": 195,
+      "parent": "#r9d8in"
+    },
+    {
+      "@id": "#zsbwbk",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2yfjwq",
+      "name": "vaječník: ovary",
+      "x": 187,
+      "y": 327,
+      "parent": "#zsbwbk"
+    },
+    {
+      "@id": "#4dezrt",
+      "name": "vejcovod: Fallopian tube",
+      "x": -64,
+      "y": 356,
+      "parent": "#zsbwbk"
+    },
+    {
+      "@id": "#xvk7vb",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u8383i",
+      "name": "Wiktionary: vejce",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/vejce#Czech",
+      "parent": "#xvk7vb"
+    },
+    {
+      "@id": "#4pxwb9",
+      "name": "Wiktionary: Proto-Slavic *aje",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/aje",
+      "parent": "#xvk7vb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

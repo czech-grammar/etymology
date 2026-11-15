@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech hruška etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#iz2d8p",
+      "name": "Meaning: “pear”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7ajdzj",
+      "name": "Pear",
+      "x": -423,
+      "y": -123,
+      "parent": "#iz2d8p"
+    },
+    {
+      "@id": "#a5x6cc",
+      "name": "Word history",
+      "x": 40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kgicsm",
+      "name": "Old Czech hruška",
+      "x": -225,
+      "y": -312,
+      "parent": "#a5x6cc"
+    },
+    {
+      "@id": "#524vh2",
+      "name": "Proto-Slavic *gruša",
+      "x": 78,
+      "y": -355,
+      "parent": "#a5x6cc"
+    },
+    {
+      "@id": "#efh5hi",
+      "name": "From *grušiti or *krušiti + *-ja",
+      "x": 345,
+      "y": -231,
+      "parent": "#a5x6cc"
+    },
+    {
+      "@id": "#ibgvte",
+      "name": "Slavic cousins",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y98x69",
+      "name": "Polish grusza",
+      "x": 450,
+      "y": 0,
+      "parent": "#ibgvte"
+    },
+    {
+      "@id": "#jjxuen",
+      "name": "Slovak hruška",
+      "x": 345,
+      "y": 231,
+      "parent": "#ibgvte"
+    },
+    {
+      "@id": "#gs52a2",
+      "name": "Russian груша",
+      "x": 78,
+      "y": 355,
+      "parent": "#ibgvte"
+    },
+    {
+      "@id": "#qxaie3",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w4ssww",
+      "name": "Wiktionary: hruška",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/hru%C5%A1ka#Czech",
+      "parent": "#qxaie3"
+    },
+    {
+      "@id": "#ruaynu",
+      "name": "Wiktionary: Proto-Slavic *gruša",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/gru%C5%A1a",
+      "parent": "#qxaie3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

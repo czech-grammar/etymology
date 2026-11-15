@@ -1,0 +1,149 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech křižovatka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#jw7xrw",
+      "name": "Meaning: “crossroads”",
+      "x": -143,
+      "y": -144,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dnc7sb",
+      "name": "Crossroads",
+      "x": -405,
+      "y": -156,
+      "parent": "#jw7xrw"
+    },
+    {
+      "@id": "#fm9kmb",
+      "name": "Intersection, junction",
+      "x": -100,
+      "y": -351,
+      "parent": "#jw7xrw"
+    },
+    {
+      "@id": "#4jen2e",
+      "name": "Word history",
+      "x": 143,
+      "y": -144,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kzfe4p",
+      "name": "From křižovat + -ka",
+      "x": 281,
+      "y": -281,
+      "parent": "#4jen2e"
+    },
+    {
+      "@id": "#e9egne",
+      "name": "Related Czech words",
+      "x": 143,
+      "y": 144,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b6zayz",
+      "name": "křižák: crusader",
+      "x": 450,
+      "y": 0,
+      "parent": "#e9egne"
+    },
+    {
+      "@id": "#wpinbj",
+      "name": "křižník: cruiser",
+      "x": 281,
+      "y": 281,
+      "parent": "#e9egne"
+    },
+    {
+      "@id": "#95vkxy",
+      "name": "křižovat: to cruise",
+      "x": -100,
+      "y": 351,
+      "parent": "#e9egne"
+    },
+    {
+      "@id": "#dnni3i",
+      "name": "Sources",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u3cxst",
+      "name": "Wiktionary: křižovatka",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wiktionary.org/wiki/k%C5%99i%C5%BEovatka#Czech",
+      "parent": "#dnni3i"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

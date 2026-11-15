@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech hokejista etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5yvhqr",
+      "name": "Meaning: “hockey player”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fyyus3",
+      "name": "Hockey player",
+      "x": -390,
+      "y": -180,
+      "parent": "#5yvhqr"
+    },
+    {
+      "@id": "#q863rc",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q4u4v6",
+      "name": "From hokej, “hockey” + -ista",
+      "x": 0,
+      "y": -360,
+      "parent": "#q863rc"
+    },
+    {
+      "@id": "#g6vf5d",
+      "name": "Related Czech words",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#idkm2n",
+      "name": "hokej: hockey",
+      "x": 390,
+      "y": -180,
+      "parent": "#g6vf5d"
+    },
+    {
+      "@id": "#pw6gx4",
+      "name": "hokejbal: ball hockey",
+      "x": 390,
+      "y": 180,
+      "parent": "#g6vf5d"
+    },
+    {
+      "@id": "#be8e57",
+      "name": "hokejbalista: ball hockey player",
+      "x": 0,
+      "y": 360,
+      "parent": "#g6vf5d"
+    },
+    {
+      "@id": "#922z5f",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dtmijq",
+      "name": "Wiktionary: hokejista",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/hokejista#Czech",
+      "parent": "#922z5f"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

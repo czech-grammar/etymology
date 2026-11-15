@@ -1,0 +1,127 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech úřad etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#icr8gd",
+      "name": "Meaning: “office, authority”",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tbicnd",
+      "name": "Office, authority",
+      "x": -364,
+      "y": -212,
+      "parent": "#icr8gd"
+    },
+    {
+      "@id": "#krc2qi",
+      "name": "Word history",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#36vt9w",
+      "name": "Proto-Slavic *urędъ",
+      "x": 139,
+      "y": -342,
+      "parent": "#krc2qi"
+    },
+    {
+      "@id": "#qj35pe",
+      "name": "Related Czech words",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9werx2",
+      "name": "úřední: office",
+      "x": 450,
+      "y": 0,
+      "parent": "#qj35pe"
+    },
+    {
+      "@id": "#6caf86",
+      "name": "úředník: clerk",
+      "x": 139,
+      "y": 342,
+      "parent": "#qj35pe"
+    },
+    {
+      "@id": "#3j6ipa",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3uedec",
+      "name": "Wiktionary: úřad",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/%C3%BA%C5%99ad#Czech",
+      "parent": "#3j6ipa"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

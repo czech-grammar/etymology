@@ -1,0 +1,22 @@
+category: A1 nouns
+aliases: pokoj etymology, origin of pokoj, pokoj word origin, etymology of pokoj
+- Czech pokoj etymology
+  - Meaning: “room”
+    - Room
+  - Word history
+    - Old Czech pokoj
+    - Proto-Slavic *pokojь
+    - From *po- + *kojь
+    - Proto-Indo-European *kʷoyh₁-o-
+    - Proto-Indo-European *kʷyeh₁-, “rest”
+  - Slavic cousins
+    - Polish pokój
+    - Slovak pokoj
+    - Russian покой
+  - Related Czech words
+    - pokojská: chambermaid
+    - spokojit: to be satisfied
+    - uspokojit: to satisfy
+  - Sources
+    - [Wiktionary: pokoj](https://en.wiktionary.org/wiki/pokoj#Czech)
+    - [Wiktionary: Proto-Slavic *pokojь](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/pokoj%D1%8C)

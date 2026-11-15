@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech slovo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8ghgam",
+      "name": "Meaning: “word”",
+      "x": -223,
+      "y": -44,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ysibew",
+      "name": "Word",
+      "x": -437,
+      "y": -86,
+      "parent": "#8ghgam"
+    },
+    {
+      "@id": "#64pqkx",
+      "name": "Word history",
+      "x": -28,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#twf2sa",
+      "name": "Old Czech slovo",
+      "x": -337,
+      "y": -239,
+      "parent": "#64pqkx"
+    },
+    {
+      "@id": "#zkjq96",
+      "name": "Proto-Slavic *slovo",
+      "x": -160,
+      "y": -337,
+      "parent": "#64pqkx"
+    },
+    {
+      "@id": "#tjc889",
+      "name": "Proto-Balto-Slavic *ślawas",
+      "x": 58,
+      "y": -389,
+      "parent": "#64pqkx"
+    },
+    {
+      "@id": "#trbwgv",
+      "name": "Proto-Indo-European *ḱléwos, “that which is heard”",
+      "x": 256,
+      "y": -296,
+      "parent": "#64pqkx"
+    },
+    {
+      "@id": "#3cmahp",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#55eipi",
+      "name": "Polish słowo",
+      "x": 398,
+      "y": -167,
+      "parent": "#3cmahp"
+    },
+    {
+      "@id": "#6hfvui",
+      "name": "Slovak slovo",
+      "x": 450,
+      "y": 0,
+      "parent": "#3cmahp"
+    },
+    {
+      "@id": "#8d96pg",
+      "name": "Russian слово",
+      "x": 398,
+      "y": 167,
+      "parent": "#3cmahp"
+    },
+    {
+      "@id": "#cxgmfj",
+      "name": "Related Czech words",
+      "x": 28,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h5x6jd",
+      "name": "jednoslovný: single-word",
+      "x": 256,
+      "y": 296,
+      "parent": "#cxgmfj"
+    },
+    {
+      "@id": "#d6btjd",
+      "name": "víceslovný: multi-word",
+      "x": 54,
+      "y": 357,
+      "parent": "#cxgmfj"
+    },
+    {
+      "@id": "#x5jtym",
+      "name": "doslov: epilogue",
+      "x": -174,
+      "y": 367,
+      "parent": "#cxgmfj"
+    },
+    {
+      "@id": "#m4r26k",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ank8fr",
+      "name": "Wiktionary: slovo",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/slovo#Czech",
+      "parent": "#m4r26k"
+    },
+    {
+      "@id": "#mhuntz",
+      "name": "Wiktionary: Proto-Slavic *slovo",
+      "x": -456,
+      "y": 90,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/slovo",
+      "parent": "#m4r26k"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

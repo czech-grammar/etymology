@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kadeřník etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3gi8am",
+      "name": "Meaning: “hairdresser”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#btcdf5",
+      "name": "Hairdresser",
+      "x": -428,
+      "y": -111,
+      "parent": "#3gi8am"
+    },
+    {
+      "@id": "#hyacxm",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#86pdwe",
+      "name": "From kadeř + -ník",
+      "x": -265,
+      "y": -291,
+      "parent": "#hyacxm"
+    },
+    {
+      "@id": "#js9gaq",
+      "name": "Root: Proto-Slavic *kǫdrь",
+      "x": 0,
+      "y": -360,
+      "parent": "#hyacxm"
+    },
+    {
+      "@id": "#9ik5fy",
+      "name": "Deeper origin uncertain",
+      "x": 265,
+      "y": -291,
+      "parent": "#hyacxm"
+    },
+    {
+      "@id": "#zi83fq",
+      "name": "Cousins of the root *kǫdrь",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6mut5f",
+      "name": "Polish kędzior",
+      "x": 428,
+      "y": -111,
+      "parent": "#zi83fq"
+    },
+    {
+      "@id": "#baxmn8",
+      "name": "Slovak kader",
+      "x": 428,
+      "y": 111,
+      "parent": "#zi83fq"
+    },
+    {
+      "@id": "#vecj7d",
+      "name": "Russian кудерь",
+      "x": 265,
+      "y": 291,
+      "parent": "#zi83fq"
+    },
+    {
+      "@id": "#ji9miu",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5z2i2m",
+      "name": "kadeřnictví: hairdresser's",
+      "x": 0,
+      "y": 360,
+      "parent": "#ji9miu"
+    },
+    {
+      "@id": "#zhx4ps",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nufhiu",
+      "name": "Wiktionary: kadeřník",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/kade%C5%99n%C3%ADk#Czech",
+      "parent": "#zhx4ps"
+    },
+    {
+      "@id": "#ev4ww4",
+      "name": "Wiktionary: Proto-Slavic *kǫdrь",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/k%C7%ABdr%D1%8C",
+      "parent": "#zhx4ps"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

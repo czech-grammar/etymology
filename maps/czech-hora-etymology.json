@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech hora etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#p4cxf8",
+      "name": "Meaning: “mountain”",
+      "x": -242,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mjtx76",
+      "name": "Mountain",
+      "x": -437,
+      "y": -86,
+      "parent": "#p4cxf8"
+    },
+    {
+      "@id": "#hhrk24",
+      "name": "Word history",
+      "x": -28,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f2289k",
+      "name": "Old Czech hora",
+      "x": -337,
+      "y": -239,
+      "parent": "#hhrk24"
+    },
+    {
+      "@id": "#ixxb6a",
+      "name": "Proto-Slavic *gora",
+      "x": -160,
+      "y": -337,
+      "parent": "#hhrk24"
+    },
+    {
+      "@id": "#5cejtx",
+      "name": "Proto-Balto-Slavic *garā́ˀ",
+      "x": 58,
+      "y": -389,
+      "parent": "#hhrk24"
+    },
+    {
+      "@id": "#rgbpsg",
+      "name": "Proto-Indo-European *gʷerH-",
+      "x": 256,
+      "y": -296,
+      "parent": "#hhrk24"
+    },
+    {
+      "@id": "#rn3pty",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6ik7qk",
+      "name": "Polish góra",
+      "x": 398,
+      "y": -167,
+      "parent": "#rn3pty"
+    },
+    {
+      "@id": "#kdmxqu",
+      "name": "Slovak hora",
+      "x": 450,
+      "y": 0,
+      "parent": "#rn3pty"
+    },
+    {
+      "@id": "#9e8xd4",
+      "name": "Russian гора",
+      "x": 398,
+      "y": 167,
+      "parent": "#rn3pty"
+    },
+    {
+      "@id": "#e3avy4",
+      "name": "Related Czech words",
+      "x": 28,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gmqhgf",
+      "name": "horal: highlander",
+      "x": 256,
+      "y": 296,
+      "parent": "#e3avy4"
+    },
+    {
+      "@id": "#vtgdrn",
+      "name": "horolezec: mountaineer",
+      "x": 54,
+      "y": 357,
+      "parent": "#e3avy4"
+    },
+    {
+      "@id": "#un6ktk",
+      "name": "hornatý: mountainous",
+      "x": -195,
+      "y": 412,
+      "parent": "#e3avy4"
+    },
+    {
+      "@id": "#kp9x3p",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jcqp7x",
+      "name": "Wiktionary: hora",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/hora#Czech",
+      "parent": "#kp9x3p"
+    },
+    {
+      "@id": "#dkeijh",
+      "name": "Wiktionary: Proto-Slavic *gora",
+      "x": -437,
+      "y": 86,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/gora",
+      "parent": "#kp9x3p"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

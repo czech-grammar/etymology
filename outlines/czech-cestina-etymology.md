@@ -1,0 +1,22 @@
+category: A1 nouns
+aliases: čeština etymology, origin of čeština, čeština word origin, etymology of čeština
+- Czech čeština etymology
+  - Meaning: “Czech (language)”
+    - Czech (language)
+  - Word history
+    - Old Czech češčina
+    - Proto-Slavic *čelověkъ
+    - Early Proto-Slavic *čeláwaj˙ku
+    - Proto-Balto-Slavic *kelawaikas
+    - Built from český + -ina
+  - Slavic cousins
+    - Polish człowiek
+    - Slovak človek
+    - Russian человек
+  - Related Czech words
+    - češtinář: teacher of Czech
+    - pračeština: Proto-Czech
+    - český: Czech
+  - Sources
+    - [Wiktionary: čeština](https://en.wiktionary.org/wiki/%C4%8De%C5%A1tina#Czech)
+    - [Wiktionary: Proto-Slavic *čelověkъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C4%8Delov%C4%9Bk%D1%8A)

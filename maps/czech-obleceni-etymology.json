@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech oblečení etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ukz3gq",
+      "name": "Meaning: “clothes”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nit2p2",
+      "name": "Clothes",
+      "x": -318,
+      "y": -255,
+      "parent": "#ukz3gq"
+    },
+    {
+      "@id": "#v7d2vx",
+      "name": "Verbal noun of obléct",
+      "x": 318,
+      "y": -255,
+      "parent": "#ukz3gq"
+    },
+    {
+      "@id": "#6v7ngk",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ztytx9",
+      "name": "Old Czech oblečenie. obléct + -ení",
+      "x": 318,
+      "y": 255,
+      "parent": "#6v7ngk"
+    },
+    {
+      "@id": "#7ca2qz",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h3mwac",
+      "name": "Wiktionary: oblečení",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/oble%C4%8Den%C3%AD#Czech",
+      "parent": "#7ca2qz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

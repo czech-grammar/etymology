@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech česnek etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ercmij",
+      "name": "Meaning: “garlic”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2i7ew9",
+      "name": "Garlic",
+      "x": -428,
+      "y": -111,
+      "parent": "#ercmij"
+    },
+    {
+      "@id": "#nd2c6w",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xyfm2p",
+      "name": "Old Czech česnek",
+      "x": -265,
+      "y": -291,
+      "parent": "#nd2c6w"
+    },
+    {
+      "@id": "#hbwm2p",
+      "name": "Proto-Slavic *česnъkъ",
+      "x": 0,
+      "y": -360,
+      "parent": "#nd2c6w"
+    },
+    {
+      "@id": "#mf89bh",
+      "name": "From *česnъ + *-ъkъ",
+      "x": 265,
+      "y": -291,
+      "parent": "#nd2c6w"
+    },
+    {
+      "@id": "#96waqz",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#92ddfe",
+      "name": "Polish czosnek",
+      "x": 428,
+      "y": -111,
+      "parent": "#96waqz"
+    },
+    {
+      "@id": "#6mpgmi",
+      "name": "Slovak cesnak",
+      "x": 428,
+      "y": 111,
+      "parent": "#96waqz"
+    },
+    {
+      "@id": "#cj3wk5",
+      "name": "Russian чеснок",
+      "x": 265,
+      "y": 291,
+      "parent": "#96waqz"
+    },
+    {
+      "@id": "#pethd4",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wpftra",
+      "name": "česnečka: garlic soup",
+      "x": 0,
+      "y": 360,
+      "parent": "#pethd4"
+    },
+    {
+      "@id": "#3sb8b6",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#63n8xz",
+      "name": "Wiktionary: česnek",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/%C4%8Desnek#Czech",
+      "parent": "#3sb8b6"
+    },
+    {
+      "@id": "#4sa8q7",
+      "name": "Wiktionary: Proto-Slavic *česnъkъ",
+      "x": -447,
+      "y": 116,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C4%8Desn%D1%8Ak%D1%8A",
+      "parent": "#3sb8b6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech hasič etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#py6ygq",
+      "name": "Meaning: “firefighter”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r6ngva",
+      "name": "Firefighter",
+      "x": -416,
+      "y": -138,
+      "parent": "#py6ygq"
+    },
+    {
+      "@id": "#bq7jtd",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i65hii",
+      "name": "From hasit + -č",
+      "x": -172,
+      "y": -333,
+      "parent": "#bq7jtd"
+    },
+    {
+      "@id": "#nth35y",
+      "name": "Root: Proto-Slavic *gasiti",
+      "x": 172,
+      "y": -333,
+      "parent": "#bq7jtd"
+    },
+    {
+      "@id": "#swv4b7",
+      "name": "Cousins of the root *gasiti",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hsaazv",
+      "name": "Polish gasić",
+      "x": 416,
+      "y": -138,
+      "parent": "#swv4b7"
+    },
+    {
+      "@id": "#kvhxjq",
+      "name": "Slovak hasiť",
+      "x": 416,
+      "y": 138,
+      "parent": "#swv4b7"
+    },
+    {
+      "@id": "#ssf84k",
+      "name": "Russian гасить",
+      "x": 172,
+      "y": 333,
+      "parent": "#swv4b7"
+    },
+    {
+      "@id": "#zebdfa",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gtvvfz",
+      "name": "Wiktionary: hasič",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/hasi%C4%8D#Czech",
+      "parent": "#zebdfa"
+    },
+    {
+      "@id": "#hestfw",
+      "name": "Wiktionary: Proto-Slavic *gasiti",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/gasiti",
+      "parent": "#zebdfa"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech banka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#g4vses",
+      "name": "Meaning: “bank”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vdmeqm",
+      "name": "Bank",
+      "x": -390,
+      "y": -180,
+      "parent": "#g4vses"
+    },
+    {
+      "@id": "#n8xhy8",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s54uvr",
+      "name": "Borrowed from Italian banca",
+      "x": 0,
+      "y": -360,
+      "parent": "#n8xhy8"
+    },
+    {
+      "@id": "#3xua8d",
+      "name": "Related Czech words",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pcedab",
+      "name": "bankéř: banker",
+      "x": 390,
+      "y": -180,
+      "parent": "#3xua8d"
+    },
+    {
+      "@id": "#jsqvck",
+      "name": "bankovka: banknote",
+      "x": 390,
+      "y": 180,
+      "parent": "#3xua8d"
+    },
+    {
+      "@id": "#t3nsnr",
+      "name": "bankovnictví: banking",
+      "x": 0,
+      "y": 360,
+      "parent": "#3xua8d"
+    },
+    {
+      "@id": "#vwusze",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vaduz3",
+      "name": "Wiktionary: banka",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/banka#Czech",
+      "parent": "#vwusze"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

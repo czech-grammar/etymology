@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech zelenina etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#9q3wcz",
+      "name": "Meaning: “vegetables”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rmvwxd",
+      "name": "Vegetables",
+      "x": -416,
+      "y": -138,
+      "parent": "#9q3wcz"
+    },
+    {
+      "@id": "#3nss2k",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7pe9gx",
+      "name": "From zelený + -ina",
+      "x": -172,
+      "y": -333,
+      "parent": "#3nss2k"
+    },
+    {
+      "@id": "#z2zhkk",
+      "name": "Root: Proto-Slavic *zelenъ",
+      "x": 172,
+      "y": -333,
+      "parent": "#3nss2k"
+    },
+    {
+      "@id": "#feeexd",
+      "name": "Cousins of the root *zelenъ",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6cgvjt",
+      "name": "Polish zielony",
+      "x": 416,
+      "y": -138,
+      "parent": "#feeexd"
+    },
+    {
+      "@id": "#stuyjf",
+      "name": "Slovak zelený",
+      "x": 416,
+      "y": 138,
+      "parent": "#feeexd"
+    },
+    {
+      "@id": "#v9qc4c",
+      "name": "Russian зелёный",
+      "x": 172,
+      "y": 333,
+      "parent": "#feeexd"
+    },
+    {
+      "@id": "#xfwmvv",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xtueiv",
+      "name": "Wiktionary: zelenina",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/zelenina#Czech",
+      "parent": "#xfwmvv"
+    },
+    {
+      "@id": "#svjst6",
+      "name": "Wiktionary: Proto-Slavic *zelenъ",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/zelen%D1%8A",
+      "parent": "#xfwmvv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

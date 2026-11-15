@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech lžíce etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#v46zkg",
+      "name": "Meaning: “spoon”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vces7w",
+      "name": "Spoon",
+      "x": -416,
+      "y": -138,
+      "parent": "#v46zkg"
+    },
+    {
+      "@id": "#jx6uii",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9exir8",
+      "name": "Old Czech lžícě",
+      "x": -172,
+      "y": -333,
+      "parent": "#jx6uii"
+    },
+    {
+      "@id": "#jv2bj7",
+      "name": "Proto-Slavic *lъžica",
+      "x": 172,
+      "y": -333,
+      "parent": "#jx6uii"
+    },
+    {
+      "@id": "#kniaz9",
+      "name": "From *lъga + *-ica",
+      "x": 416,
+      "y": -138,
+      "parent": "#jx6uii"
+    },
+    {
+      "@id": "#k92pp2",
+      "name": "From *lъga, “bending” + *-ica",
+      "x": 416,
+      "y": 138,
+      "parent": "#jx6uii"
+    },
+    {
+      "@id": "#zzpm23",
+      "name": "Related Czech words",
+      "x": 88,
+      "y": 170,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7wnfiq",
+      "name": "lžička: teaspoon",
+      "x": 172,
+      "y": 333,
+      "parent": "#zzpm23"
+    },
+    {
+      "@id": "#qw5kyz",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xrafch",
+      "name": "Wiktionary: lžíce",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/l%C5%BE%C3%ADce#Czech",
+      "parent": "#qw5kyz"
+    },
+    {
+      "@id": "#p4qn3j",
+      "name": "Wiktionary: Proto-Slavic *lъžica",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/l%D1%8A%C5%BEica",
+      "parent": "#qw5kyz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

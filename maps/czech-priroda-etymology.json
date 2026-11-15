@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech příroda etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#vgwcjj",
+      "name": "Meaning: “nature”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zadcwa",
+      "name": "Nature",
+      "x": -416,
+      "y": -138,
+      "parent": "#vgwcjj"
+    },
+    {
+      "@id": "#rjzraj",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tbi92n",
+      "name": "Borrowed from Russian приро́да (priróda)",
+      "x": -172,
+      "y": -333,
+      "parent": "#rjzraj"
+    },
+    {
+      "@id": "#he8fq2",
+      "name": "Proto-Slavic *priroda",
+      "x": 172,
+      "y": -333,
+      "parent": "#rjzraj"
+    },
+    {
+      "@id": "#qy6i3k",
+      "name": "Slavic cousins",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vces7w",
+      "name": "Polish przyroda",
+      "x": 416,
+      "y": -138,
+      "parent": "#qy6i3k"
+    },
+    {
+      "@id": "#93im3y",
+      "name": "Slovak príroda",
+      "x": 416,
+      "y": 138,
+      "parent": "#qy6i3k"
+    },
+    {
+      "@id": "#4npj9m",
+      "name": "Russian природа",
+      "x": 172,
+      "y": 333,
+      "parent": "#qy6i3k"
+    },
+    {
+      "@id": "#a6akyq",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4rgkuu",
+      "name": "Wiktionary: příroda",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/p%C5%99%C3%ADroda#Czech",
+      "parent": "#a6akyq"
+    },
+    {
+      "@id": "#e5g6v6",
+      "name": "Wiktionary: Proto-Slavic *priroda",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/priroda",
+      "parent": "#a6akyq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

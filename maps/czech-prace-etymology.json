@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech práce etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#i4zm2m",
+      "name": "Meaning: “work”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mw2gff",
+      "name": "Work",
+      "x": -432,
+      "y": -101,
+      "parent": "#i4zm2m"
+    },
+    {
+      "@id": "#qj3bvn",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tqytbv",
+      "name": "Old Czech prácě, “effort”",
+      "x": -295,
+      "y": -272,
+      "parent": "#qj3bvn"
+    },
+    {
+      "@id": "#7mjwwt",
+      "name": "Proto-Slavic *porťa",
+      "x": -64,
+      "y": -356,
+      "parent": "#qj3bvn"
+    },
+    {
+      "@id": "#zitdmf",
+      "name": "From *pьrati, “to beat” + *-ťa",
+      "x": 211,
+      "y": -372,
+      "parent": "#qj3bvn"
+    },
+    {
+      "@id": "#ewpyih",
+      "name": "Slavic cousins",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d2kwmv",
+      "name": "Polish proca",
+      "x": 379,
+      "y": -195,
+      "parent": "#ewpyih"
+    },
+    {
+      "@id": "#ngj99k",
+      "name": "Russian праща",
+      "x": 450,
+      "y": 0,
+      "parent": "#ewpyih"
+    },
+    {
+      "@id": "#bjf4ve",
+      "name": "Related Czech words",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mckjrn",
+      "name": "přepracovaný: overworked",
+      "x": 379,
+      "y": 195,
+      "parent": "#bjf4ve"
+    },
+    {
+      "@id": "#bempaq",
+      "name": "pracně: laboriously",
+      "x": 187,
+      "y": 327,
+      "parent": "#bjf4ve"
+    },
+    {
+      "@id": "#z8q3wt",
+      "name": "pracnost: laboriousness",
+      "x": -64,
+      "y": 356,
+      "parent": "#bjf4ve"
+    },
+    {
+      "@id": "#6dkjic",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hxb7yc",
+      "name": "Wiktionary: práce",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/pr%C3%A1ce#Czech",
+      "parent": "#6dkjic"
+    },
+    {
+      "@id": "#jzq96j",
+      "name": "Wiktionary: Proto-Slavic *porťa",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/por%C5%A5a",
+      "parent": "#6dkjic"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

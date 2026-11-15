@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech židle etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#h9u2sq",
+      "name": "Meaning: “chair”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g8dxqr",
+      "name": "Chair",
+      "x": -318,
+      "y": -255,
+      "parent": "#h9u2sq"
+    },
+    {
+      "@id": "#6xfwvb",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gn3j7u",
+      "name": "Old Czech židle",
+      "x": 318,
+      "y": -255,
+      "parent": "#6xfwvb"
+    },
+    {
+      "@id": "#xz88qw",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q8dux4",
+      "name": "židlička: stool",
+      "x": 318,
+      "y": 255,
+      "parent": "#xz88qw"
+    },
+    {
+      "@id": "#sb2utc",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ki63sn",
+      "name": "Wiktionary: židle",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/%C5%BEidle#Czech",
+      "parent": "#sb2utc"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

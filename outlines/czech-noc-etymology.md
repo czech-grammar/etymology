@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: noc etymology, origin of noc, noc word origin, etymology of noc
+- Czech noc etymology
+  - Meaning: “night”
+    - Night
+  - Word history
+    - Old Czech noc
+    - Proto-Slavic *noťь
+    - Proto-Balto-Slavic *náktis
+    - Proto-Indo-European *nókʷts
+  - Slavic cousins
+    - Polish noc
+    - Slovak noc
+    - Russian ночь
+  - Related Czech words
+    - noční: nighttime
+    - nocleh: overnight lodging
+    - nočník: potty
+  - Sources
+    - [Wiktionary: noc](https://en.wiktionary.org/wiki/noc#Czech)
+    - [Wiktionary: Proto-Slavic *noťь](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/no%C5%A5%D1%8C)

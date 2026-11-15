@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech srpen etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ydh4zk",
+      "name": "Meaning: “August”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xe2vdx",
+      "name": "August",
+      "x": -225,
+      "y": -312,
+      "parent": "#ydh4zk"
+    },
+    {
+      "@id": "#dmhvge",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qxnuj5",
+      "name": "Old Czech srpen",
+      "x": 450,
+      "y": 0,
+      "parent": "#dmhvge"
+    },
+    {
+      "@id": "#vbkp6q",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sdt84s",
+      "name": "Wiktionary: srpen",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/srpen#Czech",
+      "parent": "#vbkp6q"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

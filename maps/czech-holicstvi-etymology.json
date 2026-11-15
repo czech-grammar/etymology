@@ -1,0 +1,127 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech holičství etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8cpwri",
+      "name": "Meaning: “barber’s”",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rin2nt",
+      "name": "Barber’s",
+      "x": -364,
+      "y": -212,
+      "parent": "#8cpwri"
+    },
+    {
+      "@id": "#idxqr4",
+      "name": "Word history",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#et4epx",
+      "name": "From holič, “barber” + -ctví",
+      "x": 139,
+      "y": -342,
+      "parent": "#idxqr4"
+    },
+    {
+      "@id": "#4bfxdp",
+      "name": "Related Czech words",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6ne7ja",
+      "name": "holič: barber",
+      "x": 450,
+      "y": 0,
+      "parent": "#4bfxdp"
+    },
+    {
+      "@id": "#bgjgtt",
+      "name": "holit: to shave",
+      "x": 139,
+      "y": 342,
+      "parent": "#4bfxdp"
+    },
+    {
+      "@id": "#ze5fvz",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6cbxn5",
+      "name": "Wiktionary: holičství",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/holi%C4%8Dstv%C3%AD#Czech",
+      "parent": "#ze5fvz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: mrak etymology, origin of mrak, mrak word origin, etymology of mrak
+- Czech mrak etymology
+  - Meaning: “cloud”
+    - Cloud
+  - Word history
+    - Old Czech mrak
+    - Proto-Slavic *morkъ
+    - Proto-Balto-Slavic *markas
+    - Proto-Indo-European *mergʷ-, “to flicker”
+  - Slavic cousins
+    - Polish mrok
+    - Slovak mrak
+    - Russian морок
+  - Related Czech words
+    - zamračený: cloudy
+    - mrakodrap: skyscraper
+    - soumrak: dusk
+  - Sources
+    - [Wiktionary: mrak](https://en.wiktionary.org/wiki/mrak#Czech)
+    - [Wiktionary: Proto-Slavic *morkъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/mork%D1%8A)

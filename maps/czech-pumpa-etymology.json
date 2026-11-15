@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech pumpa etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#98zeic",
+      "name": "Meaning: “petrol station”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g5ugir",
+      "name": "Petrol station",
+      "x": -390,
+      "y": -180,
+      "parent": "#98zeic"
+    },
+    {
+      "@id": "#2svjpj",
+      "name": "Pump",
+      "x": 0,
+      "y": -360,
+      "parent": "#98zeic"
+    },
+    {
+      "@id": "#38c647",
+      "name": "Word history",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t6r5fx",
+      "name": "Borrowed from German Pumpe",
+      "x": 390,
+      "y": -180,
+      "parent": "#38c647"
+    },
+    {
+      "@id": "#fivx82",
+      "name": "Related Czech words",
+      "x": 115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t7wdxt",
+      "name": "pumpař: pump manufacturer",
+      "x": 390,
+      "y": 180,
+      "parent": "#fivx82"
+    },
+    {
+      "@id": "#ed54vi",
+      "name": "pumpovat: to pump",
+      "x": 0,
+      "y": 360,
+      "parent": "#fivx82"
+    },
+    {
+      "@id": "#p5hm76",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f73yzh",
+      "name": "Wiktionary: pumpa",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/pumpa#Czech",
+      "parent": "#p5hm76"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

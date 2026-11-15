@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: hlad etymology, origin of hlad, hlad word origin, etymology of hlad
+- Czech hlad etymology
+  - Meaning: “hunger”
+    - Hunger
+  - Word history
+    - Old Czech hlad
+    - Proto-Slavic *goldъ
+    - Proto-Balto-Slavic *galdás
+    - Proto-Indo-European *g⁽ʷ⁾oldʰ-ó-s
+  - Slavic cousins
+    - Polish głód
+    - Slovak hlad
+    - Russian голод
+  - Related Czech words
+    - hladově: hungrily
+    - hladovět: to hunger
+    - hladovka: fast
+  - Sources
+    - [Wiktionary: hlad](https://en.wiktionary.org/wiki/hlad#Czech)
+    - [Wiktionary: Proto-Slavic *goldъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/gold%D1%8A)

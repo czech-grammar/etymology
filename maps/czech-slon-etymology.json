@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech slon etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#9jzcdb",
+      "name": "Meaning: “elephant”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nzm364",
+      "name": "Elephant",
+      "x": -432,
+      "y": -101,
+      "parent": "#9jzcdb"
+    },
+    {
+      "@id": "#vc6per",
+      "name": "Word history",
+      "x": -96,
+      "y": -167,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e43y24",
+      "name": "Old Czech slon",
+      "x": -295,
+      "y": -272,
+      "parent": "#vc6per"
+    },
+    {
+      "@id": "#c4tgrm",
+      "name": "Proto-Slavic *slonъ",
+      "x": -64,
+      "y": -356,
+      "parent": "#vc6per"
+    },
+    {
+      "@id": "#6me8wb",
+      "name": "Slavic cousins",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fs7c3e",
+      "name": "Polish słoń",
+      "x": 187,
+      "y": -327,
+      "parent": "#6me8wb"
+    },
+    {
+      "@id": "#imk85s",
+      "name": "Slovak slon",
+      "x": 379,
+      "y": -195,
+      "parent": "#6me8wb"
+    },
+    {
+      "@id": "#v9m36r",
+      "name": "Russian слон",
+      "x": 450,
+      "y": 0,
+      "parent": "#6me8wb"
+    },
+    {
+      "@id": "#3veg4i",
+      "name": "Related Czech words",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4vmguu",
+      "name": "slonice: female elephant",
+      "x": 379,
+      "y": 195,
+      "parent": "#3veg4i"
+    },
+    {
+      "@id": "#2eaqcg",
+      "name": "slonovina: ivory",
+      "x": 187,
+      "y": 327,
+      "parent": "#3veg4i"
+    },
+    {
+      "@id": "#3umty3",
+      "name": "slůně: elephant calf",
+      "x": -64,
+      "y": 356,
+      "parent": "#3veg4i"
+    },
+    {
+      "@id": "#zwm629",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eg9225",
+      "name": "Wiktionary: slon",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/slon#Czech",
+      "parent": "#zwm629"
+    },
+    {
+      "@id": "#hsy2ac",
+      "name": "Wiktionary: Proto-Slavic *slonъ",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/slon%D1%8A",
+      "parent": "#zwm629"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

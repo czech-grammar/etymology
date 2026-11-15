@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech košík etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7mjgvt",
+      "name": "Meaning: “basket”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d6ge7f",
+      "name": "Basket",
+      "x": -423,
+      "y": -123,
+      "parent": "#7mjgvt"
+    },
+    {
+      "@id": "#5gmynx",
+      "name": "Word history",
+      "x": 40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#23u79h",
+      "name": "From koš + -ík",
+      "x": -225,
+      "y": -312,
+      "parent": "#5gmynx"
+    },
+    {
+      "@id": "#2z6a4j",
+      "name": "Root: Proto-Slavic *košь",
+      "x": 78,
+      "y": -355,
+      "parent": "#5gmynx"
+    },
+    {
+      "@id": "#y2tz8b",
+      "name": "Deeper origin uncertain",
+      "x": 345,
+      "y": -231,
+      "parent": "#5gmynx"
+    },
+    {
+      "@id": "#jgt6ra",
+      "name": "Cousins of the root *košь",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b95wac",
+      "name": "Polish kosz",
+      "x": 450,
+      "y": 0,
+      "parent": "#jgt6ra"
+    },
+    {
+      "@id": "#vwc5xr",
+      "name": "Slovak kôš",
+      "x": 345,
+      "y": 231,
+      "parent": "#jgt6ra"
+    },
+    {
+      "@id": "#kba5hk",
+      "name": "Russian кош",
+      "x": 78,
+      "y": 355,
+      "parent": "#jgt6ra"
+    },
+    {
+      "@id": "#k9rwu6",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cpgwe8",
+      "name": "Wiktionary: košík",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/ko%C5%A1%C3%ADk#Czech",
+      "parent": "#k9rwu6"
+    },
+    {
+      "@id": "#rudp9t",
+      "name": "Wiktionary: Proto-Slavic *košь",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/ko%C5%A1%D1%8C",
+      "parent": "#k9rwu6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

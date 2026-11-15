@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech jízdenka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#48dkfi",
+      "name": "Meaning: “ticket”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#shk6j5",
+      "name": "Ticket",
+      "x": -423,
+      "y": -123,
+      "parent": "#48dkfi"
+    },
+    {
+      "@id": "#kednrq",
+      "name": "Word history",
+      "x": 40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wmgd4k",
+      "name": "From jízda + -enka",
+      "x": -225,
+      "y": -312,
+      "parent": "#kednrq"
+    },
+    {
+      "@id": "#yt86t6",
+      "name": "Root: Proto-Slavic *ězda",
+      "x": 78,
+      "y": -355,
+      "parent": "#kednrq"
+    },
+    {
+      "@id": "#jmb95r",
+      "name": "Deeper origin uncertain",
+      "x": 345,
+      "y": -231,
+      "parent": "#kednrq"
+    },
+    {
+      "@id": "#ac8reh",
+      "name": "Cousins of the root *ězda",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fe3ygz",
+      "name": "Polish jazda",
+      "x": 450,
+      "y": 0,
+      "parent": "#ac8reh"
+    },
+    {
+      "@id": "#585v5b",
+      "name": "Slovak jazda",
+      "x": 345,
+      "y": 231,
+      "parent": "#ac8reh"
+    },
+    {
+      "@id": "#webexi",
+      "name": "Russian езда",
+      "x": 78,
+      "y": 355,
+      "parent": "#ac8reh"
+    },
+    {
+      "@id": "#p9mdqq",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dd3k9q",
+      "name": "Wiktionary: jízdenka",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/j%C3%ADzdenka#Czech",
+      "parent": "#p9mdqq"
+    },
+    {
+      "@id": "#sbugkr",
+      "name": "Wiktionary: Proto-Slavic *ězda",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C4%9Bzda",
+      "parent": "#p9mdqq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: topení etymology, origin of topení, topení word origin, etymology of topení
+- Czech topení etymology
+  - Meaning: “heating”
+    - Heating
+    - Verbal noun of topit
+  - Word history
+    - From topit + -ení
+    - Root: Proto-Slavic *topiti
+    - Proto-Balto-Slavic *tapīˀtei
+    - Proto-Indo-European *top-éye-ti
+    - Proto-Indo-European *tep-, “hot”
+  - Cousins of the root *topiti
+    - Polish topić, “to melt”
+    - Slovak topiť
+    - Russian топить
+  - Related Czech words
+    - topit: to stoke
+  - Sources
+    - [Wiktionary: topení](https://en.wiktionary.org/wiki/topen%C3%AD#Czech)
+    - [Wiktionary: Proto-Slavic *topiti](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/topiti)

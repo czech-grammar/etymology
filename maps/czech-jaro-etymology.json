@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech jaro etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#q6abfs",
+      "name": "Meaning: “spring”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bhpiny",
+      "name": "Spring",
+      "x": -416,
+      "y": -138,
+      "parent": "#q6abfs"
+    },
+    {
+      "@id": "#ixfpx9",
+      "name": "Word history",
+      "x": 88,
+      "y": -170,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mc4n9w",
+      "name": "Old Czech jaro",
+      "x": -172,
+      "y": -333,
+      "parent": "#ixfpx9"
+    },
+    {
+      "@id": "#xmj88z",
+      "name": "Proto-Slavic *jaro",
+      "x": 172,
+      "y": -333,
+      "parent": "#ixfpx9"
+    },
+    {
+      "@id": "#3i8ra2",
+      "name": "Proto-Indo-European *yóh₁r̥, “year”",
+      "x": 416,
+      "y": -138,
+      "parent": "#ixfpx9"
+    },
+    {
+      "@id": "#uhvg62",
+      "name": "Slavic cousins",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xd98zn",
+      "name": "Polish jaro",
+      "x": 416,
+      "y": 138,
+      "parent": "#uhvg62"
+    },
+    {
+      "@id": "#3c569t",
+      "name": "Slovak jaro",
+      "x": 172,
+      "y": 333,
+      "parent": "#uhvg62"
+    },
+    {
+      "@id": "#a544fi",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8cazka",
+      "name": "Wiktionary: jaro",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/jaro#Czech",
+      "parent": "#a544fi"
+    },
+    {
+      "@id": "#txw5e7",
+      "name": "Wiktionary: Proto-Slavic *jaro",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/jaro",
+      "parent": "#a544fi"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

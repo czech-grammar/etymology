@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech zrcadlo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#bx4beb",
+      "name": "Meaning: “mirror”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hvscu2",
+      "name": "Mirror",
+      "x": -428,
+      "y": -111,
+      "parent": "#bx4beb"
+    },
+    {
+      "@id": "#mnnfvs",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rthgjd",
+      "name": "Old Czech zrcadlo",
+      "x": -265,
+      "y": -291,
+      "parent": "#mnnfvs"
+    },
+    {
+      "@id": "#cq89g9",
+      "name": "Proto-Slavic *zьrcadlo",
+      "x": 0,
+      "y": -360,
+      "parent": "#mnnfvs"
+    },
+    {
+      "@id": "#pkjft4",
+      "name": "From *zьrkati + *-dlo",
+      "x": 265,
+      "y": -291,
+      "parent": "#mnnfvs"
+    },
+    {
+      "@id": "#gccfvn",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#55kha3",
+      "name": "Polish zwierciadło",
+      "x": 428,
+      "y": -111,
+      "parent": "#gccfvn"
+    },
+    {
+      "@id": "#chi2im",
+      "name": "Slovak zrkadlo",
+      "x": 428,
+      "y": 111,
+      "parent": "#gccfvn"
+    },
+    {
+      "@id": "#y8ftbz",
+      "name": "Russian зерцало",
+      "x": 265,
+      "y": 291,
+      "parent": "#gccfvn"
+    },
+    {
+      "@id": "#bx6ij7",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kf989b",
+      "name": "zrcadlit: to reflect",
+      "x": 0,
+      "y": 360,
+      "parent": "#bx6ij7"
+    },
+    {
+      "@id": "#xu752x",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y9sa85",
+      "name": "Wiktionary: zrcadlo",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/zrcadlo#Czech",
+      "parent": "#xu752x"
+    },
+    {
+      "@id": "#x5zemg",
+      "name": "Wiktionary: Proto-Slavic *zьrcadlo",
+      "x": -447,
+      "y": 116,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/z%D1%8Crcadlo",
+      "parent": "#xu752x"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

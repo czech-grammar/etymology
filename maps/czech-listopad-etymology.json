@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech listopad etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#hvbauf",
+      "name": "Meaning: “November”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zkshq8",
+      "name": "November",
+      "x": -423,
+      "y": -123,
+      "parent": "#hvbauf"
+    },
+    {
+      "@id": "#dkita7",
+      "name": "Word history",
+      "x": 40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fx44rm",
+      "name": "Old Czech listopad",
+      "x": -225,
+      "y": -312,
+      "parent": "#dkita7"
+    },
+    {
+      "@id": "#jg673v",
+      "name": "Proto-Slavic *listopadъ",
+      "x": 78,
+      "y": -355,
+      "parent": "#dkita7"
+    },
+    {
+      "@id": "#crcbd5",
+      "name": "Deeper origin uncertain",
+      "x": 345,
+      "y": -231,
+      "parent": "#dkita7"
+    },
+    {
+      "@id": "#uptc23",
+      "name": "Slavic cousins",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zf9p6b",
+      "name": "Polish listopad",
+      "x": 450,
+      "y": 0,
+      "parent": "#uptc23"
+    },
+    {
+      "@id": "#iyt5un",
+      "name": "Slovak listopad, “November; leaffall in autumn”",
+      "x": 345,
+      "y": 231,
+      "parent": "#uptc23"
+    },
+    {
+      "@id": "#nct65g",
+      "name": "Russian листопад",
+      "x": 78,
+      "y": 355,
+      "parent": "#uptc23"
+    },
+    {
+      "@id": "#7w4shr",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#itb56s",
+      "name": "Wiktionary: listopad",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/listopad#Czech",
+      "parent": "#7w4shr"
+    },
+    {
+      "@id": "#injzag",
+      "name": "Wiktionary: Proto-Slavic *listopadъ",
+      "x": -442,
+      "y": 128,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/listopad%D1%8A",
+      "parent": "#7w4shr"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech cesta etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#zgcz9v",
+      "name": "Meaning: “road, journey”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4xf4b5",
+      "name": "Road, journey",
+      "x": -428,
+      "y": -111,
+      "parent": "#zgcz9v"
+    },
+    {
+      "@id": "#r4dcqc",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9abceg",
+      "name": "Old Czech cěsta",
+      "x": -265,
+      "y": -291,
+      "parent": "#r4dcqc"
+    },
+    {
+      "@id": "#6ajxfv",
+      "name": "Proto-Slavic *cěsta",
+      "x": 0,
+      "y": -360,
+      "parent": "#r4dcqc"
+    },
+    {
+      "@id": "#qczxmw",
+      "name": "Deeper origin uncertain",
+      "x": 265,
+      "y": -291,
+      "parent": "#r4dcqc"
+    },
+    {
+      "@id": "#29774a",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c4z5v7",
+      "name": "Slovak cesta",
+      "x": 428,
+      "y": -111,
+      "parent": "#29774a"
+    },
+    {
+      "@id": "#4p89dn",
+      "name": "Related Czech words",
+      "x": 135,
+      "y": 149,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#85dstn",
+      "name": "cestář: roadman",
+      "x": 428,
+      "y": 111,
+      "parent": "#4p89dn"
+    },
+    {
+      "@id": "#fe8bwx",
+      "name": "rozcestník: fingerpost",
+      "x": 265,
+      "y": 291,
+      "parent": "#4p89dn"
+    },
+    {
+      "@id": "#divhdq",
+      "name": "cestovat: to travel",
+      "x": 0,
+      "y": 360,
+      "parent": "#4p89dn"
+    },
+    {
+      "@id": "#g9yv75",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tmcpf3",
+      "name": "Wiktionary: cesta",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/cesta#Czech",
+      "parent": "#g9yv75"
+    },
+    {
+      "@id": "#g4sdyg",
+      "name": "Wiktionary: Proto-Slavic *cěsta",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/c%C4%9Bsta",
+      "parent": "#g9yv75"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

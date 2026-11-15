@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech ručník etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#usmuf3",
+      "name": "Meaning: “towel”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mad4eg",
+      "name": "Towel",
+      "x": -435,
+      "y": -93,
+      "parent": "#usmuf3"
+    },
+    {
+      "@id": "#k2h4rd",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ia96jx",
+      "name": "From ruka, “hand” + -ník",
+      "x": -318,
+      "y": -255,
+      "parent": "#k2h4rd"
+    },
+    {
+      "@id": "#cewn6b",
+      "name": "Root: Proto-Slavic *rǫka",
+      "x": -116,
+      "y": -348,
+      "parent": "#k2h4rd"
+    },
+    {
+      "@id": "#6944pr",
+      "name": "Proto-Balto-Slavic *ránkāˀ",
+      "x": 136,
+      "y": -408,
+      "parent": "#k2h4rd"
+    },
+    {
+      "@id": "#s5uynw",
+      "name": "Cousins of the root *rǫka",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4btbq3",
+      "name": "Polish ręka",
+      "x": 318,
+      "y": -255,
+      "parent": "#s5uynw"
+    },
+    {
+      "@id": "#my5e7c",
+      "name": "Slovak ruka",
+      "x": 454,
+      "y": -97,
+      "parent": "#s5uynw"
+    },
+    {
+      "@id": "#emk9yv",
+      "name": "Russian рука",
+      "x": 435,
+      "y": 93,
+      "parent": "#s5uynw"
+    },
+    {
+      "@id": "#gurpm8",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wxkaht",
+      "name": "ručit: to guarantee",
+      "x": 318,
+      "y": 255,
+      "parent": "#gurpm8"
+    },
+    {
+      "@id": "#tsaw2t",
+      "name": "ručnice: rifle",
+      "x": 116,
+      "y": 348,
+      "parent": "#gurpm8"
+    },
+    {
+      "@id": "#edgji2",
+      "name": "ruka: hand",
+      "x": -116,
+      "y": 348,
+      "parent": "#gurpm8"
+    },
+    {
+      "@id": "#88mwg4",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gjwyii",
+      "name": "Wiktionary: ručník",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/ru%C4%8Dn%C3%ADk#Czech",
+      "parent": "#88mwg4"
+    },
+    {
+      "@id": "#euy9gu",
+      "name": "Wiktionary: Proto-Slavic *rǫka",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/r%C7%ABka",
+      "parent": "#88mwg4"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

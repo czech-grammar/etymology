@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech koruna etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#4eiu82",
+      "name": "Meaning: “crown (money)”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#47pudp",
+      "name": "Crown (money)",
+      "x": -390,
+      "y": -180,
+      "parent": "#4eiu82"
+    },
+    {
+      "@id": "#qkj8yd",
+      "name": "Word history",
+      "x": 115,
+      "y": -159,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rdzhmk",
+      "name": "Old Czech korona",
+      "x": 0,
+      "y": -360,
+      "parent": "#qkj8yd"
+    },
+    {
+      "@id": "#ngaqdx",
+      "name": "Latin corona",
+      "x": 390,
+      "y": -180,
+      "parent": "#qkj8yd"
+    },
+    {
+      "@id": "#wirf6s",
+      "name": "Related Czech words",
+      "x": 115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8kujak",
+      "name": "Kč: Czech koruna",
+      "x": 390,
+      "y": 180,
+      "parent": "#wirf6s"
+    },
+    {
+      "@id": "#e4vkmt",
+      "name": "korunka: crown",
+      "x": 0,
+      "y": 360,
+      "parent": "#wirf6s"
+    },
+    {
+      "@id": "#kjv5jz",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#avd2wr",
+      "name": "Wiktionary: koruna",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/koruna#Czech",
+      "parent": "#kjv5jz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech číšník etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#67fqr7",
+      "name": "Meaning: “waiter”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#udpn36",
+      "name": "Waiter",
+      "x": -432,
+      "y": -101,
+      "parent": "#67fqr7"
+    },
+    {
+      "@id": "#3dh768",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aawnix",
+      "name": "From číše + -ník",
+      "x": -295,
+      "y": -272,
+      "parent": "#3dh768"
+    },
+    {
+      "@id": "#zsi2gw",
+      "name": "Root: Proto-Slavic *čaša",
+      "x": -64,
+      "y": -356,
+      "parent": "#3dh768"
+    },
+    {
+      "@id": "#phihc2",
+      "name": "Deeper origin uncertain",
+      "x": 203,
+      "y": -357,
+      "parent": "#3dh768"
+    },
+    {
+      "@id": "#dpx5sz",
+      "name": "Cousins of the root *čaša",
+      "x": 270,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v3tk8d",
+      "name": "Polish czasza",
+      "x": 379,
+      "y": -195,
+      "parent": "#dpx5sz"
+    },
+    {
+      "@id": "#psw4i5",
+      "name": "Slovak čaša",
+      "x": 490,
+      "y": 0,
+      "parent": "#dpx5sz"
+    },
+    {
+      "@id": "#i5mdbk",
+      "name": "Russian чаша",
+      "x": 379,
+      "y": 195,
+      "parent": "#dpx5sz"
+    },
+    {
+      "@id": "#g5surs",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ad8bcz",
+      "name": "číše: cup",
+      "x": 187,
+      "y": 327,
+      "parent": "#g5surs"
+    },
+    {
+      "@id": "#nwvy3s",
+      "name": "číšnice: waitress",
+      "x": -64,
+      "y": 356,
+      "parent": "#g5surs"
+    },
+    {
+      "@id": "#i2vryb",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dycse6",
+      "name": "Wiktionary: číšník",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/%C4%8D%C3%AD%C5%A1n%C3%ADk#Czech",
+      "parent": "#i2vryb"
+    },
+    {
+      "@id": "#823awd",
+      "name": "Wiktionary: Proto-Slavic *čaša",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C4%8Da%C5%A1a",
+      "parent": "#i2vryb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

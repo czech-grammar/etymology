@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech dělník etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5pikpm",
+      "name": "Meaning: “worker”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8rtck3",
+      "name": "Worker",
+      "x": -423,
+      "y": -123,
+      "parent": "#5pikpm"
+    },
+    {
+      "@id": "#w8jjc7",
+      "name": "Word history",
+      "x": 40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2q77yb",
+      "name": "From dělat + -ník",
+      "x": -225,
+      "y": -312,
+      "parent": "#w8jjc7"
+    },
+    {
+      "@id": "#ud6jns",
+      "name": "Root: Proto-Slavic *dělati",
+      "x": 78,
+      "y": -355,
+      "parent": "#w8jjc7"
+    },
+    {
+      "@id": "#ugm9nj",
+      "name": "From *dělo + *-ati",
+      "x": 345,
+      "y": -231,
+      "parent": "#w8jjc7"
+    },
+    {
+      "@id": "#56jw76",
+      "name": "Cousins of the root *dělati",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gbstvz",
+      "name": "Polish działać",
+      "x": 450,
+      "y": 0,
+      "parent": "#56jw76"
+    },
+    {
+      "@id": "#75s9k4",
+      "name": "Slovak delať",
+      "x": 345,
+      "y": 231,
+      "parent": "#56jw76"
+    },
+    {
+      "@id": "#fkpxq6",
+      "name": "Russian делать",
+      "x": 78,
+      "y": 355,
+      "parent": "#56jw76"
+    },
+    {
+      "@id": "#fb6t4t",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wzviww",
+      "name": "Wiktionary: dělník",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/d%C4%9Bln%C3%ADk#Czech",
+      "parent": "#fb6t4t"
+    },
+    {
+      "@id": "#8gk8ck",
+      "name": "Wiktionary: Proto-Slavic *dělati",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/d%C4%9Blati",
+      "parent": "#fb6t4t"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

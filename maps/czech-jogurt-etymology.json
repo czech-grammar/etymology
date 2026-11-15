@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech jogurt etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3th5fy",
+      "name": "Meaning: “yoghurt”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hwwm87",
+      "name": "Yoghurt",
+      "x": -318,
+      "y": -255,
+      "parent": "#3th5fy"
+    },
+    {
+      "@id": "#zgm6jx",
+      "name": "Yogurt",
+      "x": 318,
+      "y": -255,
+      "parent": "#3th5fy"
+    },
+    {
+      "@id": "#sx88hy",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4qi6kc",
+      "name": "Borrowed from Turkish yoğurt",
+      "x": 318,
+      "y": 255,
+      "parent": "#sx88hy"
+    },
+    {
+      "@id": "#c3ut7b",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#77a3uu",
+      "name": "Wiktionary: jogurt",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/jogurt#Czech",
+      "parent": "#c3ut7b"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

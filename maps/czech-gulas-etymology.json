@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech guláš etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#hsfpxd",
+      "name": "Meaning: “goulash”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v2p743",
+      "name": "Goulash",
+      "x": -225,
+      "y": -312,
+      "parent": "#hsfpxd"
+    },
+    {
+      "@id": "#aztrd6",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x49vb7",
+      "name": "Borrowed from Hungarian gulyás via German Gulasch",
+      "x": 570,
+      "y": 0,
+      "parent": "#aztrd6"
+    },
+    {
+      "@id": "#ku9774",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#26qi67",
+      "name": "Wiktionary: guláš",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/gul%C3%A1%C5%A1#Czech",
+      "parent": "#ku9774"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

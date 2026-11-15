@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech rodina etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ant5b2",
+      "name": "Meaning: “family”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rcsnca",
+      "name": "Family",
+      "x": -416,
+      "y": -138,
+      "parent": "#ant5b2"
+    },
+    {
+      "@id": "#nix4u6",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t8ruf7",
+      "name": "Proto-Slavic *rodina",
+      "x": -172,
+      "y": -333,
+      "parent": "#nix4u6"
+    },
+    {
+      "@id": "#grbzdf",
+      "name": "From *rodъ + *-ina",
+      "x": 172,
+      "y": -333,
+      "parent": "#nix4u6"
+    },
+    {
+      "@id": "#q2c359",
+      "name": "Slavic cousins",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zs47ab",
+      "name": "Polish rodzina",
+      "x": 416,
+      "y": -138,
+      "parent": "#q2c359"
+    },
+    {
+      "@id": "#8uhihw",
+      "name": "Slovak rodina",
+      "x": 416,
+      "y": 138,
+      "parent": "#q2c359"
+    },
+    {
+      "@id": "#ns9h48",
+      "name": "Russian родина",
+      "x": 172,
+      "y": 333,
+      "parent": "#q2c359"
+    },
+    {
+      "@id": "#pc3qgc",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rj6t5m",
+      "name": "Wiktionary: rodina",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/rodina#Czech",
+      "parent": "#pc3qgc"
+    },
+    {
+      "@id": "#sgdfrz",
+      "name": "Wiktionary: Proto-Slavic *rodina",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/rodina",
+      "parent": "#pc3qgc"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

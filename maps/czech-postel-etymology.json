@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech postel etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fut9cg",
+      "name": "Meaning: “bed”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#at8t5v",
+      "name": "Bed",
+      "x": -432,
+      "y": -101,
+      "parent": "#fut9cg"
+    },
+    {
+      "@id": "#xqb3mx",
+      "name": "Word history",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2ehzx9",
+      "name": "Old Czech postele",
+      "x": -295,
+      "y": -272,
+      "parent": "#xqb3mx"
+    },
+    {
+      "@id": "#ncjtxu",
+      "name": "Proto-Slavic *posteľь",
+      "x": -64,
+      "y": -356,
+      "parent": "#xqb3mx"
+    },
+    {
+      "@id": "#gtq7dt",
+      "name": "Deeper origin uncertain",
+      "x": 187,
+      "y": -327,
+      "parent": "#xqb3mx"
+    },
+    {
+      "@id": "#w9d8i3",
+      "name": "Built from deverbal from postlat",
+      "x": 379,
+      "y": -195,
+      "parent": "#xqb3mx"
+    },
+    {
+      "@id": "#pvt8g2",
+      "name": "Slavic cousins",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tnr2s4",
+      "name": "Polish pościel",
+      "x": 450,
+      "y": 0,
+      "parent": "#pvt8g2"
+    },
+    {
+      "@id": "#mjnr83",
+      "name": "Slovak posteľ",
+      "x": 379,
+      "y": 195,
+      "parent": "#pvt8g2"
+    },
+    {
+      "@id": "#xvf6d8",
+      "name": "Russian постель",
+      "x": 187,
+      "y": 327,
+      "parent": "#pvt8g2"
+    },
+    {
+      "@id": "#kgg6zr",
+      "name": "Related Czech words",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pi2zns",
+      "name": "stlát: to make the bed",
+      "x": -64,
+      "y": 356,
+      "parent": "#kgg6zr"
+    },
+    {
+      "@id": "#43bi7a",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3pkztu",
+      "name": "Wiktionary: postel",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/postel#Czech",
+      "parent": "#43bi7a"
+    },
+    {
+      "@id": "#cc2k7h",
+      "name": "Wiktionary: Proto-Slavic *posteľь",
+      "x": -451,
+      "y": 105,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/poste%C4%BE%D1%8C",
+      "parent": "#43bi7a"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

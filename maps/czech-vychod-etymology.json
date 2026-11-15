@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech východ etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#4wcz45",
+      "name": "Meaning: “exit; east”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jmd78t",
+      "name": "Exit; east",
+      "x": -318,
+      "y": -255,
+      "parent": "#4wcz45"
+    },
+    {
+      "@id": "#6pigqf",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mw6q7q",
+      "name": "From the verb vychodit",
+      "x": 318,
+      "y": -255,
+      "parent": "#6pigqf"
+    },
+    {
+      "@id": "#6g972a",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#se3ixe",
+      "name": "východní: eastern",
+      "x": 318,
+      "y": 255,
+      "parent": "#6g972a"
+    },
+    {
+      "@id": "#ijgjrs",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nzkayv",
+      "name": "Wiktionary: východ",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/v%C3%BDchod#Czech",
+      "parent": "#ijgjrs"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

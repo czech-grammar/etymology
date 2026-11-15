@@ -1,0 +1,115 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech banán etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#seaycg",
+      "name": "Meaning: “banana”",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zsu832",
+      "name": "Banana",
+      "x": -364,
+      "y": -212,
+      "parent": "#seaycg"
+    },
+    {
+      "@id": "#qhghcb",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#652mn5",
+      "name": "Borrowed from French banane",
+      "x": 139,
+      "y": -342,
+      "parent": "#qhghcb"
+    },
+    {
+      "@id": "#etvzxd",
+      "name": "Spanish or Portuguese banana",
+      "x": 470,
+      "y": 0,
+      "parent": "#qhghcb"
+    },
+    {
+      "@id": "#mbbtiq",
+      "name": "Wolof banaana",
+      "x": 139,
+      "y": 342,
+      "parent": "#qhghcb"
+    },
+    {
+      "@id": "#88zrbi",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9w2cg7",
+      "name": "Wiktionary: banán",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/ban%C3%A1n#Czech",
+      "parent": "#88zrbi"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

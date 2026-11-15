@@ -1,0 +1,127 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech noviny etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fkdnrn",
+      "name": "Meaning: “newspaper”",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uu9wga",
+      "name": "Newspaper",
+      "x": -364,
+      "y": -212,
+      "parent": "#fkdnrn"
+    },
+    {
+      "@id": "#96qank",
+      "name": "Inflection of novina",
+      "x": 139,
+      "y": -342,
+      "parent": "#fkdnrn"
+    },
+    {
+      "@id": "#b3tzkf",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mj76tc",
+      "name": "nový",
+      "x": 450,
+      "y": 0,
+      "parent": "#b3tzkf"
+    },
+    {
+      "@id": "#2fxegw",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p4jumz",
+      "name": "novinář: journalist",
+      "x": 139,
+      "y": 342,
+      "parent": "#2fxegw"
+    },
+    {
+      "@id": "#k88qkg",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4s35wa",
+      "name": "Wiktionary: noviny",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/noviny#Czech",
+      "parent": "#k88qkg"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

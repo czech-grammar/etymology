@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech písnička etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#b2384s",
+      "name": "Meaning: “song”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xb3dn5",
+      "name": "Song",
+      "x": -423,
+      "y": -123,
+      "parent": "#b2384s"
+    },
+    {
+      "@id": "#7tk4rv",
+      "name": "Word history",
+      "x": 40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#98ax2a",
+      "name": "From píseň + -ička",
+      "x": -225,
+      "y": -312,
+      "parent": "#7tk4rv"
+    },
+    {
+      "@id": "#wzyrdn",
+      "name": "Root: Proto-Slavic *pěsnь",
+      "x": 78,
+      "y": -355,
+      "parent": "#7tk4rv"
+    },
+    {
+      "@id": "#wqfpeg",
+      "name": "From *pěti, “to sing” + *-snь",
+      "x": 345,
+      "y": -231,
+      "parent": "#7tk4rv"
+    },
+    {
+      "@id": "#nut5ca",
+      "name": "Cousins of the root *pěsnь",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qfjpgv",
+      "name": "Polish pieśń",
+      "x": 450,
+      "y": 0,
+      "parent": "#nut5ca"
+    },
+    {
+      "@id": "#sfpnj3",
+      "name": "Slovak pieseň",
+      "x": 345,
+      "y": 231,
+      "parent": "#nut5ca"
+    },
+    {
+      "@id": "#uhztiu",
+      "name": "Russian песня",
+      "x": 78,
+      "y": 355,
+      "parent": "#nut5ca"
+    },
+    {
+      "@id": "#z67kt8",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6exzga",
+      "name": "Wiktionary: písnička",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/p%C3%ADsni%C4%8Dka#Czech",
+      "parent": "#z67kt8"
+    },
+    {
+      "@id": "#bvmr4q",
+      "name": "Wiktionary: Proto-Slavic *pěsnь",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/p%C4%9Bsn%D1%8C",
+      "parent": "#z67kt8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

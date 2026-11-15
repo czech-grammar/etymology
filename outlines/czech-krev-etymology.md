@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: krev etymology, origin of krev, krev word origin, etymology of krev
+- Czech krev etymology
+  - Meaning: “blood”
+    - Blood
+  - Word history
+    - Old Czech krev
+    - Proto-Slavic *kry̑
+    - Proto-Balto-Slavic *krū́ˀs
+    - Proto-Indo-European *kréwh₂s, “blood of a wound”
+  - Slavic cousins
+    - Polish krew
+    - Slovak krv
+    - Russian кровь
+  - Related Czech words
+    - chladnokrevný: cold-blooded
+    - teplokrevný: warm-blooded
+    - krvácet: to bleed
+  - Sources
+    - [Wiktionary: krev](https://en.wiktionary.org/wiki/krev#Czech)
+    - [Wiktionary: Proto-Slavic *kry](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kry)

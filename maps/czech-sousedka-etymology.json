@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech sousedka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#pexdch",
+      "name": "Meaning: “neighbour (f)”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#htg942",
+      "name": "Neighbour (f)",
+      "x": -318,
+      "y": -255,
+      "parent": "#pexdch"
+    },
+    {
+      "@id": "#emjveu",
+      "name": "Female neighbor",
+      "x": 318,
+      "y": -255,
+      "parent": "#pexdch"
+    },
+    {
+      "@id": "#9dkz3i",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mvxbfz",
+      "name": "From soused + -ka",
+      "x": 318,
+      "y": 255,
+      "parent": "#9dkz3i"
+    },
+    {
+      "@id": "#i8xi6c",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dhzpug",
+      "name": "Wiktionary: sousedka",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/sousedka#Czech",
+      "parent": "#i8xi6c"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

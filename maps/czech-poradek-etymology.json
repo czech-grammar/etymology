@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech pořádek etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#24rpzu",
+      "name": "Meaning: “tidiness, order”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6ex2mq",
+      "name": "Tidiness, order",
+      "x": -428,
+      "y": -111,
+      "parent": "#24rpzu"
+    },
+    {
+      "@id": "#qxrk76",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vpjnzf",
+      "name": "Proto-Slavic *porędъkъ",
+      "x": -265,
+      "y": -291,
+      "parent": "#qxrk76"
+    },
+    {
+      "@id": "#chcr9m",
+      "name": "From *poręditi, “to line up” + *-ъkъ",
+      "x": 0,
+      "y": -360,
+      "parent": "#qxrk76"
+    },
+    {
+      "@id": "#vjanm9",
+      "name": "From *po-, “after” + *ręditi, “to arrange”",
+      "x": 265,
+      "y": -291,
+      "parent": "#qxrk76"
+    },
+    {
+      "@id": "#ap3tj9",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mte7ra",
+      "name": "Polish porządek",
+      "x": 428,
+      "y": -111,
+      "parent": "#ap3tj9"
+    },
+    {
+      "@id": "#armajf",
+      "name": "Slovak poriadok",
+      "x": 428,
+      "y": 111,
+      "parent": "#ap3tj9"
+    },
+    {
+      "@id": "#rd3gt5",
+      "name": "Russian порядок",
+      "x": 265,
+      "y": 291,
+      "parent": "#ap3tj9"
+    },
+    {
+      "@id": "#dj7jfq",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ftpjmp",
+      "name": "řád: order",
+      "x": 0,
+      "y": 360,
+      "parent": "#dj7jfq"
+    },
+    {
+      "@id": "#2mnznj",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sd4qeq",
+      "name": "Wiktionary: pořádek",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/po%C5%99%C3%A1dek#Czech",
+      "parent": "#2mnznj"
+    },
+    {
+      "@id": "#i78wx2",
+      "name": "Wiktionary: Proto-Slavic *porędъkъ",
+      "x": -447,
+      "y": 116,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/por%C4%99d%D1%8Ak%D1%8A",
+      "parent": "#2mnznj"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech sever etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xf324f",
+      "name": "Meaning: “north”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ex3hiu",
+      "name": "North",
+      "x": -435,
+      "y": -93,
+      "parent": "#xf324f"
+    },
+    {
+      "@id": "#wedpvx",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ym54za",
+      "name": "Old Czech sěver, “spring”",
+      "x": -318,
+      "y": -255,
+      "parent": "#wedpvx"
+    },
+    {
+      "@id": "#5wna9k",
+      "name": "Proto-Slavic *sěverъ, “north”",
+      "x": -116,
+      "y": -348,
+      "parent": "#wedpvx"
+    },
+    {
+      "@id": "#fnmmsh",
+      "name": "Proto-Balto-Slavic *śḗˀweras / *śjáuˀrias",
+      "x": 136,
+      "y": -408,
+      "parent": "#wedpvx"
+    },
+    {
+      "@id": "#fwwm8r",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#77csr2",
+      "name": "Polish siewier",
+      "x": 318,
+      "y": -255,
+      "parent": "#fwwm8r"
+    },
+    {
+      "@id": "#ttrfnw",
+      "name": "Slovak sever",
+      "x": 435,
+      "y": -93,
+      "parent": "#fwwm8r"
+    },
+    {
+      "@id": "#gqdeqi",
+      "name": "Russian север",
+      "x": 435,
+      "y": 93,
+      "parent": "#fwwm8r"
+    },
+    {
+      "@id": "#a769wu",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cne449",
+      "name": "severák: norther",
+      "x": 318,
+      "y": 255,
+      "parent": "#a769wu"
+    },
+    {
+      "@id": "#pi7k89",
+      "name": "Severka: North Star",
+      "x": 116,
+      "y": 348,
+      "parent": "#a769wu"
+    },
+    {
+      "@id": "#rjctdb",
+      "name": "severovýchod: northeast",
+      "x": -131,
+      "y": 393,
+      "parent": "#a769wu"
+    },
+    {
+      "@id": "#us69t3",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8ascxd",
+      "name": "Wiktionary: sever",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/sever#Czech",
+      "parent": "#us69t3"
+    },
+    {
+      "@id": "#azpi59",
+      "name": "Wiktionary: Proto-Slavic *sěverъ",
+      "x": -454,
+      "y": 97,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/s%C4%9Bver%D1%8A",
+      "parent": "#us69t3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

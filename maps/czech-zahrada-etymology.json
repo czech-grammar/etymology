@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech zahrada etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#6rpgr5",
+      "name": "Meaning: “garden”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cau2pj",
+      "name": "Garden",
+      "x": -390,
+      "y": -180,
+      "parent": "#6rpgr5"
+    },
+    {
+      "@id": "#qk83jq",
+      "name": "Word history",
+      "x": 115,
+      "y": -159,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p6h2xa",
+      "name": "Old Czech zahrada",
+      "x": 0,
+      "y": -360,
+      "parent": "#qk83jq"
+    },
+    {
+      "@id": "#japjqs",
+      "name": "Proto-Slavic *zagorda",
+      "x": 390,
+      "y": -180,
+      "parent": "#qk83jq"
+    },
+    {
+      "@id": "#wt2nbw",
+      "name": "Related Czech words",
+      "x": 115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#itrabz",
+      "name": "zahradnictví: gardening",
+      "x": 390,
+      "y": 180,
+      "parent": "#wt2nbw"
+    },
+    {
+      "@id": "#8txt7z",
+      "name": "zahradník: gardener",
+      "x": 0,
+      "y": 360,
+      "parent": "#wt2nbw"
+    },
+    {
+      "@id": "#z73yyc",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nc65pv",
+      "name": "Wiktionary: zahrada",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/zahrada#Czech",
+      "parent": "#z73yyc"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

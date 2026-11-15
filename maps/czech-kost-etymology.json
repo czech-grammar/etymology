@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kost etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qsde4z",
+      "name": "Meaning: “bone”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dam5st",
+      "name": "Bone",
+      "x": -435,
+      "y": -93,
+      "parent": "#qsde4z"
+    },
+    {
+      "@id": "#7gxtpr",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ujdt4n",
+      "name": "Old Czech kost",
+      "x": -318,
+      "y": -255,
+      "parent": "#7gxtpr"
+    },
+    {
+      "@id": "#w75bne",
+      "name": "Proto-Slavic *kostь",
+      "x": -116,
+      "y": -348,
+      "parent": "#7gxtpr"
+    },
+    {
+      "@id": "#awdjdt",
+      "name": "Proto-Indo-European *kest-",
+      "x": 136,
+      "y": -408,
+      "parent": "#7gxtpr"
+    },
+    {
+      "@id": "#dzis4t",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2eqyq9",
+      "name": "Polish kość",
+      "x": 318,
+      "y": -255,
+      "parent": "#dzis4t"
+    },
+    {
+      "@id": "#35kdr4",
+      "name": "Slovak kosť",
+      "x": 435,
+      "y": -93,
+      "parent": "#dzis4t"
+    },
+    {
+      "@id": "#697dtg",
+      "name": "Russian кость",
+      "x": 435,
+      "y": 93,
+      "parent": "#dzis4t"
+    },
+    {
+      "@id": "#jfez73",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u69wdw",
+      "name": "kostivěda: osteology",
+      "x": 318,
+      "y": 255,
+      "parent": "#jfez73"
+    },
+    {
+      "@id": "#cybh4p",
+      "name": "kostlivec: skeleton",
+      "x": 116,
+      "y": 348,
+      "parent": "#jfez73"
+    },
+    {
+      "@id": "#icxxdf",
+      "name": "kostnice: ossuary",
+      "x": -116,
+      "y": 348,
+      "parent": "#jfez73"
+    },
+    {
+      "@id": "#yxerys",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wfgz3e",
+      "name": "Wiktionary: kost",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/kost#Czech",
+      "parent": "#yxerys"
+    },
+    {
+      "@id": "#m4xhnh",
+      "name": "Wiktionary: Proto-Slavic *kostь",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kost%D1%8C",
+      "parent": "#yxerys"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

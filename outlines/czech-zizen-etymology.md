@@ -1,0 +1,22 @@
+category: A1 nouns
+aliases: žízeň etymology, origin of žízeň, žízeň word origin, etymology of žízeň
+- Czech žízeň etymology
+  - Meaning: “thirst”
+    - Thirst
+  - Word history
+    - Old Czech žiezě, žiezn
+    - Proto-Slavic *žę́ďa (itself derived
+    - From *žędati, “to wish”) + -eň
+    - Proto-Balto-Slavic *gendātei
+    - Proto-Indo-European *gʷʰn̥dʰéti
+  - Slavic cousins
+    - Polish żądać
+    - Slovak žiadať
+    - Russian жадать
+  - Related Czech words
+    - žíznivka: diabetes insipidus
+    - žíznivý: thirsty
+    - žádat: to require
+  - Sources
+    - [Wiktionary: žízeň](https://en.wiktionary.org/wiki/%C5%BE%C3%ADze%C5%88#Czech)
+    - [Wiktionary: Proto-Slavic *žędati](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C5%BE%C4%99dati)

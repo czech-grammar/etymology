@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech zpráva etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3utziv",
+      "name": "Meaning: “message, news”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#savv5m",
+      "name": "Message, news",
+      "x": -318,
+      "y": -255,
+      "parent": "#3utziv"
+    },
+    {
+      "@id": "#u28c3z",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2ehr5r",
+      "name": "From the verb zpravit",
+      "x": 318,
+      "y": -255,
+      "parent": "#u28c3z"
+    },
+    {
+      "@id": "#4ws35u",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kf8dsr",
+      "name": "zpravodaj: reporter",
+      "x": 318,
+      "y": 255,
+      "parent": "#4ws35u"
+    },
+    {
+      "@id": "#fmdrg6",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vs3jvk",
+      "name": "Wiktionary: zpráva",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/zpr%C3%A1va#Czech",
+      "parent": "#fmdrg6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

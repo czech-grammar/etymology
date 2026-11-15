@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: zdraví etymology, origin of zdraví, zdraví word origin, etymology of zdraví
+- Czech zdraví etymology
+  - Meaning: “health”
+    - Health
+  - Word history
+    - Old Czech sdravie
+    - Proto-Slavic *sъdorvьje
+    - From *sъdòrvъ + *-ьje
+    - Built from sdravý + -ie
+  - Slavic cousins
+    - Polish zdrowie
+    - Slovak zdravie
+    - Russian здоровье
+  - Related Czech words
+    - pozdrav: greeting
+    - uzdravit: to cure
+    - zdravice: salutation
+  - Sources
+    - [Wiktionary: zdraví](https://en.wiktionary.org/wiki/zdrav%C3%AD#Czech)
+    - [Wiktionary: Proto-Slavic *sъdorvьje](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/s%D1%8Adorv%D1%8Cje)

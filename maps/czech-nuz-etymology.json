@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech nůž etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2ty53g",
+      "name": "Meaning: “knife”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hwa5ih",
+      "name": "Knife",
+      "x": -432,
+      "y": -101,
+      "parent": "#2ty53g"
+    },
+    {
+      "@id": "#nwb597",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#as7h8k",
+      "name": "Old Czech nóž",
+      "x": -295,
+      "y": -272,
+      "parent": "#nwb597"
+    },
+    {
+      "@id": "#8s32mu",
+      "name": "Proto-Slavic *nožь",
+      "x": -64,
+      "y": -356,
+      "parent": "#nwb597"
+    },
+    {
+      "@id": "#ybcav6",
+      "name": "From *noziti + *-jь",
+      "x": 187,
+      "y": -327,
+      "parent": "#nwb597"
+    },
+    {
+      "@id": "#zmzbam",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bdbqej",
+      "name": "Polish nóż",
+      "x": 379,
+      "y": -195,
+      "parent": "#zmzbam"
+    },
+    {
+      "@id": "#qx86b6",
+      "name": "Slovak nôž",
+      "x": 450,
+      "y": 0,
+      "parent": "#zmzbam"
+    },
+    {
+      "@id": "#yb55wd",
+      "name": "Russian нож",
+      "x": 379,
+      "y": 195,
+      "parent": "#zmzbam"
+    },
+    {
+      "@id": "#ubhqin",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jgbtj8",
+      "name": "nožíř: cutler",
+      "x": 187,
+      "y": 327,
+      "parent": "#ubhqin"
+    },
+    {
+      "@id": "#d6fuda",
+      "name": "nůžky: scissors",
+      "x": -64,
+      "y": 356,
+      "parent": "#ubhqin"
+    },
+    {
+      "@id": "#3vb35w",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ee93xu",
+      "name": "Wiktionary: nůž",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/n%C5%AF%C5%BE#Czech",
+      "parent": "#3vb35w"
+    },
+    {
+      "@id": "#z6bhpu",
+      "name": "Wiktionary: Proto-Slavic *nožь",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/no%C5%BE%D1%8C",
+      "parent": "#3vb35w"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

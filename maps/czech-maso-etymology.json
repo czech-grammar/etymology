@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech maso etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#k677uu",
+      "name": "Meaning: “meat”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#48aqbz",
+      "name": "Meat",
+      "x": -432,
+      "y": -101,
+      "parent": "#k677uu"
+    },
+    {
+      "@id": "#7cakwz",
+      "name": "Word history",
+      "x": -96,
+      "y": -167,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pkmr6c",
+      "name": "Old Czech maso",
+      "x": -295,
+      "y": -272,
+      "parent": "#7cakwz"
+    },
+    {
+      "@id": "#gseb5w",
+      "name": "Proto-Slavic *męso",
+      "x": -64,
+      "y": -356,
+      "parent": "#7cakwz"
+    },
+    {
+      "@id": "#u9jkjk",
+      "name": "Slavic cousins",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#474236",
+      "name": "Polish mięso",
+      "x": 187,
+      "y": -327,
+      "parent": "#u9jkjk"
+    },
+    {
+      "@id": "#jacyr2",
+      "name": "Slovak mäso",
+      "x": 379,
+      "y": -195,
+      "parent": "#u9jkjk"
+    },
+    {
+      "@id": "#dxqiyw",
+      "name": "Russian мясо",
+      "x": 450,
+      "y": 0,
+      "parent": "#u9jkjk"
+    },
+    {
+      "@id": "#qg39qg",
+      "name": "Related Czech words",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4g9k5q",
+      "name": "masitý: meaty",
+      "x": 379,
+      "y": 195,
+      "parent": "#qg39qg"
+    },
+    {
+      "@id": "#k9te3d",
+      "name": "masojed: meateater",
+      "x": 187,
+      "y": 327,
+      "parent": "#qg39qg"
+    },
+    {
+      "@id": "#rchbcp",
+      "name": "masopust: Shrovetide",
+      "x": -64,
+      "y": 356,
+      "parent": "#qg39qg"
+    },
+    {
+      "@id": "#vemc9r",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#exitdb",
+      "name": "Wiktionary: maso",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/maso#Czech",
+      "parent": "#vemc9r"
+    },
+    {
+      "@id": "#8282k2",
+      "name": "Wiktionary: Proto-Slavic *męso",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/m%C4%99so",
+      "parent": "#vemc9r"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

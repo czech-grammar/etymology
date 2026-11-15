@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech sůl etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#u3i9gb",
+      "name": "Meaning: “salt”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6cm5zy",
+      "name": "Salt",
+      "x": -435,
+      "y": -93,
+      "parent": "#u3i9gb"
+    },
+    {
+      "@id": "#ysm9n8",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#faqzs8",
+      "name": "Old Czech sól",
+      "x": -318,
+      "y": -255,
+      "parent": "#ysm9n8"
+    },
+    {
+      "@id": "#jq9eeu",
+      "name": "Proto-Slavic *solь",
+      "x": -116,
+      "y": -348,
+      "parent": "#ysm9n8"
+    },
+    {
+      "@id": "#ipijye",
+      "name": "Proto-Indo-European *sḗh₂l",
+      "x": 136,
+      "y": -408,
+      "parent": "#ysm9n8"
+    },
+    {
+      "@id": "#vfkniq",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ndyqsh",
+      "name": "Polish sól",
+      "x": 318,
+      "y": -255,
+      "parent": "#vfkniq"
+    },
+    {
+      "@id": "#xswq8g",
+      "name": "Slovak soľ",
+      "x": 435,
+      "y": -93,
+      "parent": "#vfkniq"
+    },
+    {
+      "@id": "#da97aw",
+      "name": "Russian соль",
+      "x": 435,
+      "y": 93,
+      "parent": "#vfkniq"
+    },
+    {
+      "@id": "#5gbnbt",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rf3n26",
+      "name": "slaný: salty",
+      "x": 318,
+      "y": 255,
+      "parent": "#5gbnbt"
+    },
+    {
+      "@id": "#qrkunu",
+      "name": "rosol: jelly",
+      "x": 116,
+      "y": 348,
+      "parent": "#5gbnbt"
+    },
+    {
+      "@id": "#xqnahy",
+      "name": "slánka: salt shaker",
+      "x": -116,
+      "y": 348,
+      "parent": "#5gbnbt"
+    },
+    {
+      "@id": "#dwrgne",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rp6upp",
+      "name": "Wiktionary: sůl",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/s%C5%AFl#Czech",
+      "parent": "#dwrgne"
+    },
+    {
+      "@id": "#m3gf6a",
+      "name": "Wiktionary: Proto-Slavic *solь",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/sol%D1%8C",
+      "parent": "#dwrgne"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

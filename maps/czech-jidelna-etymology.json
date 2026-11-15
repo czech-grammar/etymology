@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech jídelna etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#yby6vq",
+      "name": "Meaning: “canteen, dining room”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4e78ut",
+      "name": "Canteen, dining room",
+      "x": -390,
+      "y": -180,
+      "parent": "#yby6vq"
+    },
+    {
+      "@id": "#m5vreu",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#phi2k5",
+      "name": "From jídlo, “meal” + -na",
+      "x": 0,
+      "y": -360,
+      "parent": "#m5vreu"
+    },
+    {
+      "@id": "#izrbnx",
+      "name": "Related Czech words",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ihghks",
+      "name": "jídelní: dining",
+      "x": 390,
+      "y": -180,
+      "parent": "#izrbnx"
+    },
+    {
+      "@id": "#73nwyw",
+      "name": "jídelníček: menu",
+      "x": 390,
+      "y": 180,
+      "parent": "#izrbnx"
+    },
+    {
+      "@id": "#zwsjg2",
+      "name": "jídlo: meal",
+      "x": 0,
+      "y": 360,
+      "parent": "#izrbnx"
+    },
+    {
+      "@id": "#2qv4ga",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6gibcw",
+      "name": "Wiktionary: jídelna",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/j%C3%ADdelna#Czech",
+      "parent": "#2qv4ga"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

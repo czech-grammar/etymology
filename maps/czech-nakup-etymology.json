@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech nákup etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ekb7f2",
+      "name": "Meaning: “shopping”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cf945u",
+      "name": "Shopping",
+      "x": -428,
+      "y": -111,
+      "parent": "#ekb7f2"
+    },
+    {
+      "@id": "#f2t7zb",
+      "name": "Word history",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tqqqt4",
+      "name": "From the verb nakoupit",
+      "x": -265,
+      "y": -291,
+      "parent": "#f2t7zb"
+    },
+    {
+      "@id": "#wnm9bd",
+      "name": "Root: Proto-Slavic *kupiti",
+      "x": 0,
+      "y": -360,
+      "parent": "#f2t7zb"
+    },
+    {
+      "@id": "#98cu6f",
+      "name": "Cousins of the root *kupiti",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v76n2m",
+      "name": "Polish kupić",
+      "x": 265,
+      "y": -291,
+      "parent": "#98cu6f"
+    },
+    {
+      "@id": "#fhzzvj",
+      "name": "Slovak kúpiť",
+      "x": 428,
+      "y": -111,
+      "parent": "#98cu6f"
+    },
+    {
+      "@id": "#uazcvk",
+      "name": "Russian купить",
+      "x": 428,
+      "y": 111,
+      "parent": "#98cu6f"
+    },
+    {
+      "@id": "#vkri48",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cxzv6z",
+      "name": "nakoupit: to do the shopping",
+      "x": 265,
+      "y": 291,
+      "parent": "#vkri48"
+    },
+    {
+      "@id": "#sm95ak",
+      "name": "nakupovat: to shop",
+      "x": 0,
+      "y": 360,
+      "parent": "#vkri48"
+    },
+    {
+      "@id": "#zhk7ur",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vq3gdb",
+      "name": "Wiktionary: nákup",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/n%C3%A1kup#Czech",
+      "parent": "#zhk7ur"
+    },
+    {
+      "@id": "#dprzi2",
+      "name": "Wiktionary: Proto-Slavic *kupiti",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kupiti",
+      "parent": "#zhk7ur"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

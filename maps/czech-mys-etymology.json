@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech myš etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2u2i38",
+      "name": "Meaning: “mouse”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yz63za",
+      "name": "Mouse",
+      "x": -432,
+      "y": -101,
+      "parent": "#2u2i38"
+    },
+    {
+      "@id": "#atsqen",
+      "name": "Word history",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8j5x4b",
+      "name": "Old Czech myš",
+      "x": -295,
+      "y": -272,
+      "parent": "#atsqen"
+    },
+    {
+      "@id": "#pekspj",
+      "name": "Proto-Slavic *myšь",
+      "x": -64,
+      "y": -356,
+      "parent": "#atsqen"
+    },
+    {
+      "@id": "#zkwytb",
+      "name": "Proto-Balto-Slavic *mū́ˀšis",
+      "x": 195,
+      "y": -342,
+      "parent": "#atsqen"
+    },
+    {
+      "@id": "#xcubh9",
+      "name": "Proto-Indo-European *múHs",
+      "x": 379,
+      "y": -195,
+      "parent": "#atsqen"
+    },
+    {
+      "@id": "#hvtm8t",
+      "name": "Slavic cousins",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5n77hr",
+      "name": "Polish mysz",
+      "x": 450,
+      "y": 0,
+      "parent": "#hvtm8t"
+    },
+    {
+      "@id": "#8q8fnq",
+      "name": "Slovak myš",
+      "x": 379,
+      "y": 195,
+      "parent": "#hvtm8t"
+    },
+    {
+      "@id": "#dcg8h9",
+      "name": "Russian мышь",
+      "x": 187,
+      "y": 327,
+      "parent": "#hvtm8t"
+    },
+    {
+      "@id": "#imxnn3",
+      "name": "Related Czech words",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6kwrkc",
+      "name": "myšák: male mouse",
+      "x": -64,
+      "y": 356,
+      "parent": "#imxnn3"
+    },
+    {
+      "@id": "#h69jec",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hiya5g",
+      "name": "Wiktionary: myš",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/my%C5%A1#Czech",
+      "parent": "#h69jec"
+    },
+    {
+      "@id": "#8bmi88",
+      "name": "Wiktionary: Proto-Slavic *myšь",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/my%C5%A1%D1%8C",
+      "parent": "#h69jec"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

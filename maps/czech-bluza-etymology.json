@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech blůza etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2d5phi",
+      "name": "Meaning: “blouse”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a48gzv",
+      "name": "Blouse",
+      "x": -225,
+      "y": -312,
+      "parent": "#2d5phi"
+    },
+    {
+      "@id": "#t745ms",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#36f74g",
+      "name": "Borrowed from French blouse",
+      "x": 470,
+      "y": 0,
+      "parent": "#t745ms"
+    },
+    {
+      "@id": "#i4g7tc",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jcx9vm",
+      "name": "Wiktionary: blůza",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/bl%C5%AFza#Czech",
+      "parent": "#i4g7tc"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,183 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech koláč etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#jvawda",
+      "name": "Meaning: “pie, sweet pastry”",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#utsk2u",
+      "name": "Pie, sweet pastry",
+      "x": -447,
+      "y": -116,
+      "parent": "#jvawda"
+    },
+    {
+      "@id": "#uwpv6p",
+      "name": "Kolach",
+      "x": -265,
+      "y": -291,
+      "parent": "#jvawda"
+    },
+    {
+      "@id": "#3gv4qp",
+      "name": "Word history",
+      "x": 135,
+      "y": -149,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8a5jgd",
+      "name": "Old Czech koláč",
+      "x": 0,
+      "y": -360,
+      "parent": "#3gv4qp"
+    },
+    {
+      "@id": "#kckcyy",
+      "name": "Proto-Slavic *kolačь",
+      "x": 265,
+      "y": -291,
+      "parent": "#3gv4qp"
+    },
+    {
+      "@id": "#qgd64w",
+      "name": "From *kȍlo, “wheel” + *-ačь (noun-forming suffix)",
+      "x": 466,
+      "y": -121,
+      "parent": "#3gv4qp"
+    },
+    {
+      "@id": "#zafucv",
+      "name": "Slavic cousins",
+      "x": 135,
+      "y": 149,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kti4fr",
+      "name": "Polish kołacz",
+      "x": 428,
+      "y": 111,
+      "parent": "#zafucv"
+    },
+    {
+      "@id": "#2bbbim",
+      "name": "Slovak koláč",
+      "x": 265,
+      "y": 291,
+      "parent": "#zafucv"
+    },
+    {
+      "@id": "#fy8ekb",
+      "name": "Russian калач",
+      "x": 0,
+      "y": 360,
+      "parent": "#zafucv"
+    },
+    {
+      "@id": "#j6u93c",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dbnp4s",
+      "name": "Wiktionary: koláč",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/kol%C3%A1%C4%8D#Czech",
+      "parent": "#j6u93c"
+    },
+    {
+      "@id": "#birw6m",
+      "name": "Wiktionary: Proto-Slavic *kolačь",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kola%C4%8D%D1%8C",
+      "parent": "#j6u93c"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    }
+  ],
+  "selectedNode": 0
+}

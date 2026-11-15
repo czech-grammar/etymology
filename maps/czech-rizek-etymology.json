@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech řízek etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#nvq89z",
+      "name": "Meaning: “schnitzel”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9i4pae",
+      "name": "Schnitzel",
+      "x": -225,
+      "y": -312,
+      "parent": "#nvq89z"
+    },
+    {
+      "@id": "#urnih7",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#snayvn",
+      "name": "From řezat + -ek",
+      "x": 450,
+      "y": 0,
+      "parent": "#urnih7"
+    },
+    {
+      "@id": "#4uhmc2",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hd8z7s",
+      "name": "Wiktionary: řízek",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/%C5%99%C3%ADzek#Czech",
+      "parent": "#4uhmc2"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

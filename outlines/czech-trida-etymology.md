@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: třída etymology, origin of třída, třída word origin, etymology of třída
+- Czech třída etymology
+  - Meaning: “class, classroom”
+    - Class, classroom
+  - Word history
+    - Old Czech třieda
+    - Proto-Slavic *čērdà
+    - Proto-Balto-Slavic *(s)kerdāˀ
+    - Proto-Indo-European *(s)kerdʰ-
+  - Slavic cousins
+    - Polish trzoda
+    - Slovak črieda, “herd”
+    - Russian череда
+  - Related Czech words
+    - třídní: class
+    - nadtřída: superclass
+    - podtřída: subclass
+  - Sources
+    - [Wiktionary: třída](https://en.wiktionary.org/wiki/t%C5%99%C3%ADda#Czech)
+    - [Wiktionary: Proto-Slavic *čerda](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C4%8Derda)

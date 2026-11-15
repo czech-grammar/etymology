@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech pračka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rkbyg6",
+      "name": "Meaning: “washing machine”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kiqbn4",
+      "name": "Washing machine",
+      "x": -423,
+      "y": -123,
+      "parent": "#rkbyg6"
+    },
+    {
+      "@id": "#zw7z5n",
+      "name": "Word history",
+      "x": 40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9zr54k",
+      "name": "From prát + -čka",
+      "x": -225,
+      "y": -312,
+      "parent": "#zw7z5n"
+    },
+    {
+      "@id": "#knryfh",
+      "name": "Root: Proto-Slavic *pьrati",
+      "x": 78,
+      "y": -355,
+      "parent": "#zw7z5n"
+    },
+    {
+      "@id": "#6queed",
+      "name": "From Proto-Indo-European *per-, “to beat”",
+      "x": 345,
+      "y": -231,
+      "parent": "#zw7z5n"
+    },
+    {
+      "@id": "#xhjwx6",
+      "name": "Cousins of the root *pьrati",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sjfiiy",
+      "name": "Polish prać",
+      "x": 450,
+      "y": 0,
+      "parent": "#xhjwx6"
+    },
+    {
+      "@id": "#sw97sw",
+      "name": "Slovak prať",
+      "x": 345,
+      "y": 231,
+      "parent": "#xhjwx6"
+    },
+    {
+      "@id": "#ckhnrb",
+      "name": "Russian прать",
+      "x": 78,
+      "y": 355,
+      "parent": "#xhjwx6"
+    },
+    {
+      "@id": "#5rw9my",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wqkri9",
+      "name": "Wiktionary: pračka",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/pra%C4%8Dka#Czech",
+      "parent": "#5rw9my"
+    },
+    {
+      "@id": "#8uvnt7",
+      "name": "Wiktionary: Proto-Slavic *pьrati",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/p%D1%8Crati",
+      "parent": "#5rw9my"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

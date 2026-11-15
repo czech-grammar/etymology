@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech vstupenka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#p8zvez",
+      "name": "Meaning: “entry ticket”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cjeuj4",
+      "name": "Entry ticket",
+      "x": -390,
+      "y": -180,
+      "parent": "#p8zvez"
+    },
+    {
+      "@id": "#28dphm",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dzmu7a",
+      "name": "From vstup + -enka",
+      "x": 0,
+      "y": -360,
+      "parent": "#28dphm"
+    },
+    {
+      "@id": "#awfbca",
+      "name": "Related Czech words",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m7922z",
+      "name": "streamenka: live stream ticket",
+      "x": 390,
+      "y": -180,
+      "parent": "#awfbca"
+    },
+    {
+      "@id": "#cditjb",
+      "name": "vstoupit: enter",
+      "x": 390,
+      "y": 180,
+      "parent": "#awfbca"
+    },
+    {
+      "@id": "#i2g583",
+      "name": "vstupné: admission",
+      "x": 0,
+      "y": 360,
+      "parent": "#awfbca"
+    },
+    {
+      "@id": "#qd822x",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y7sp7g",
+      "name": "Wiktionary: vstupenka",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/vstupenka#Czech",
+      "parent": "#qd822x"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

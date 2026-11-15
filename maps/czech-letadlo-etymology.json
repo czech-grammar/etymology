@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech letadlo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#33ax5t",
+      "name": "Meaning: “plane”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hae4fm",
+      "name": "Plane",
+      "x": -428,
+      "y": -111,
+      "parent": "#33ax5t"
+    },
+    {
+      "@id": "#bfgw9e",
+      "name": "Word history",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#33yv2v",
+      "name": "From letět, “to fly” + -dlo",
+      "x": -265,
+      "y": -291,
+      "parent": "#bfgw9e"
+    },
+    {
+      "@id": "#xma7rv",
+      "name": "Root: Proto-Slavic *letěti",
+      "x": 0,
+      "y": -360,
+      "parent": "#bfgw9e"
+    },
+    {
+      "@id": "#dav9ef",
+      "name": "Cousins of the root *letěti",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3vgv5a",
+      "name": "Polish lecieć",
+      "x": 265,
+      "y": -291,
+      "parent": "#dav9ef"
+    },
+    {
+      "@id": "#aeitp2",
+      "name": "Slovak letieť",
+      "x": 428,
+      "y": -111,
+      "parent": "#dav9ef"
+    },
+    {
+      "@id": "#2jhcpq",
+      "name": "Russian лететь",
+      "x": 428,
+      "y": 111,
+      "parent": "#dav9ef"
+    },
+    {
+      "@id": "#pim8qt",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6fqj8x",
+      "name": "letec: flier",
+      "x": 265,
+      "y": 291,
+      "parent": "#pim8qt"
+    },
+    {
+      "@id": "#ptxiu8",
+      "name": "letiště: airport",
+      "x": 0,
+      "y": 360,
+      "parent": "#pim8qt"
+    },
+    {
+      "@id": "#sg4c9i",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b5zrk2",
+      "name": "Wiktionary: letadlo",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/letadlo#Czech",
+      "parent": "#sg4c9i"
+    },
+    {
+      "@id": "#q5378c",
+      "name": "Wiktionary: Proto-Slavic *letěti",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/let%C4%9Bti",
+      "parent": "#sg4c9i"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

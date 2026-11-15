@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech jablko etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#cn8ir5",
+      "name": "Meaning: “apple”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#st8stt",
+      "name": "Apple",
+      "x": -428,
+      "y": -111,
+      "parent": "#cn8ir5"
+    },
+    {
+      "@id": "#sfxvqq",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qgt9sj",
+      "name": "Old Czech jablko",
+      "x": -265,
+      "y": -291,
+      "parent": "#sfxvqq"
+    },
+    {
+      "@id": "#akkcsa",
+      "name": "Proto-Slavic *ablъko",
+      "x": 0,
+      "y": -360,
+      "parent": "#sfxvqq"
+    },
+    {
+      "@id": "#8s6h6e",
+      "name": "Early Proto-Slavic *ā́̇bluka",
+      "x": 265,
+      "y": -291,
+      "parent": "#sfxvqq"
+    },
+    {
+      "@id": "#ncdpae",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g3uqcr",
+      "name": "Polish jabłko",
+      "x": 428,
+      "y": -111,
+      "parent": "#ncdpae"
+    },
+    {
+      "@id": "#r9tumf",
+      "name": "Slovak jablko",
+      "x": 428,
+      "y": 111,
+      "parent": "#ncdpae"
+    },
+    {
+      "@id": "#7uw3pr",
+      "name": "Russian яблоко",
+      "x": 265,
+      "y": 291,
+      "parent": "#ncdpae"
+    },
+    {
+      "@id": "#jk9k5u",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tkj2n6",
+      "name": "jabloň: apple tree",
+      "x": 0,
+      "y": 360,
+      "parent": "#jk9k5u"
+    },
+    {
+      "@id": "#79dcjq",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#za5ib6",
+      "name": "Wiktionary: jablko",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/jablko#Czech",
+      "parent": "#79dcjq"
+    },
+    {
+      "@id": "#qzgctk",
+      "name": "Wiktionary: Proto-Slavic *ablъko",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/abl%D1%8Ako",
+      "parent": "#79dcjq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

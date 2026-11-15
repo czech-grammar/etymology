@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: hra etymology, origin of hra, hra word origin, etymology of hra
+- Czech hra etymology
+  - Meaning: “game”
+    - Game
+  - Word history
+    - Old Czech jhra
+    - Proto-Slavic *jьgra
+    - Proto-Balto-Slavic *ígrāˀ
+    - Proto-Indo-European *h₂ig-réh₂
+  - Slavic cousins
+    - Polish gra
+    - Slovak hra
+    - Russian игра
+  - Related Czech words
+    - herna: casino
+    - hřiště: playground
+    - mezihra: interlude
+  - Sources
+    - [Wiktionary: hra](https://en.wiktionary.org/wiki/hra#Czech)
+    - [Wiktionary: Proto-Slavic *jьgra](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/j%D1%8Cgra)

@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech válka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rpvyyd",
+      "name": "Meaning: “war”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#du5rkp",
+      "name": "War",
+      "x": -428,
+      "y": -111,
+      "parent": "#rpvyyd"
+    },
+    {
+      "@id": "#qymryr",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r68nhv",
+      "name": "Old Czech válka",
+      "x": -265,
+      "y": -291,
+      "parent": "#qymryr"
+    },
+    {
+      "@id": "#2zh89q",
+      "name": "Proto-Slavic *valiti",
+      "x": 0,
+      "y": -360,
+      "parent": "#qymryr"
+    },
+    {
+      "@id": "#t85dfk",
+      "name": "From *valъ + *-iti",
+      "x": 265,
+      "y": -291,
+      "parent": "#qymryr"
+    },
+    {
+      "@id": "#a97hh6",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8x3a8t",
+      "name": "Polish walić",
+      "x": 428,
+      "y": -111,
+      "parent": "#a97hh6"
+    },
+    {
+      "@id": "#dcxasm",
+      "name": "Slovak valiť",
+      "x": 428,
+      "y": 111,
+      "parent": "#a97hh6"
+    },
+    {
+      "@id": "#hgb9cd",
+      "name": "Russian валить",
+      "x": 265,
+      "y": 291,
+      "parent": "#a97hh6"
+    },
+    {
+      "@id": "#4xze2y",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a4a5dw",
+      "name": "válečník: warrior",
+      "x": 0,
+      "y": 360,
+      "parent": "#4xze2y"
+    },
+    {
+      "@id": "#tmzyjv",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7q2ivf",
+      "name": "Wiktionary: válka",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/v%C3%A1lka#Czech",
+      "parent": "#tmzyjv"
+    },
+    {
+      "@id": "#xwc5nd",
+      "name": "Wiktionary: Proto-Slavic *valiti",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/valiti",
+      "parent": "#tmzyjv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

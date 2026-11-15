@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech pití etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ausci8",
+      "name": "Meaning: “drink”",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jnhpdh",
+      "name": "Drink",
+      "x": -428,
+      "y": -111,
+      "parent": "#ausci8"
+    },
+    {
+      "@id": "#m5vg22",
+      "name": "Verbal noun of pít",
+      "x": -265,
+      "y": -291,
+      "parent": "#ausci8"
+    },
+    {
+      "@id": "#gk4ujb",
+      "name": "Word history",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#caqir7",
+      "name": "Proto-Slavic *pitьje",
+      "x": 0,
+      "y": -360,
+      "parent": "#gk4ujb"
+    },
+    {
+      "@id": "#atxxv2",
+      "name": "From *piti + *-ьje",
+      "x": 265,
+      "y": -291,
+      "parent": "#gk4ujb"
+    },
+    {
+      "@id": "#nsmvvz",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5qpyzd",
+      "name": "Polish picie",
+      "x": 428,
+      "y": -111,
+      "parent": "#nsmvvz"
+    },
+    {
+      "@id": "#zw2veu",
+      "name": "Slovak pitie",
+      "x": 428,
+      "y": 111,
+      "parent": "#nsmvvz"
+    },
+    {
+      "@id": "#zhmchu",
+      "name": "Russian питьё",
+      "x": 265,
+      "y": 291,
+      "parent": "#nsmvvz"
+    },
+    {
+      "@id": "#b7pkb6",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u6qecv",
+      "name": "pít: to drink",
+      "x": 0,
+      "y": 360,
+      "parent": "#b7pkb6"
+    },
+    {
+      "@id": "#wsqspb",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qjsw96",
+      "name": "Wiktionary: pití",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/pit%C3%AD#Czech",
+      "parent": "#wsqspb"
+    },
+    {
+      "@id": "#u8ke7g",
+      "name": "Wiktionary: Proto-Slavic *pitьje",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/pit%D1%8Cje",
+      "parent": "#wsqspb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

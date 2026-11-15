@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech rychlík etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8ct2t5",
+      "name": "Meaning: “express train”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u7a6km",
+      "name": "Express train",
+      "x": -225,
+      "y": -312,
+      "parent": "#8ct2t5"
+    },
+    {
+      "@id": "#szetnw",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#if8mm5",
+      "name": "From rychlý + -ík",
+      "x": 450,
+      "y": 0,
+      "parent": "#szetnw"
+    },
+    {
+      "@id": "#cmzpp4",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qkrxbf",
+      "name": "Wiktionary: rychlík",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/rychl%C3%ADk#Czech",
+      "parent": "#cmzpp4"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

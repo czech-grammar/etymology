@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kufr etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#z22pnx",
+      "name": "Meaning: “suitcase”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e8v9z7",
+      "name": "Suitcase",
+      "x": -225,
+      "y": -312,
+      "parent": "#z22pnx"
+    },
+    {
+      "@id": "#a325eb",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#px6tiz",
+      "name": "Borrowed from German Koffer",
+      "x": 470,
+      "y": 0,
+      "parent": "#a325eb"
+    },
+    {
+      "@id": "#kmze5c",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zx7x5g",
+      "name": "Wiktionary: kufr",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/kufr#Czech",
+      "parent": "#kmze5c"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

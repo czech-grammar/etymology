@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech květen etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ajkdmd",
+      "name": "Meaning: “May”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dgqvzc",
+      "name": "May",
+      "x": -416,
+      "y": -138,
+      "parent": "#ajkdmd"
+    },
+    {
+      "@id": "#uhhvt2",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2qsjes",
+      "name": "Root: Proto-Slavic *květьňь",
+      "x": -172,
+      "y": -333,
+      "parent": "#uhhvt2"
+    },
+    {
+      "@id": "#ivdgmu",
+      "name": "From *květъ, “flower” + *-ьňь",
+      "x": 172,
+      "y": -333,
+      "parent": "#uhhvt2"
+    },
+    {
+      "@id": "#4mdmkc",
+      "name": "Cousins of the root *květьňь",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rhhvkg",
+      "name": "Polish kwiecień, “April”",
+      "x": 416,
+      "y": -138,
+      "parent": "#4mdmkc"
+    },
+    {
+      "@id": "#jbce2v",
+      "name": "Slovak kveteň, “May”",
+      "x": 416,
+      "y": 138,
+      "parent": "#4mdmkc"
+    },
+    {
+      "@id": "#7nasdv",
+      "name": "Russian цветень",
+      "x": 172,
+      "y": 333,
+      "parent": "#4mdmkc"
+    },
+    {
+      "@id": "#9cwugq",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8gff6e",
+      "name": "Wiktionary: květen",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/kv%C4%9Bten#Czech",
+      "parent": "#9cwugq"
+    },
+    {
+      "@id": "#jv5umx",
+      "name": "Wiktionary: Proto-Slavic *květьňь",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kv%C4%9Bt%D1%8C%C5%88%D1%8C",
+      "parent": "#9cwugq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

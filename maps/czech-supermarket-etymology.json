@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech supermarket etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#dn3f9i",
+      "name": "Meaning: “supermarket”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nw7j2j",
+      "name": "Supermarket",
+      "x": -225,
+      "y": -312,
+      "parent": "#dn3f9i"
+    },
+    {
+      "@id": "#hxxfqq",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rqzsvr",
+      "name": "Borrowed from English supermarket",
+      "x": 490,
+      "y": 0,
+      "parent": "#hxxfqq"
+    },
+    {
+      "@id": "#ki8mf3",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2d49vj",
+      "name": "Wiktionary: supermarket",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/supermarket#Czech",
+      "parent": "#ki8mf3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

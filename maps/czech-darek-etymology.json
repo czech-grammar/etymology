@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech dárek etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#htc73q",
+      "name": "Meaning: “present”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#awtatq",
+      "name": "Present",
+      "x": -432,
+      "y": -101,
+      "parent": "#htc73q"
+    },
+    {
+      "@id": "#kpmf25",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pt4826",
+      "name": "From dar + -ek",
+      "x": -295,
+      "y": -272,
+      "parent": "#kpmf25"
+    },
+    {
+      "@id": "#5y4dm9",
+      "name": "Root: Proto-Slavic *darъ",
+      "x": -64,
+      "y": -356,
+      "parent": "#kpmf25"
+    },
+    {
+      "@id": "#pxxhrg",
+      "name": "Proto-Balto-Slavic *dōˀra",
+      "x": 211,
+      "y": -372,
+      "parent": "#kpmf25"
+    },
+    {
+      "@id": "#rea2x7",
+      "name": "Cousins of the root *darъ",
+      "x": 270,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cwadc3",
+      "name": "Polish dar",
+      "x": 379,
+      "y": -195,
+      "parent": "#rea2x7"
+    },
+    {
+      "@id": "#ywbac4",
+      "name": "Slovak dar",
+      "x": 490,
+      "y": 0,
+      "parent": "#rea2x7"
+    },
+    {
+      "@id": "#n9e8is",
+      "name": "Russian дар",
+      "x": 379,
+      "y": 195,
+      "parent": "#rea2x7"
+    },
+    {
+      "@id": "#tf9uyf",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e5p7nr",
+      "name": "dar: gift",
+      "x": 187,
+      "y": 327,
+      "parent": "#tf9uyf"
+    },
+    {
+      "@id": "#62reu9",
+      "name": "dárce: donor",
+      "x": -64,
+      "y": 356,
+      "parent": "#tf9uyf"
+    },
+    {
+      "@id": "#f6fhxy",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kq5k9y",
+      "name": "Wiktionary: dárek",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/d%C3%A1rek#Czech",
+      "parent": "#f6fhxy"
+    },
+    {
+      "@id": "#sm3qsh",
+      "name": "Wiktionary: Proto-Slavic *darъ",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/dar%D1%8A",
+      "parent": "#f6fhxy"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

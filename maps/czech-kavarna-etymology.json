@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kavárna etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#i8p343",
+      "name": "Meaning: “café”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8kxakk",
+      "name": "Café",
+      "x": -390,
+      "y": -180,
+      "parent": "#i8p343"
+    },
+    {
+      "@id": "#vi5fh6",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sumsd4",
+      "name": "From káva + -árna",
+      "x": 0,
+      "y": -360,
+      "parent": "#vi5fh6"
+    },
+    {
+      "@id": "#pn59dk",
+      "name": "Related Czech words",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#migajq",
+      "name": "kavárník: café owner",
+      "x": 390,
+      "y": -180,
+      "parent": "#pn59dk"
+    },
+    {
+      "@id": "#sid65b",
+      "name": "káva: coffee",
+      "x": 390,
+      "y": 180,
+      "parent": "#pn59dk"
+    },
+    {
+      "@id": "#ys8pjk",
+      "name": "kávovar: coffeemaker",
+      "x": 0,
+      "y": 360,
+      "parent": "#pn59dk"
+    },
+    {
+      "@id": "#up7szy",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cenx8s",
+      "name": "Wiktionary: kavárna",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/kav%C3%A1rna#Czech",
+      "parent": "#up7szy"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech džus etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rc6atc",
+      "name": "Meaning: “juice”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pfpv5g",
+      "name": "Juice",
+      "x": -318,
+      "y": -255,
+      "parent": "#rc6atc"
+    },
+    {
+      "@id": "#zdsw9e",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qqy3j5",
+      "name": "Borrowed from English juice",
+      "x": 318,
+      "y": -255,
+      "parent": "#zdsw9e"
+    },
+    {
+      "@id": "#kpybcz",
+      "name": "Doublet of jícha",
+      "x": 318,
+      "y": 255,
+      "parent": "#zdsw9e"
+    },
+    {
+      "@id": "#vrqcsx",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v4bcrr",
+      "name": "Wiktionary: džus",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/d%C5%BEus#Czech",
+      "parent": "#vrqcsx"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

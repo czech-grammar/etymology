@@ -1,0 +1,115 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech byt etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#tvdttq",
+      "name": "Meaning: “flat”",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nymeq3",
+      "name": "Flat",
+      "x": -364,
+      "y": -212,
+      "parent": "#tvdttq"
+    },
+    {
+      "@id": "#j7sh4m",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bvszdq",
+      "name": "Old Czech byt",
+      "x": 139,
+      "y": -342,
+      "parent": "#j7sh4m"
+    },
+    {
+      "@id": "#7dxha3",
+      "name": "Old Czech *bytъ / *bytь",
+      "x": 450,
+      "y": 0,
+      "parent": "#j7sh4m"
+    },
+    {
+      "@id": "#7qmm5u",
+      "name": "Built from být + -t",
+      "x": 139,
+      "y": 342,
+      "parent": "#j7sh4m"
+    },
+    {
+      "@id": "#2ruc7n",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6dhta6",
+      "name": "Wiktionary: byt",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/byt#Czech",
+      "parent": "#2ruc7n"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

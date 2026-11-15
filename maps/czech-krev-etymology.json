@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech krev etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8rr66g",
+      "name": "Meaning: “blood”",
+      "x": -223,
+      "y": -44,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cuhumg",
+      "name": "Blood",
+      "x": -437,
+      "y": -86,
+      "parent": "#8rr66g"
+    },
+    {
+      "@id": "#vd2b7b",
+      "name": "Word history",
+      "x": -28,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nik7sw",
+      "name": "Old Czech krev",
+      "x": -337,
+      "y": -239,
+      "parent": "#vd2b7b"
+    },
+    {
+      "@id": "#ajcpcu",
+      "name": "Proto-Slavic *kry̑",
+      "x": -160,
+      "y": -337,
+      "parent": "#vd2b7b"
+    },
+    {
+      "@id": "#ykcpec",
+      "name": "Proto-Balto-Slavic *krū́ˀs",
+      "x": 58,
+      "y": -389,
+      "parent": "#vd2b7b"
+    },
+    {
+      "@id": "#rwcquy",
+      "name": "Proto-Indo-European *kréwh₂s, “blood of a wound”",
+      "x": 256,
+      "y": -296,
+      "parent": "#vd2b7b"
+    },
+    {
+      "@id": "#m42dq3",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qn2hp3",
+      "name": "Polish krew",
+      "x": 398,
+      "y": -167,
+      "parent": "#m42dq3"
+    },
+    {
+      "@id": "#ectzd7",
+      "name": "Slovak krv",
+      "x": 450,
+      "y": 0,
+      "parent": "#m42dq3"
+    },
+    {
+      "@id": "#zgy7wc",
+      "name": "Russian кровь",
+      "x": 398,
+      "y": 167,
+      "parent": "#m42dq3"
+    },
+    {
+      "@id": "#3ahest",
+      "name": "Related Czech words",
+      "x": 28,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qve5s7",
+      "name": "chladnokrevný: cold-blooded",
+      "x": 256,
+      "y": 296,
+      "parent": "#3ahest"
+    },
+    {
+      "@id": "#ejy43c",
+      "name": "teplokrevný: warm-blooded",
+      "x": 54,
+      "y": 357,
+      "parent": "#3ahest"
+    },
+    {
+      "@id": "#xrfm5e",
+      "name": "krvácet: to bleed",
+      "x": -195,
+      "y": 412,
+      "parent": "#3ahest"
+    },
+    {
+      "@id": "#94qwct",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kt7677",
+      "name": "Wiktionary: krev",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/krev#Czech",
+      "parent": "#94qwct"
+    },
+    {
+      "@id": "#aqatcs",
+      "name": "Wiktionary: Proto-Slavic *kry",
+      "x": -437,
+      "y": 86,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kry",
+      "parent": "#94qwct"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

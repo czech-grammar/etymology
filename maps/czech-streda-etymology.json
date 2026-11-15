@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech středa etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3d28xa",
+      "name": "Meaning: “Wednesday”",
+      "x": -242,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#epvezg",
+      "name": "Wednesday",
+      "x": -437,
+      "y": -86,
+      "parent": "#3d28xa"
+    },
+    {
+      "@id": "#fcggup",
+      "name": "Word history",
+      "x": -28,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b29p4m",
+      "name": "Old Czech střěda",
+      "x": -337,
+      "y": -239,
+      "parent": "#fcggup"
+    },
+    {
+      "@id": "#kmzhq7",
+      "name": "Proto-Slavic *serda",
+      "x": -160,
+      "y": -337,
+      "parent": "#fcggup"
+    },
+    {
+      "@id": "#gjzi9u",
+      "name": "Proto-Balto-Slavic *śerd-",
+      "x": 58,
+      "y": -389,
+      "parent": "#fcggup"
+    },
+    {
+      "@id": "#qrdyff",
+      "name": "Proto-Indo-European *ḱerd-, “heart”",
+      "x": 256,
+      "y": -296,
+      "parent": "#fcggup"
+    },
+    {
+      "@id": "#ws6y8t",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vz2bzg",
+      "name": "Polish środa",
+      "x": 398,
+      "y": -167,
+      "parent": "#ws6y8t"
+    },
+    {
+      "@id": "#xcwpit",
+      "name": "Slovak streda",
+      "x": 450,
+      "y": 0,
+      "parent": "#ws6y8t"
+    },
+    {
+      "@id": "#2j45eb",
+      "name": "Russian середа",
+      "x": 398,
+      "y": 167,
+      "parent": "#ws6y8t"
+    },
+    {
+      "@id": "#mzru3t",
+      "name": "Related Czech words",
+      "x": 28,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7jxwjc",
+      "name": "prostředek: means",
+      "x": 256,
+      "y": 296,
+      "parent": "#mzru3t"
+    },
+    {
+      "@id": "#a96zyh",
+      "name": "prostředníček: middle finger",
+      "x": 54,
+      "y": 357,
+      "parent": "#mzru3t"
+    },
+    {
+      "@id": "#p23y9y",
+      "name": "soustředit: to concentrate",
+      "x": -195,
+      "y": 412,
+      "parent": "#mzru3t"
+    },
+    {
+      "@id": "#fwnyjm",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wksqci",
+      "name": "Wiktionary: středa",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/st%C5%99eda#Czech",
+      "parent": "#fwnyjm"
+    },
+    {
+      "@id": "#ra6zm7",
+      "name": "Wiktionary: Proto-Slavic *serda",
+      "x": -456,
+      "y": 90,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/serda",
+      "parent": "#fwnyjm"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

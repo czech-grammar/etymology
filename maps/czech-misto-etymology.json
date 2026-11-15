@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech místo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#js3iig",
+      "name": "Meaning: “place, seat”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iznrk2",
+      "name": "Place, seat",
+      "x": -435,
+      "y": -93,
+      "parent": "#js3iig"
+    },
+    {
+      "@id": "#erweqx",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#458dgw",
+      "name": "Old Czech miesto",
+      "x": -318,
+      "y": -255,
+      "parent": "#erweqx"
+    },
+    {
+      "@id": "#exi8fx",
+      "name": "Proto-Slavic *město",
+      "x": -116,
+      "y": -348,
+      "parent": "#erweqx"
+    },
+    {
+      "@id": "#wir68e",
+      "name": "Doublet of město",
+      "x": 116,
+      "y": -348,
+      "parent": "#erweqx"
+    },
+    {
+      "@id": "#w787tb",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s2tzct",
+      "name": "Polish miasto",
+      "x": 318,
+      "y": -255,
+      "parent": "#w787tb"
+    },
+    {
+      "@id": "#n5jemd",
+      "name": "Slovak mesto, “city”",
+      "x": 435,
+      "y": -93,
+      "parent": "#w787tb"
+    },
+    {
+      "@id": "#hzm32t",
+      "name": "Russian место",
+      "x": 435,
+      "y": 93,
+      "parent": "#w787tb"
+    },
+    {
+      "@id": "#b8g5mf",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#akt98v",
+      "name": "místenka: seat reservation ticket",
+      "x": 318,
+      "y": 255,
+      "parent": "#b8g5mf"
+    },
+    {
+      "@id": "#5j9cux",
+      "name": "místnost: room",
+      "x": 116,
+      "y": 348,
+      "parent": "#b8g5mf"
+    },
+    {
+      "@id": "#sm59v4",
+      "name": "místopis: topography",
+      "x": -116,
+      "y": 348,
+      "parent": "#b8g5mf"
+    },
+    {
+      "@id": "#d598h7",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iuaf44",
+      "name": "Wiktionary: místo",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/m%C3%ADsto#Czech",
+      "parent": "#d598h7"
+    },
+    {
+      "@id": "#5f9frq",
+      "name": "Wiktionary: Proto-Slavic *město",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/m%C4%9Bsto",
+      "parent": "#d598h7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

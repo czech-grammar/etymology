@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech les etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8jszxj",
+      "name": "Meaning: “forest”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9wzzgz",
+      "name": "Forest",
+      "x": -432,
+      "y": -101,
+      "parent": "#8jszxj"
+    },
+    {
+      "@id": "#pn52mp",
+      "name": "Word history",
+      "x": -96,
+      "y": -167,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#576i7q",
+      "name": "Old Czech les",
+      "x": -295,
+      "y": -272,
+      "parent": "#pn52mp"
+    },
+    {
+      "@id": "#we7s4t",
+      "name": "Proto-Slavic *lěsъ",
+      "x": -64,
+      "y": -356,
+      "parent": "#pn52mp"
+    },
+    {
+      "@id": "#ptz7ex",
+      "name": "Slavic cousins",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q699j8",
+      "name": "Polish las",
+      "x": 187,
+      "y": -327,
+      "parent": "#ptz7ex"
+    },
+    {
+      "@id": "#cnxvhd",
+      "name": "Slovak les",
+      "x": 379,
+      "y": -195,
+      "parent": "#ptz7ex"
+    },
+    {
+      "@id": "#whv9b4",
+      "name": "Russian лес",
+      "x": 450,
+      "y": 0,
+      "parent": "#ptz7ex"
+    },
+    {
+      "@id": "#3827um",
+      "name": "Related Czech words",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h268jq",
+      "name": "lesař: woodman",
+      "x": 379,
+      "y": 195,
+      "parent": "#3827um"
+    },
+    {
+      "@id": "#guxqv2",
+      "name": "lesník: forester",
+      "x": 187,
+      "y": 327,
+      "parent": "#3827um"
+    },
+    {
+      "@id": "#f25x6b",
+      "name": "lesňák: forest dweller",
+      "x": -64,
+      "y": 356,
+      "parent": "#3827um"
+    },
+    {
+      "@id": "#extfqs",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r698ua",
+      "name": "Wiktionary: les",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/les#Czech",
+      "parent": "#extfqs"
+    },
+    {
+      "@id": "#299f4z",
+      "name": "Wiktionary: Proto-Slavic *lěsъ",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/l%C4%9Bs%D1%8A",
+      "parent": "#extfqs"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

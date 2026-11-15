@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech ráno etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ttkdwb",
+      "name": "Meaning: “morning”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xqud57",
+      "name": "Morning",
+      "x": -416,
+      "y": -138,
+      "parent": "#ttkdwb"
+    },
+    {
+      "@id": "#zkasej",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#umu8hb",
+      "name": "Proto-Slavic *ranъ",
+      "x": -172,
+      "y": -333,
+      "parent": "#zkasej"
+    },
+    {
+      "@id": "#8h2db7",
+      "name": "Deeper origin uncertain",
+      "x": 172,
+      "y": -333,
+      "parent": "#zkasej"
+    },
+    {
+      "@id": "#dmix52",
+      "name": "Slavic cousins",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9bi9kk",
+      "name": "Polish rano",
+      "x": 416,
+      "y": -138,
+      "parent": "#dmix52"
+    },
+    {
+      "@id": "#556zj7",
+      "name": "Slovak raný",
+      "x": 416,
+      "y": 138,
+      "parent": "#dmix52"
+    },
+    {
+      "@id": "#tr445i",
+      "name": "Russian ранний;",
+      "x": 172,
+      "y": 333,
+      "parent": "#dmix52"
+    },
+    {
+      "@id": "#eg89j8",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sm6v8g",
+      "name": "Wiktionary: ráno",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/r%C3%A1no#Czech",
+      "parent": "#eg89j8"
+    },
+    {
+      "@id": "#gn3cd3",
+      "name": "Wiktionary: Proto-Slavic *ranъ",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/ran%D1%8A",
+      "parent": "#eg89j8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: večer etymology, origin of večer, večer word origin, etymology of večer
+- Czech večer etymology
+  - Meaning: “evening”
+    - Evening
+  - Word history
+    - Old Czech večer
+    - Proto-Slavic *večerъ
+    - Proto-Balto-Slavic *wékeras
+    - Proto-Indo-European *wekʷsperos
+  - Slavic cousins
+    - Polish wieczór
+    - Slovak večer
+    - Russian вечер
+  - Related Czech words
+    - podvečer: early evening
+    - předvečer: eve
+    - večerka: lights-out
+  - Sources
+    - [Wiktionary: večer](https://en.wiktionary.org/wiki/ve%C4%8Der#Czech)
+    - [Wiktionary: Proto-Slavic *večerъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/ve%C4%8Der%D1%8A)

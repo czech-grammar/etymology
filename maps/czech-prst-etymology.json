@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech prst etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#t74ckv",
+      "name": "Meaning: “finger, toe”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gvpz8e",
+      "name": "Finger, toe",
+      "x": -435,
+      "y": -93,
+      "parent": "#t74ckv"
+    },
+    {
+      "@id": "#jd8pva",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fbphey",
+      "name": "Old Czech prst",
+      "x": -318,
+      "y": -255,
+      "parent": "#jd8pva"
+    },
+    {
+      "@id": "#jzh3cf",
+      "name": "Proto-Slavic *pьrstъ",
+      "x": -116,
+      "y": -348,
+      "parent": "#jd8pva"
+    },
+    {
+      "@id": "#u99ddc",
+      "name": "Proto-Balto-Slavic *pírštan",
+      "x": 136,
+      "y": -408,
+      "parent": "#jd8pva"
+    },
+    {
+      "@id": "#tw65eg",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wygwkk",
+      "name": "Polish parst",
+      "x": 318,
+      "y": -255,
+      "parent": "#tw65eg"
+    },
+    {
+      "@id": "#4crg2f",
+      "name": "Slovak prst",
+      "x": 435,
+      "y": -93,
+      "parent": "#tw65eg"
+    },
+    {
+      "@id": "#kmcw7y",
+      "name": "Russian перст",
+      "x": 435,
+      "y": 93,
+      "parent": "#tw65eg"
+    },
+    {
+      "@id": "#dgpjky",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7stbvy",
+      "name": "náprstek: thimble",
+      "x": 318,
+      "y": 255,
+      "parent": "#dgpjky"
+    },
+    {
+      "@id": "#ws6puw",
+      "name": "prstec: toe",
+      "x": 116,
+      "y": 348,
+      "parent": "#dgpjky"
+    },
+    {
+      "@id": "#c2ctwq",
+      "name": "prsten: ring",
+      "x": -116,
+      "y": 348,
+      "parent": "#dgpjky"
+    },
+    {
+      "@id": "#3hyzf4",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fccy6j",
+      "name": "Wiktionary: prst",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/prst#Czech",
+      "parent": "#3hyzf4"
+    },
+    {
+      "@id": "#9xcp2s",
+      "name": "Wiktionary: Proto-Slavic *pьrstъ",
+      "x": -454,
+      "y": 97,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/p%D1%8Crst%D1%8A",
+      "parent": "#3hyzf4"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: host etymology, origin of host, host word origin, etymology of host
+- Czech host etymology
+  - Meaning: “guest”
+    - Guest
+  - Word history
+    - Old Czech host
+    - Proto-Slavic *gostь
+    - Proto-Balto-Slavic *gastís
+    - Proto-Indo-European *gʰóstis
+  - Slavic cousins
+    - Polish gość
+    - Slovak hosť
+    - Russian гость
+  - Related Czech words
+    - hostina: feast
+    - hostinec: inn
+    - hostit: to host
+  - Sources
+    - [Wiktionary: host](https://en.wiktionary.org/wiki/host#Czech)
+    - [Wiktionary: Proto-Slavic *gostь](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/gost%D1%8C)

@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech zboží etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#itsepm",
+      "name": "Meaning: “goods”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v6rya5",
+      "name": "Goods",
+      "x": -423,
+      "y": -123,
+      "parent": "#itsepm"
+    },
+    {
+      "@id": "#qeg99m",
+      "name": "Word history",
+      "x": 40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u9zztd",
+      "name": "Old Czech sbožie",
+      "x": -225,
+      "y": -312,
+      "parent": "#qeg99m"
+    },
+    {
+      "@id": "#qvjfkd",
+      "name": "Proto-Slavic *sъbožьje",
+      "x": 78,
+      "y": -355,
+      "parent": "#qeg99m"
+    },
+    {
+      "@id": "#d9ds3v",
+      "name": "Deeper origin uncertain",
+      "x": 345,
+      "y": -231,
+      "parent": "#qeg99m"
+    },
+    {
+      "@id": "#cpsx3g",
+      "name": "Slavic cousins",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wd2qpe",
+      "name": "Polish zboże",
+      "x": 450,
+      "y": 0,
+      "parent": "#cpsx3g"
+    },
+    {
+      "@id": "#q2mdre",
+      "name": "Slovak zbožie",
+      "x": 345,
+      "y": 231,
+      "parent": "#cpsx3g"
+    },
+    {
+      "@id": "#h2bp35",
+      "name": "Ukrainian збижжя",
+      "x": 78,
+      "y": 355,
+      "parent": "#cpsx3g"
+    },
+    {
+      "@id": "#2bataj",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q5zmss",
+      "name": "Wiktionary: zboží",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/zbo%C5%BE%C3%AD#Czech",
+      "parent": "#2bataj"
+    },
+    {
+      "@id": "#apn4pq",
+      "name": "Wiktionary: Proto-Slavic *sъbožьje",
+      "x": -442,
+      "y": 128,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/s%D1%8Abo%C5%BE%D1%8Cje",
+      "parent": "#2bataj"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: středa etymology, origin of středa, středa word origin, etymology of středa
+- Czech středa etymology
+  - Meaning: “Wednesday”
+    - Wednesday
+  - Word history
+    - Old Czech střěda
+    - Proto-Slavic *serda
+    - Proto-Balto-Slavic *śerd-
+    - Proto-Indo-European *ḱerd-, “heart”
+  - Slavic cousins
+    - Polish środa
+    - Slovak streda
+    - Russian середа
+  - Related Czech words
+    - prostředek: means
+    - prostředníček: middle finger
+    - soustředit: to concentrate
+  - Sources
+    - [Wiktionary: středa](https://en.wiktionary.org/wiki/st%C5%99eda#Czech)
+    - [Wiktionary: Proto-Slavic *serda](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/serda)

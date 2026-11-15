@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech test etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qib3g4",
+      "name": "Meaning: “test”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g3abna",
+      "name": "Test",
+      "x": -318,
+      "y": -255,
+      "parent": "#qib3g4"
+    },
+    {
+      "@id": "#9bwd8m",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m2mkg9",
+      "name": "Borrowed from English test",
+      "x": 318,
+      "y": -255,
+      "parent": "#9bwd8m"
+    },
+    {
+      "@id": "#632khg",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f9rhmj",
+      "name": "testovat: to test",
+      "x": 318,
+      "y": 255,
+      "parent": "#632khg"
+    },
+    {
+      "@id": "#bsfky3",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wpy384",
+      "name": "Wiktionary: test",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/test#Czech",
+      "parent": "#bsfky3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

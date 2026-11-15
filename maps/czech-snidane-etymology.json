@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech snídaně etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qyin7c",
+      "name": "Meaning: “breakfast”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#272ffy",
+      "name": "Breakfast",
+      "x": -390,
+      "y": -180,
+      "parent": "#qyin7c"
+    },
+    {
+      "@id": "#r2m9ac",
+      "name": "Word history",
+      "x": 115,
+      "y": -159,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8hwuki",
+      "name": "Old Czech sniedaně",
+      "x": 0,
+      "y": -360,
+      "parent": "#r2m9ac"
+    },
+    {
+      "@id": "#tvjb6b",
+      "name": "Built from deverbal from snídat",
+      "x": 390,
+      "y": -180,
+      "parent": "#r2m9ac"
+    },
+    {
+      "@id": "#aaebt6",
+      "name": "Related Czech words",
+      "x": 115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v8yxm7",
+      "name": "jíst: to eat",
+      "x": 390,
+      "y": 180,
+      "parent": "#aaebt6"
+    },
+    {
+      "@id": "#4dp2zs",
+      "name": "snídat: to eat breakfast",
+      "x": 0,
+      "y": 360,
+      "parent": "#aaebt6"
+    },
+    {
+      "@id": "#cm7c9p",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cndwtq",
+      "name": "Wiktionary: snídaně",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/sn%C3%ADdan%C4%9B#Czech",
+      "parent": "#cm7c9p"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

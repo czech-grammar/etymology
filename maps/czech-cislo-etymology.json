@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech číslo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xjre7n",
+      "name": "Meaning: “number”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gyekkn",
+      "name": "Number",
+      "x": -435,
+      "y": -93,
+      "parent": "#xjre7n"
+    },
+    {
+      "@id": "#rtmq2y",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3yu4hh",
+      "name": "Old Czech číslo",
+      "x": -318,
+      "y": -255,
+      "parent": "#rtmq2y"
+    },
+    {
+      "@id": "#ctqcb2",
+      "name": "Proto-Slavic *čislo",
+      "x": -116,
+      "y": -348,
+      "parent": "#rtmq2y"
+    },
+    {
+      "@id": "#u3xnw8",
+      "name": "From *čisti, “to read” + *-slo",
+      "x": 136,
+      "y": -408,
+      "parent": "#rtmq2y"
+    },
+    {
+      "@id": "#rdj9xq",
+      "name": "Built from číst + -slo",
+      "x": 318,
+      "y": -255,
+      "parent": "#rtmq2y"
+    },
+    {
+      "@id": "#re9686",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hzbx2r",
+      "name": "Slovak číslo",
+      "x": 435,
+      "y": -93,
+      "parent": "#re9686"
+    },
+    {
+      "@id": "#f6kmd9",
+      "name": "Russian число",
+      "x": 435,
+      "y": 93,
+      "parent": "#re9686"
+    },
+    {
+      "@id": "#msd478",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uvbxqs",
+      "name": "prvočíslo: prime number",
+      "x": 318,
+      "y": 255,
+      "parent": "#msd478"
+    },
+    {
+      "@id": "#549zv5",
+      "name": "číslovaný: numbered",
+      "x": 116,
+      "y": 348,
+      "parent": "#msd478"
+    },
+    {
+      "@id": "#zp9vms",
+      "name": "číslice: digit",
+      "x": -116,
+      "y": 348,
+      "parent": "#msd478"
+    },
+    {
+      "@id": "#ysgm4v",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nbjkwi",
+      "name": "Wiktionary: číslo",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/%C4%8D%C3%ADslo#Czech",
+      "parent": "#ysgm4v"
+    },
+    {
+      "@id": "#wf6j3v",
+      "name": "Wiktionary: Proto-Slavic *čislo",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C4%8Dislo",
+      "parent": "#ysgm4v"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

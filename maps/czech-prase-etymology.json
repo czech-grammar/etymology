@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech prase etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ej2mf6",
+      "name": "Meaning: “pig”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8hq6ud",
+      "name": "Pig",
+      "x": -416,
+      "y": -138,
+      "parent": "#ej2mf6"
+    },
+    {
+      "@id": "#ttejgs",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8ar5qc",
+      "name": "Old Czech prasě",
+      "x": -172,
+      "y": -333,
+      "parent": "#ttejgs"
+    },
+    {
+      "@id": "#rhmbmm",
+      "name": "Proto-Slavic *porsę",
+      "x": 172,
+      "y": -333,
+      "parent": "#ttejgs"
+    },
+    {
+      "@id": "#s8eguf",
+      "name": "Slavic cousins",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b66ivp",
+      "name": "Polish prosię",
+      "x": 416,
+      "y": -138,
+      "parent": "#s8eguf"
+    },
+    {
+      "@id": "#axcmzs",
+      "name": "Slovak prasa",
+      "x": 416,
+      "y": 138,
+      "parent": "#s8eguf"
+    },
+    {
+      "@id": "#i6r5yv",
+      "name": "Russian порося",
+      "x": 172,
+      "y": 333,
+      "parent": "#s8eguf"
+    },
+    {
+      "@id": "#tvuqtc",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2p48px",
+      "name": "Wiktionary: prase",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/prase#Czech",
+      "parent": "#tvuqtc"
+    },
+    {
+      "@id": "#p45q6v",
+      "name": "Wiktionary: Proto-Slavic *porsę",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/pors%C4%99",
+      "parent": "#tvuqtc"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,239 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech sklo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7iedzw",
+      "name": "Meaning: “glass (material)”",
+      "x": -262,
+      "y": -49,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9jkvx2",
+      "name": "Glass (material)",
+      "x": -519,
+      "y": -96,
+      "parent": "#7iedzw"
+    },
+    {
+      "@id": "#infepa",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wvzz8d",
+      "name": "Old Czech stklo",
+      "x": -352,
+      "y": -224,
+      "parent": "#infepa"
+    },
+    {
+      "@id": "#344v53",
+      "name": "Proto-Slavic *stьklo",
+      "x": -195,
+      "y": -324,
+      "parent": "#infepa"
+    },
+    {
+      "@id": "#xmu6zg",
+      "name": "Gothic 𐍃𐍄𐌹𐌺𐌻𐍃",
+      "x": 0,
+      "y": -376,
+      "parent": "#infepa"
+    },
+    {
+      "@id": "#y8uqfz",
+      "name": "Proto-Germanic *stiklaz",
+      "x": 195,
+      "y": -324,
+      "parent": "#infepa"
+    },
+    {
+      "@id": "#sffsvt",
+      "name": "Borrowed from Gothic 𐍃𐍄𐌹𐌺𐌻𐍃",
+      "x": 352,
+      "y": -224,
+      "parent": "#infepa"
+    },
+    {
+      "@id": "#nwx2xx",
+      "name": "Slavic cousins",
+      "x": 224,
+      "y": 41,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u89hf5",
+      "name": "Polish szkło",
+      "x": 439,
+      "y": -80,
+      "parent": "#nwx2xx"
+    },
+    {
+      "@id": "#8htrcm",
+      "name": "Slovak sklo",
+      "x": 439,
+      "y": 80,
+      "parent": "#nwx2xx"
+    },
+    {
+      "@id": "#uikt3u",
+      "name": "Russian стекло",
+      "x": 352,
+      "y": 224,
+      "parent": "#nwx2xx"
+    },
+    {
+      "@id": "#zm3z92",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ptez4y",
+      "name": "skleněný: made from glass",
+      "x": 195,
+      "y": 324,
+      "parent": "#zm3z92"
+    },
+    {
+      "@id": "#nr68an",
+      "name": "sklárna: glassworks",
+      "x": 0,
+      "y": 376,
+      "parent": "#zm3z92"
+    },
+    {
+      "@id": "#hibr65",
+      "name": "sklář: glassmaker",
+      "x": -195,
+      "y": 324,
+      "parent": "#zm3z92"
+    },
+    {
+      "@id": "#bgbhiu",
+      "name": "Sources",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ii65ae",
+      "name": "Wiktionary: sklo",
+      "x": -352,
+      "y": 224,
+      "link": "https://en.wiktionary.org/wiki/sklo#Czech",
+      "parent": "#bgbhiu"
+    },
+    {
+      "@id": "#k7tz42",
+      "name": "Wiktionary: Proto-Slavic *stьklo",
+      "x": -459,
+      "y": 84,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/st%D1%8Cklo",
+      "parent": "#bgbhiu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    }
+  ],
+  "selectedNode": 0
+}

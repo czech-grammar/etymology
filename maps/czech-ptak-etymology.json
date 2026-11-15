@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech pták etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#aujc72",
+      "name": "Meaning: “bird”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7xytev",
+      "name": "Bird",
+      "x": -432,
+      "y": -101,
+      "parent": "#aujc72"
+    },
+    {
+      "@id": "#cdy7am",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zrxtw4",
+      "name": "Old Czech pták",
+      "x": -295,
+      "y": -272,
+      "parent": "#cdy7am"
+    },
+    {
+      "@id": "#kzspdz",
+      "name": "Proto-Slavic *pъtakъ",
+      "x": -64,
+      "y": -356,
+      "parent": "#cdy7am"
+    },
+    {
+      "@id": "#7jvq7p",
+      "name": "By surface analysis, *pъta + *-akъ",
+      "x": 235,
+      "y": -417,
+      "parent": "#cdy7am"
+    },
+    {
+      "@id": "#stz7er",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ejqwjx",
+      "name": "Polish ptak",
+      "x": 379,
+      "y": -195,
+      "parent": "#stz7er"
+    },
+    {
+      "@id": "#ddicug",
+      "name": "Slovak vták",
+      "x": 450,
+      "y": 0,
+      "parent": "#stz7er"
+    },
+    {
+      "@id": "#8ji246",
+      "name": "Russian птах",
+      "x": 379,
+      "y": 195,
+      "parent": "#stz7er"
+    },
+    {
+      "@id": "#knfdb6",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q5abug",
+      "name": "ptakopravec: augur",
+      "x": 187,
+      "y": 327,
+      "parent": "#knfdb6"
+    },
+    {
+      "@id": "#5x73h3",
+      "name": "ptáče: chick",
+      "x": -64,
+      "y": 356,
+      "parent": "#knfdb6"
+    },
+    {
+      "@id": "#av4582",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6pu9pj",
+      "name": "Wiktionary: pták",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/pt%C3%A1k#Czech",
+      "parent": "#av4582"
+    },
+    {
+      "@id": "#czac8s",
+      "name": "Wiktionary: Proto-Slavic *pъtakъ",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/p%D1%8Atak%D1%8A",
+      "parent": "#av4582"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

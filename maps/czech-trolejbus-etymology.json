@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech trolejbus etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ffhw83",
+      "name": "Meaning: “trolleybus”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j6885e",
+      "name": "Trolleybus",
+      "x": -318,
+      "y": -255,
+      "parent": "#ffhw83"
+    },
+    {
+      "@id": "#imy5gq",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y8p28w",
+      "name": "Borrowed from English trolleybus",
+      "x": 318,
+      "y": -255,
+      "parent": "#imy5gq"
+    },
+    {
+      "@id": "#29mc67",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y9t4ng",
+      "name": "trolej: trolley",
+      "x": 318,
+      "y": 255,
+      "parent": "#29mc67"
+    },
+    {
+      "@id": "#43b2vj",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wubnz3",
+      "name": "Wiktionary: trolejbus",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/trolejbus#Czech",
+      "parent": "#43b2vj"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

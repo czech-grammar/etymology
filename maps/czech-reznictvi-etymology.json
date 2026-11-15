@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech řeznictví etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#h6s8cd",
+      "name": "Meaning: “butcher’s”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gedhqe",
+      "name": "Butcher’s",
+      "x": -225,
+      "y": -312,
+      "parent": "#h6s8cd"
+    },
+    {
+      "@id": "#bxutwy",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2d2zkr",
+      "name": "From řezník + -ctví",
+      "x": 450,
+      "y": 0,
+      "parent": "#bxutwy"
+    },
+    {
+      "@id": "#mjvxen",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pq4uep",
+      "name": "Wiktionary: řeznictví",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/%C5%99eznictv%C3%AD#Czech",
+      "parent": "#mjvxen"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

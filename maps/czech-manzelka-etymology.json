@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech manželka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7iujhh",
+      "name": "Meaning: “wife”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3kqyr8",
+      "name": "Wife",
+      "x": -318,
+      "y": -255,
+      "parent": "#7iujhh"
+    },
+    {
+      "@id": "#tjw7kg",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n29j2y",
+      "name": "Old Czech malženka",
+      "x": 318,
+      "y": -255,
+      "parent": "#tjw7kg"
+    },
+    {
+      "@id": "#ffr9r4",
+      "name": "Built from manžel + -ka",
+      "x": 318,
+      "y": 255,
+      "parent": "#tjw7kg"
+    },
+    {
+      "@id": "#sybevj",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hkjyna",
+      "name": "Wiktionary: manželka",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/man%C5%BEelka#Czech",
+      "parent": "#sybevj"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

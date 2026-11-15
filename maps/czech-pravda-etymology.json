@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech pravda etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#j7kyjn",
+      "name": "Meaning: “truth”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bym8f5",
+      "name": "Truth",
+      "x": -432,
+      "y": -101,
+      "parent": "#j7kyjn"
+    },
+    {
+      "@id": "#wnixz7",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2hai6r",
+      "name": "Old Czech pravda",
+      "x": -295,
+      "y": -272,
+      "parent": "#wnixz7"
+    },
+    {
+      "@id": "#hemjcz",
+      "name": "Proto-Slavic *pravьda",
+      "x": -64,
+      "y": -356,
+      "parent": "#wnixz7"
+    },
+    {
+      "@id": "#mijiz4",
+      "name": "From *pràvъ + *-ьda",
+      "x": 187,
+      "y": -327,
+      "parent": "#wnixz7"
+    },
+    {
+      "@id": "#paxcxw",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t3mtjy",
+      "name": "Polish prawda",
+      "x": 379,
+      "y": -195,
+      "parent": "#paxcxw"
+    },
+    {
+      "@id": "#eytghq",
+      "name": "Slovak pravda",
+      "x": 450,
+      "y": 0,
+      "parent": "#paxcxw"
+    },
+    {
+      "@id": "#a4xce5",
+      "name": "Russian правда",
+      "x": 379,
+      "y": 195,
+      "parent": "#paxcxw"
+    },
+    {
+      "@id": "#9m72gr",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rbwp4b",
+      "name": "pravdomluvný: truthful",
+      "x": 187,
+      "y": 327,
+      "parent": "#9m72gr"
+    },
+    {
+      "@id": "#nkatcq",
+      "name": "doopravdy: really",
+      "x": -64,
+      "y": 356,
+      "parent": "#9m72gr"
+    },
+    {
+      "@id": "#q97rkx",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ebu2ss",
+      "name": "Wiktionary: pravda",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/pravda#Czech",
+      "parent": "#q97rkx"
+    },
+    {
+      "@id": "#8i2b9s",
+      "name": "Wiktionary: Proto-Slavic *pravьda",
+      "x": -451,
+      "y": 105,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/prav%D1%8Cda",
+      "parent": "#q97rkx"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

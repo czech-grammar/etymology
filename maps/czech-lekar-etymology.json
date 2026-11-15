@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech lékař etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#e5fii8",
+      "name": "Meaning: “doctor”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7m43va",
+      "name": "Doctor",
+      "x": -435,
+      "y": -93,
+      "parent": "#e5fii8"
+    },
+    {
+      "@id": "#if9f2s",
+      "name": "Word history",
+      "x": 60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pzq32a",
+      "name": "Old Czech lékař",
+      "x": -318,
+      "y": -255,
+      "parent": "#if9f2s"
+    },
+    {
+      "@id": "#36sxek",
+      "name": "Proto-Slavic *lěkъ",
+      "x": -116,
+      "y": -348,
+      "parent": "#if9f2s"
+    },
+    {
+      "@id": "#4emjsf",
+      "name": "Proto-Balto-Slavic *lajkás",
+      "x": 136,
+      "y": -408,
+      "parent": "#if9f2s"
+    },
+    {
+      "@id": "#k4y3r8",
+      "name": "Proto-Indo-European *loykʷós",
+      "x": 318,
+      "y": -255,
+      "parent": "#if9f2s"
+    },
+    {
+      "@id": "#n6ab4z",
+      "name": "Built from lék + -ař",
+      "x": 435,
+      "y": -93,
+      "parent": "#if9f2s"
+    },
+    {
+      "@id": "#6896mb",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": 48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v5pmw5",
+      "name": "Russian лек",
+      "x": 435,
+      "y": 93,
+      "parent": "#6896mb"
+    },
+    {
+      "@id": "#aivbwe",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5q44c6",
+      "name": "zvěrolékař: veterinarian",
+      "x": 318,
+      "y": 255,
+      "parent": "#aivbwe"
+    },
+    {
+      "@id": "#mr8kkj",
+      "name": "léčit: to heal",
+      "x": 116,
+      "y": 348,
+      "parent": "#aivbwe"
+    },
+    {
+      "@id": "#avsizw",
+      "name": "lék: medicine",
+      "x": -116,
+      "y": 348,
+      "parent": "#aivbwe"
+    },
+    {
+      "@id": "#axvuvv",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bju79n",
+      "name": "Wiktionary: lékař",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/l%C3%A9ka%C5%99#Czech",
+      "parent": "#axvuvv"
+    },
+    {
+      "@id": "#pm5s3d",
+      "name": "Wiktionary: Proto-Slavic *lěkъ",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/l%C4%9Bk%D1%8A",
+      "parent": "#axvuvv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

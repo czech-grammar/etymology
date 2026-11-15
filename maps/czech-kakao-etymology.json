@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kakao etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#k8h6k8",
+      "name": "Meaning: “cocoa”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aqmt5v",
+      "name": "Cocoa",
+      "x": -318,
+      "y": -255,
+      "parent": "#k8h6k8"
+    },
+    {
+      "@id": "#894anb",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mmw7yv",
+      "name": "Borrowed from Spanish cacao",
+      "x": 318,
+      "y": -255,
+      "parent": "#894anb"
+    },
+    {
+      "@id": "#6ac34n",
+      "name": "Nahuatl cacahuatl, “cocoa”",
+      "x": 318,
+      "y": 255,
+      "parent": "#894anb"
+    },
+    {
+      "@id": "#gd3i6h",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3t3ri2",
+      "name": "Wiktionary: kakao",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/kakao#Czech",
+      "parent": "#gd3i6h"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

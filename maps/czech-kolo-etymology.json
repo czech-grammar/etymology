@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kolo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#cjjn5a",
+      "name": "Meaning: “bicycle, wheel”",
+      "x": -204,
+      "y": -86,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ksbmb4",
+      "name": "Bicycle, wheel",
+      "x": -437,
+      "y": -86,
+      "parent": "#cjjn5a"
+    },
+    {
+      "@id": "#634wz9",
+      "name": "Bicycle, bike",
+      "x": -337,
+      "y": -239,
+      "parent": "#cjjn5a"
+    },
+    {
+      "@id": "#6efaqq",
+      "name": "Word history",
+      "x": 28,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ytufrp",
+      "name": "Old Czech kolo",
+      "x": -160,
+      "y": -337,
+      "parent": "#6efaqq"
+    },
+    {
+      "@id": "#awuud7",
+      "name": "Proto-Slavic *kolo",
+      "x": 54,
+      "y": -357,
+      "parent": "#6efaqq"
+    },
+    {
+      "@id": "#q2u5ig",
+      "name": "Proto-Balto-Slavic *kálan",
+      "x": 256,
+      "y": -296,
+      "parent": "#6efaqq"
+    },
+    {
+      "@id": "#6m5e6v",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uz6fs6",
+      "name": "Polish koło",
+      "x": 398,
+      "y": -167,
+      "parent": "#6m5e6v"
+    },
+    {
+      "@id": "#yqgt5z",
+      "name": "Slovak kolo",
+      "x": 450,
+      "y": 0,
+      "parent": "#6m5e6v"
+    },
+    {
+      "@id": "#eq2f8a",
+      "name": "Russian коло",
+      "x": 398,
+      "y": 167,
+      "parent": "#6m5e6v"
+    },
+    {
+      "@id": "#qm4ddr",
+      "name": "Related Czech words",
+      "x": 28,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u5wd8r",
+      "name": "elektrokolo: e-bike",
+      "x": 256,
+      "y": 296,
+      "parent": "#qm4ddr"
+    },
+    {
+      "@id": "#mazqrq",
+      "name": "jednokolka: unicycle",
+      "x": 54,
+      "y": 357,
+      "parent": "#qm4ddr"
+    },
+    {
+      "@id": "#dbzktv",
+      "name": "koloběh: cycle",
+      "x": -160,
+      "y": 337,
+      "parent": "#qm4ddr"
+    },
+    {
+      "@id": "#stinvx",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5iw3qz",
+      "name": "Wiktionary: kolo",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/kolo#Czech",
+      "parent": "#stinvx"
+    },
+    {
+      "@id": "#2zt7gd",
+      "name": "Wiktionary: Proto-Slavic *kolo",
+      "x": -437,
+      "y": 86,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kolo",
+      "parent": "#stinvx"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

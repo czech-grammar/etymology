@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech bouřka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#denj5u",
+      "name": "Meaning: “storm”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wknena",
+      "name": "Storm",
+      "x": -423,
+      "y": -123,
+      "parent": "#denj5u"
+    },
+    {
+      "@id": "#h58sns",
+      "name": "Word history",
+      "x": 40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y9fxim",
+      "name": "From bouře + -ka",
+      "x": -225,
+      "y": -312,
+      "parent": "#h58sns"
+    },
+    {
+      "@id": "#t8jm83",
+      "name": "Root: Proto-Slavic *buřa",
+      "x": 78,
+      "y": -355,
+      "parent": "#h58sns"
+    },
+    {
+      "@id": "#i8igv8",
+      "name": "Proto-Balto-Slavic *baurjā",
+      "x": 345,
+      "y": -231,
+      "parent": "#h58sns"
+    },
+    {
+      "@id": "#jf3b23",
+      "name": "Cousins of the root *buřa",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fi8wxr",
+      "name": "Polish burza",
+      "x": 450,
+      "y": 0,
+      "parent": "#jf3b23"
+    },
+    {
+      "@id": "#khtpjq",
+      "name": "Slovak búra;",
+      "x": 345,
+      "y": 231,
+      "parent": "#jf3b23"
+    },
+    {
+      "@id": "#2svt8r",
+      "name": "Russian буря",
+      "x": 78,
+      "y": 355,
+      "parent": "#jf3b23"
+    },
+    {
+      "@id": "#qhn3vb",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#etnwiq",
+      "name": "Wiktionary: bouřka",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/bou%C5%99ka#Czech",
+      "parent": "#qhn3vb"
+    },
+    {
+      "@id": "#jin6k2",
+      "name": "Wiktionary: Proto-Slavic *buřa",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/bu%C5%99a",
+      "parent": "#qhn3vb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

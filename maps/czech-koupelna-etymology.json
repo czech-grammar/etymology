@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech koupelna etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qn3dk8",
+      "name": "Meaning: “bathroom”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hxxk83",
+      "name": "Bathroom",
+      "x": -390,
+      "y": -180,
+      "parent": "#qn3dk8"
+    },
+    {
+      "@id": "#9h448g",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wkq42q",
+      "name": "From koupel, “bath” + -na",
+      "x": 0,
+      "y": -360,
+      "parent": "#9h448g"
+    },
+    {
+      "@id": "#u8hbi5",
+      "name": "Related Czech words",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b6mwsc",
+      "name": "koupaliště: lido",
+      "x": 390,
+      "y": -180,
+      "parent": "#u8hbi5"
+    },
+    {
+      "@id": "#6kkbwh",
+      "name": "koupat: to bathe",
+      "x": 390,
+      "y": 180,
+      "parent": "#u8hbi5"
+    },
+    {
+      "@id": "#i3dha7",
+      "name": "koupel: bath",
+      "x": 0,
+      "y": 360,
+      "parent": "#u8hbi5"
+    },
+    {
+      "@id": "#vqr2sk",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tzmrr6",
+      "name": "Wiktionary: koupelna",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/koupelna#Czech",
+      "parent": "#vqr2sk"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

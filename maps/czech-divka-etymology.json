@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech dívka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#k7imsg",
+      "name": "Meaning: “girl”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#36vx8j",
+      "name": "Girl",
+      "x": -435,
+      "y": -93,
+      "parent": "#k7imsg"
+    },
+    {
+      "@id": "#hp9qvb",
+      "name": "Word history",
+      "x": 60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jamwbv",
+      "name": "Old Czech dievka",
+      "x": -318,
+      "y": -255,
+      "parent": "#hp9qvb"
+    },
+    {
+      "@id": "#ma64si",
+      "name": "Proto-Slavic *děvъka",
+      "x": -116,
+      "y": -348,
+      "parent": "#hp9qvb"
+    },
+    {
+      "@id": "#fkfz4e",
+      "name": "From *děva, “girl” + *-ъka",
+      "x": 136,
+      "y": -408,
+      "parent": "#hp9qvb"
+    },
+    {
+      "@id": "#vriwrw",
+      "name": "Built from děva + -ka",
+      "x": 318,
+      "y": -255,
+      "parent": "#hp9qvb"
+    },
+    {
+      "@id": "#vihcys",
+      "name": "Doublet of děvka",
+      "x": 435,
+      "y": -93,
+      "parent": "#hp9qvb"
+    },
+    {
+      "@id": "#9yxfz6",
+      "name": "Slavic cousins",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x2cew5",
+      "name": "Polish dziewka",
+      "x": 435,
+      "y": 93,
+      "parent": "#9yxfz6"
+    },
+    {
+      "@id": "#7hrr2x",
+      "name": "Slovak dievka",
+      "x": 318,
+      "y": 255,
+      "parent": "#9yxfz6"
+    },
+    {
+      "@id": "#gi4a5g",
+      "name": "Russian девка",
+      "x": 116,
+      "y": 348,
+      "parent": "#9yxfz6"
+    },
+    {
+      "@id": "#bdj8qb",
+      "name": "Related Czech words",
+      "x": -60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9k7du7",
+      "name": "děvečka: maidservant",
+      "x": -116,
+      "y": 348,
+      "parent": "#bdj8qb"
+    },
+    {
+      "@id": "#2mz8tn",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bm9hwf",
+      "name": "Wiktionary: dívka",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/d%C3%ADvka#Czech",
+      "parent": "#2mz8tn"
+    },
+    {
+      "@id": "#42s4wn",
+      "name": "Wiktionary: Proto-Slavic *děvъka",
+      "x": -454,
+      "y": 97,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/d%C4%9Bv%D1%8Aka",
+      "parent": "#2mz8tn"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

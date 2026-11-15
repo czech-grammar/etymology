@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech zpoždění etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ft3yim",
+      "name": "Meaning: “delay”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#csxpja",
+      "name": "Delay",
+      "x": -318,
+      "y": -255,
+      "parent": "#ft3yim"
+    },
+    {
+      "@id": "#y2jj6q",
+      "name": "Verbal noun of zpozdit",
+      "x": 318,
+      "y": -255,
+      "parent": "#ft3yim"
+    },
+    {
+      "@id": "#mz65qf",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zexuij",
+      "name": "From zpozdit + -ení",
+      "x": 318,
+      "y": 255,
+      "parent": "#mz65qf"
+    },
+    {
+      "@id": "#7w4qci",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xzsjqj",
+      "name": "Wiktionary: zpoždění",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/zpo%C5%BEd%C4%9Bn%C3%AD#Czech",
+      "parent": "#7w4qci"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

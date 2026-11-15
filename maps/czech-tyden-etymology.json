@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech týden etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#mm86kt",
+      "name": "Meaning: “week”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yt5t82",
+      "name": "Week",
+      "x": -428,
+      "y": -111,
+      "parent": "#mm86kt"
+    },
+    {
+      "@id": "#ikyu4s",
+      "name": "Word history",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#crjix9",
+      "name": "Old Czech týden",
+      "x": -265,
+      "y": -291,
+      "parent": "#ikyu4s"
+    },
+    {
+      "@id": "#rg2rg2",
+      "name": "Proto-Slavic *tъjьdьnь",
+      "x": 0,
+      "y": -360,
+      "parent": "#ikyu4s"
+    },
+    {
+      "@id": "#j4un3c",
+      "name": "Deeper origin uncertain",
+      "x": 265,
+      "y": -291,
+      "parent": "#ikyu4s"
+    },
+    {
+      "@id": "#r5gs6a",
+      "name": "Built from tý + den",
+      "x": 428,
+      "y": -111,
+      "parent": "#ikyu4s"
+    },
+    {
+      "@id": "#5sa98c",
+      "name": "Slavic cousins",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vyh8jm",
+      "name": "Polish tydzień",
+      "x": 428,
+      "y": 111,
+      "parent": "#5sa98c"
+    },
+    {
+      "@id": "#vftuyc",
+      "name": "Russian тыдень",
+      "x": 265,
+      "y": 291,
+      "parent": "#5sa98c"
+    },
+    {
+      "@id": "#cqsuvk",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#68ky7m",
+      "name": "týdeník: weekly periodical",
+      "x": 0,
+      "y": 360,
+      "parent": "#cqsuvk"
+    },
+    {
+      "@id": "#4qihm8",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b3i4sf",
+      "name": "Wiktionary: týden",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/t%C3%BDden#Czech",
+      "parent": "#4qihm8"
+    },
+    {
+      "@id": "#cvqa6w",
+      "name": "Wiktionary: Proto-Slavic *tъjьdьnь",
+      "x": -447,
+      "y": 116,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/t%D1%8Aj%D1%8Cd%D1%8Cn%D1%8C",
+      "parent": "#4qihm8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

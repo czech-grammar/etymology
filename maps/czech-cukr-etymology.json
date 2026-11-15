@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech cukr etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#kkph27",
+      "name": "Meaning: “sugar”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kfccm8",
+      "name": "Sugar",
+      "x": -390,
+      "y": -180,
+      "parent": "#kkph27"
+    },
+    {
+      "@id": "#r9ftus",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wt3tx8",
+      "name": "Borrowed from German Zucker",
+      "x": 0,
+      "y": -360,
+      "parent": "#r9ftus"
+    },
+    {
+      "@id": "#t5sdaa",
+      "name": "Related Czech words",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aqbaaz",
+      "name": "cukrárna: cake shop",
+      "x": 390,
+      "y": -180,
+      "parent": "#t5sdaa"
+    },
+    {
+      "@id": "#bjz7ia",
+      "name": "cukrář: confectioner",
+      "x": 390,
+      "y": 180,
+      "parent": "#t5sdaa"
+    },
+    {
+      "@id": "#r9w9k7",
+      "name": "cukrovar: sugar refinery",
+      "x": 0,
+      "y": 360,
+      "parent": "#t5sdaa"
+    },
+    {
+      "@id": "#edbhkb",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6b5ue4",
+      "name": "Wiktionary: cukr",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/cukr#Czech",
+      "parent": "#edbhkb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

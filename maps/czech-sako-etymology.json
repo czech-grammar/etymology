@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech sako etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#i5amh7",
+      "name": "Meaning: “jacket, blazer”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jvyvcr",
+      "name": "Jacket, blazer",
+      "x": -318,
+      "y": -255,
+      "parent": "#i5amh7"
+    },
+    {
+      "@id": "#fu5pre",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pxqnee",
+      "name": "Borrowed from German Sakko",
+      "x": 318,
+      "y": -255,
+      "parent": "#fu5pre"
+    },
+    {
+      "@id": "#hidrwq",
+      "name": "Italian sacco, “sack”",
+      "x": 318,
+      "y": 255,
+      "parent": "#fu5pre"
+    },
+    {
+      "@id": "#mybhsh",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#idixxs",
+      "name": "Wiktionary: sako",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/sako#Czech",
+      "parent": "#mybhsh"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

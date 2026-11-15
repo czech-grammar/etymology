@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech datum etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#es6jqz",
+      "name": "Meaning: “date”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j2r8pc",
+      "name": "Date",
+      "x": -318,
+      "y": -255,
+      "parent": "#es6jqz"
+    },
+    {
+      "@id": "#8xzifg",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fwdair",
+      "name": "Borrowed from Latin datum, “a given”",
+      "x": 318,
+      "y": -255,
+      "parent": "#8xzifg"
+    },
+    {
+      "@id": "#m79fpd",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a3yiwi",
+      "name": "datovat: to date",
+      "x": 318,
+      "y": 255,
+      "parent": "#m79fpd"
+    },
+    {
+      "@id": "#scx5ee",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vadd4y",
+      "name": "Wiktionary: datum",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/datum#Czech",
+      "parent": "#scx5ee"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

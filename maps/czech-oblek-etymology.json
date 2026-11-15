@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech oblek etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fud2sn",
+      "name": "Meaning: “suit”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kunzmq",
+      "name": "Suit",
+      "x": -428,
+      "y": -111,
+      "parent": "#fud2sn"
+    },
+    {
+      "@id": "#qkjt44",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tbjnez",
+      "name": "From the verb obléct",
+      "x": -265,
+      "y": -291,
+      "parent": "#qkjt44"
+    },
+    {
+      "@id": "#gsn5fk",
+      "name": "Root: Proto-Slavic *velťi",
+      "x": 0,
+      "y": -360,
+      "parent": "#qkjt44"
+    },
+    {
+      "@id": "#9tjtc6",
+      "name": "Proto-Balto-Slavic *welk- / *wilk-",
+      "x": 265,
+      "y": -291,
+      "parent": "#qkjt44"
+    },
+    {
+      "@id": "#phuwy3",
+      "name": "Cousins of the root *velťi",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2ck5py",
+      "name": "Polish wlec",
+      "x": 428,
+      "y": -111,
+      "parent": "#phuwy3"
+    },
+    {
+      "@id": "#cqbvxy",
+      "name": "Slovak vliecť",
+      "x": 428,
+      "y": 111,
+      "parent": "#phuwy3"
+    },
+    {
+      "@id": "#ueyj6p",
+      "name": "Russian волочь",
+      "x": 265,
+      "y": 291,
+      "parent": "#phuwy3"
+    },
+    {
+      "@id": "#v5wg6a",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#29himi",
+      "name": "obléct: to put on",
+      "x": 0,
+      "y": 360,
+      "parent": "#v5wg6a"
+    },
+    {
+      "@id": "#h2zqna",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g9hpti",
+      "name": "Wiktionary: oblek",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/oblek#Czech",
+      "parent": "#h2zqna"
+    },
+    {
+      "@id": "#j7v7yg",
+      "name": "Wiktionary: Proto-Slavic *velťi",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/vel%C5%A5i",
+      "parent": "#h2zqna"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

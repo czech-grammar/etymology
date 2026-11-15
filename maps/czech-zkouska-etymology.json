@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech zkouška etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#d8mq45",
+      "name": "Meaning: “exam”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yez7d3",
+      "name": "Exam",
+      "x": -318,
+      "y": -255,
+      "parent": "#d8mq45"
+    },
+    {
+      "@id": "#m2hgdq",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ehwfje",
+      "name": "From zkoušet + -ka",
+      "x": 318,
+      "y": -255,
+      "parent": "#m2hgdq"
+    },
+    {
+      "@id": "#746wpm",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e5i2jj",
+      "name": "zkusit: to try",
+      "x": 318,
+      "y": 255,
+      "parent": "#746wpm"
+    },
+    {
+      "@id": "#zjmt8d",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fiuz5b",
+      "name": "Wiktionary: zkouška",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/zkou%C5%A1ka#Czech",
+      "parent": "#zjmt8d"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,239 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech čeština etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#tkg5yw",
+      "name": "Meaning: “Czech (language)”",
+      "x": -262,
+      "y": -49,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uuk9en",
+      "name": "Czech (language)",
+      "x": -519,
+      "y": -96,
+      "parent": "#tkg5yw"
+    },
+    {
+      "@id": "#zn45sm",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e4sbcd",
+      "name": "Old Czech češčina",
+      "x": -352,
+      "y": -224,
+      "parent": "#zn45sm"
+    },
+    {
+      "@id": "#7yzt25",
+      "name": "Proto-Slavic *čelověkъ",
+      "x": -195,
+      "y": -324,
+      "parent": "#zn45sm"
+    },
+    {
+      "@id": "#riizit",
+      "name": "Early Proto-Slavic *čeláwaj˙ku",
+      "x": 0,
+      "y": -376,
+      "parent": "#zn45sm"
+    },
+    {
+      "@id": "#6s9ji5",
+      "name": "Proto-Balto-Slavic *kelawaikas",
+      "x": 195,
+      "y": -324,
+      "parent": "#zn45sm"
+    },
+    {
+      "@id": "#gbfzqq",
+      "name": "Built from český + -ina",
+      "x": 352,
+      "y": -224,
+      "parent": "#zn45sm"
+    },
+    {
+      "@id": "#nnmvrk",
+      "name": "Slavic cousins",
+      "x": 224,
+      "y": 41,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z3vagg",
+      "name": "Polish człowiek",
+      "x": 439,
+      "y": -80,
+      "parent": "#nnmvrk"
+    },
+    {
+      "@id": "#dvxvkz",
+      "name": "Slovak človek",
+      "x": 439,
+      "y": 80,
+      "parent": "#nnmvrk"
+    },
+    {
+      "@id": "#zgqq76",
+      "name": "Russian человек",
+      "x": 352,
+      "y": 224,
+      "parent": "#nnmvrk"
+    },
+    {
+      "@id": "#95j2h5",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uh5pja",
+      "name": "češtinář: teacher of Czech",
+      "x": 195,
+      "y": 324,
+      "parent": "#95j2h5"
+    },
+    {
+      "@id": "#zksdqv",
+      "name": "pračeština: Proto-Czech",
+      "x": 0,
+      "y": 376,
+      "parent": "#95j2h5"
+    },
+    {
+      "@id": "#n9xsnp",
+      "name": "český: Czech",
+      "x": -195,
+      "y": 324,
+      "parent": "#95j2h5"
+    },
+    {
+      "@id": "#sr7pzc",
+      "name": "Sources",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3hmkgx",
+      "name": "Wiktionary: čeština",
+      "x": -352,
+      "y": 224,
+      "link": "https://en.wiktionary.org/wiki/%C4%8De%C5%A1tina#Czech",
+      "parent": "#sr7pzc"
+    },
+    {
+      "@id": "#at5u3t",
+      "name": "Wiktionary: Proto-Slavic *čelověkъ",
+      "x": -459,
+      "y": 84,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C4%8Delov%C4%9Bk%D1%8A",
+      "parent": "#sr7pzc"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    }
+  ],
+  "selectedNode": 0
+}

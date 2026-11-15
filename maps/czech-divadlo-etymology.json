@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech divadlo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ejedxq",
+      "name": "Meaning: “theatre”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#exmq2y",
+      "name": "Theatre",
+      "x": -423,
+      "y": -123,
+      "parent": "#ejedxq"
+    },
+    {
+      "@id": "#dzyzzy",
+      "name": "Word history",
+      "x": 40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nw6tf2",
+      "name": "Proto-Slavic *divadlo",
+      "x": -225,
+      "y": -312,
+      "parent": "#dzyzzy"
+    },
+    {
+      "@id": "#esbwqu",
+      "name": "From *divati + *-dlo",
+      "x": 78,
+      "y": -355,
+      "parent": "#dzyzzy"
+    },
+    {
+      "@id": "#ans87m",
+      "name": "Built from dívat + -dlo",
+      "x": 345,
+      "y": -231,
+      "parent": "#dzyzzy"
+    },
+    {
+      "@id": "#axj7z2",
+      "name": "Slavic cousins",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4ct8aa",
+      "name": "Polish dziwadło",
+      "x": 450,
+      "y": 0,
+      "parent": "#axj7z2"
+    },
+    {
+      "@id": "#qykgkf",
+      "name": "Slovak divadlo",
+      "x": 345,
+      "y": 231,
+      "parent": "#axj7z2"
+    },
+    {
+      "@id": "#uj57ph",
+      "name": "Ukrainian дивало",
+      "x": 78,
+      "y": 355,
+      "parent": "#axj7z2"
+    },
+    {
+      "@id": "#qcmss7",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hyafrt",
+      "name": "Wiktionary: divadlo",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/divadlo#Czech",
+      "parent": "#qcmss7"
+    },
+    {
+      "@id": "#re3y4q",
+      "name": "Wiktionary: Proto-Slavic *divadlo",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/divadlo",
+      "parent": "#qcmss7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

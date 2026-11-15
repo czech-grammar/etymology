@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech řidič etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#zwbkav",
+      "name": "Meaning: “driver”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ymmfhd",
+      "name": "Driver",
+      "x": -432,
+      "y": -101,
+      "parent": "#zwbkav"
+    },
+    {
+      "@id": "#2xf96h",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#px5v96",
+      "name": "From řídit + -č",
+      "x": -295,
+      "y": -272,
+      "parent": "#2xf96h"
+    },
+    {
+      "@id": "#9yimz2",
+      "name": "Root: Proto-Slavic *ręditi",
+      "x": -64,
+      "y": -356,
+      "parent": "#2xf96h"
+    },
+    {
+      "@id": "#v7jqgs",
+      "name": "From *rędъ, “row” + *-iti, “verbal suffix”",
+      "x": 235,
+      "y": -417,
+      "parent": "#2xf96h"
+    },
+    {
+      "@id": "#8zdvba",
+      "name": "Cousins of the root *ręditi",
+      "x": 270,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#isjd89",
+      "name": "Polish rządzić",
+      "x": 379,
+      "y": -195,
+      "parent": "#8zdvba"
+    },
+    {
+      "@id": "#h5sznd",
+      "name": "Slovak riadiť",
+      "x": 510,
+      "y": 0,
+      "parent": "#8zdvba"
+    },
+    {
+      "@id": "#84km8c",
+      "name": "Russian рядить",
+      "x": 379,
+      "y": 195,
+      "parent": "#8zdvba"
+    },
+    {
+      "@id": "#wrh23z",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j3gu22",
+      "name": "řidičák: driver's license",
+      "x": 187,
+      "y": 327,
+      "parent": "#wrh23z"
+    },
+    {
+      "@id": "#apisv4",
+      "name": "řídit: to control",
+      "x": -64,
+      "y": 356,
+      "parent": "#wrh23z"
+    },
+    {
+      "@id": "#h4tvtb",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#twrcxy",
+      "name": "Wiktionary: řidič",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/%C5%99idi%C4%8D#Czech",
+      "parent": "#h4tvtb"
+    },
+    {
+      "@id": "#h9tzi5",
+      "name": "Wiktionary: Proto-Slavic *ręditi",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/r%C4%99diti",
+      "parent": "#h4tvtb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

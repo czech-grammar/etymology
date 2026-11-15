@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech nehoda etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#mkxe54",
+      "name": "Meaning: “accident”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xwgx5r",
+      "name": "Accident",
+      "x": -318,
+      "y": -255,
+      "parent": "#mkxe54"
+    },
+    {
+      "@id": "#yx5tpw",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kukwin",
+      "name": "From ne- + hodit",
+      "x": 318,
+      "y": -255,
+      "parent": "#yx5tpw"
+    },
+    {
+      "@id": "#4fnk87",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mhf3r2",
+      "name": "náhoda: chance",
+      "x": 318,
+      "y": 255,
+      "parent": "#4fnk87"
+    },
+    {
+      "@id": "#9797ia",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rpj9q6",
+      "name": "Wiktionary: nehoda",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/nehoda#Czech",
+      "parent": "#9797ia"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

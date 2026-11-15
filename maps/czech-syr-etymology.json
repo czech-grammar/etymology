@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech sýr etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#hcxqrf",
+      "name": "Meaning: “cheese”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#79a7t4",
+      "name": "Cheese",
+      "x": -435,
+      "y": -93,
+      "parent": "#hcxqrf"
+    },
+    {
+      "@id": "#7rkjym",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hxkbwe",
+      "name": "Proto-Slavic *syrъ",
+      "x": -318,
+      "y": -255,
+      "parent": "#7rkjym"
+    },
+    {
+      "@id": "#kupxys",
+      "name": "Proto-Balto-Slavic *sū́ˀras",
+      "x": -116,
+      "y": -348,
+      "parent": "#7rkjym"
+    },
+    {
+      "@id": "#udg2zw",
+      "name": "Proto-Indo-European *súHros, “sour”",
+      "x": 136,
+      "y": -408,
+      "parent": "#7rkjym"
+    },
+    {
+      "@id": "#dfqest",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8jakbk",
+      "name": "Polish ser",
+      "x": 318,
+      "y": -255,
+      "parent": "#dfqest"
+    },
+    {
+      "@id": "#y4j6rp",
+      "name": "Slovak syr",
+      "x": 435,
+      "y": -93,
+      "parent": "#dfqest"
+    },
+    {
+      "@id": "#fr9ujx",
+      "name": "Russian сырой",
+      "x": 435,
+      "y": 93,
+      "parent": "#dfqest"
+    },
+    {
+      "@id": "#bbzkfb",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#drx8hr",
+      "name": "syrovátka: whey",
+      "x": 318,
+      "y": 255,
+      "parent": "#bbzkfb"
+    },
+    {
+      "@id": "#35uy3e",
+      "name": "syřidlo: rennet",
+      "x": 116,
+      "y": 348,
+      "parent": "#bbzkfb"
+    },
+    {
+      "@id": "#ghynrk",
+      "name": "sýrař: cheesemaker",
+      "x": -116,
+      "y": 348,
+      "parent": "#bbzkfb"
+    },
+    {
+      "@id": "#bvnhk4",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8ctaus",
+      "name": "Wiktionary: sýr",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/s%C3%BDr#Czech",
+      "parent": "#bvnhk4"
+    },
+    {
+      "@id": "#v95ak3",
+      "name": "Wiktionary: Proto-Slavic *syrъ",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/syr%D1%8A",
+      "parent": "#bvnhk4"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

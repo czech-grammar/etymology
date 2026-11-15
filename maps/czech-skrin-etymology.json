@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech skříň etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#er7zwh",
+      "name": "Meaning: “wardrobe”",
+      "x": -204,
+      "y": -86,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5usxnu",
+      "name": "Wardrobe",
+      "x": -437,
+      "y": -86,
+      "parent": "#er7zwh"
+    },
+    {
+      "@id": "#s436ud",
+      "name": "Cabinet",
+      "x": -337,
+      "y": -239,
+      "parent": "#er7zwh"
+    },
+    {
+      "@id": "#wrx3bg",
+      "name": "Word history",
+      "x": 131,
+      "y": -151,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q5uiy4",
+      "name": "Old Czech skříně, škříně",
+      "x": -160,
+      "y": -337,
+      "parent": "#wrx3bg"
+    },
+    {
+      "@id": "#6dzjts",
+      "name": "Proto-Slavic *skrini",
+      "x": 58,
+      "y": -389,
+      "parent": "#wrx3bg"
+    },
+    {
+      "@id": "#xgr6zz",
+      "name": "Old High German scrīni",
+      "x": 256,
+      "y": -296,
+      "parent": "#wrx3bg"
+    },
+    {
+      "@id": "#za5s88",
+      "name": "Latin scrīnium",
+      "x": 398,
+      "y": -167,
+      "parent": "#wrx3bg"
+    },
+    {
+      "@id": "#pmnd58",
+      "name": "Borrowed from Proto-West Germanic *skrīnī, “shrine”",
+      "x": 450,
+      "y": 0,
+      "parent": "#wrx3bg"
+    },
+    {
+      "@id": "#rma9b7",
+      "name": "Slavic cousins",
+      "x": 131,
+      "y": 151,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#inwtm4",
+      "name": "Polish skrzynia",
+      "x": 398,
+      "y": 167,
+      "parent": "#rma9b7"
+    },
+    {
+      "@id": "#32zw3q",
+      "name": "Slovak skriňa",
+      "x": 256,
+      "y": 296,
+      "parent": "#rma9b7"
+    },
+    {
+      "@id": "#ipxsse",
+      "name": "Ukrainian скриня",
+      "x": 54,
+      "y": 357,
+      "parent": "#rma9b7"
+    },
+    {
+      "@id": "#ep57e5",
+      "name": "Related Czech words",
+      "x": -82,
+      "y": 172,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xfsmht",
+      "name": "skříňka: box",
+      "x": -160,
+      "y": 337,
+      "parent": "#ep57e5"
+    },
+    {
+      "@id": "#9heudw",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y3jrny",
+      "name": "Wiktionary: skříň",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/sk%C5%99%C3%AD%C5%88#Czech",
+      "parent": "#9heudw"
+    },
+    {
+      "@id": "#i9w3yn",
+      "name": "Wiktionary: Proto-Slavic *skrini",
+      "x": -456,
+      "y": 90,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/skrini",
+      "parent": "#9heudw"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 4,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

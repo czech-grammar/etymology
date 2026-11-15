@@ -1,0 +1,239 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech břicho etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ky553s",
+      "name": "Meaning: “belly, stomach”",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8ghrs5",
+      "name": "Belly, stomach",
+      "x": -439,
+      "y": -80,
+      "parent": "#ky553s"
+    },
+    {
+      "@id": "#fzbbe2",
+      "name": "Belly, abdomen",
+      "x": -352,
+      "y": -224,
+      "parent": "#ky553s"
+    },
+    {
+      "@id": "#m7jjyp",
+      "name": "Word history",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ew22ex",
+      "name": "Old Czech břuch",
+      "x": -195,
+      "y": -324,
+      "parent": "#m7jjyp"
+    },
+    {
+      "@id": "#n3f7ud",
+      "name": "Proto-Slavic *břuxo",
+      "x": 0,
+      "y": -376,
+      "parent": "#m7jjyp"
+    },
+    {
+      "@id": "#u2cs6k",
+      "name": "Proto-Balto-Slavic *braušan n, *braušas m",
+      "x": 195,
+      "y": -324,
+      "parent": "#m7jjyp"
+    },
+    {
+      "@id": "#ggvxik",
+      "name": "Proto-Indo-European *bʰrewsom n, *bʰrewsos m",
+      "x": 368,
+      "y": -234,
+      "parent": "#m7jjyp"
+    },
+    {
+      "@id": "#56ganu",
+      "name": "Slavic cousins",
+      "x": 224,
+      "y": 41,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hz8qxy",
+      "name": "Polish brzuch",
+      "x": 439,
+      "y": -80,
+      "parent": "#56ganu"
+    },
+    {
+      "@id": "#2drszx",
+      "name": "Slovak brucho",
+      "x": 439,
+      "y": 80,
+      "parent": "#56ganu"
+    },
+    {
+      "@id": "#7igyg4",
+      "name": "Russian брюхо",
+      "x": 352,
+      "y": 224,
+      "parent": "#56ganu"
+    },
+    {
+      "@id": "#nv3cmu",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#59z479",
+      "name": "břicháč: fatso",
+      "x": 195,
+      "y": 324,
+      "parent": "#nv3cmu"
+    },
+    {
+      "@id": "#x36js4",
+      "name": "břichomluvec: ventriloquist",
+      "x": 0,
+      "y": 376,
+      "parent": "#nv3cmu"
+    },
+    {
+      "@id": "#27j2xf",
+      "name": "břichopásek: gourmet",
+      "x": -195,
+      "y": 324,
+      "parent": "#nv3cmu"
+    },
+    {
+      "@id": "#wxecxk",
+      "name": "Sources",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hqmaxv",
+      "name": "Wiktionary: břicho",
+      "x": -352,
+      "y": 224,
+      "link": "https://en.wiktionary.org/wiki/b%C5%99icho#Czech",
+      "parent": "#wxecxk"
+    },
+    {
+      "@id": "#eff87q",
+      "name": "Wiktionary: Proto-Slavic *břuxo",
+      "x": -459,
+      "y": 84,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/b%C5%99uxo",
+      "parent": "#wxecxk"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    }
+  ],
+  "selectedNode": 0
+}

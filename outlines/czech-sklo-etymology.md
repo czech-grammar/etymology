@@ -1,0 +1,22 @@
+category: A1 nouns
+aliases: sklo etymology, origin of sklo, sklo word origin, etymology of sklo
+- Czech sklo etymology
+  - Meaning: “glass (material)”
+    - Glass (material)
+  - Word history
+    - Old Czech stklo
+    - Proto-Slavic *stьklo
+    - Gothic 𐍃𐍄𐌹𐌺𐌻𐍃
+    - Proto-Germanic *stiklaz
+    - Borrowed from Gothic 𐍃𐍄𐌹𐌺𐌻𐍃
+  - Slavic cousins
+    - Polish szkło
+    - Slovak sklo
+    - Russian стекло
+  - Related Czech words
+    - skleněný: made from glass
+    - sklárna: glassworks
+    - sklář: glassmaker
+  - Sources
+    - [Wiktionary: sklo](https://en.wiktionary.org/wiki/sklo#Czech)
+    - [Wiktionary: Proto-Slavic *stьklo](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/st%D1%8Cklo)

@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech záda etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qxnm2g",
+      "name": "Meaning: “back”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eyktbf",
+      "name": "Back",
+      "x": -432,
+      "y": -101,
+      "parent": "#qxnm2g"
+    },
+    {
+      "@id": "#gefby7",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4256sv",
+      "name": "Old Czech zad",
+      "x": -295,
+      "y": -272,
+      "parent": "#gefby7"
+    },
+    {
+      "@id": "#n5f7g6",
+      "name": "Proto-Slavic *zadъ",
+      "x": -64,
+      "y": -356,
+      "parent": "#gefby7"
+    },
+    {
+      "@id": "#t8ucyw",
+      "name": "Probably Proto-Indo-European *ǵʰed-",
+      "x": 227,
+      "y": -402,
+      "parent": "#gefby7"
+    },
+    {
+      "@id": "#s2hcac",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a6nma7",
+      "name": "Polish zad",
+      "x": 379,
+      "y": -195,
+      "parent": "#s2hcac"
+    },
+    {
+      "@id": "#hrhfqq",
+      "name": "Slovak zad",
+      "x": 450,
+      "y": 0,
+      "parent": "#s2hcac"
+    },
+    {
+      "@id": "#2fhtec",
+      "name": "Russian зад",
+      "x": 379,
+      "y": 195,
+      "parent": "#s2hcac"
+    },
+    {
+      "@id": "#9eq5k7",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8b5iig",
+      "name": "dozadu: behind",
+      "x": 187,
+      "y": 327,
+      "parent": "#9eq5k7"
+    },
+    {
+      "@id": "#iec9mb",
+      "name": "vzad: backward",
+      "x": -64,
+      "y": 356,
+      "parent": "#9eq5k7"
+    },
+    {
+      "@id": "#rzqrrz",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dmyb2d",
+      "name": "Wiktionary: záda",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/z%C3%A1da#Czech",
+      "parent": "#rzqrrz"
+    },
+    {
+      "@id": "#h2vu9w",
+      "name": "Wiktionary: Proto-Slavic *zadъ",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/zad%D1%8A",
+      "parent": "#rzqrrz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

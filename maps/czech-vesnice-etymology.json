@@ -1,0 +1,127 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech vesnice etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#d7umq6",
+      "name": "Meaning: “village”",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ss72ge",
+      "name": "Village",
+      "x": -364,
+      "y": -212,
+      "parent": "#d7umq6"
+    },
+    {
+      "@id": "#b8qtsi",
+      "name": "Word history",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mfekmu",
+      "name": "Old Czech vesnicě",
+      "x": 139,
+      "y": -342,
+      "parent": "#b8qtsi"
+    },
+    {
+      "@id": "#fjrq7t",
+      "name": "Proto-Slavic *vьsьnica",
+      "x": 450,
+      "y": 0,
+      "parent": "#b8qtsi"
+    },
+    {
+      "@id": "#4dm9xh",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#93wsct",
+      "name": "vesničan: villager",
+      "x": 139,
+      "y": 342,
+      "parent": "#4dm9xh"
+    },
+    {
+      "@id": "#ebwhb6",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v9j6fc",
+      "name": "Wiktionary: vesnice",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/vesnice#Czech",
+      "parent": "#ebwhb6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

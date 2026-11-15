@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kopec etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#u388qf",
+      "name": "Meaning: “hill”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#52fwny",
+      "name": "Hill",
+      "x": -432,
+      "y": -101,
+      "parent": "#u388qf"
+    },
+    {
+      "@id": "#f92zhc",
+      "name": "Word history",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4mzajz",
+      "name": "Proto-Slavic *kopьcь, “heap”",
+      "x": -295,
+      "y": -272,
+      "parent": "#f92zhc"
+    },
+    {
+      "@id": "#p5jpsa",
+      "name": "From *kopъ (see *kopa) + *-ьcь",
+      "x": -64,
+      "y": -356,
+      "parent": "#f92zhc"
+    },
+    {
+      "@id": "#j9pycy",
+      "name": "Proto-Balto-Slavic *kop-",
+      "x": 235,
+      "y": -417,
+      "parent": "#f92zhc"
+    },
+    {
+      "@id": "#frwvxc",
+      "name": "Proto-Indo-European *(s)kep-, “to strike”",
+      "x": 379,
+      "y": -195,
+      "parent": "#f92zhc"
+    },
+    {
+      "@id": "#7w9awg",
+      "name": "Slavic cousins",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a6md4z",
+      "name": "Polish kopać",
+      "x": 450,
+      "y": 0,
+      "parent": "#7w9awg"
+    },
+    {
+      "@id": "#js4a6s",
+      "name": "Slovak kopať",
+      "x": 379,
+      "y": 195,
+      "parent": "#7w9awg"
+    },
+    {
+      "@id": "#gm34mz",
+      "name": "Russian копать",
+      "x": 187,
+      "y": 327,
+      "parent": "#7w9awg"
+    },
+    {
+      "@id": "#p7dpjs",
+      "name": "Related Czech words",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b2j5tu",
+      "name": "kopcovitý: hilly",
+      "x": -64,
+      "y": 356,
+      "parent": "#p7dpjs"
+    },
+    {
+      "@id": "#6u7s6n",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gt6gk9",
+      "name": "Wiktionary: kopec",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/kopec#Czech",
+      "parent": "#6u7s6n"
+    },
+    {
+      "@id": "#5y5wgb",
+      "name": "Wiktionary: Proto-Slavic *kopati",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kopati",
+      "parent": "#6u7s6n"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

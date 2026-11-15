@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech knedlík etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#i2ffri",
+      "name": "Meaning: “dumpling”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#knpzb6",
+      "name": "Dumpling",
+      "x": -225,
+      "y": -312,
+      "parent": "#i2ffri"
+    },
+    {
+      "@id": "#3vcmwz",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7h9wem",
+      "name": "Borrowed from German Knödel + -ík",
+      "x": 490,
+      "y": 0,
+      "parent": "#3vcmwz"
+    },
+    {
+      "@id": "#zjpc2v",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wtd35h",
+      "name": "Wiktionary: knedlík",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/knedl%C3%ADk#Czech",
+      "parent": "#zjpc2v"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

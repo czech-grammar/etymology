@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech zelí etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#4twydp",
+      "name": "Meaning: “cabbage”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#45bh9d",
+      "name": "Cabbage",
+      "x": -416,
+      "y": -138,
+      "parent": "#4twydp"
+    },
+    {
+      "@id": "#x78ck4",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4dbnjd",
+      "name": "Old Czech zelé",
+      "x": -172,
+      "y": -333,
+      "parent": "#x78ck4"
+    },
+    {
+      "@id": "#zi6qg5",
+      "name": "Proto-Slavic *zelьje",
+      "x": 172,
+      "y": -333,
+      "parent": "#x78ck4"
+    },
+    {
+      "@id": "#h2c9fz",
+      "name": "Slavic cousins",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p9qvac",
+      "name": "Polish ziele",
+      "x": 416,
+      "y": -138,
+      "parent": "#h2c9fz"
+    },
+    {
+      "@id": "#pvmmtq",
+      "name": "Slovak zelé",
+      "x": 416,
+      "y": 138,
+      "parent": "#h2c9fz"
+    },
+    {
+      "@id": "#fmihca",
+      "name": "Russian зелье",
+      "x": 172,
+      "y": 333,
+      "parent": "#h2c9fz"
+    },
+    {
+      "@id": "#q6f7dw",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bqy9cq",
+      "name": "Wiktionary: zelí",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/zel%C3%AD#Czech",
+      "parent": "#q6f7dw"
+    },
+    {
+      "@id": "#j6vhvc",
+      "name": "Wiktionary: Proto-Slavic *zelьje",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/zel%D1%8Cje",
+      "parent": "#q6f7dw"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

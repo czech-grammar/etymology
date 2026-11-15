@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kostel etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#cvic6j",
+      "name": "Meaning: “church”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k8wd5p",
+      "name": "Church",
+      "x": -390,
+      "y": -180,
+      "parent": "#cvic6j"
+    },
+    {
+      "@id": "#dcqk6t",
+      "name": "Word history",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mzu5qn",
+      "name": "Old Czech kostel",
+      "x": 0,
+      "y": -360,
+      "parent": "#dcqk6t"
+    },
+    {
+      "@id": "#8efk9z",
+      "name": "Old High German kastel",
+      "x": 390,
+      "y": -180,
+      "parent": "#dcqk6t"
+    },
+    {
+      "@id": "#vg5ce6",
+      "name": "Latin castellum",
+      "x": 390,
+      "y": 180,
+      "parent": "#dcqk6t"
+    },
+    {
+      "@id": "#c3qgfy",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8fnix3",
+      "name": "kostelník: verger",
+      "x": 0,
+      "y": 360,
+      "parent": "#c3qgfy"
+    },
+    {
+      "@id": "#4mzjrp",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3fs5zu",
+      "name": "Wiktionary: kostel",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/kostel#Czech",
+      "parent": "#4mzjrp"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

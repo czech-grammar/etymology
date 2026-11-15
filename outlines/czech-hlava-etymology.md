@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: hlava etymology, origin of hlava, hlava word origin, etymology of hlava
+- Czech hlava etymology
+  - Meaning: “head”
+    - Head
+  - Word history
+    - Old Czech hlava
+    - Proto-Slavic *golvà
+    - Proto-Balto-Slavic *galˀwā́ˀ
+    - Proto-Indo-European *gelH-
+  - Slavic cousins
+    - Polish głowa
+    - Slovak hlava
+    - Russian голова
+  - Related Czech words
+    - bezhlavý: headless
+    - dvouhlavý: two-headed
+    - tvrdohlavý: hardheaded
+  - Sources
+    - [Wiktionary: hlava](https://en.wiktionary.org/wiki/hlava#Czech)
+    - [Wiktionary: Proto-Slavic *golva](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/golva)

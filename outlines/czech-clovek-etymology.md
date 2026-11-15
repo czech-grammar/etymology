@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: člověk etymology, origin of člověk, člověk word origin, etymology of člověk
+- Czech člověk etymology
+  - Meaning: “person, human”
+    - Person, human
+  - Word history
+    - Old Czech člověk
+    - Proto-Slavic *člověkъ, *čьlověkъ, *čelověkъ
+    - Proto-Balto-Slavic *ljaudejes
+    - Proto-Indo-European *h₁léwdʰis
+  - Slavic cousins
+    - Polish ludzie
+    - Slovak ľudia
+    - Russian люди
+  - Related Czech words
+    - člověkohodina: man-hour
+    - nadčlověk: übermensch
+    - pračlověk: prehistoric man
+  - Sources
+    - [Wiktionary: člověk](https://en.wiktionary.org/wiki/%C4%8Dlov%C4%9Bk#Czech)
+    - [Wiktionary: Proto-Slavic *ľudьje](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C4%BEud%D1%8Cje)

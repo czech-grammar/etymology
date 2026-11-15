@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech lev etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#43en68",
+      "name": "Meaning: “lion”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t4h58t",
+      "name": "Lion",
+      "x": -428,
+      "y": -111,
+      "parent": "#43en68"
+    },
+    {
+      "@id": "#aa65n9",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a86v3p",
+      "name": "Old Czech lev",
+      "x": -265,
+      "y": -291,
+      "parent": "#aa65n9"
+    },
+    {
+      "@id": "#vv2em8",
+      "name": "Proto-Slavic *lьvъ",
+      "x": 0,
+      "y": -360,
+      "parent": "#aa65n9"
+    },
+    {
+      "@id": "#dn6gdm",
+      "name": "Deeper origin uncertain",
+      "x": 265,
+      "y": -291,
+      "parent": "#aa65n9"
+    },
+    {
+      "@id": "#7ha88g",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#unk8yh",
+      "name": "Polish lew",
+      "x": 428,
+      "y": -111,
+      "parent": "#7ha88g"
+    },
+    {
+      "@id": "#qfvaqd",
+      "name": "Slovak lev",
+      "x": 428,
+      "y": 111,
+      "parent": "#7ha88g"
+    },
+    {
+      "@id": "#snmkqe",
+      "name": "Russian лев",
+      "x": 265,
+      "y": 291,
+      "parent": "#7ha88g"
+    },
+    {
+      "@id": "#3r54x4",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r8j9e8",
+      "name": "lvíče: lion cub",
+      "x": 0,
+      "y": 360,
+      "parent": "#3r54x4"
+    },
+    {
+      "@id": "#p4224k",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pgkn9v",
+      "name": "Wiktionary: lev",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/lev#Czech",
+      "parent": "#p4224k"
+    },
+    {
+      "@id": "#5wts93",
+      "name": "Wiktionary: Proto-Slavic *lьvъ",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/l%D1%8Cv%D1%8A",
+      "parent": "#p4224k"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

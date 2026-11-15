@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kluk etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#cnk656",
+      "name": "Meaning: “boy”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yehw3n",
+      "name": "Boy",
+      "x": -225,
+      "y": -312,
+      "parent": "#cnk656"
+    },
+    {
+      "@id": "#ijks2t",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#32jdeg",
+      "name": "Old Czech kluk",
+      "x": 450,
+      "y": 0,
+      "parent": "#ijks2t"
+    },
+    {
+      "@id": "#i9ech8",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ma7rnn",
+      "name": "Wiktionary: kluk",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/kluk#Czech",
+      "parent": "#i9ech8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

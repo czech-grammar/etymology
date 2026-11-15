@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech čepice etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2dtzi8",
+      "name": "Meaning: “cap, hat”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9gvcj2",
+      "name": "Cap, hat",
+      "x": -435,
+      "y": -93,
+      "parent": "#2dtzi8"
+    },
+    {
+      "@id": "#7y8498",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p9kfbs",
+      "name": "Old Czech čepicě",
+      "x": -318,
+      "y": -255,
+      "parent": "#7y8498"
+    },
+    {
+      "@id": "#45wq4g",
+      "name": "Proto-Slavic *čepьcь",
+      "x": -116,
+      "y": -348,
+      "parent": "#7y8498"
+    },
+    {
+      "@id": "#pj79w4",
+      "name": "Probably Proto-Indo-European *(s)kep-, “to ditch”",
+      "x": 136,
+      "y": -408,
+      "parent": "#7y8498"
+    },
+    {
+      "@id": "#uwid2s",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sjp7gh",
+      "name": "Polish czepiec",
+      "x": 318,
+      "y": -255,
+      "parent": "#uwid2s"
+    },
+    {
+      "@id": "#wx5qiu",
+      "name": "Slovak čepiec",
+      "x": 435,
+      "y": -93,
+      "parent": "#uwid2s"
+    },
+    {
+      "@id": "#tzejun",
+      "name": "Russian чепец",
+      "x": 435,
+      "y": 93,
+      "parent": "#uwid2s"
+    },
+    {
+      "@id": "#uprwxf",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8aquj5",
+      "name": "čepičář: capmaker",
+      "x": 318,
+      "y": 255,
+      "parent": "#uprwxf"
+    },
+    {
+      "@id": "#rzauhp",
+      "name": "čapka: cap",
+      "x": 116,
+      "y": 348,
+      "parent": "#uprwxf"
+    },
+    {
+      "@id": "#9scct3",
+      "name": "čepec: bonnet",
+      "x": -116,
+      "y": 348,
+      "parent": "#uprwxf"
+    },
+    {
+      "@id": "#wi5c4b",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#smrkau",
+      "name": "Wiktionary: čepice",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/%C4%8Depice#Czech",
+      "parent": "#wi5c4b"
+    },
+    {
+      "@id": "#zmpwdd",
+      "name": "Wiktionary: Proto-Slavic *čepьcь",
+      "x": -454,
+      "y": 97,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C4%8Dep%D1%8Cc%D1%8C",
+      "parent": "#wi5c4b"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

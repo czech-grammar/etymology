@@ -1,0 +1,139 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech batoh etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fmn8bn",
+      "name": "Meaning: “rucksack”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6i8tau",
+      "name": "Rucksack",
+      "x": -390,
+      "y": -180,
+      "parent": "#fmn8bn"
+    },
+    {
+      "@id": "#cmkzjr",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f336ez",
+      "name": "Root: Proto-Slavic *batogъ",
+      "x": 0,
+      "y": -360,
+      "parent": "#cmkzjr"
+    },
+    {
+      "@id": "#bqkir7",
+      "name": "Cousins of the root *batogъ",
+      "x": 270,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#26f65a",
+      "name": "Polish batog",
+      "x": 390,
+      "y": -180,
+      "parent": "#bqkir7"
+    },
+    {
+      "@id": "#dv3ei7",
+      "name": "Russian батог",
+      "x": 390,
+      "y": 180,
+      "parent": "#bqkir7"
+    },
+    {
+      "@id": "#85hkwi",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hjc3u2",
+      "name": "Wiktionary: batoh",
+      "x": 0,
+      "y": 360,
+      "link": "https://en.wiktionary.org/wiki/batoh#Czech",
+      "parent": "#85hkwi"
+    },
+    {
+      "@id": "#4aqpjw",
+      "name": "Wiktionary: Proto-Slavic *batogъ",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/batog%D1%8A",
+      "parent": "#85hkwi"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

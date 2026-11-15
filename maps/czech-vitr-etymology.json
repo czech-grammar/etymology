@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech vítr etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#85x9vw",
+      "name": "Meaning: “wind”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rczzjc",
+      "name": "Wind",
+      "x": -432,
+      "y": -101,
+      "parent": "#85x9vw"
+    },
+    {
+      "@id": "#kur5zs",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mmt7p7",
+      "name": "Old Czech vietr",
+      "x": -295,
+      "y": -272,
+      "parent": "#kur5zs"
+    },
+    {
+      "@id": "#bhhrtx",
+      "name": "Proto-Slavic *větrъ",
+      "x": -64,
+      "y": -356,
+      "parent": "#kur5zs"
+    },
+    {
+      "@id": "#c9bcc7",
+      "name": "Proto-Indo-European *h₂weh₁-",
+      "x": 203,
+      "y": -357,
+      "parent": "#kur5zs"
+    },
+    {
+      "@id": "#5hrtak",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#93j9h8",
+      "name": "Polish wiatr",
+      "x": 379,
+      "y": -195,
+      "parent": "#5hrtak"
+    },
+    {
+      "@id": "#kdnhru",
+      "name": "Slovak vietor",
+      "x": 450,
+      "y": 0,
+      "parent": "#5hrtak"
+    },
+    {
+      "@id": "#7z9u8d",
+      "name": "Russian ветер;",
+      "x": 379,
+      "y": 195,
+      "parent": "#5hrtak"
+    },
+    {
+      "@id": "#ijtzni",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mw8stj",
+      "name": "větrák: fan",
+      "x": 187,
+      "y": 327,
+      "parent": "#ijtzni"
+    },
+    {
+      "@id": "#kapb5z",
+      "name": "větroň: glider",
+      "x": -64,
+      "y": 356,
+      "parent": "#ijtzni"
+    },
+    {
+      "@id": "#yyz3mz",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qmjzzm",
+      "name": "Wiktionary: vítr",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/v%C3%ADtr#Czech",
+      "parent": "#yyz3mz"
+    },
+    {
+      "@id": "#qfj4jh",
+      "name": "Wiktionary: Proto-Slavic *větrъ",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/v%C4%9Btr%D1%8A",
+      "parent": "#yyz3mz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

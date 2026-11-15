@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech odpověď etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#mi53pn",
+      "name": "Meaning: “answer”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vwnj7s",
+      "name": "Answer",
+      "x": -318,
+      "y": -255,
+      "parent": "#mi53pn"
+    },
+    {
+      "@id": "#zypphr",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8canj9",
+      "name": "From the verb odpovědět",
+      "x": 318,
+      "y": -255,
+      "parent": "#zypphr"
+    },
+    {
+      "@id": "#cp3rf9",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#255h5b",
+      "name": "odpovědět: to reply",
+      "x": 318,
+      "y": 255,
+      "parent": "#cp3rf9"
+    },
+    {
+      "@id": "#mib8qe",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gtb8xf",
+      "name": "Wiktionary: odpověď",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/odpov%C4%9B%C4%8F#Czech",
+      "parent": "#mib8qe"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

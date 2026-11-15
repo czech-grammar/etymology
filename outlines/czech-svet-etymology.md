@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: svět etymology, origin of svět, svět word origin, etymology of svět
+- Czech svět etymology
+  - Meaning: “world”
+    - World
+  - Word history
+    - Old Czech svět
+    - Proto-Slavic *světъ
+    - Proto-Balto-Slavic *śwaitas
+    - Proto-Indo-European *ḱweyt-, “to shine”
+  - Slavic cousins
+    - Polish świat
+    - Slovak svet, “world”
+    - Russian свет
+  - Related Czech words
+    - světoznámý: world-famous
+    - podsvětí: underworld
+    - světák: man of the world
+  - Sources
+    - [Wiktionary: svět](https://en.wiktionary.org/wiki/sv%C4%9Bt#Czech)
+    - [Wiktionary: Proto-Slavic *světъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/sv%C4%9Bt%D1%8A)

@@ -1,0 +1,22 @@
+category: A1 nouns
+aliases: břicho etymology, origin of břicho, břicho word origin, etymology of břicho
+- Czech břicho etymology
+  - Meaning: “belly, stomach”
+    - Belly, stomach
+    - Belly, abdomen
+  - Word history
+    - Old Czech břuch
+    - Proto-Slavic *břuxo
+    - Proto-Balto-Slavic *braušan n, *braušas m
+    - Proto-Indo-European *bʰrewsom n, *bʰrewsos m
+  - Slavic cousins
+    - Polish brzuch
+    - Slovak brucho
+    - Russian брюхо
+  - Related Czech words
+    - břicháč: fatso
+    - břichomluvec: ventriloquist
+    - břichopásek: gourmet
+  - Sources
+    - [Wiktionary: břicho](https://en.wiktionary.org/wiki/b%C5%99icho#Czech)
+    - [Wiktionary: Proto-Slavic *břuxo](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/b%C5%99uxo)

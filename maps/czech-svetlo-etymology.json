@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech světlo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#d9uaih",
+      "name": "Meaning: “light”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#avmt6y",
+      "name": "Light",
+      "x": -432,
+      "y": -101,
+      "parent": "#d9uaih"
+    },
+    {
+      "@id": "#5wh9mi",
+      "name": "Word history",
+      "x": -96,
+      "y": -167,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bs6kht",
+      "name": "Old Czech světlo",
+      "x": -295,
+      "y": -272,
+      "parent": "#5wh9mi"
+    },
+    {
+      "@id": "#ehbhgm",
+      "name": "Proto-Slavic *světьlo",
+      "x": -64,
+      "y": -356,
+      "parent": "#5wh9mi"
+    },
+    {
+      "@id": "#k7d322",
+      "name": "Slavic cousins",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nsr6db",
+      "name": "Polish światło",
+      "x": 187,
+      "y": -327,
+      "parent": "#k7d322"
+    },
+    {
+      "@id": "#45ehap",
+      "name": "Slovak svetlo",
+      "x": 379,
+      "y": -195,
+      "parent": "#k7d322"
+    },
+    {
+      "@id": "#ax2k8i",
+      "name": "Russian светло",
+      "x": 450,
+      "y": 0,
+      "parent": "#k7d322"
+    },
+    {
+      "@id": "#yweyj2",
+      "name": "Related Czech words",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qfhars",
+      "name": "světlomet: headlamp",
+      "x": 379,
+      "y": 195,
+      "parent": "#yweyj2"
+    },
+    {
+      "@id": "#46m88s",
+      "name": "světluška: firefly",
+      "x": 187,
+      "y": 327,
+      "parent": "#yweyj2"
+    },
+    {
+      "@id": "#5kzjwb",
+      "name": "osvětlit: to illuminate",
+      "x": -64,
+      "y": 356,
+      "parent": "#yweyj2"
+    },
+    {
+      "@id": "#wk8zmr",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vf794z",
+      "name": "Wiktionary: světlo",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/sv%C4%9Btlo#Czech",
+      "parent": "#wk8zmr"
+    },
+    {
+      "@id": "#5uuzia",
+      "name": "Wiktionary: Proto-Slavic *světьlo",
+      "x": -451,
+      "y": 105,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/sv%C4%9Bt%D1%8Clo",
+      "parent": "#wk8zmr"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

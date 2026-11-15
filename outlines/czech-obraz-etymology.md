@@ -1,0 +1,23 @@
+category: A1 nouns
+aliases: obraz etymology, origin of obraz, obraz word origin, etymology of obraz
+- Czech obraz etymology
+  - Meaning: “picture”
+    - Picture
+  - Word history
+    - Old Czech obraz
+    - Proto-Slavic *obrazъ
+    - From the verb *obraziti
+    - From *ob- + *raziti (ESSJa)
+    - From *ob- + *razъ (Vasmer)
+    - Built from deverbal from obrazit
+  - Slavic cousins
+    - Polish obraz
+    - Slovak obraz
+    - Russian образ
+  - Related Czech words
+    - obrazec: figure
+    - obraznost: imagination
+    - obrazovka: screen
+  - Sources
+    - [Wiktionary: obraz](https://en.wiktionary.org/wiki/obraz#Czech)
+    - [Wiktionary: Proto-Slavic *obrazъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/obraz%D1%8A)

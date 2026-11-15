@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: moře etymology, origin of moře, moře word origin, etymology of moře
+- Czech moře etymology
+  - Meaning: “sea”
+    - Sea
+  - Word history
+    - Old Czech moře
+    - Proto-Slavic *moře
+    - Proto-Balto-Slavic *mári, “sea”
+    - Proto-Indo-European *móri n, “sea”
+  - Slavic cousins
+    - Polish morze
+    - Slovak more
+    - Russian море
+  - Related Czech words
+    - podmořský: undersea
+    - mořeplavba: seafaring
+    - námořník: sailor
+  - Sources
+    - [Wiktionary: moře](https://en.wiktionary.org/wiki/mo%C5%99e#Czech)
+    - [Wiktionary: Proto-Slavic *moře](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/mo%C5%99e)

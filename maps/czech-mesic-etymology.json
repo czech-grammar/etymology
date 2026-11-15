@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech měsíc etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7h452k",
+      "name": "Meaning: “moon, month”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cvnijt",
+      "name": "Moon, month",
+      "x": -435,
+      "y": -93,
+      "parent": "#7h452k"
+    },
+    {
+      "@id": "#jhvp9y",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hmyth7",
+      "name": "Old Czech měsiec",
+      "x": -318,
+      "y": -255,
+      "parent": "#jhvp9y"
+    },
+    {
+      "@id": "#uqs2c8",
+      "name": "Proto-Slavic *měsęcь",
+      "x": -116,
+      "y": -348,
+      "parent": "#jhvp9y"
+    },
+    {
+      "@id": "#y5u7ex",
+      "name": "Proto-Indo-European *mḗh₁n̥s",
+      "x": 136,
+      "y": -408,
+      "parent": "#jhvp9y"
+    },
+    {
+      "@id": "#fpksmf",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i7qcxh",
+      "name": "Polish miesiąc",
+      "x": 318,
+      "y": -255,
+      "parent": "#fpksmf"
+    },
+    {
+      "@id": "#npb28n",
+      "name": "Slovak mesiac",
+      "x": 435,
+      "y": -93,
+      "parent": "#fpksmf"
+    },
+    {
+      "@id": "#6iqsk8",
+      "name": "Russian месяц",
+      "x": 435,
+      "y": 93,
+      "parent": "#fpksmf"
+    },
+    {
+      "@id": "#w6faj7",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vsdqg7",
+      "name": "měsíčky: period",
+      "x": 318,
+      "y": 255,
+      "parent": "#w6faj7"
+    },
+    {
+      "@id": "#sw7yuq",
+      "name": "měsíčně: monthly",
+      "x": 116,
+      "y": 348,
+      "parent": "#w6faj7"
+    },
+    {
+      "@id": "#sczwcs",
+      "name": "měsíčník: monthly periodical",
+      "x": -136,
+      "y": 408,
+      "parent": "#w6faj7"
+    },
+    {
+      "@id": "#fcf9da",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9t2tcf",
+      "name": "Wiktionary: měsíc",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/m%C4%9Bs%C3%ADc#Czech",
+      "parent": "#fcf9da"
+    },
+    {
+      "@id": "#em3u5x",
+      "name": "Wiktionary: Proto-Slavic *měsęcь",
+      "x": -454,
+      "y": 97,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/m%C4%9Bs%C4%99c%D1%8C",
+      "parent": "#fcf9da"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

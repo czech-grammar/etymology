@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: strach etymology, origin of strach, strach word origin, etymology of strach
+- Czech strach etymology
+  - Meaning: “fear”
+    - Fear
+  - Word history
+    - Old Czech strach
+    - Proto-Slavic *straxъ
+    - Proto-Balto-Slavic *strākš-
+    - Proto-Indo-European *(s)treg-
+  - Slavic cousins
+    - Polish strach
+    - Slovak strach
+    - Russian страх
+  - Related Czech words
+    - postrašit: to scare
+    - strašák: scarecrow
+    - strašidlo: specter
+  - Sources
+    - [Wiktionary: strach](https://en.wiktionary.org/wiki/strach#Czech)
+    - [Wiktionary: Proto-Slavic *straxъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/strax%D1%8A)

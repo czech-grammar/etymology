@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: slovo etymology, origin of slovo, slovo word origin, etymology of slovo
+- Czech slovo etymology
+  - Meaning: “word”
+    - Word
+  - Word history
+    - Old Czech slovo
+    - Proto-Slavic *slovo
+    - Proto-Balto-Slavic *ślawas
+    - Proto-Indo-European *ḱléwos, “that which is heard”
+  - Slavic cousins
+    - Polish słowo
+    - Slovak slovo
+    - Russian слово
+  - Related Czech words
+    - jednoslovný: single-word
+    - víceslovný: multi-word
+    - doslov: epilogue
+  - Sources
+    - [Wiktionary: slovo](https://en.wiktionary.org/wiki/slovo#Czech)
+    - [Wiktionary: Proto-Slavic *slovo](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/slovo)

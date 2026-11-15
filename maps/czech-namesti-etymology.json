@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech náměstí etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#m4s6bv",
+      "name": "Meaning: “square”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#28iai5",
+      "name": "Square",
+      "x": -416,
+      "y": -138,
+      "parent": "#m4s6bv"
+    },
+    {
+      "@id": "#pw6ru8",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h8dypc",
+      "name": "From ná- + město + -í",
+      "x": -172,
+      "y": -333,
+      "parent": "#pw6ru8"
+    },
+    {
+      "@id": "#6q9pr5",
+      "name": "Root: Proto-Slavic *město",
+      "x": 172,
+      "y": -333,
+      "parent": "#pw6ru8"
+    },
+    {
+      "@id": "#efcs3j",
+      "name": "Cousins of the root *město",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wfyzs6",
+      "name": "Polish miasto",
+      "x": 416,
+      "y": -138,
+      "parent": "#efcs3j"
+    },
+    {
+      "@id": "#erutdp",
+      "name": "Slovak mesto, “city”",
+      "x": 416,
+      "y": 138,
+      "parent": "#efcs3j"
+    },
+    {
+      "@id": "#5czw4b",
+      "name": "Russian место",
+      "x": 172,
+      "y": 333,
+      "parent": "#efcs3j"
+    },
+    {
+      "@id": "#n4mf8x",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uc8ap8",
+      "name": "Wiktionary: náměstí",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/n%C3%A1m%C4%9Bst%C3%AD#Czech",
+      "parent": "#n4mf8x"
+    },
+    {
+      "@id": "#er6ati",
+      "name": "Wiktionary: Proto-Slavic *město",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/m%C4%9Bsto",
+      "parent": "#n4mf8x"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

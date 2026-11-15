@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: hora etymology, origin of hora, hora word origin, etymology of hora
+- Czech hora etymology
+  - Meaning: “mountain”
+    - Mountain
+  - Word history
+    - Old Czech hora
+    - Proto-Slavic *gora
+    - Proto-Balto-Slavic *garā́ˀ
+    - Proto-Indo-European *gʷerH-
+  - Slavic cousins
+    - Polish góra
+    - Slovak hora
+    - Russian гора
+  - Related Czech words
+    - horal: highlander
+    - horolezec: mountaineer
+    - hornatý: mountainous
+  - Sources
+    - [Wiktionary: hora](https://en.wiktionary.org/wiki/hora#Czech)
+    - [Wiktionary: Proto-Slavic *gora](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/gora)

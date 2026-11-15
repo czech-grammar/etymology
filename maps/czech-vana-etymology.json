@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech vana etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#nbzrw6",
+      "name": "Meaning: “bathtub”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#agtjq6",
+      "name": "Bathtub",
+      "x": -225,
+      "y": -312,
+      "parent": "#nbzrw6"
+    },
+    {
+      "@id": "#j7k33i",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uaafrr",
+      "name": "Borrowed from German Wanne",
+      "x": 470,
+      "y": 0,
+      "parent": "#j7k33i"
+    },
+    {
+      "@id": "#d4dizy",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cucqtm",
+      "name": "Wiktionary: vana",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/vana#Czech",
+      "parent": "#d4dizy"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech teplota etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#y7xtr8",
+      "name": "Meaning: “temperature”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t4jg9f",
+      "name": "Temperature",
+      "x": -416,
+      "y": -138,
+      "parent": "#y7xtr8"
+    },
+    {
+      "@id": "#bb94tz",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vc465n",
+      "name": "From teplý + -ota",
+      "x": -172,
+      "y": -333,
+      "parent": "#bb94tz"
+    },
+    {
+      "@id": "#hk2xvb",
+      "name": "Root: Proto-Slavic *teplъ",
+      "x": 172,
+      "y": -333,
+      "parent": "#bb94tz"
+    },
+    {
+      "@id": "#6qrhvn",
+      "name": "Cousins of the root *teplъ",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n4eed6",
+      "name": "Polish ciepły",
+      "x": 416,
+      "y": -138,
+      "parent": "#6qrhvn"
+    },
+    {
+      "@id": "#4s883m",
+      "name": "Slovak teplý",
+      "x": 416,
+      "y": 138,
+      "parent": "#6qrhvn"
+    },
+    {
+      "@id": "#n4ubct",
+      "name": "Russian тёплый",
+      "x": 172,
+      "y": 333,
+      "parent": "#6qrhvn"
+    },
+    {
+      "@id": "#nxfxjq",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6jams3",
+      "name": "Wiktionary: teplota",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/teplota#Czech",
+      "parent": "#nxfxjq"
+    },
+    {
+      "@id": "#5tzhe8",
+      "name": "Wiktionary: Proto-Slavic *teplъ",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/tepl%D1%8A",
+      "parent": "#nxfxjq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kilo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3tt5zt",
+      "name": "Meaning: “kilo”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5jff8i",
+      "name": "Kilo",
+      "x": -318,
+      "y": -255,
+      "parent": "#3tt5zt"
+    },
+    {
+      "@id": "#26ux35",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gfpbtt",
+      "name": "Short for kilogram",
+      "x": 318,
+      "y": -255,
+      "parent": "#26ux35"
+    },
+    {
+      "@id": "#yeerwk",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9bzgkg",
+      "name": "pětikilo: five hundred Czech crowns",
+      "x": 318,
+      "y": 255,
+      "parent": "#yeerwk"
+    },
+    {
+      "@id": "#xbus2c",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tgiuse",
+      "name": "Wiktionary: kilo",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/kilo#Czech",
+      "parent": "#xbus2c"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

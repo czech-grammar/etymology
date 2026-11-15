@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kamarádka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#abszfv",
+      "name": "Meaning: “friend (f)”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iattey",
+      "name": "Friend (f)",
+      "x": -318,
+      "y": -255,
+      "parent": "#abszfv"
+    },
+    {
+      "@id": "#e8k77t",
+      "name": "Female buddy",
+      "x": 318,
+      "y": -255,
+      "parent": "#abszfv"
+    },
+    {
+      "@id": "#kyukrq",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mfz6aw",
+      "name": "From kamarád + -ka",
+      "x": 318,
+      "y": 255,
+      "parent": "#kyukrq"
+    },
+    {
+      "@id": "#qpyxv7",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#psuhj2",
+      "name": "Wiktionary: kamarádka",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/kamar%C3%A1dka#Czech",
+      "parent": "#qpyxv7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

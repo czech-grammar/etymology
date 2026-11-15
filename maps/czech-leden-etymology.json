@@ -1,0 +1,115 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech leden etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#97yhhq",
+      "name": "Meaning: “January”",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ai3h39",
+      "name": "January",
+      "x": -364,
+      "y": -212,
+      "parent": "#97yhhq"
+    },
+    {
+      "@id": "#j72myf",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b6n6q4",
+      "name": "Old Czech leden",
+      "x": 139,
+      "y": -342,
+      "parent": "#j72myf"
+    },
+    {
+      "@id": "#fhe2t5",
+      "name": "Proto-Slavic *ledьnъ",
+      "x": 450,
+      "y": 0,
+      "parent": "#j72myf"
+    },
+    {
+      "@id": "#wfbmqs",
+      "name": "Built from led, “ice” + -en",
+      "x": 139,
+      "y": 342,
+      "parent": "#j72myf"
+    },
+    {
+      "@id": "#qp6n4r",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s2i4yb",
+      "name": "Wiktionary: leden",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/leden#Czech",
+      "parent": "#qp6n4r"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

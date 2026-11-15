@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: značka etymology, origin of značka, značka word origin, etymology of značka
+- Czech značka etymology
+  - Meaning: “sign, brand”
+    - Sign, brand
+    - Make
+  - Word history
+    - From znak + -ka
+    - Root: Proto-Slavic *znakъ
+    - From *znati, “to know” + *-kъ
+  - Cousins of the root *znakъ
+    - Polish znak
+    - Slovak znak
+    - Russian знак
+  - Related Czech words
+    - znak: character
+    - znamení: sign
+    - známka: stamp
+  - Sources
+    - [Wiktionary: značka](https://en.wiktionary.org/wiki/zna%C4%8Dka#Czech)
+    - [Wiktionary: Proto-Slavic *znakъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/znak%D1%8A)

@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: kolo etymology, origin of kolo, kolo word origin, etymology of kolo
+- Czech kolo etymology
+  - Meaning: “bicycle, wheel”
+    - Bicycle, wheel
+    - Bicycle, bike
+  - Word history
+    - Old Czech kolo
+    - Proto-Slavic *kolo
+    - Proto-Balto-Slavic *kálan
+  - Slavic cousins
+    - Polish koło
+    - Slovak kolo
+    - Russian коло
+  - Related Czech words
+    - elektrokolo: e-bike
+    - jednokolka: unicycle
+    - koloběh: cycle
+  - Sources
+    - [Wiktionary: kolo](https://en.wiktionary.org/wiki/kolo#Czech)
+    - [Wiktionary: Proto-Slavic *kolo](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kolo)

@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech špagety etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#jidg2r",
+      "name": "Meaning: “spaghetti”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k3g2i5",
+      "name": "Spaghetti",
+      "x": -318,
+      "y": -255,
+      "parent": "#jidg2r"
+    },
+    {
+      "@id": "#5hcx93",
+      "name": "Inflection of špageta",
+      "x": 318,
+      "y": -255,
+      "parent": "#jidg2r"
+    },
+    {
+      "@id": "#fasivz",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tmi4h4",
+      "name": "Borrowed from Italian spaghetti",
+      "x": 318,
+      "y": 255,
+      "parent": "#fasivz"
+    },
+    {
+      "@id": "#ka5w99",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xgqm3k",
+      "name": "Wiktionary: špagety",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/%C5%A1pagety#Czech",
+      "parent": "#ka5w99"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

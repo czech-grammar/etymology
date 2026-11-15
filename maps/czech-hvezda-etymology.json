@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech hvězda etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#j3esh9",
+      "name": "Meaning: “star”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cmjkuk",
+      "name": "Star",
+      "x": -435,
+      "y": -93,
+      "parent": "#j3esh9"
+    },
+    {
+      "@id": "#tvarnf",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rtb3sr",
+      "name": "Old Czech hvězda",
+      "x": -318,
+      "y": -255,
+      "parent": "#tvarnf"
+    },
+    {
+      "@id": "#nrzp27",
+      "name": "Proto-Slavic *gvězda",
+      "x": -116,
+      "y": -348,
+      "parent": "#tvarnf"
+    },
+    {
+      "@id": "#vuyb6q",
+      "name": "Proto-Balto-Slavic *gwaizdā́ˀ / *źwaizdā́ˀ (*gwaiźdā́ˀ / *źwaiźdā́ˀ)",
+      "x": 136,
+      "y": -408,
+      "parent": "#tvarnf"
+    },
+    {
+      "@id": "#f87jf8",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cy7765",
+      "name": "Polish gwiazda",
+      "x": 318,
+      "y": -255,
+      "parent": "#f87jf8"
+    },
+    {
+      "@id": "#vtukfh",
+      "name": "Slovak hviezda",
+      "x": 435,
+      "y": -93,
+      "parent": "#f87jf8"
+    },
+    {
+      "@id": "#jeatpg",
+      "name": "Russian звезда",
+      "x": 435,
+      "y": 93,
+      "parent": "#f87jf8"
+    },
+    {
+      "@id": "#392v4d",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#84y7pu",
+      "name": "hvězdář: astronomer",
+      "x": 318,
+      "y": 255,
+      "parent": "#392v4d"
+    },
+    {
+      "@id": "#dn963k",
+      "name": "hvězdice: starfish",
+      "x": 116,
+      "y": 348,
+      "parent": "#392v4d"
+    },
+    {
+      "@id": "#55v7vp",
+      "name": "hvězdnice: aster",
+      "x": -116,
+      "y": 348,
+      "parent": "#392v4d"
+    },
+    {
+      "@id": "#4btae9",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w7jirk",
+      "name": "Wiktionary: hvězda",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/hv%C4%9Bzda#Czech",
+      "parent": "#4btae9"
+    },
+    {
+      "@id": "#kpftup",
+      "name": "Wiktionary: Proto-Slavic *gvězda",
+      "x": -454,
+      "y": 97,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/gv%C4%9Bzda",
+      "parent": "#4btae9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

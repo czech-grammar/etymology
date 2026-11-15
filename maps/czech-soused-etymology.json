@@ -1,0 +1,218 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech soused etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gzuccm",
+      "name": "Meaning: “neighbour”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3ya6xx",
+      "name": "Neighbour",
+      "x": -432,
+      "y": -101,
+      "parent": "#gzuccm"
+    },
+    {
+      "@id": "#xbnfzk",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kzc4ii",
+      "name": "Old Czech súsěd",
+      "x": -295,
+      "y": -272,
+      "parent": "#xbnfzk"
+    },
+    {
+      "@id": "#a8j46i",
+      "name": "Proto-Slavic *sǫsědъ",
+      "x": -64,
+      "y": -356,
+      "parent": "#xbnfzk"
+    },
+    {
+      "@id": "#nq6zh2",
+      "name": "Deeper origin uncertain",
+      "x": 187,
+      "y": -327,
+      "parent": "#xbnfzk"
+    },
+    {
+      "@id": "#75hzse",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5372qu",
+      "name": "Polish sąsiad",
+      "x": 379,
+      "y": -195,
+      "parent": "#75hzse"
+    },
+    {
+      "@id": "#efg94p",
+      "name": "Slovak sused",
+      "x": 450,
+      "y": 0,
+      "parent": "#75hzse"
+    },
+    {
+      "@id": "#4xxb65",
+      "name": "Russian сусед",
+      "x": 379,
+      "y": 195,
+      "parent": "#75hzse"
+    },
+    {
+      "@id": "#b7xdva",
+      "name": "Wider family",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#if4tm6",
+      "name": "Ancient Greek περίοικος",
+      "x": 187,
+      "y": 327,
+      "parent": "#b7xdva"
+    },
+    {
+      "@id": "#iprdp2",
+      "name": "Related Czech words",
+      "x": -42,
+      "y": 230,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#upqqf5",
+      "name": "sousedství: neighbourhood",
+      "x": -70,
+      "y": 388,
+      "parent": "#iprdp2"
+    },
+    {
+      "@id": "#ktgwys",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d4hy26",
+      "name": "Wiktionary: soused",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/soused#Czech",
+      "parent": "#ktgwys"
+    },
+    {
+      "@id": "#cp86wr",
+      "name": "Wiktionary: Proto-Slavic *sǫsědъ",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/s%C7%ABs%C4%9Bd%D1%8A",
+      "parent": "#ktgwys"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

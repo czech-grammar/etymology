@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech lékárník etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#bpywak",
+      "name": "Meaning: “pharmacist”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#55xnrb",
+      "name": "Pharmacist",
+      "x": -432,
+      "y": -101,
+      "parent": "#bpywak"
+    },
+    {
+      "@id": "#76xyb6",
+      "name": "Word history",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qch5pm",
+      "name": "From lékárna, “pharmacy” + -ník",
+      "x": -295,
+      "y": -272,
+      "parent": "#76xyb6"
+    },
+    {
+      "@id": "#bfiudh",
+      "name": "Root: Proto-Slavic *lěkъ",
+      "x": -64,
+      "y": -356,
+      "parent": "#76xyb6"
+    },
+    {
+      "@id": "#xdm8h7",
+      "name": "Proto-Balto-Slavic *lajkás",
+      "x": 219,
+      "y": -387,
+      "parent": "#76xyb6"
+    },
+    {
+      "@id": "#brkixx",
+      "name": "Proto-Indo-European *loykʷós",
+      "x": 379,
+      "y": -195,
+      "parent": "#76xyb6"
+    },
+    {
+      "@id": "#tcfyux",
+      "name": "Cousins of the root *lěkъ",
+      "x": 290,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jeu5vx",
+      "name": "Russian лек",
+      "x": 510,
+      "y": 0,
+      "parent": "#tcfyux"
+    },
+    {
+      "@id": "#wb54ny",
+      "name": "Related Czech words",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2nuta3",
+      "name": "lék: medicine",
+      "x": 379,
+      "y": 195,
+      "parent": "#wb54ny"
+    },
+    {
+      "@id": "#3g6gwf",
+      "name": "lékárna: pharmacy",
+      "x": 187,
+      "y": 327,
+      "parent": "#wb54ny"
+    },
+    {
+      "@id": "#tgdut7",
+      "name": "lékárnička: first aid kit",
+      "x": -64,
+      "y": 356,
+      "parent": "#wb54ny"
+    },
+    {
+      "@id": "#234877",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pyvzgq",
+      "name": "Wiktionary: lékárník",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/l%C3%A9k%C3%A1rn%C3%ADk#Czech",
+      "parent": "#234877"
+    },
+    {
+      "@id": "#iznw2t",
+      "name": "Wiktionary: Proto-Slavic *lěkъ",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/l%C4%9Bk%D1%8A",
+      "parent": "#234877"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: přítel etymology, origin of přítel, přítel word origin, etymology of přítel
+- Czech přítel etymology
+  - Meaning: “friend, boyfriend”
+    - Friend, boyfriend
+  - Word history
+    - Old Czech přietel
+    - Proto-Slavic *prijateľь
+    - Proto-Indo-European *preyH-, “dear”
+    - Built from přát + -tel
+  - Slavic cousins
+    - Polish przyjaciel
+    - Slovak priateľ
+    - Russian приятель
+  - Related Czech words
+    - přátelský: friendly
+    - přátelák: friendly match
+    - přátelství: friendship
+  - Sources
+    - [Wiktionary: přítel](https://en.wiktionary.org/wiki/p%C5%99%C3%ADtel#Czech)
+    - [Wiktionary: Proto-Slavic *prijateľь](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/prijate%C4%BE%D1%8C)

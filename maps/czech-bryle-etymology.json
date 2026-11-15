@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech brýle etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#dr7dz9",
+      "name": "Meaning: “glasses”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mqc5kc",
+      "name": "Glasses",
+      "x": -225,
+      "y": -312,
+      "parent": "#dr7dz9"
+    },
+    {
+      "@id": "#ks7e2d",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f96h76",
+      "name": "Borrowed from German Brille",
+      "x": 470,
+      "y": 0,
+      "parent": "#ks7e2d"
+    },
+    {
+      "@id": "#ueemwe",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gkg6i4",
+      "name": "Wiktionary: brýle",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/br%C3%BDle#Czech",
+      "parent": "#ueemwe"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

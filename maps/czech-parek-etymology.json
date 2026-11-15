@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech párek etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ec394f",
+      "name": "Meaning: “sausage, hot dog”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s6r49a",
+      "name": "Sausage, hot dog",
+      "x": -318,
+      "y": -255,
+      "parent": "#ec394f"
+    },
+    {
+      "@id": "#78f4bt",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2n6ekm",
+      "name": "From pár, “pair” + -ek",
+      "x": 318,
+      "y": -255,
+      "parent": "#78f4bt"
+    },
+    {
+      "@id": "#ndepqd",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7xjg9e",
+      "name": "pár: pair",
+      "x": 318,
+      "y": 255,
+      "parent": "#ndepqd"
+    },
+    {
+      "@id": "#458nag",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#92fh8g",
+      "name": "Wiktionary: párek",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/p%C3%A1rek#Czech",
+      "parent": "#458nag"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

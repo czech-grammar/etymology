@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech nos etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#vfym4z",
+      "name": "Meaning: “nose”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#knzqxm",
+      "name": "Nose",
+      "x": -428,
+      "y": -111,
+      "parent": "#vfym4z"
+    },
+    {
+      "@id": "#hd7cr3",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#euwup5",
+      "name": "Old Czech nos",
+      "x": -265,
+      "y": -291,
+      "parent": "#hd7cr3"
+    },
+    {
+      "@id": "#abwt9m",
+      "name": "Proto-Slavic *nosъ",
+      "x": 0,
+      "y": -360,
+      "parent": "#hd7cr3"
+    },
+    {
+      "@id": "#se4vdx",
+      "name": "Proto-Balto-Slavic *nasús, “nose”",
+      "x": 265,
+      "y": -291,
+      "parent": "#hd7cr3"
+    },
+    {
+      "@id": "#gsnv2r",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#49amw6",
+      "name": "Polish nos",
+      "x": 428,
+      "y": -111,
+      "parent": "#gsnv2r"
+    },
+    {
+      "@id": "#55abbq",
+      "name": "Slovak nos",
+      "x": 428,
+      "y": 111,
+      "parent": "#gsnv2r"
+    },
+    {
+      "@id": "#fgewvb",
+      "name": "Russian нос",
+      "x": 265,
+      "y": 291,
+      "parent": "#gsnv2r"
+    },
+    {
+      "@id": "#k52ff6",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3a5rg4",
+      "name": "nosorožec: rhinoceros",
+      "x": 0,
+      "y": 360,
+      "parent": "#k52ff6"
+    },
+    {
+      "@id": "#upcr77",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3bi358",
+      "name": "Wiktionary: nos",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/nos#Czech",
+      "parent": "#upcr77"
+    },
+    {
+      "@id": "#qfm8s6",
+      "name": "Wiktionary: Proto-Slavic *nosъ",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/nos%D1%8A",
+      "parent": "#upcr77"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

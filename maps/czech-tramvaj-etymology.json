@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech tramvaj etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#vmzddk",
+      "name": "Meaning: “tram”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yxyebt",
+      "name": "Tram",
+      "x": -318,
+      "y": -255,
+      "parent": "#vmzddk"
+    },
+    {
+      "@id": "#bazynv",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ckurbb",
+      "name": "Borrowed from English tramway",
+      "x": 318,
+      "y": -255,
+      "parent": "#bazynv"
+    },
+    {
+      "@id": "#4etj4n",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2ytn68",
+      "name": "tramvajenka: tram pass",
+      "x": 318,
+      "y": 255,
+      "parent": "#4etj4n"
+    },
+    {
+      "@id": "#gdnd9c",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9txyyr",
+      "name": "Wiktionary: tramvaj",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/tramvaj#Czech",
+      "parent": "#gdnd9c"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

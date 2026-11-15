@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech plavání etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fkh6w9",
+      "name": "Meaning: “swimming”",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qpu2fy",
+      "name": "Swimming",
+      "x": -432,
+      "y": -101,
+      "parent": "#fkh6w9"
+    },
+    {
+      "@id": "#25gbyi",
+      "name": "Verbal noun of plavat",
+      "x": -295,
+      "y": -272,
+      "parent": "#fkh6w9"
+    },
+    {
+      "@id": "#fyv87t",
+      "name": "Word history",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p7tyx3",
+      "name": "From plavat, “to swim” + -ání",
+      "x": -64,
+      "y": -356,
+      "parent": "#fyv87t"
+    },
+    {
+      "@id": "#cm8phw",
+      "name": "Root: Proto-Slavic *plavati",
+      "x": 235,
+      "y": -417,
+      "parent": "#fyv87t"
+    },
+    {
+      "@id": "#v4dwty",
+      "name": "Cousins of the root *plavati",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a5d75h",
+      "name": "Slovak plávať",
+      "x": 379,
+      "y": -195,
+      "parent": "#v4dwty"
+    },
+    {
+      "@id": "#wfbpg4",
+      "name": "Russian плавать",
+      "x": 450,
+      "y": 0,
+      "parent": "#v4dwty"
+    },
+    {
+      "@id": "#d6rqd5",
+      "name": "Related Czech words",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gkjxqc",
+      "name": "plavat: to swim",
+      "x": 379,
+      "y": 195,
+      "parent": "#d6rqd5"
+    },
+    {
+      "@id": "#85atk9",
+      "name": "plavec: swimmer",
+      "x": 187,
+      "y": 327,
+      "parent": "#d6rqd5"
+    },
+    {
+      "@id": "#ut3dut",
+      "name": "plavky: swimsuit",
+      "x": -64,
+      "y": 356,
+      "parent": "#d6rqd5"
+    },
+    {
+      "@id": "#bm47ft",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z6yjz2",
+      "name": "Wiktionary: plavání",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/plav%C3%A1n%C3%AD#Czech",
+      "parent": "#bm47ft"
+    },
+    {
+      "@id": "#rjd3xg",
+      "name": "Wiktionary: Proto-Slavic *plavati",
+      "x": -451,
+      "y": 105,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/plavati",
+      "parent": "#bm47ft"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

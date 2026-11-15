@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: víno etymology, origin of víno, víno word origin, etymology of víno
+- Czech víno etymology
+  - Meaning: “wine”
+    - Wine
+  - Word history
+    - Old Czech víno
+    - Proto-Slavic *vino
+    - Latin vīnum (potentially via Proto-Germanic *wīną)
+    - Proto-Italic *wīnom
+  - Slavic cousins
+    - Polish wino
+    - Slovak víno
+    - Russian вино
+  - Related Czech words
+    - vinař: winegrower
+    - vinárna: wine bar
+    - vinice: vineyard
+  - Sources
+    - [Wiktionary: víno](https://en.wiktionary.org/wiki/v%C3%ADno#Czech)
+    - [Wiktionary: Proto-Slavic *vino](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/vino)

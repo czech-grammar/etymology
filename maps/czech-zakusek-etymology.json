@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech zákusek etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fa34r3",
+      "name": "Meaning: “cake, pastry”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b9p7vw",
+      "name": "Cake, pastry",
+      "x": -318,
+      "y": -255,
+      "parent": "#fa34r3"
+    },
+    {
+      "@id": "#2z49pc",
+      "name": "Dessert",
+      "x": 318,
+      "y": -255,
+      "parent": "#fa34r3"
+    },
+    {
+      "@id": "#ik55p6",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nk4va3",
+      "name": "From zakousat + -ek",
+      "x": 318,
+      "y": 255,
+      "parent": "#ik55p6"
+    },
+    {
+      "@id": "#xabu2z",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ec5i28",
+      "name": "Wiktionary: zákusek",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/z%C3%A1kusek#Czech",
+      "parent": "#xabu2z"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

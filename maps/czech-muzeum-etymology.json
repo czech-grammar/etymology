@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech muzeum etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#urn9h9",
+      "name": "Meaning: “museum”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m22kvq",
+      "name": "Museum",
+      "x": -318,
+      "y": -255,
+      "parent": "#urn9h9"
+    },
+    {
+      "@id": "#zwa2dy",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2yvvpq",
+      "name": "Borrowed from Latin mūsēum, “library”",
+      "x": 318,
+      "y": -255,
+      "parent": "#zwa2dy"
+    },
+    {
+      "@id": "#mjs2q6",
+      "name": "Ancient Greek Μουσεῖον (Mouseîon)",
+      "x": 318,
+      "y": 255,
+      "parent": "#zwa2dy"
+    },
+    {
+      "@id": "#qcryzb",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s7ecrp",
+      "name": "Wiktionary: muzeum",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/muzeum#Czech",
+      "parent": "#qcryzb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

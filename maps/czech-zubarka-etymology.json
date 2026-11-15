@@ -1,0 +1,194 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech zubařka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#zrzfuz",
+      "name": "Meaning: “dentist (f)”",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5eizzb",
+      "name": "Dentist (f)",
+      "x": -432,
+      "y": -101,
+      "parent": "#zrzfuz"
+    },
+    {
+      "@id": "#ves9mr",
+      "name": "Female dentist",
+      "x": -295,
+      "y": -272,
+      "parent": "#zrzfuz"
+    },
+    {
+      "@id": "#9b3zy6",
+      "name": "Word history",
+      "x": 151,
+      "y": -139,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3y69q7",
+      "name": "From zubař + -ka",
+      "x": -64,
+      "y": -356,
+      "parent": "#9b3zy6"
+    },
+    {
+      "@id": "#c2axpb",
+      "name": "Root: Proto-Slavic *zǫbъ",
+      "x": 187,
+      "y": -327,
+      "parent": "#9b3zy6"
+    },
+    {
+      "@id": "#7yeexz",
+      "name": "Proto-Balto-Slavic *źámbas",
+      "x": 379,
+      "y": -195,
+      "parent": "#9b3zy6"
+    },
+    {
+      "@id": "#2485sj",
+      "name": "Proto-Indo-European *ǵómbʰos",
+      "x": 450,
+      "y": 0,
+      "parent": "#9b3zy6"
+    },
+    {
+      "@id": "#xn4vth",
+      "name": "Cousins of the root *zǫbъ",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#prxg38",
+      "name": "Polish ząb",
+      "x": 379,
+      "y": 195,
+      "parent": "#xn4vth"
+    },
+    {
+      "@id": "#nx2jy7",
+      "name": "Slovak zub",
+      "x": 187,
+      "y": 327,
+      "parent": "#xn4vth"
+    },
+    {
+      "@id": "#y95ngy",
+      "name": "Russian зуб",
+      "x": -64,
+      "y": 356,
+      "parent": "#xn4vth"
+    },
+    {
+      "@id": "#wknkny",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mcwsu4",
+      "name": "Wiktionary: zubařka",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/zuba%C5%99ka#Czech",
+      "parent": "#wknkny"
+    },
+    {
+      "@id": "#ksnzn3",
+      "name": "Wiktionary: Proto-Slavic *zǫbъ",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/z%C7%ABb%D1%8A",
+      "parent": "#wknkny"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

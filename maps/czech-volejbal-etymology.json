@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech volejbal etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ddweax",
+      "name": "Meaning: “volleyball”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qkg4qa",
+      "name": "Volleyball",
+      "x": -390,
+      "y": -180,
+      "parent": "#ddweax"
+    },
+    {
+      "@id": "#4n5zbn",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eyr2zj",
+      "name": "Borrowed from English volleyball",
+      "x": 0,
+      "y": -360,
+      "parent": "#4n5zbn"
+    },
+    {
+      "@id": "#z9izsq",
+      "name": "Related Czech words",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j6hidu",
+      "name": "nohejbal: football tennis",
+      "x": 390,
+      "y": -180,
+      "parent": "#z9izsq"
+    },
+    {
+      "@id": "#zvipq9",
+      "name": "volejbalista: volleyball player",
+      "x": 390,
+      "y": 180,
+      "parent": "#z9izsq"
+    },
+    {
+      "@id": "#szzfzh",
+      "name": "volejbalistka: female volleyball player",
+      "x": 0,
+      "y": 360,
+      "parent": "#z9izsq"
+    },
+    {
+      "@id": "#wkhxnn",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uy5rkf",
+      "name": "Wiktionary: volejbal",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/volejbal#Czech",
+      "parent": "#wkhxnn"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

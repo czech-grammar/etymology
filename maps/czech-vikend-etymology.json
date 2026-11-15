@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech víkend etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#9huuhs",
+      "name": "Meaning: “weekend”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dup8jd",
+      "name": "Weekend",
+      "x": -225,
+      "y": -312,
+      "parent": "#9huuhs"
+    },
+    {
+      "@id": "#bg93v5",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ud2pe4",
+      "name": "Borrowed from English weekend",
+      "x": 470,
+      "y": 0,
+      "parent": "#bg93v5"
+    },
+    {
+      "@id": "#e335tv",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7ymgad",
+      "name": "Wiktionary: víkend",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/v%C3%ADkend#Czech",
+      "parent": "#e335tv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

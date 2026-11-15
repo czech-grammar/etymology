@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: hodina etymology, origin of hodina, hodina word origin, etymology of hodina
+- Czech hodina etymology
+  - Meaning: “hour, lesson”
+    - Hour, lesson
+  - Word history
+    - Old Czech hodina
+    - Proto-Slavic *godina
+    - Proto-Balto-Slavic *gadás
+    - Proto-Indo-European *gʰedʰ-, “to gather”
+  - Slavic cousins
+    - Polish god
+    - Slovak hod
+    - Russian год
+  - Related Czech words
+    - ampérhodina: ampere-hour
+    - čtvrthodina: quarter of an hour
+    - hodinář: watchmaker
+  - Sources
+    - [Wiktionary: hodina](https://en.wiktionary.org/wiki/hodina#Czech)
+    - [Wiktionary: Proto-Slavic *godъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/god%D1%8A)

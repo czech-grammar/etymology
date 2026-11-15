@@ -1,0 +1,139 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech míč etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#p656we",
+      "name": "Meaning: “ball”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6prkkb",
+      "name": "Ball",
+      "x": -390,
+      "y": -180,
+      "parent": "#p656we"
+    },
+    {
+      "@id": "#h9swqq",
+      "name": "Word history",
+      "x": 115,
+      "y": -159,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ywzafh",
+      "name": "Old Czech mieč",
+      "x": 0,
+      "y": -360,
+      "parent": "#h9swqq"
+    },
+    {
+      "@id": "#t2prfd",
+      "name": "Proto-Slavic *męčь",
+      "x": 390,
+      "y": -180,
+      "parent": "#h9swqq"
+    },
+    {
+      "@id": "#tt3k6v",
+      "name": "Slavic cousins",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u9m5iy",
+      "name": "Russian мяч",
+      "x": 390,
+      "y": 180,
+      "parent": "#tt3k6v"
+    },
+    {
+      "@id": "#eivheu",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tw3ib9",
+      "name": "Wiktionary: míč",
+      "x": 0,
+      "y": 360,
+      "link": "https://en.wiktionary.org/wiki/m%C3%AD%C4%8D#Czech",
+      "parent": "#eivheu"
+    },
+    {
+      "@id": "#htfepn",
+      "name": "Wiktionary: Proto-Slavic *męčь",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/m%C4%99%C4%8D%D1%8C",
+      "parent": "#eivheu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

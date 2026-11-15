@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech lyžování etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#279hqx",
+      "name": "Meaning: “skiing”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5dxt3k",
+      "name": "Skiing",
+      "x": -390,
+      "y": -180,
+      "parent": "#279hqx"
+    },
+    {
+      "@id": "#yasuks",
+      "name": "Verbal noun of lyžovat",
+      "x": 0,
+      "y": -360,
+      "parent": "#279hqx"
+    },
+    {
+      "@id": "#b5n7ng",
+      "name": "Word history",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pcbuz7",
+      "name": "From lyžovat + -ání",
+      "x": 390,
+      "y": -180,
+      "parent": "#b5n7ng"
+    },
+    {
+      "@id": "#sumyry",
+      "name": "Related Czech words",
+      "x": 115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d2fuwe",
+      "name": "lyže: ski",
+      "x": 390,
+      "y": 180,
+      "parent": "#sumyry"
+    },
+    {
+      "@id": "#iykjgb",
+      "name": "lyžovat: to ski",
+      "x": 0,
+      "y": 360,
+      "parent": "#sumyry"
+    },
+    {
+      "@id": "#zgpxd2",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#upjn6k",
+      "name": "Wiktionary: lyžování",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/ly%C5%BEov%C3%A1n%C3%AD#Czech",
+      "parent": "#zgpxd2"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

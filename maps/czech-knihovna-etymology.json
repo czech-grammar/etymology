@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech knihovna etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#uvm6tt",
+      "name": "Meaning: “library”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n4cmzm",
+      "name": "Library",
+      "x": -435,
+      "y": -93,
+      "parent": "#uvm6tt"
+    },
+    {
+      "@id": "#yp22u2",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4neaeu",
+      "name": "From kniha + -ovna",
+      "x": -318,
+      "y": -255,
+      "parent": "#yp22u2"
+    },
+    {
+      "@id": "#euw87k",
+      "name": "Root: Proto-Slavic *kъňiga",
+      "x": -116,
+      "y": -348,
+      "parent": "#yp22u2"
+    },
+    {
+      "@id": "#ats25c",
+      "name": "Deeper origin uncertain",
+      "x": 136,
+      "y": -408,
+      "parent": "#yp22u2"
+    },
+    {
+      "@id": "#id449t",
+      "name": "Cousins of the root *kъňiga",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ux4p34",
+      "name": "Polish księga",
+      "x": 318,
+      "y": -255,
+      "parent": "#id449t"
+    },
+    {
+      "@id": "#8ziubh",
+      "name": "Slovak kniha",
+      "x": 454,
+      "y": -97,
+      "parent": "#id449t"
+    },
+    {
+      "@id": "#6itknr",
+      "name": "Russian книга",
+      "x": 435,
+      "y": 93,
+      "parent": "#id449t"
+    },
+    {
+      "@id": "#wtzw9v",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ug22hm",
+      "name": "knihovnictví: library science",
+      "x": 318,
+      "y": 255,
+      "parent": "#wtzw9v"
+    },
+    {
+      "@id": "#6sacdf",
+      "name": "knihovník: librarian",
+      "x": 116,
+      "y": 348,
+      "parent": "#wtzw9v"
+    },
+    {
+      "@id": "#yeb9rj",
+      "name": "kniha: book",
+      "x": -116,
+      "y": 348,
+      "parent": "#wtzw9v"
+    },
+    {
+      "@id": "#6mxk8a",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#za4h8e",
+      "name": "Wiktionary: knihovna",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/knihovna#Czech",
+      "parent": "#6mxk8a"
+    },
+    {
+      "@id": "#acqfzb",
+      "name": "Wiktionary: Proto-Slavic *kъňiga",
+      "x": -454,
+      "y": 97,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/k%D1%8A%C5%88iga",
+      "parent": "#6mxk8a"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

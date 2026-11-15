@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech rok etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fjapqs",
+      "name": "Meaning: “year”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ph4f6c",
+      "name": "Year",
+      "x": -435,
+      "y": -93,
+      "parent": "#fjapqs"
+    },
+    {
+      "@id": "#rdn5im",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6zxnq3",
+      "name": "Old Czech rok",
+      "x": -318,
+      "y": -255,
+      "parent": "#rdn5im"
+    },
+    {
+      "@id": "#xhhk4p",
+      "name": "Proto-Slavic *rȍkъ",
+      "x": -116,
+      "y": -348,
+      "parent": "#rdn5im"
+    },
+    {
+      "@id": "#asehy9",
+      "name": "From *reťi, “to speak” + *-ъ",
+      "x": 136,
+      "y": -408,
+      "parent": "#rdn5im"
+    },
+    {
+      "@id": "#8tn75d",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#giijfq",
+      "name": "Polish rok",
+      "x": 318,
+      "y": -255,
+      "parent": "#8tn75d"
+    },
+    {
+      "@id": "#fwuvs2",
+      "name": "Slovak rok",
+      "x": 435,
+      "y": -93,
+      "parent": "#8tn75d"
+    },
+    {
+      "@id": "#5m9d8n",
+      "name": "Russian рок",
+      "x": 435,
+      "y": 93,
+      "parent": "#8tn75d"
+    },
+    {
+      "@id": "#efvsiq",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n26f4v",
+      "name": "celoroční: year-round",
+      "x": 318,
+      "y": 255,
+      "parent": "#efvsiq"
+    },
+    {
+      "@id": "#4egnn5",
+      "name": "roční: yearly",
+      "x": 116,
+      "y": 348,
+      "parent": "#efvsiq"
+    },
+    {
+      "@id": "#7k5bmz",
+      "name": "ročák: yearling",
+      "x": -116,
+      "y": 348,
+      "parent": "#efvsiq"
+    },
+    {
+      "@id": "#b9k4vh",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ixpdts",
+      "name": "Wiktionary: rok",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/rok#Czech",
+      "parent": "#b9k4vh"
+    },
+    {
+      "@id": "#2nux9h",
+      "name": "Wiktionary: Proto-Slavic *rokъ",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/rok%D1%8A",
+      "parent": "#b9k4vh"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

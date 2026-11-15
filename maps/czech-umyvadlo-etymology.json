@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech umyvadlo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#628n2y",
+      "name": "Meaning: “washbasin”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7d74xk",
+      "name": "Washbasin",
+      "x": -225,
+      "y": -312,
+      "parent": "#628n2y"
+    },
+    {
+      "@id": "#kgspt5",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rnbfr2",
+      "name": "From umývat + -dlo",
+      "x": 450,
+      "y": 0,
+      "parent": "#kgspt5"
+    },
+    {
+      "@id": "#7g87fy",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yhenb9",
+      "name": "Wiktionary: umyvadlo",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/umyvadlo#Czech",
+      "parent": "#7g87fy"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

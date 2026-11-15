@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech značka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#x43tjd",
+      "name": "Meaning: “sign, brand”",
+      "x": -204,
+      "y": -86,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#45rkph",
+      "name": "Sign, brand",
+      "x": -437,
+      "y": -86,
+      "parent": "#x43tjd"
+    },
+    {
+      "@id": "#6w7354",
+      "name": "Make",
+      "x": -337,
+      "y": -239,
+      "parent": "#x43tjd"
+    },
+    {
+      "@id": "#aupfjf",
+      "name": "Word history",
+      "x": 28,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yqci5k",
+      "name": "From znak + -ka",
+      "x": -160,
+      "y": -337,
+      "parent": "#aupfjf"
+    },
+    {
+      "@id": "#sujbcy",
+      "name": "Root: Proto-Slavic *znakъ",
+      "x": 58,
+      "y": -389,
+      "parent": "#aupfjf"
+    },
+    {
+      "@id": "#yhiv32",
+      "name": "From *znati, “to know” + *-kъ",
+      "x": 256,
+      "y": -296,
+      "parent": "#aupfjf"
+    },
+    {
+      "@id": "#kgeu38",
+      "name": "Cousins of the root *znakъ",
+      "x": 270,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b9wksx",
+      "name": "Polish znak",
+      "x": 398,
+      "y": -167,
+      "parent": "#kgeu38"
+    },
+    {
+      "@id": "#h4jmy5",
+      "name": "Slovak znak",
+      "x": 510,
+      "y": 0,
+      "parent": "#kgeu38"
+    },
+    {
+      "@id": "#hum29k",
+      "name": "Russian знак",
+      "x": 398,
+      "y": 167,
+      "parent": "#kgeu38"
+    },
+    {
+      "@id": "#d6efam",
+      "name": "Related Czech words",
+      "x": 28,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dvtzdc",
+      "name": "znak: character",
+      "x": 256,
+      "y": 296,
+      "parent": "#d6efam"
+    },
+    {
+      "@id": "#s84cwv",
+      "name": "znamení: sign",
+      "x": 54,
+      "y": 357,
+      "parent": "#d6efam"
+    },
+    {
+      "@id": "#addxtg",
+      "name": "známka: stamp",
+      "x": -160,
+      "y": 337,
+      "parent": "#d6efam"
+    },
+    {
+      "@id": "#a6bngm",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vevkq7",
+      "name": "Wiktionary: značka",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/zna%C4%8Dka#Czech",
+      "parent": "#a6bngm"
+    },
+    {
+      "@id": "#7znzn8",
+      "name": "Wiktionary: Proto-Slavic *znakъ",
+      "x": -456,
+      "y": 90,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/znak%D1%8A",
+      "parent": "#a6bngm"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

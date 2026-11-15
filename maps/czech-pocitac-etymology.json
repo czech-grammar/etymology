@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech počítač etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#mgn9rw",
+      "name": "Meaning: “computer”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fx8g98",
+      "name": "Computer",
+      "x": -225,
+      "y": -312,
+      "parent": "#mgn9rw"
+    },
+    {
+      "@id": "#x83her",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h839va",
+      "name": "From počítat + -č",
+      "x": 450,
+      "y": 0,
+      "parent": "#x83her"
+    },
+    {
+      "@id": "#9vss3y",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3bh3qz",
+      "name": "Wiktionary: počítač",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/po%C4%8D%C3%ADta%C4%8D#Czech",
+      "parent": "#9vss3y"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech diskotéka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#f83kkg",
+      "name": "Meaning: “disco”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aydyc3",
+      "name": "Disco",
+      "x": -225,
+      "y": -312,
+      "parent": "#f83kkg"
+    },
+    {
+      "@id": "#phptnf",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4vzu5h",
+      "name": "Borrowed from French discothèque, “record library”",
+      "x": 570,
+      "y": 0,
+      "parent": "#phptnf"
+    },
+    {
+      "@id": "#qgdr49",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7zr3i3",
+      "name": "Wiktionary: diskotéka",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/diskot%C3%A9ka#Czech",
+      "parent": "#qgdr49"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

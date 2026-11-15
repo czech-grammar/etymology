@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech holič etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#9p3t8w",
+      "name": "Meaning: “barber”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zk8qbq",
+      "name": "Barber",
+      "x": -318,
+      "y": -255,
+      "parent": "#9p3t8w"
+    },
+    {
+      "@id": "#peseny",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jubyp6",
+      "name": "From holit + -č",
+      "x": 318,
+      "y": -255,
+      "parent": "#peseny"
+    },
+    {
+      "@id": "#2akr89",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#suqdt6",
+      "name": "holičství: barber's",
+      "x": 318,
+      "y": 255,
+      "parent": "#2akr89"
+    },
+    {
+      "@id": "#zmwnhu",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3gkvz4",
+      "name": "Wiktionary: holič",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/holi%C4%8D#Czech",
+      "parent": "#zmwnhu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

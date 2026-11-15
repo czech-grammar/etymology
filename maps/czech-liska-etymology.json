@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech liška etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#i8as2a",
+      "name": "Meaning: “fox”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qma58k",
+      "name": "Fox",
+      "x": -432,
+      "y": -101,
+      "parent": "#i8as2a"
+    },
+    {
+      "@id": "#aanaxq",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ushp7e",
+      "name": "Old Czech liška",
+      "x": -295,
+      "y": -272,
+      "parent": "#aanaxq"
+    },
+    {
+      "@id": "#5prk6u",
+      "name": "Proto-Slavic *lišьka",
+      "x": -64,
+      "y": -356,
+      "parent": "#aanaxq"
+    },
+    {
+      "@id": "#mzbjxd",
+      "name": "From *lisa + *-ъ",
+      "x": 187,
+      "y": -327,
+      "parent": "#aanaxq"
+    },
+    {
+      "@id": "#nhhvur",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#shyrau",
+      "name": "Polish lis;",
+      "x": 379,
+      "y": -195,
+      "parent": "#nhhvur"
+    },
+    {
+      "@id": "#ifaam9",
+      "name": "Slovak lis",
+      "x": 450,
+      "y": 0,
+      "parent": "#nhhvur"
+    },
+    {
+      "@id": "#vmubh8",
+      "name": "Russian лис",
+      "x": 379,
+      "y": 195,
+      "parent": "#nhhvur"
+    },
+    {
+      "@id": "#uxmqsf",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yy5uyv",
+      "name": "lišák: male fox",
+      "x": 187,
+      "y": 327,
+      "parent": "#uxmqsf"
+    },
+    {
+      "@id": "#vd9b4w",
+      "name": "lišče: fox cub",
+      "x": -64,
+      "y": 356,
+      "parent": "#uxmqsf"
+    },
+    {
+      "@id": "#hn465b",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4drywh",
+      "name": "Wiktionary: liška",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/li%C5%A1ka#Czech",
+      "parent": "#hn465b"
+    },
+    {
+      "@id": "#4qh6gc",
+      "name": "Wiktionary: Proto-Slavic *lisъ",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/lis%D1%8A",
+      "parent": "#hn465b"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

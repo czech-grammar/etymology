@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech želva etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#aqkrb7",
+      "name": "Meaning: “tortoise”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wai8nf",
+      "name": "Tortoise",
+      "x": -428,
+      "y": -111,
+      "parent": "#aqkrb7"
+    },
+    {
+      "@id": "#32qdfr",
+      "name": "Word history",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fresyc",
+      "name": "Proto-Slavic *žьlvъ",
+      "x": -265,
+      "y": -291,
+      "parent": "#32qdfr"
+    },
+    {
+      "@id": "#ucyts6",
+      "name": "Proto-Indo-European *gʰel-",
+      "x": 0,
+      "y": -360,
+      "parent": "#32qdfr"
+    },
+    {
+      "@id": "#sevktx",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ju2id8",
+      "name": "Polish żółw",
+      "x": 265,
+      "y": -291,
+      "parent": "#sevktx"
+    },
+    {
+      "@id": "#wg2k86",
+      "name": "Slovak želva",
+      "x": 428,
+      "y": -111,
+      "parent": "#sevktx"
+    },
+    {
+      "@id": "#sne3az",
+      "name": "Russian желвь",
+      "x": 428,
+      "y": 111,
+      "parent": "#sevktx"
+    },
+    {
+      "@id": "#5upzm4",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4rcnkm",
+      "name": "želvovinový: tortoiseshell",
+      "x": 265,
+      "y": 291,
+      "parent": "#5upzm4"
+    },
+    {
+      "@id": "#fhbuix",
+      "name": "želvák: male tortoise",
+      "x": 0,
+      "y": 360,
+      "parent": "#5upzm4"
+    },
+    {
+      "@id": "#hrsn5i",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rifvg6",
+      "name": "Wiktionary: želva",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/%C5%BEelva#Czech",
+      "parent": "#hrsn5i"
+    },
+    {
+      "@id": "#gypetd",
+      "name": "Wiktionary: Proto-Slavic *žьlvъ",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C5%BE%D1%8Clv%D1%8A",
+      "parent": "#hrsn5i"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

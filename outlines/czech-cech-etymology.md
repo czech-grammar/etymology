@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: Čech etymology, origin of Čech, Čech word origin, etymology of Čech
+- Czech Čech etymology
+  - Meaning: “Czech man”
+    - Czech man
+  - Word history
+    - Old Czech Čech
+    - Proto-Slavic *čelověkъ
+    - Early Proto-Slavic *čeláwaj˙ku
+    - Proto-Balto-Slavic *kelawaikas
+  - Slavic cousins
+    - Polish człowiek
+    - Slovak človek
+    - Russian человек
+  - Related Czech words
+    - československý: Czechoslovak
+    - česky: in Czech
+    - češství: Czechness
+  - Sources
+    - [Wiktionary: Čech](https://en.wiktionary.org/wiki/%C4%8Cech#Czech)
+    - [Wiktionary: Proto-Slavic *čelověkъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C4%8Delov%C4%9Bk%D1%8A)

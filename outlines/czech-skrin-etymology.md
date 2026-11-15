@@ -1,0 +1,21 @@
+category: A1 nouns
+aliases: skříň etymology, origin of skříň, skříň word origin, etymology of skříň
+- Czech skříň etymology
+  - Meaning: “wardrobe”
+    - Wardrobe
+    - Cabinet
+  - Word history
+    - Old Czech skříně, škříně
+    - Proto-Slavic *skrini
+    - Old High German scrīni
+    - Latin scrīnium
+    - Borrowed from Proto-West Germanic *skrīnī, “shrine”
+  - Slavic cousins
+    - Polish skrzynia
+    - Slovak skriňa
+    - Ukrainian скриня
+  - Related Czech words
+    - skříňka: box
+  - Sources
+    - [Wiktionary: skříň](https://en.wiktionary.org/wiki/sk%C5%99%C3%AD%C5%88#Czech)
+    - [Wiktionary: Proto-Slavic *skrini](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/skrini)

@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech čas etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xyft93",
+      "name": "Meaning: “time”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2scvb4",
+      "name": "Time",
+      "x": -435,
+      "y": -93,
+      "parent": "#xyft93"
+    },
+    {
+      "@id": "#ur4ng2",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fg5zbf",
+      "name": "Old Czech čas",
+      "x": -318,
+      "y": -255,
+      "parent": "#ur4ng2"
+    },
+    {
+      "@id": "#h4qgmr",
+      "name": "Proto-Slavic *časъ",
+      "x": -116,
+      "y": -348,
+      "parent": "#ur4ng2"
+    },
+    {
+      "@id": "#jf64k9",
+      "name": "Proto-Balto-Slavic *keˀs-",
+      "x": 131,
+      "y": -393,
+      "parent": "#ur4ng2"
+    },
+    {
+      "@id": "#zw2brj",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xms4qs",
+      "name": "Polish czas",
+      "x": 318,
+      "y": -255,
+      "parent": "#zw2brj"
+    },
+    {
+      "@id": "#vf79fb",
+      "name": "Slovak čas",
+      "x": 435,
+      "y": -93,
+      "parent": "#zw2brj"
+    },
+    {
+      "@id": "#n7iqzp",
+      "name": "Russian час",
+      "x": 435,
+      "y": 93,
+      "parent": "#zw2brj"
+    },
+    {
+      "@id": "#4uegy7",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3rm85e",
+      "name": "často: often",
+      "x": 318,
+      "y": 255,
+      "parent": "#4uegy7"
+    },
+    {
+      "@id": "#ube292",
+      "name": "načase: about time",
+      "x": 116,
+      "y": 348,
+      "parent": "#4uegy7"
+    },
+    {
+      "@id": "#gb3uct",
+      "name": "včas: in time",
+      "x": -116,
+      "y": 348,
+      "parent": "#4uegy7"
+    },
+    {
+      "@id": "#j9d33h",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fvvp72",
+      "name": "Wiktionary: čas",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/%C4%8Das#Czech",
+      "parent": "#j9d33h"
+    },
+    {
+      "@id": "#xhqgc3",
+      "name": "Wiktionary: Proto-Slavic *časъ",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C4%8Das%D1%8A",
+      "parent": "#j9d33h"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

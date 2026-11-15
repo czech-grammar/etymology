@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kuchyně etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8cx36h",
+      "name": "Meaning: “kitchen”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#akyjtc",
+      "name": "Kitchen",
+      "x": -390,
+      "y": -180,
+      "parent": "#8cx36h"
+    },
+    {
+      "@id": "#izrqp2",
+      "name": "Word history",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6g684d",
+      "name": "Old Czech kuchyně",
+      "x": 0,
+      "y": -360,
+      "parent": "#izrqp2"
+    },
+    {
+      "@id": "#cjj5a2",
+      "name": "Old High German chuhhina",
+      "x": 390,
+      "y": -180,
+      "parent": "#izrqp2"
+    },
+    {
+      "@id": "#z7e2z4",
+      "name": "Latin coquīna, “kitchen”",
+      "x": 390,
+      "y": 180,
+      "parent": "#izrqp2"
+    },
+    {
+      "@id": "#c9mce7",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zx64pr",
+      "name": "kuchař: cook",
+      "x": 0,
+      "y": 360,
+      "parent": "#c9mce7"
+    },
+    {
+      "@id": "#m4kphr",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w3tpzw",
+      "name": "Wiktionary: kuchyně",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/kuchyn%C4%9B#Czech",
+      "parent": "#m4kphr"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

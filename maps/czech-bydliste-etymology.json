@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech bydliště etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xkpqy8",
+      "name": "Meaning: “place of residence”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#upfw6f",
+      "name": "Place of residence",
+      "x": -390,
+      "y": -180,
+      "parent": "#xkpqy8"
+    },
+    {
+      "@id": "#j7enmc",
+      "name": "Address, abode",
+      "x": 0,
+      "y": -360,
+      "parent": "#xkpqy8"
+    },
+    {
+      "@id": "#e7zwpt",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qtyj5e",
+      "name": "Old Czech bydlišče",
+      "x": 390,
+      "y": -180,
+      "parent": "#e7zwpt"
+    },
+    {
+      "@id": "#tfamdt",
+      "name": "Built from bydlet + -iště",
+      "x": 390,
+      "y": 180,
+      "parent": "#e7zwpt"
+    },
+    {
+      "@id": "#c2cgsv",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b7giuk",
+      "name": "bydlo: livelihood",
+      "x": 0,
+      "y": 360,
+      "parent": "#c2cgsv"
+    },
+    {
+      "@id": "#5wmie4",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m9j6gt",
+      "name": "Wiktionary: bydliště",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/bydli%C5%A1t%C4%9B#Czech",
+      "parent": "#5wmie4"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

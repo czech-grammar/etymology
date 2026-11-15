@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech věc etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#krdwfw",
+      "name": "Meaning: “thing”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m6n95n",
+      "name": "Thing",
+      "x": -435,
+      "y": -93,
+      "parent": "#krdwfw"
+    },
+    {
+      "@id": "#meek9v",
+      "name": "Word history",
+      "x": 60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f9cg45",
+      "name": "Old Czech věc",
+      "x": -318,
+      "y": -255,
+      "parent": "#meek9v"
+    },
+    {
+      "@id": "#3hevij",
+      "name": "Proto-Slavic *veťь",
+      "x": -116,
+      "y": -348,
+      "parent": "#meek9v"
+    },
+    {
+      "@id": "#dqxuiz",
+      "name": "Proto-Balto-Slavic *wektís",
+      "x": 136,
+      "y": -408,
+      "parent": "#meek9v"
+    },
+    {
+      "@id": "#6c3tyc",
+      "name": "Proto-Indo-European *wékʷ-ti-s ~ *ukʷ-téy-s",
+      "x": 318,
+      "y": -255,
+      "parent": "#meek9v"
+    },
+    {
+      "@id": "#nsdh7c",
+      "name": "From *wekʷ-, “to speak” + *-tis",
+      "x": 435,
+      "y": -93,
+      "parent": "#meek9v"
+    },
+    {
+      "@id": "#395ijf",
+      "name": "Slavic cousins",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rxdduv",
+      "name": "Polish wiec",
+      "x": 435,
+      "y": 93,
+      "parent": "#395ijf"
+    },
+    {
+      "@id": "#8i9kac",
+      "name": "Slovak vec",
+      "x": 318,
+      "y": 255,
+      "parent": "#395ijf"
+    },
+    {
+      "@id": "#rhm76w",
+      "name": "Russian вещь",
+      "x": 116,
+      "y": 348,
+      "parent": "#395ijf"
+    },
+    {
+      "@id": "#4d9gmc",
+      "name": "Related Czech words",
+      "x": -60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a2b5jr",
+      "name": "věcnost: objectivity",
+      "x": -116,
+      "y": 348,
+      "parent": "#4d9gmc"
+    },
+    {
+      "@id": "#bxgb72",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y8ejfq",
+      "name": "Wiktionary: věc",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/v%C4%9Bc#Czech",
+      "parent": "#bxgb72"
+    },
+    {
+      "@id": "#7udakj",
+      "name": "Wiktionary: Proto-Slavic *veťь",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/ve%C5%A5%D1%8C",
+      "parent": "#bxgb72"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech zpěvák etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ecru6g",
+      "name": "Meaning: “singer”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5f3pcy",
+      "name": "Singer",
+      "x": -318,
+      "y": -255,
+      "parent": "#ecru6g"
+    },
+    {
+      "@id": "#hxt9xb",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t786zt",
+      "name": "From zpěv + -ák",
+      "x": 318,
+      "y": -255,
+      "parent": "#hxt9xb"
+    },
+    {
+      "@id": "#vmzrhb",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ftt8dx",
+      "name": "zpěvačka: female singer",
+      "x": 318,
+      "y": 255,
+      "parent": "#vmzrhb"
+    },
+    {
+      "@id": "#at3aiv",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mffp8e",
+      "name": "Wiktionary: zpěvák",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/zp%C4%9Bv%C3%A1k#Czech",
+      "parent": "#at3aiv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}
