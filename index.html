@@ -87,7 +87,7 @@
     const index = await (await fetch('index.json')).json()
     const total = index.maps.length
     $('#lede').textContent = `${total} Czech words and where they come from. Pick one and watch it grow.`
-    const openUrl = m => `${app}?uri=${new URL(m.file, location.href).href}&replay=1s`
+    const openUrl = m => `${app}?uri=${new URL(m.file, location.href).href}&replay=0.1s&autoplay`
 
     for (const c of index.categories) {
       const id = slug(c.name)
