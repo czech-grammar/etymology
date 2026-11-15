@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech zápěstí etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#hgqts2",
+      "name": "Meaning: “wrist”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vkzdxj",
+      "name": "Wrist",
+      "x": -416,
+      "y": -138,
+      "parent": "#hgqts2"
+    },
+    {
+      "@id": "#rbwtic",
+      "name": "Word history",
+      "x": 88,
+      "y": -170,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y89dyk",
+      "name": "Proto-Slavic *zapęstьje",
+      "x": -172,
+      "y": -333,
+      "parent": "#rbwtic"
+    },
+    {
+      "@id": "#6m8kx8",
+      "name": "From *za + *pęstь, “fist” + *-ьje",
+      "x": 172,
+      "y": -333,
+      "parent": "#rbwtic"
+    },
+    {
+      "@id": "#hnh7vz",
+      "name": "Built from za + pěst + -í",
+      "x": 416,
+      "y": -138,
+      "parent": "#rbwtic"
+    },
+    {
+      "@id": "#tids7d",
+      "name": "Slavic cousins",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yjcvq5",
+      "name": "Slovak zápästie",
+      "x": 416,
+      "y": 138,
+      "parent": "#tids7d"
+    },
+    {
+      "@id": "#rsbzun",
+      "name": "Russian запястье",
+      "x": 172,
+      "y": 333,
+      "parent": "#tids7d"
+    },
+    {
+      "@id": "#825ws9",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z5d5xe",
+      "name": "Wiktionary: zápěstí",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/z%C3%A1p%C4%9Bst%C3%AD#Czech",
+      "parent": "#825ws9"
+    },
+    {
+      "@id": "#vppqcb",
+      "name": "Wiktionary: Proto-Slavic *zapęstьje",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/zap%C4%99st%D1%8Cje",
+      "parent": "#825ws9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

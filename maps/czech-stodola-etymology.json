@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech stodola etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fecx2h",
+      "name": "Meaning: “barn”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4f5gne",
+      "name": "Barn",
+      "x": -318,
+      "y": -255,
+      "parent": "#fecx2h"
+    },
+    {
+      "@id": "#amkxwt",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hscqae",
+      "name": "Old Czech stodola",
+      "x": 318,
+      "y": -255,
+      "parent": "#amkxwt"
+    },
+    {
+      "@id": "#urr22h",
+      "name": "Old High German stadal",
+      "x": 318,
+      "y": 255,
+      "parent": "#amkxwt"
+    },
+    {
+      "@id": "#wckmz9",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qj8ctf",
+      "name": "Wiktionary: stodola",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/stodola#Czech",
+      "parent": "#wckmz9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

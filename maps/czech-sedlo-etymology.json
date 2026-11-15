@@ -1,0 +1,184 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech sedlo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#75tc66",
+      "name": "Meaning: “saddle (horse, bicycle); mountain saddle”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#48v8nv",
+      "name": "Saddle (horse, bicycle); mountain saddle",
+      "x": -423,
+      "y": -123,
+      "parent": "#75tc66"
+    },
+    {
+      "@id": "#84rm59",
+      "name": "Word history",
+      "x": -40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t4pexv",
+      "name": "Old Czech sedlo",
+      "x": -225,
+      "y": -312,
+      "parent": "#84rm59"
+    },
+    {
+      "@id": "#9wpha6",
+      "name": "Proto-Slavic *sedъlo",
+      "x": 78,
+      "y": -355,
+      "parent": "#84rm59"
+    },
+    {
+      "@id": "#gmdv5j",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nmj3d9",
+      "name": "Polish siodło",
+      "x": 345,
+      "y": -231,
+      "parent": "#gmdv5j"
+    },
+    {
+      "@id": "#c52hw4",
+      "name": "Slovak sedlo",
+      "x": 450,
+      "y": 0,
+      "parent": "#gmdv5j"
+    },
+    {
+      "@id": "#sdg9bk",
+      "name": "Russian седло",
+      "x": 345,
+      "y": 231,
+      "parent": "#gmdv5j"
+    },
+    {
+      "@id": "#ccfqus",
+      "name": "Related Czech words",
+      "x": 40,
+      "y": 181,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#azhpnn",
+      "name": "sedlat: to saddle",
+      "x": 78,
+      "y": 355,
+      "parent": "#ccfqus"
+    },
+    {
+      "@id": "#khcax3",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#trpg37",
+      "name": "Wiktionary: sedlo",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/sedlo#Czech",
+      "parent": "#khcax3"
+    },
+    {
+      "@id": "#pdcrup",
+      "name": "Wiktionary: Proto-Slavic *sedъlo",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/sed%D1%8Alo",
+      "parent": "#khcax3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    }
+  ],
+  "selectedNode": 0
+}

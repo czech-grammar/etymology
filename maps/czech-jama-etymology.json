@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech jáma etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7za2g8",
+      "name": "Meaning: “pit, hole (dug)”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wx6auv",
+      "name": "Pit, hole (dug)",
+      "x": -416,
+      "y": -138,
+      "parent": "#7za2g8"
+    },
+    {
+      "@id": "#rge956",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#663vqw",
+      "name": "Old Czech jáma",
+      "x": -172,
+      "y": -333,
+      "parent": "#rge956"
+    },
+    {
+      "@id": "#jhdiqv",
+      "name": "Proto-Slavic *ama",
+      "x": 172,
+      "y": -333,
+      "parent": "#rge956"
+    },
+    {
+      "@id": "#fq6tvt",
+      "name": "Slavic cousins",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zkp9d7",
+      "name": "Polish jama",
+      "x": 416,
+      "y": -138,
+      "parent": "#fq6tvt"
+    },
+    {
+      "@id": "#799em4",
+      "name": "Slovak jama",
+      "x": 416,
+      "y": 138,
+      "parent": "#fq6tvt"
+    },
+    {
+      "@id": "#nf8gks",
+      "name": "Russian яма",
+      "x": 172,
+      "y": 333,
+      "parent": "#fq6tvt"
+    },
+    {
+      "@id": "#4gw49a",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#67c23b",
+      "name": "Wiktionary: jáma",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/j%C3%A1ma#Czech",
+      "parent": "#4gw49a"
+    },
+    {
+      "@id": "#jzv4uw",
+      "name": "Wiktionary: Proto-Slavic *ama",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/ama",
+      "parent": "#4gw49a"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

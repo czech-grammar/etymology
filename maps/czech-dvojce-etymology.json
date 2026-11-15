@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech dvojče etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fiw7nq",
+      "name": "Meaning: “twin”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s9tgvq",
+      "name": "Twin",
+      "x": -225,
+      "y": -312,
+      "parent": "#fiw7nq"
+    },
+    {
+      "@id": "#eh5jp4",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z7wmhv",
+      "name": "From dvoje + -če",
+      "x": 450,
+      "y": 0,
+      "parent": "#eh5jp4"
+    },
+    {
+      "@id": "#r56dvh",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rhdhnz",
+      "name": "Wiktionary: dvojče",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/dvoj%C4%8De#Czech",
+      "parent": "#r56dvh"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

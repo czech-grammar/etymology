@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech ret etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xg92jc",
+      "name": "Meaning: “lip”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a4cnem",
+      "name": "Lip",
+      "x": -428,
+      "y": -111,
+      "parent": "#xg92jc"
+    },
+    {
+      "@id": "#x5spq3",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c7yeeq",
+      "name": "Old Czech ret",
+      "x": -265,
+      "y": -291,
+      "parent": "#x5spq3"
+    },
+    {
+      "@id": "#pivjww",
+      "name": "Proto-Slavic *rъtъ",
+      "x": 0,
+      "y": -360,
+      "parent": "#x5spq3"
+    },
+    {
+      "@id": "#9q3vux",
+      "name": "Deeper origin uncertain",
+      "x": 265,
+      "y": -291,
+      "parent": "#x5spq3"
+    },
+    {
+      "@id": "#yjrnjq",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dvvq6e",
+      "name": "Slovak ret",
+      "x": 428,
+      "y": -111,
+      "parent": "#yjrnjq"
+    },
+    {
+      "@id": "#6fj9ny",
+      "name": "Russian рот",
+      "x": 428,
+      "y": 111,
+      "parent": "#yjrnjq"
+    },
+    {
+      "@id": "#w7e47r",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t76hz4",
+      "name": "nárt: metatarsus",
+      "x": 265,
+      "y": 291,
+      "parent": "#w7e47r"
+    },
+    {
+      "@id": "#7jss5v",
+      "name": "rtěnka: lipstick",
+      "x": 0,
+      "y": 360,
+      "parent": "#w7e47r"
+    },
+    {
+      "@id": "#iu5pay",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d7w92v",
+      "name": "Wiktionary: ret",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/ret#Czech",
+      "parent": "#iu5pay"
+    },
+    {
+      "@id": "#f4sq43",
+      "name": "Wiktionary: Proto-Slavic *rъtъ",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/r%D1%8At%D1%8A",
+      "parent": "#iu5pay"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

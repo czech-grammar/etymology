@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech lom etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#v62cvf",
+      "name": "Meaning: “quarry”",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i3micw",
+      "name": "Quarry",
+      "x": -432,
+      "y": -101,
+      "parent": "#v62cvf"
+    },
+    {
+      "@id": "#sca5ih",
+      "name": "An open mine",
+      "x": -295,
+      "y": -272,
+      "parent": "#v62cvf"
+    },
+    {
+      "@id": "#kffv65",
+      "name": "Word history",
+      "x": 96,
+      "y": -167,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#spt3bt",
+      "name": "Old Czech lom",
+      "x": -64,
+      "y": -356,
+      "parent": "#kffv65"
+    },
+    {
+      "@id": "#9y2pfa",
+      "name": "Proto-Slavic *lomъ",
+      "x": 187,
+      "y": -327,
+      "parent": "#kffv65"
+    },
+    {
+      "@id": "#xf7fqy",
+      "name": "Deeper origin uncertain",
+      "x": 379,
+      "y": -195,
+      "parent": "#kffv65"
+    },
+    {
+      "@id": "#m35edv",
+      "name": "Slavic cousins",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4a4ipk",
+      "name": "Polish łom",
+      "x": 450,
+      "y": 0,
+      "parent": "#m35edv"
+    },
+    {
+      "@id": "#dr8qmx",
+      "name": "Slovak lom",
+      "x": 379,
+      "y": 195,
+      "parent": "#m35edv"
+    },
+    {
+      "@id": "#pj744t",
+      "name": "Russian лом",
+      "x": 187,
+      "y": 327,
+      "parent": "#m35edv"
+    },
+    {
+      "@id": "#5aj6ap",
+      "name": "Related Czech words",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s3jth5",
+      "name": "lomit: to diffract",
+      "x": -64,
+      "y": 356,
+      "parent": "#5aj6ap"
+    },
+    {
+      "@id": "#a7tfjq",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5r38up",
+      "name": "Wiktionary: lom",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/lom#Czech",
+      "parent": "#a7tfjq"
+    },
+    {
+      "@id": "#j9rrsd",
+      "name": "Wiktionary: Proto-Slavic *lomъ",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/lom%D1%8A",
+      "parent": "#a7tfjq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

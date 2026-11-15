@@ -1,0 +1,194 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech vozík etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#mzswv9",
+      "name": "Meaning: “trolley, cart”",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rruikx",
+      "name": "Trolley, cart",
+      "x": -432,
+      "y": -101,
+      "parent": "#mzswv9"
+    },
+    {
+      "@id": "#s547su",
+      "name": "Cart, handcart, trolley",
+      "x": -295,
+      "y": -272,
+      "parent": "#mzswv9"
+    },
+    {
+      "@id": "#jicvas",
+      "name": "Word history",
+      "x": 151,
+      "y": -139,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5hwvmc",
+      "name": "From vůz + -ík",
+      "x": -64,
+      "y": -356,
+      "parent": "#jicvas"
+    },
+    {
+      "@id": "#cxva7z",
+      "name": "Root: Proto-Slavic *vozъ",
+      "x": 187,
+      "y": -327,
+      "parent": "#jicvas"
+    },
+    {
+      "@id": "#6s95ea",
+      "name": "Proto-Balto-Slavic *waźas",
+      "x": 379,
+      "y": -195,
+      "parent": "#jicvas"
+    },
+    {
+      "@id": "#i2zzmz",
+      "name": "Proto-Indo-European *wóǵʰ-o-s",
+      "x": 450,
+      "y": 0,
+      "parent": "#jicvas"
+    },
+    {
+      "@id": "#34c9yr",
+      "name": "Cousins of the root *vozъ",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#viez9r",
+      "name": "Polish wóz",
+      "x": 379,
+      "y": 195,
+      "parent": "#34c9yr"
+    },
+    {
+      "@id": "#dup3jn",
+      "name": "Slovak voz",
+      "x": 187,
+      "y": 327,
+      "parent": "#34c9yr"
+    },
+    {
+      "@id": "#6fcem3",
+      "name": "Russian воз",
+      "x": -64,
+      "y": 356,
+      "parent": "#34c9yr"
+    },
+    {
+      "@id": "#zzuje4",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y4zwg6",
+      "name": "Wiktionary: vozík",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/voz%C3%ADk#Czech",
+      "parent": "#zzuje4"
+    },
+    {
+      "@id": "#5mjic6",
+      "name": "Wiktionary: Proto-Slavic *vozъ",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/voz%D1%8A",
+      "parent": "#zzuje4"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

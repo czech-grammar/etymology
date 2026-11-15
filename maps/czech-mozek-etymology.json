@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech mozek etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fxk8id",
+      "name": "Meaning: “brain”",
+      "x": -223,
+      "y": -44,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5wbfjf",
+      "name": "Brain",
+      "x": -437,
+      "y": -86,
+      "parent": "#fxk8id"
+    },
+    {
+      "@id": "#qz6cb3",
+      "name": "Word history",
+      "x": -28,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q5vgx3",
+      "name": "Old Czech mozk",
+      "x": -337,
+      "y": -239,
+      "parent": "#qz6cb3"
+    },
+    {
+      "@id": "#k8vbki",
+      "name": "Proto-Slavic *mozgъ, “marrow”",
+      "x": -160,
+      "y": -337,
+      "parent": "#qz6cb3"
+    },
+    {
+      "@id": "#jrba6m",
+      "name": "Proto-Balto-Slavic *masgás",
+      "x": 58,
+      "y": -389,
+      "parent": "#qz6cb3"
+    },
+    {
+      "@id": "#yvfztv",
+      "name": "Proto-Indo-European *mosgʰós",
+      "x": 256,
+      "y": -296,
+      "parent": "#qz6cb3"
+    },
+    {
+      "@id": "#9j6bn6",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ip3kbb",
+      "name": "Polish mózg",
+      "x": 398,
+      "y": -167,
+      "parent": "#9j6bn6"
+    },
+    {
+      "@id": "#37p76d",
+      "name": "Slovak mozog",
+      "x": 450,
+      "y": 0,
+      "parent": "#9j6bn6"
+    },
+    {
+      "@id": "#7reyu4",
+      "name": "Russian мозг",
+      "x": 398,
+      "y": 167,
+      "parent": "#9j6bn6"
+    },
+    {
+      "@id": "#de4yci",
+      "name": "Related Czech words",
+      "x": 28,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2zshss",
+      "name": "bezmozek: idiot",
+      "x": 256,
+      "y": 296,
+      "parent": "#de4yci"
+    },
+    {
+      "@id": "#42u8ex",
+      "name": "mezimozek: diencephalon",
+      "x": 54,
+      "y": 357,
+      "parent": "#de4yci"
+    },
+    {
+      "@id": "#q67z8s",
+      "name": "mozkovna: braincase",
+      "x": -195,
+      "y": 412,
+      "parent": "#de4yci"
+    },
+    {
+      "@id": "#qeibt3",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h7rfmd",
+      "name": "Wiktionary: mozek",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/mozek#Czech",
+      "parent": "#qeibt3"
+    },
+    {
+      "@id": "#byf74k",
+      "name": "Wiktionary: Proto-Slavic *mozgъ",
+      "x": -456,
+      "y": 90,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/mozg%D1%8A",
+      "parent": "#qeibt3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech obchodník etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#a3rd9v",
+      "name": "Meaning: “trader, businessman”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8znpir",
+      "name": "Trader, businessman",
+      "x": -473,
+      "y": -101,
+      "parent": "#a3rd9v"
+    },
+    {
+      "@id": "#dttxzp",
+      "name": "Trader, merchant",
+      "x": -318,
+      "y": -255,
+      "parent": "#a3rd9v"
+    },
+    {
+      "@id": "#7f5bwq",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bxm5cu",
+      "name": "From obchod, “trade” + -ník",
+      "x": -116,
+      "y": -348,
+      "parent": "#7f5bwq"
+    },
+    {
+      "@id": "#hh58pq",
+      "name": "Root: Proto-Slavic *xodъ",
+      "x": 136,
+      "y": -408,
+      "parent": "#7f5bwq"
+    },
+    {
+      "@id": "#5jaw7g",
+      "name": "Cousins of the root *xodъ",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6hei9k",
+      "name": "Polish chód",
+      "x": 318,
+      "y": -255,
+      "parent": "#5jaw7g"
+    },
+    {
+      "@id": "#ryfpjm",
+      "name": "Slovak chod",
+      "x": 454,
+      "y": -97,
+      "parent": "#5jaw7g"
+    },
+    {
+      "@id": "#xdkjbx",
+      "name": "Russian ход",
+      "x": 435,
+      "y": 93,
+      "parent": "#5jaw7g"
+    },
+    {
+      "@id": "#bj3num",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bf7qng",
+      "name": "obchod: trade",
+      "x": 318,
+      "y": 255,
+      "parent": "#bj3num"
+    },
+    {
+      "@id": "#p94za4",
+      "name": "obchodovat: to trade",
+      "x": 116,
+      "y": 348,
+      "parent": "#bj3num"
+    },
+    {
+      "@id": "#s783xk",
+      "name": "obchodovatelnost: merchantability",
+      "x": -136,
+      "y": 408,
+      "parent": "#bj3num"
+    },
+    {
+      "@id": "#s4bac6",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r8xpji",
+      "name": "Wiktionary: obchodník",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/obchodn%C3%ADk#Czech",
+      "parent": "#s4bac6"
+    },
+    {
+      "@id": "#ge2qew",
+      "name": "Wiktionary: Proto-Slavic *xodъ",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/xod%D1%8A",
+      "parent": "#s4bac6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

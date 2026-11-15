@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech zloděj etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#uh76m5",
+      "name": "Meaning: “thief”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bzp3vv",
+      "name": "Thief",
+      "x": -432,
+      "y": -101,
+      "parent": "#uh76m5"
+    },
+    {
+      "@id": "#vk4tsv",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r2jzns",
+      "name": "Old Czech zloděj",
+      "x": -295,
+      "y": -272,
+      "parent": "#vk4tsv"
+    },
+    {
+      "@id": "#whxm8g",
+      "name": "Proto-Slavic *zъlodějь",
+      "x": -64,
+      "y": -356,
+      "parent": "#vk4tsv"
+    },
+    {
+      "@id": "#md5t9y",
+      "name": "From *zъlъ + *-o- + *dějь",
+      "x": 203,
+      "y": -357,
+      "parent": "#vk4tsv"
+    },
+    {
+      "@id": "#a8ta3t",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v4r6my",
+      "name": "Polish złodziej",
+      "x": 379,
+      "y": -195,
+      "parent": "#a8ta3t"
+    },
+    {
+      "@id": "#y3id9c",
+      "name": "Slovak zlodej",
+      "x": 450,
+      "y": 0,
+      "parent": "#a8ta3t"
+    },
+    {
+      "@id": "#cxi8r4",
+      "name": "Russian злодей",
+      "x": 379,
+      "y": 195,
+      "parent": "#a8ta3t"
+    },
+    {
+      "@id": "#jftgti",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#afw92p",
+      "name": "zlodějka: female thief",
+      "x": 187,
+      "y": 327,
+      "parent": "#jftgti"
+    },
+    {
+      "@id": "#ebpdfa",
+      "name": "zlodějna: theft",
+      "x": -64,
+      "y": 356,
+      "parent": "#jftgti"
+    },
+    {
+      "@id": "#yixa8u",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fxhwdj",
+      "name": "Wiktionary: zloděj",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/zlod%C4%9Bj#Czech",
+      "parent": "#yixa8u"
+    },
+    {
+      "@id": "#3bpu9j",
+      "name": "Wiktionary: Proto-Slavic *zъlodějь",
+      "x": -451,
+      "y": 105,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/z%D1%8Alod%C4%9Bj%D1%8C",
+      "parent": "#yixa8u"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

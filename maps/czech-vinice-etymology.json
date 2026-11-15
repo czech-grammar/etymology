@@ -1,0 +1,194 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech vinice etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qsar7s",
+      "name": "Meaning: “vineyard”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ytfjax",
+      "name": "Vineyard",
+      "x": -432,
+      "y": -101,
+      "parent": "#qsar7s"
+    },
+    {
+      "@id": "#3xifu5",
+      "name": "Word history",
+      "x": 96,
+      "y": -167,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g9xu5z",
+      "name": "Old Czech vinnicě",
+      "x": -295,
+      "y": -272,
+      "parent": "#3xifu5"
+    },
+    {
+      "@id": "#bkebu9",
+      "name": "Proto-Slavic *vino",
+      "x": -64,
+      "y": -356,
+      "parent": "#3xifu5"
+    },
+    {
+      "@id": "#zan6m6",
+      "name": "Latin vīnum (potentially via Proto-Germanic *wīną)",
+      "x": 235,
+      "y": -417,
+      "parent": "#3xifu5"
+    },
+    {
+      "@id": "#bxhytr",
+      "name": "Proto-Italic *wīnom",
+      "x": 379,
+      "y": -195,
+      "parent": "#3xifu5"
+    },
+    {
+      "@id": "#n8pknv",
+      "name": "Built from víno + -ice",
+      "x": 450,
+      "y": 0,
+      "parent": "#3xifu5"
+    },
+    {
+      "@id": "#mkwqtn",
+      "name": "Slavic cousins",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wqcgz4",
+      "name": "Polish wino",
+      "x": 379,
+      "y": 195,
+      "parent": "#mkwqtn"
+    },
+    {
+      "@id": "#mvzcc3",
+      "name": "Slovak víno",
+      "x": 187,
+      "y": 327,
+      "parent": "#mkwqtn"
+    },
+    {
+      "@id": "#kddctb",
+      "name": "Russian вино",
+      "x": -64,
+      "y": 356,
+      "parent": "#mkwqtn"
+    },
+    {
+      "@id": "#atfgyk",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#en3v2a",
+      "name": "Wiktionary: vinice",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/vinice#Czech",
+      "parent": "#atfgyk"
+    },
+    {
+      "@id": "#9xdb8d",
+      "name": "Wiktionary: Proto-Slavic *vino",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/vino",
+      "parent": "#atfgyk"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

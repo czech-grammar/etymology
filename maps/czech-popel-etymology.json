@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech popel etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#jrscd4",
+      "name": "Meaning: “ash”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jfurhb",
+      "name": "Ash",
+      "x": -435,
+      "y": -93,
+      "parent": "#jrscd4"
+    },
+    {
+      "@id": "#65bjdc",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tdrhf6",
+      "name": "Old Czech popel",
+      "x": -318,
+      "y": -255,
+      "parent": "#65bjdc"
+    },
+    {
+      "@id": "#95weyp",
+      "name": "Proto-Slavic *pepelъ",
+      "x": -116,
+      "y": -348,
+      "parent": "#65bjdc"
+    },
+    {
+      "@id": "#294isj",
+      "name": "Proto-Indo-European *pepelh₁-o-",
+      "x": 136,
+      "y": -408,
+      "parent": "#65bjdc"
+    },
+    {
+      "@id": "#xg2kie",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pt3tg5",
+      "name": "Polish popiół",
+      "x": 318,
+      "y": -255,
+      "parent": "#xg2kie"
+    },
+    {
+      "@id": "#4gtsud",
+      "name": "Slovak popol",
+      "x": 435,
+      "y": -93,
+      "parent": "#xg2kie"
+    },
+    {
+      "@id": "#eq5fmn",
+      "name": "Russian пепел",
+      "x": 435,
+      "y": 93,
+      "parent": "#xg2kie"
+    },
+    {
+      "@id": "#yzd34i",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hc98cj",
+      "name": "popelavý: ashy",
+      "x": 318,
+      "y": 255,
+      "parent": "#yzd34i"
+    },
+    {
+      "@id": "#mhqcmt",
+      "name": "popelář: garbage man",
+      "x": 116,
+      "y": 348,
+      "parent": "#yzd34i"
+    },
+    {
+      "@id": "#vegj2s",
+      "name": "Popelka: Cinderella",
+      "x": -116,
+      "y": 348,
+      "parent": "#yzd34i"
+    },
+    {
+      "@id": "#nxvddy",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yaqjn6",
+      "name": "Wiktionary: popel",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/popel#Czech",
+      "parent": "#nxvddy"
+    },
+    {
+      "@id": "#kv9agx",
+      "name": "Wiktionary: Proto-Slavic *pepelъ",
+      "x": -454,
+      "y": 97,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/pepel%D1%8A",
+      "parent": "#nxvddy"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

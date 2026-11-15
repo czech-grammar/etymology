@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech seznam etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#zmvjxu",
+      "name": "Meaning: “list”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#va7fmc",
+      "name": "List",
+      "x": -225,
+      "y": -312,
+      "parent": "#zmvjxu"
+    },
+    {
+      "@id": "#hgtbgc",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v3rrfs",
+      "name": "From the verb seznámit",
+      "x": 450,
+      "y": 0,
+      "parent": "#hgtbgc"
+    },
+    {
+      "@id": "#qg6ypd",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e6fby6",
+      "name": "Wiktionary: seznam",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/seznam#Czech",
+      "parent": "#qg6ypd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

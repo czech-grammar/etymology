@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech trenér etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#pjtmpt",
+      "name": "Meaning: “coach”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qpewas",
+      "name": "Coach",
+      "x": -390,
+      "y": -180,
+      "parent": "#pjtmpt"
+    },
+    {
+      "@id": "#a8gnsc",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2upi6b",
+      "name": "Borrowed from English trainer",
+      "x": 0,
+      "y": -360,
+      "parent": "#a8gnsc"
+    },
+    {
+      "@id": "#e72due",
+      "name": "Related Czech words",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q6dw8c",
+      "name": "šéftrenér: head coach",
+      "x": 390,
+      "y": -180,
+      "parent": "#e72due"
+    },
+    {
+      "@id": "#7uxiaq",
+      "name": "trenažér: simulator",
+      "x": 390,
+      "y": 180,
+      "parent": "#e72due"
+    },
+    {
+      "@id": "#58qyax",
+      "name": "trénink: training",
+      "x": 0,
+      "y": 360,
+      "parent": "#e72due"
+    },
+    {
+      "@id": "#8ssaw8",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#78u8jy",
+      "name": "Wiktionary: trenér",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/tren%C3%A9r#Czech",
+      "parent": "#8ssaw8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

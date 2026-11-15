@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech tráva etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#68bg37",
+      "name": "Meaning: “grass”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c9burj",
+      "name": "Grass",
+      "x": -432,
+      "y": -101,
+      "parent": "#68bg37"
+    },
+    {
+      "@id": "#7ckkp7",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zehv9c",
+      "name": "Old Czech tráva",
+      "x": -295,
+      "y": -272,
+      "parent": "#7ckkp7"
+    },
+    {
+      "@id": "#hhnja6",
+      "name": "Proto-Slavic *trava",
+      "x": -64,
+      "y": -356,
+      "parent": "#7ckkp7"
+    },
+    {
+      "@id": "#f4bcz5",
+      "name": "Probably Proto-Balto-Slavic *trāˀwā́ˀ",
+      "x": 235,
+      "y": -417,
+      "parent": "#7ckkp7"
+    },
+    {
+      "@id": "#cfygb3",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g5faxp",
+      "name": "Polish trawa",
+      "x": 379,
+      "y": -195,
+      "parent": "#cfygb3"
+    },
+    {
+      "@id": "#ikb9y4",
+      "name": "Slovak tráva",
+      "x": 450,
+      "y": 0,
+      "parent": "#cfygb3"
+    },
+    {
+      "@id": "#pwamnn",
+      "name": "Russian трава",
+      "x": 379,
+      "y": 195,
+      "parent": "#cfygb3"
+    },
+    {
+      "@id": "#i3gc53",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9chrqp",
+      "name": "travnatý: grassy",
+      "x": 187,
+      "y": 327,
+      "parent": "#i3gc53"
+    },
+    {
+      "@id": "#hnnw9h",
+      "name": "trávník: lawn",
+      "x": -64,
+      "y": 356,
+      "parent": "#i3gc53"
+    },
+    {
+      "@id": "#ftrf9w",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qyy83v",
+      "name": "Wiktionary: tráva",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/tr%C3%A1va#Czech",
+      "parent": "#ftrf9w"
+    },
+    {
+      "@id": "#45bvi3",
+      "name": "Wiktionary: Proto-Slavic *trava",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/trava",
+      "parent": "#ftrf9w"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

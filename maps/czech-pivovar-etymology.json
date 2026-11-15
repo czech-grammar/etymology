@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech pivovar etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#jqdzwd",
+      "name": "Meaning: “brewery”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iahshs",
+      "name": "Brewery",
+      "x": -428,
+      "y": -111,
+      "parent": "#jqdzwd"
+    },
+    {
+      "@id": "#a8zvw6",
+      "name": "Word history",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6bkfky",
+      "name": "Root: Proto-Slavic *variti",
+      "x": -265,
+      "y": -291,
+      "parent": "#a8zvw6"
+    },
+    {
+      "@id": "#wa828w",
+      "name": "Proto-Balto-Slavic *wārīˀtei / *wōrīˀtei",
+      "x": 0,
+      "y": -360,
+      "parent": "#a8zvw6"
+    },
+    {
+      "@id": "#6mb99g",
+      "name": "Cousins of the root *variti",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k2a86n",
+      "name": "Polish warzyć",
+      "x": 265,
+      "y": -291,
+      "parent": "#6mb99g"
+    },
+    {
+      "@id": "#cinq3i",
+      "name": "Slovak variť",
+      "x": 428,
+      "y": -111,
+      "parent": "#6mb99g"
+    },
+    {
+      "@id": "#kexzqt",
+      "name": "Russian варить",
+      "x": 428,
+      "y": 111,
+      "parent": "#6mb99g"
+    },
+    {
+      "@id": "#yk5nqz",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zwzpgc",
+      "name": "pivo: beer",
+      "x": 265,
+      "y": 291,
+      "parent": "#yk5nqz"
+    },
+    {
+      "@id": "#4tq746",
+      "name": "pivomat: beer vending machine",
+      "x": 0,
+      "y": 360,
+      "parent": "#yk5nqz"
+    },
+    {
+      "@id": "#g8qp9u",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ueqbk7",
+      "name": "Wiktionary: pivovar",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/pivovar#Czech",
+      "parent": "#g8qp9u"
+    },
+    {
+      "@id": "#u5fjve",
+      "name": "Wiktionary: Proto-Slavic *variti",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/variti",
+      "parent": "#g8qp9u"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

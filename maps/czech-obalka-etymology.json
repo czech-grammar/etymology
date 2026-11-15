@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech obálka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#6esjiy",
+      "name": "Meaning: “envelope”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gk7p9x",
+      "name": "Envelope",
+      "x": -318,
+      "y": -255,
+      "parent": "#6esjiy"
+    },
+    {
+      "@id": "#kibus4",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yy747u",
+      "name": "From obal + -ka",
+      "x": 318,
+      "y": -255,
+      "parent": "#kibus4"
+    },
+    {
+      "@id": "#3rcyvb",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z2e6kn",
+      "name": "obal: cover",
+      "x": 318,
+      "y": 255,
+      "parent": "#3rcyvb"
+    },
+    {
+      "@id": "#tjxq4j",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2fagig",
+      "name": "Wiktionary: obálka",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/ob%C3%A1lka#Czech",
+      "parent": "#tjxq4j"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,21 @@
+category: B1 nouns
+aliases: stroj etymology, origin of stroj, stroj word origin, etymology of stroj
+- Czech stroj etymology
+  - Meaning: “machine”
+    - Machine
+  - Word history
+    - Old Czech stroj
+    - Proto-Slavic *strojь
+    - Proto-Balto-Slavic *strájas
+    - Proto-Indo-European *stroyos
+  - Slavic cousins
+    - Polish strój
+    - Slovak stroj
+    - Russian строй
+  - Related Czech words
+    - nástroj: tool
+    - ohňostroj: firework
+    - postroj: harness
+  - Sources
+    - [Wiktionary: stroj](https://en.wiktionary.org/wiki/stroj#Czech)
+    - [Wiktionary: Proto-Slavic *strojь](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/stroj%D1%8C)

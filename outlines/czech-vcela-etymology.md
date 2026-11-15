@@ -1,0 +1,21 @@
+category: B1 nouns
+aliases: včela etymology, origin of včela, včela word origin, etymology of včela
+- Czech včela etymology
+  - Meaning: “bee”
+    - Bee
+  - Word history
+    - Old Czech včela
+    - Proto-Slavic *bьčela
+    - Proto-Balto-Slavic *bikelā́ˀ
+    - Proto-Indo-European *bʰi-k-el-éh₂
+  - Slavic cousins
+    - Polish pszczoła
+    - Slovak včela;
+    - Russian пчела;
+  - Related Czech words
+    - včelař: beekeeper
+    - včelín: apiary
+    - včelojed: honey buzzard
+  - Sources
+    - [Wiktionary: včela](https://en.wiktionary.org/wiki/v%C4%8Dela#Czech)
+    - [Wiktionary: Proto-Slavic *bьčela](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/b%D1%8C%C4%8Dela)

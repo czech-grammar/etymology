@@ -1,0 +1,21 @@
+category: B2 nouns
+aliases: pec etymology, origin of pec, pec word origin, etymology of pec
+- Czech pec etymology
+  - Meaning: “oven, furnace, kiln”
+    - Oven, furnace, kiln
+  - Word history
+    - Old Czech pec
+    - Proto-Slavic *peťь
+    - Proto-Balto-Slavic *pektís
+    - Proto-Indo-European *pékʷtis
+  - Slavic cousins
+    - Polish piec
+    - Slovak pec
+    - Russian печь
+  - Related Czech words
+    - pecivál: homebody
+    - pekař: baker
+    - péct: to bake
+  - Sources
+    - [Wiktionary: pec](https://en.wiktionary.org/wiki/pec#Czech)
+    - [Wiktionary: Proto-Slavic *peťь](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/pe%C5%A5%D1%8C)

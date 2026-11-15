@@ -1,0 +1,149 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech hnojivo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#4m6s7p",
+      "name": "Meaning: “fertiliser”",
+      "x": -143,
+      "y": -144,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#itbkpr",
+      "name": "Fertiliser",
+      "x": -405,
+      "y": -156,
+      "parent": "#4m6s7p"
+    },
+    {
+      "@id": "#fbeig2",
+      "name": "Fertilizer",
+      "x": -100,
+      "y": -351,
+      "parent": "#4m6s7p"
+    },
+    {
+      "@id": "#xg96pr",
+      "name": "Word history",
+      "x": 143,
+      "y": -144,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p769c5",
+      "name": "From hnůj, “manure” + -ivo",
+      "x": 281,
+      "y": -281,
+      "parent": "#xg96pr"
+    },
+    {
+      "@id": "#khae2f",
+      "name": "Related Czech words",
+      "x": 143,
+      "y": 144,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#99nyzm",
+      "name": "hnojiště: dunghill",
+      "x": 450,
+      "y": 0,
+      "parent": "#khae2f"
+    },
+    {
+      "@id": "#hhztc8",
+      "name": "hnojit: to manure",
+      "x": 281,
+      "y": 281,
+      "parent": "#khae2f"
+    },
+    {
+      "@id": "#b9k69s",
+      "name": "hnůj: manure",
+      "x": -100,
+      "y": 351,
+      "parent": "#khae2f"
+    },
+    {
+      "@id": "#d7g73t",
+      "name": "Sources",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3dnea8",
+      "name": "Wiktionary: hnojivo",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wiktionary.org/wiki/hnojivo#Czech",
+      "parent": "#d7g73t"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

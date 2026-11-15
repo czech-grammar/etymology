@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech robot etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#m9enfq",
+      "name": "Meaning: “robot”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kzz5n8",
+      "name": "Robot",
+      "x": -435,
+      "y": -93,
+      "parent": "#m9enfq"
+    },
+    {
+      "@id": "#3jrxya",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8ib65i",
+      "name": "From robota",
+      "x": -318,
+      "y": -255,
+      "parent": "#3jrxya"
+    },
+    {
+      "@id": "#r458z6",
+      "name": "Root: Proto-Slavic *orbota",
+      "x": -116,
+      "y": -348,
+      "parent": "#3jrxya"
+    },
+    {
+      "@id": "#ex6nfm",
+      "name": "From *orbiti + *-ota",
+      "x": 136,
+      "y": -408,
+      "parent": "#3jrxya"
+    },
+    {
+      "@id": "#bfuggg",
+      "name": "Cousins of the root *orbota",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bin986",
+      "name": "Polish robota",
+      "x": 318,
+      "y": -255,
+      "parent": "#bfuggg"
+    },
+    {
+      "@id": "#9zsfm8",
+      "name": "Slovak robota",
+      "x": 454,
+      "y": -97,
+      "parent": "#bfuggg"
+    },
+    {
+      "@id": "#jwwu6f",
+      "name": "Russian работа",
+      "x": 435,
+      "y": 93,
+      "parent": "#bfuggg"
+    },
+    {
+      "@id": "#sr7x8m",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#emsufk",
+      "name": "rob: slave",
+      "x": 318,
+      "y": 255,
+      "parent": "#sr7x8m"
+    },
+    {
+      "@id": "#yjatb4",
+      "name": "robit: to do",
+      "x": 116,
+      "y": 348,
+      "parent": "#sr7x8m"
+    },
+    {
+      "@id": "#p4h5gc",
+      "name": "robota: serfdom",
+      "x": -116,
+      "y": 348,
+      "parent": "#sr7x8m"
+    },
+    {
+      "@id": "#yk3hkc",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w9swxq",
+      "name": "Wiktionary: robot",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/robot#Czech",
+      "parent": "#yk3hkc"
+    },
+    {
+      "@id": "#xfi5rw",
+      "name": "Wiktionary: Proto-Slavic *orbota",
+      "x": -454,
+      "y": 97,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/orbota",
+      "parent": "#yk3hkc"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

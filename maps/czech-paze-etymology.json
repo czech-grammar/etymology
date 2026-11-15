@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech paže etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2e7wsp",
+      "name": "Meaning: “arm”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z5mc4q",
+      "name": "Arm",
+      "x": -390,
+      "y": -180,
+      "parent": "#2e7wsp"
+    },
+    {
+      "@id": "#4mkewx",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x8wdbs",
+      "name": "Old Czech pažě",
+      "x": 0,
+      "y": -360,
+      "parent": "#4mkewx"
+    },
+    {
+      "@id": "#3eqtnt",
+      "name": "Related Czech words",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aw88za",
+      "name": "nadpažek: acromion",
+      "x": 390,
+      "y": -180,
+      "parent": "#3eqtnt"
+    },
+    {
+      "@id": "#cw4hkp",
+      "name": "pažba: butt",
+      "x": 390,
+      "y": 180,
+      "parent": "#3eqtnt"
+    },
+    {
+      "@id": "#z3gtgc",
+      "name": "podpaží: armpit",
+      "x": 0,
+      "y": 360,
+      "parent": "#3eqtnt"
+    },
+    {
+      "@id": "#ddag2u",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g3d7dg",
+      "name": "Wiktionary: paže",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/pa%C5%BEe#Czech",
+      "parent": "#ddag2u"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

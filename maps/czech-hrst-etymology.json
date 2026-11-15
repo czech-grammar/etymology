@@ -1,0 +1,194 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech hrst etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gucn9r",
+      "name": "Meaning: “handful”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#79ftyc",
+      "name": "Handful",
+      "x": -432,
+      "y": -101,
+      "parent": "#gucn9r"
+    },
+    {
+      "@id": "#gsasbu",
+      "name": "Word history",
+      "x": 96,
+      "y": -167,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pvn2zp",
+      "name": "Old Czech hrst",
+      "x": -295,
+      "y": -272,
+      "parent": "#gsasbu"
+    },
+    {
+      "@id": "#axfj9m",
+      "name": "Proto-Slavic *gъrstь",
+      "x": -64,
+      "y": -356,
+      "parent": "#gsasbu"
+    },
+    {
+      "@id": "#u827kq",
+      "name": "Proto-Slavic *gъr-t-",
+      "x": 187,
+      "y": -327,
+      "parent": "#gsasbu"
+    },
+    {
+      "@id": "#i4sp56",
+      "name": "Proto-Slavic *gъrtati",
+      "x": 379,
+      "y": -195,
+      "parent": "#gsasbu"
+    },
+    {
+      "@id": "#r5ud9t",
+      "name": "Proto-Indo-European *h₂ger-, “to gather”",
+      "x": 450,
+      "y": 0,
+      "parent": "#gsasbu"
+    },
+    {
+      "@id": "#urzpu6",
+      "name": "Slavic cousins",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cdbuv8",
+      "name": "Polish garść",
+      "x": 379,
+      "y": 195,
+      "parent": "#urzpu6"
+    },
+    {
+      "@id": "#4fhq2m",
+      "name": "Slovak hrsť",
+      "x": 187,
+      "y": 327,
+      "parent": "#urzpu6"
+    },
+    {
+      "@id": "#2jvvm5",
+      "name": "Russian горсть",
+      "x": -64,
+      "y": 356,
+      "parent": "#urzpu6"
+    },
+    {
+      "@id": "#xeizvq",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9y8yud",
+      "name": "Wiktionary: hrst",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/hrst#Czech",
+      "parent": "#xeizvq"
+    },
+    {
+      "@id": "#becvuf",
+      "name": "Wiktionary: Proto-Slavic *gъrstь",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/g%D1%8Arst%D1%8C",
+      "parent": "#xeizvq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

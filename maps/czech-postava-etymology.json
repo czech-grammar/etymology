@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech postava etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#w88mgd",
+      "name": "Meaning: “figure, character”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gaacsv",
+      "name": "Figure, character",
+      "x": -318,
+      "y": -255,
+      "parent": "#w88mgd"
+    },
+    {
+      "@id": "#gfb3k2",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wwfw42",
+      "name": "Old Czech postava",
+      "x": 318,
+      "y": -255,
+      "parent": "#gfb3k2"
+    },
+    {
+      "@id": "#shtw97",
+      "name": "Proto-Slavic *postava",
+      "x": 318,
+      "y": 255,
+      "parent": "#gfb3k2"
+    },
+    {
+      "@id": "#ae7mvw",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hiv7ie",
+      "name": "Wiktionary: postava",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/postava#Czech",
+      "parent": "#ae7mvw"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

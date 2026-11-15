@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech koupel etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#jf3iim",
+      "name": "Meaning: “bath (the act)”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ujcack",
+      "name": "Bath (the act)",
+      "x": -454,
+      "y": -97,
+      "parent": "#jf3iim"
+    },
+    {
+      "@id": "#geskr7",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qsgrqh",
+      "name": "Old Czech kúpěl",
+      "x": -318,
+      "y": -255,
+      "parent": "#geskr7"
+    },
+    {
+      "@id": "#ng2ugg",
+      "name": "Proto-Slavic *kǫpělь",
+      "x": -116,
+      "y": -348,
+      "parent": "#geskr7"
+    },
+    {
+      "@id": "#c4sjx4",
+      "name": "From *kǫpati, “to bathe” + *-ělь",
+      "x": 136,
+      "y": -408,
+      "parent": "#geskr7"
+    },
+    {
+      "@id": "#7xydzw",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kzuarn",
+      "name": "Polish kąpiel",
+      "x": 318,
+      "y": -255,
+      "parent": "#7xydzw"
+    },
+    {
+      "@id": "#vzct5x",
+      "name": "Slovak kúpeľ",
+      "x": 435,
+      "y": -93,
+      "parent": "#7xydzw"
+    },
+    {
+      "@id": "#7gmkqu",
+      "name": "Ukrainian купiль",
+      "x": 435,
+      "y": 93,
+      "parent": "#7xydzw"
+    },
+    {
+      "@id": "#fbjazz",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z6cccq",
+      "name": "koupaliště: lido",
+      "x": 318,
+      "y": 255,
+      "parent": "#fbjazz"
+    },
+    {
+      "@id": "#7w2rwd",
+      "name": "koupat: to bathe",
+      "x": 116,
+      "y": 348,
+      "parent": "#fbjazz"
+    },
+    {
+      "@id": "#rq7mwd",
+      "name": "koupelna: bathroom",
+      "x": -116,
+      "y": 348,
+      "parent": "#fbjazz"
+    },
+    {
+      "@id": "#yji5m5",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ysserb",
+      "name": "Wiktionary: koupel",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/koupel#Czech",
+      "parent": "#yji5m5"
+    },
+    {
+      "@id": "#fgtex4",
+      "name": "Wiktionary: Proto-Slavic *kǫpělь",
+      "x": -454,
+      "y": 97,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/k%C7%ABp%C4%9Bl%D1%8C",
+      "parent": "#yji5m5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

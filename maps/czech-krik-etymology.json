@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech křik etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#9fdf3j",
+      "name": "Meaning: “shouting, screaming”",
+      "x": -242,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gtbsjy",
+      "name": "Shouting, screaming",
+      "x": -494,
+      "y": -98,
+      "parent": "#9fdf3j"
+    },
+    {
+      "@id": "#hrr7z9",
+      "name": "Word history",
+      "x": -28,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6jfd6s",
+      "name": "Old Czech křik",
+      "x": -337,
+      "y": -239,
+      "parent": "#hrr7z9"
+    },
+    {
+      "@id": "#fnx9gt",
+      "name": "Proto-Slavic *krȋkъ",
+      "x": -160,
+      "y": -337,
+      "parent": "#hrr7z9"
+    },
+    {
+      "@id": "#r9w7if",
+      "name": "Proto-Balto-Slavic *kreik-",
+      "x": 58,
+      "y": -389,
+      "parent": "#hrr7z9"
+    },
+    {
+      "@id": "#tkkkgd",
+      "name": "Proto-Indo-European *(s)kreik-",
+      "x": 256,
+      "y": -296,
+      "parent": "#hrr7z9"
+    },
+    {
+      "@id": "#fmi8pv",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#22nrhp",
+      "name": "Polish krzyk",
+      "x": 398,
+      "y": -167,
+      "parent": "#fmi8pv"
+    },
+    {
+      "@id": "#xbymeb",
+      "name": "Slovak krik",
+      "x": 450,
+      "y": 0,
+      "parent": "#fmi8pv"
+    },
+    {
+      "@id": "#893que",
+      "name": "Russian крик",
+      "x": 398,
+      "y": 167,
+      "parent": "#fmi8pv"
+    },
+    {
+      "@id": "#pxxff3",
+      "name": "Related Czech words",
+      "x": 28,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9gyd73",
+      "name": "křičící: screaming",
+      "x": 256,
+      "y": 296,
+      "parent": "#pxxff3"
+    },
+    {
+      "@id": "#84dzvn",
+      "name": "vykřičník: exclamation mark",
+      "x": 54,
+      "y": 357,
+      "parent": "#pxxff3"
+    },
+    {
+      "@id": "#kt4kau",
+      "name": "výkřik: scream",
+      "x": -188,
+      "y": 397,
+      "parent": "#pxxff3"
+    },
+    {
+      "@id": "#uuz4fy",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kmaj7p",
+      "name": "Wiktionary: křik",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/k%C5%99ik#Czech",
+      "parent": "#uuz4fy"
+    },
+    {
+      "@id": "#q6cdb4",
+      "name": "Wiktionary: Proto-Slavic *krikъ",
+      "x": -456,
+      "y": 90,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/krik%D1%8A",
+      "parent": "#uuz4fy"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

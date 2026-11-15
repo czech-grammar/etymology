@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech včela etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#zs4ggj",
+      "name": "Meaning: “bee”",
+      "x": -223,
+      "y": -44,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2kfz2w",
+      "name": "Bee",
+      "x": -437,
+      "y": -86,
+      "parent": "#zs4ggj"
+    },
+    {
+      "@id": "#zu2h7x",
+      "name": "Word history",
+      "x": -28,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jcy25x",
+      "name": "Old Czech včela",
+      "x": -337,
+      "y": -239,
+      "parent": "#zu2h7x"
+    },
+    {
+      "@id": "#5a4ke2",
+      "name": "Proto-Slavic *bьčela",
+      "x": -160,
+      "y": -337,
+      "parent": "#zu2h7x"
+    },
+    {
+      "@id": "#56teps",
+      "name": "Proto-Balto-Slavic *bikelā́ˀ",
+      "x": 58,
+      "y": -389,
+      "parent": "#zu2h7x"
+    },
+    {
+      "@id": "#i79fnk",
+      "name": "Proto-Indo-European *bʰi-k-el-éh₂",
+      "x": 256,
+      "y": -296,
+      "parent": "#zu2h7x"
+    },
+    {
+      "@id": "#a4x5rq",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m6inq6",
+      "name": "Polish pszczoła",
+      "x": 398,
+      "y": -167,
+      "parent": "#a4x5rq"
+    },
+    {
+      "@id": "#ntg2au",
+      "name": "Slovak včela;",
+      "x": 450,
+      "y": 0,
+      "parent": "#a4x5rq"
+    },
+    {
+      "@id": "#qfm8gn",
+      "name": "Russian пчела;",
+      "x": 398,
+      "y": 167,
+      "parent": "#a4x5rq"
+    },
+    {
+      "@id": "#k3xe2k",
+      "name": "Related Czech words",
+      "x": 28,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mr9a9x",
+      "name": "včelař: beekeeper",
+      "x": 256,
+      "y": 296,
+      "parent": "#k3xe2k"
+    },
+    {
+      "@id": "#rvum62",
+      "name": "včelín: apiary",
+      "x": 54,
+      "y": 357,
+      "parent": "#k3xe2k"
+    },
+    {
+      "@id": "#2smyqe",
+      "name": "včelojed: honey buzzard",
+      "x": -174,
+      "y": 367,
+      "parent": "#k3xe2k"
+    },
+    {
+      "@id": "#uki8nd",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tnmte5",
+      "name": "Wiktionary: včela",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/v%C4%8Dela#Czech",
+      "parent": "#uki8nd"
+    },
+    {
+      "@id": "#zm9xp6",
+      "name": "Wiktionary: Proto-Slavic *bьčela",
+      "x": -456,
+      "y": 90,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/b%D1%8C%C4%8Dela",
+      "parent": "#uki8nd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

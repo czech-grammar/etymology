@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech mouka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#pqr8uc",
+      "name": "Meaning: “flour”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8x39t7",
+      "name": "Flour",
+      "x": -428,
+      "y": -111,
+      "parent": "#pqr8uc"
+    },
+    {
+      "@id": "#fv6wxw",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kgur6b",
+      "name": "Old Czech múka",
+      "x": -265,
+      "y": -291,
+      "parent": "#fv6wxw"
+    },
+    {
+      "@id": "#5braiw",
+      "name": "Proto-Slavic *mǭka, “flour”",
+      "x": 0,
+      "y": -360,
+      "parent": "#fv6wxw"
+    },
+    {
+      "@id": "#4x4mtd",
+      "name": "Proto-Balto-Slavic *múnkāˀ",
+      "x": 265,
+      "y": -291,
+      "parent": "#fv6wxw"
+    },
+    {
+      "@id": "#ygnj5f",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hpiqx9",
+      "name": "Polish męka",
+      "x": 428,
+      "y": -111,
+      "parent": "#ygnj5f"
+    },
+    {
+      "@id": "#w9mapm",
+      "name": "Slovak muka",
+      "x": 428,
+      "y": 111,
+      "parent": "#ygnj5f"
+    },
+    {
+      "@id": "#th7st6",
+      "name": "Russian мука",
+      "x": 265,
+      "y": 291,
+      "parent": "#ygnj5f"
+    },
+    {
+      "@id": "#p4yn3z",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kit32r",
+      "name": "moučník: cake",
+      "x": 0,
+      "y": 360,
+      "parent": "#p4yn3z"
+    },
+    {
+      "@id": "#wgc3c8",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zad4vz",
+      "name": "Wiktionary: mouka",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/mouka#Czech",
+      "parent": "#wgc3c8"
+    },
+    {
+      "@id": "#hiyrxa",
+      "name": "Wiktionary: Proto-Slavic *mǫka",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/m%C7%ABka",
+      "parent": "#wgc3c8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

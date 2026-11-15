@@ -1,0 +1,21 @@
+category: A2 nouns
+aliases: kolej etymology, origin of kolej, kolej word origin, etymology of kolej
+- Czech kolej etymology
+  - Meaning: “hall of residence”
+    - Hall of residence
+    - Rut, track, groove
+  - Word history
+    - Old Czech kolejě
+    - Proto-Slavic *kolěja
+    - From *kolo + *-ěja
+  - Slavic cousins
+    - Polish kolej
+    - Slovak koľaj
+    - Russian колея;
+  - Related Czech words
+    - kolejiště: trackage
+    - kolejnice: rail
+    - vykolejit: to derail
+  - Sources
+    - [Wiktionary: kolej](https://en.wiktionary.org/wiki/kolej#Czech)
+    - [Wiktionary: Proto-Slavic *kolěja](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kol%C4%9Bja)

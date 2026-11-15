@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kupé etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fgg2s9",
+      "name": "Meaning: “compartment (train)”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kqvp6f",
+      "name": "Compartment (train)",
+      "x": -318,
+      "y": -255,
+      "parent": "#fgg2s9"
+    },
+    {
+      "@id": "#p38kmf",
+      "name": "A coupe or coupé",
+      "x": 318,
+      "y": -255,
+      "parent": "#fgg2s9"
+    },
+    {
+      "@id": "#abhcfx",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#44b2md",
+      "name": "From French coupé",
+      "x": 318,
+      "y": 255,
+      "parent": "#abhcfx"
+    },
+    {
+      "@id": "#vzs8ix",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zsbbiz",
+      "name": "Wiktionary: kupé",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/kup%C3%A9#Czech",
+      "parent": "#vzs8ix"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

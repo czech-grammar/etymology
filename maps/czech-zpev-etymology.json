@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech zpěv etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#4gbgtv",
+      "name": "Meaning: “singing”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bt6h6h",
+      "name": "Singing",
+      "x": -318,
+      "y": -255,
+      "parent": "#4gbgtv"
+    },
+    {
+      "@id": "#x69s5p",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qqry88",
+      "name": "From the verb zpívat",
+      "x": 318,
+      "y": -255,
+      "parent": "#x69s5p"
+    },
+    {
+      "@id": "#6whdp9",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wvy58a",
+      "name": "zpěvník: songbook",
+      "x": 318,
+      "y": 255,
+      "parent": "#6whdp9"
+    },
+    {
+      "@id": "#qb8ijx",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3iuw64",
+      "name": "Wiktionary: zpěv",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/zp%C4%9Bv#Czech",
+      "parent": "#qb8ijx"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

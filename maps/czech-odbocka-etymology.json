@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech odbočka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#su6qdj",
+      "name": "Meaning: “turning, turn-off”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bn3y4e",
+      "name": "Turning, turn-off",
+      "x": -318,
+      "y": -255,
+      "parent": "#su6qdj"
+    },
+    {
+      "@id": "#hitxem",
+      "name": "Digression",
+      "x": 318,
+      "y": -255,
+      "parent": "#su6qdj"
+    },
+    {
+      "@id": "#5mwx7s",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#krnmn9",
+      "name": "From odbočit + -ka",
+      "x": 318,
+      "y": 255,
+      "parent": "#5mwx7s"
+    },
+    {
+      "@id": "#h68str",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#irm7zh",
+      "name": "Wiktionary: odbočka",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/odbo%C4%8Dka#Czech",
+      "parent": "#h68str"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

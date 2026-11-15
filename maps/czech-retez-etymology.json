@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech řetěz etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fqqzzi",
+      "name": "Meaning: “chain”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iq6wxz",
+      "name": "Chain",
+      "x": -428,
+      "y": -111,
+      "parent": "#fqqzzi"
+    },
+    {
+      "@id": "#gz7sec",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h6muim",
+      "name": "Proto-Slavic *retęzь or *retędzь",
+      "x": -265,
+      "y": -291,
+      "parent": "#gz7sec"
+    },
+    {
+      "@id": "#f5w4c5",
+      "name": "Borrowed from Proto-Germanic *rakentǭ",
+      "x": 0,
+      "y": -360,
+      "parent": "#gz7sec"
+    },
+    {
+      "@id": "#tzizyr",
+      "name": "Proto-Indo-European *reǵ-, “to bind”",
+      "x": 265,
+      "y": -291,
+      "parent": "#gz7sec"
+    },
+    {
+      "@id": "#i4hyha",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t5rvdk",
+      "name": "Polish wrzeciądz",
+      "x": 428,
+      "y": -111,
+      "parent": "#i4hyha"
+    },
+    {
+      "@id": "#fwb5uv",
+      "name": "Slovak reťaz",
+      "x": 428,
+      "y": 111,
+      "parent": "#i4hyha"
+    },
+    {
+      "@id": "#iguyg3",
+      "name": "Ukrainian ретязь",
+      "x": 265,
+      "y": 291,
+      "parent": "#i4hyha"
+    },
+    {
+      "@id": "#uqmqe8",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cx8vy2",
+      "name": "řetězit: to concatenate",
+      "x": 0,
+      "y": 360,
+      "parent": "#uqmqe8"
+    },
+    {
+      "@id": "#44f5z5",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ig6n4y",
+      "name": "Wiktionary: řetěz",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/%C5%99et%C4%9Bz#Czech",
+      "parent": "#44f5z5"
+    },
+    {
+      "@id": "#4yxtex",
+      "name": "Wiktionary: Proto-Slavic *retędzь",
+      "x": -447,
+      "y": 116,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/ret%C4%99dz%D1%8C",
+      "parent": "#44f5z5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

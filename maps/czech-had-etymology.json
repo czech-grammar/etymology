@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech had etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8yajig",
+      "name": "Meaning: “snake”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cp6v3q",
+      "name": "Snake",
+      "x": -428,
+      "y": -111,
+      "parent": "#8yajig"
+    },
+    {
+      "@id": "#3uwka3",
+      "name": "Word history",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#etkefp",
+      "name": "Old Czech had",
+      "x": -265,
+      "y": -291,
+      "parent": "#3uwka3"
+    },
+    {
+      "@id": "#evumv6",
+      "name": "Proto-Slavic *gadъ",
+      "x": 0,
+      "y": -360,
+      "parent": "#3uwka3"
+    },
+    {
+      "@id": "#ay8pd6",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tuu6vz",
+      "name": "Polish gad",
+      "x": 265,
+      "y": -291,
+      "parent": "#ay8pd6"
+    },
+    {
+      "@id": "#7kkra9",
+      "name": "Slovak had",
+      "x": 428,
+      "y": -111,
+      "parent": "#ay8pd6"
+    },
+    {
+      "@id": "#emk82i",
+      "name": "Russian гад",
+      "x": 428,
+      "y": 111,
+      "parent": "#ay8pd6"
+    },
+    {
+      "@id": "#7ntpfg",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2x5k58",
+      "name": "hadice: hose",
+      "x": 265,
+      "y": 291,
+      "parent": "#7ntpfg"
+    },
+    {
+      "@id": "#62534g",
+      "name": "hádě: young snake",
+      "x": 0,
+      "y": 360,
+      "parent": "#7ntpfg"
+    },
+    {
+      "@id": "#phqscf",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xpxqxb",
+      "name": "Wiktionary: had",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/had#Czech",
+      "parent": "#phqscf"
+    },
+    {
+      "@id": "#nqehnc",
+      "name": "Wiktionary: Proto-Slavic *gadъ",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/gad%D1%8A",
+      "parent": "#phqscf"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

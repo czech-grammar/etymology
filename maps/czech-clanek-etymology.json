@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech článek etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2np3vj",
+      "name": "Meaning: “article”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bun6hm",
+      "name": "Article",
+      "x": -318,
+      "y": -255,
+      "parent": "#2np3vj"
+    },
+    {
+      "@id": "#dudc5k",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iwsgzr",
+      "name": "Proto-Slavic *čelnъkъ",
+      "x": 318,
+      "y": -255,
+      "parent": "#dudc5k"
+    },
+    {
+      "@id": "#ndn75w",
+      "name": "Built from člen + -ek",
+      "x": 318,
+      "y": 255,
+      "parent": "#dudc5k"
+    },
+    {
+      "@id": "#ijuwbi",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mw9mep",
+      "name": "Wiktionary: článek",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/%C4%8Dl%C3%A1nek#Czech",
+      "parent": "#ijuwbi"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

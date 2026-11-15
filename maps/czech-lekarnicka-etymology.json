@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech lékárnička etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qnix26",
+      "name": "Meaning: “first-aid kit”",
+      "x": -176,
+      "y": -118,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#igfdg4",
+      "name": "First-aid kit",
+      "x": -423,
+      "y": -123,
+      "parent": "#qnix26"
+    },
+    {
+      "@id": "#6x6und",
+      "name": "First aid kit",
+      "x": -225,
+      "y": -312,
+      "parent": "#qnix26"
+    },
+    {
+      "@id": "#nhsad2",
+      "name": "Word history",
+      "x": 216,
+      "y": -63,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iki6rs",
+      "name": "From lékárna + -ička",
+      "x": 78,
+      "y": -355,
+      "parent": "#nhsad2"
+    },
+    {
+      "@id": "#y3dr5c",
+      "name": "Root: Proto-Slavic *lěkъ",
+      "x": 345,
+      "y": -231,
+      "parent": "#nhsad2"
+    },
+    {
+      "@id": "#6bbqib",
+      "name": "Proto-Balto-Slavic *lajkás",
+      "x": 450,
+      "y": 0,
+      "parent": "#nhsad2"
+    },
+    {
+      "@id": "#gi3dgb",
+      "name": "Proto-Indo-European *loykʷós",
+      "x": 345,
+      "y": 231,
+      "parent": "#nhsad2"
+    },
+    {
+      "@id": "#kn7ige",
+      "name": "Cousins of the root *lěkъ",
+      "x": 40,
+      "y": 181,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ipbs78",
+      "name": "Russian лек",
+      "x": 78,
+      "y": 355,
+      "parent": "#kn7ige"
+    },
+    {
+      "@id": "#7t5ju8",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hufn32",
+      "name": "Wiktionary: lékárnička",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/l%C3%A9k%C3%A1rni%C4%8Dka#Czech",
+      "parent": "#7t5ju8"
+    },
+    {
+      "@id": "#es8nes",
+      "name": "Wiktionary: Proto-Slavic *lěkъ",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/l%C4%9Bk%D1%8A",
+      "parent": "#7t5ju8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

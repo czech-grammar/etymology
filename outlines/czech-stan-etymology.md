@@ -1,0 +1,21 @@
+category: A2 nouns
+aliases: stan etymology, origin of stan, stan word origin, etymology of stan
+- Czech stan etymology
+  - Meaning: “tent”
+    - Tent
+  - Word history
+    - Old Czech stan
+    - Proto-Slavic *stanъ
+    - Proto-Balto-Slavic *stāˀnas
+    - Proto-Indo-European *stéh₂-no-m
+  - Slavic cousins
+    - Polish stan
+    - Slovak stan
+    - Russian стан
+  - Related Czech words
+    - stanovat: to camp
+    - stanoviště: stand
+    - stanovit: to determine
+  - Sources
+    - [Wiktionary: stan](https://en.wiktionary.org/wiki/stan#Czech)
+    - [Wiktionary: Proto-Slavic *stanъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/stan%D1%8A)

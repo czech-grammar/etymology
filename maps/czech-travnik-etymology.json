@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech trávník etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rsg6u9",
+      "name": "Meaning: “lawn”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#av4hiz",
+      "name": "Lawn",
+      "x": -428,
+      "y": -111,
+      "parent": "#rsg6u9"
+    },
+    {
+      "@id": "#bbcbgy",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h3fmws",
+      "name": "Old Czech trávník",
+      "x": -265,
+      "y": -291,
+      "parent": "#bbcbgy"
+    },
+    {
+      "@id": "#saeguv",
+      "name": "Proto-Slavic *travьnikъ",
+      "x": 0,
+      "y": -360,
+      "parent": "#bbcbgy"
+    },
+    {
+      "@id": "#ztipv6",
+      "name": "From *trava + *-ьnikъ",
+      "x": 265,
+      "y": -291,
+      "parent": "#bbcbgy"
+    },
+    {
+      "@id": "#7f62gq",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aqiqnf",
+      "name": "Polish trawnik",
+      "x": 428,
+      "y": -111,
+      "parent": "#7f62gq"
+    },
+    {
+      "@id": "#cn4vqg",
+      "name": "Slovak trávnik",
+      "x": 428,
+      "y": 111,
+      "parent": "#7f62gq"
+    },
+    {
+      "@id": "#um4s24",
+      "name": "Russian травник",
+      "x": 265,
+      "y": 291,
+      "parent": "#7f62gq"
+    },
+    {
+      "@id": "#a69bti",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#snr73r",
+      "name": "travina: grass",
+      "x": 0,
+      "y": 360,
+      "parent": "#a69bti"
+    },
+    {
+      "@id": "#yc94sb",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gjjbv2",
+      "name": "Wiktionary: trávník",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/tr%C3%A1vn%C3%ADk#Czech",
+      "parent": "#yc94sb"
+    },
+    {
+      "@id": "#ifuswb",
+      "name": "Wiktionary: Proto-Slavic *travьnikъ",
+      "x": -447,
+      "y": 116,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/trav%D1%8Cnik%D1%8A",
+      "parent": "#yc94sb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

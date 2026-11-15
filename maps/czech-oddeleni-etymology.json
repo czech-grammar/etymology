@@ -1,0 +1,194 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech oddělení etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8tqmv2",
+      "name": "Meaning: “department (of a shop)”",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y849eq",
+      "name": "Department (of a shop)",
+      "x": -508,
+      "y": -117,
+      "parent": "#8tqmv2"
+    },
+    {
+      "@id": "#u9qbdy",
+      "name": "Verbal noun of oddělit",
+      "x": -295,
+      "y": -272,
+      "parent": "#8tqmv2"
+    },
+    {
+      "@id": "#4cq2dh",
+      "name": "Word history",
+      "x": 151,
+      "y": -139,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#de6uwg",
+      "name": "From oddělit + -ení",
+      "x": -64,
+      "y": -356,
+      "parent": "#4cq2dh"
+    },
+    {
+      "@id": "#pvfx2m",
+      "name": "Root: Proto-Slavic *děliti",
+      "x": 195,
+      "y": -342,
+      "parent": "#4cq2dh"
+    },
+    {
+      "@id": "#hzmqqc",
+      "name": "From *dělъ + *-iti",
+      "x": 379,
+      "y": -195,
+      "parent": "#4cq2dh"
+    },
+    {
+      "@id": "#iwakyb",
+      "name": "Proto-Balto-Slavic *dail-",
+      "x": 450,
+      "y": 0,
+      "parent": "#4cq2dh"
+    },
+    {
+      "@id": "#njy6hi",
+      "name": "Cousins of the root *děliti",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gci636",
+      "name": "Polish dzielić",
+      "x": 379,
+      "y": 195,
+      "parent": "#njy6hi"
+    },
+    {
+      "@id": "#jgtnjn",
+      "name": "Slovak deliť",
+      "x": 187,
+      "y": 327,
+      "parent": "#njy6hi"
+    },
+    {
+      "@id": "#gi2x5s",
+      "name": "Russian делить",
+      "x": -64,
+      "y": 356,
+      "parent": "#njy6hi"
+    },
+    {
+      "@id": "#nt2bia",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rv9zie",
+      "name": "Wiktionary: oddělení",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/odd%C4%9Blen%C3%AD#Czech",
+      "parent": "#nt2bia"
+    },
+    {
+      "@id": "#qru7fv",
+      "name": "Wiktionary: Proto-Slavic *děliti",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/d%C4%9Bliti",
+      "parent": "#nt2bia"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

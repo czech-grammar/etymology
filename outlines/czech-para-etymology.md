@@ -1,0 +1,21 @@
+category: B2 nouns
+aliases: pára etymology, origin of pára, pára word origin, etymology of pára
+- Czech pára etymology
+  - Meaning: “steam”
+    - Steam
+    - Vapor
+  - Word history
+    - Old Czech pára
+    - Proto-Slavic *para, *parъ
+    - From the verb *pariti
+  - Slavic cousins
+    - Polish para, “steam”
+    - Slovak para
+    - Russian пар
+  - Related Czech words
+    - odpar: vaporization
+    - opar: mist
+    - parník: steamboat
+  - Sources
+    - [Wiktionary: pára](https://en.wiktionary.org/wiki/p%C3%A1ra#Czech)
+    - [Wiktionary: Proto-Slavic *para](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/para)

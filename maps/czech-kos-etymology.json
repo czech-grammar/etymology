@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech koš etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#z7imhd",
+      "name": "Meaning: “basket; bin”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ddswy2",
+      "name": "Basket; bin",
+      "x": -432,
+      "y": -101,
+      "parent": "#z7imhd"
+    },
+    {
+      "@id": "#xz2ka2",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e9i8gc",
+      "name": "Old Czech koš",
+      "x": -295,
+      "y": -272,
+      "parent": "#xz2ka2"
+    },
+    {
+      "@id": "#nnf27v",
+      "name": "Proto-Slavic *košь",
+      "x": -64,
+      "y": -356,
+      "parent": "#xz2ka2"
+    },
+    {
+      "@id": "#gbs9jr",
+      "name": "Deeper origin uncertain",
+      "x": 187,
+      "y": -327,
+      "parent": "#xz2ka2"
+    },
+    {
+      "@id": "#7mc4ev",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hxjyws",
+      "name": "Polish kosz",
+      "x": 379,
+      "y": -195,
+      "parent": "#7mc4ev"
+    },
+    {
+      "@id": "#zuaf4w",
+      "name": "Slovak kôš",
+      "x": 450,
+      "y": 0,
+      "parent": "#7mc4ev"
+    },
+    {
+      "@id": "#a7dz2m",
+      "name": "Russian кош",
+      "x": 379,
+      "y": 195,
+      "parent": "#7mc4ev"
+    },
+    {
+      "@id": "#p9896u",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#au988v",
+      "name": "košíková: basketball",
+      "x": 187,
+      "y": 327,
+      "parent": "#p9896u"
+    },
+    {
+      "@id": "#uze62c",
+      "name": "košový: basket",
+      "x": -64,
+      "y": 356,
+      "parent": "#p9896u"
+    },
+    {
+      "@id": "#wiyph3",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n2v45x",
+      "name": "Wiktionary: koš",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/ko%C5%A1#Czech",
+      "parent": "#wiyph3"
+    },
+    {
+      "@id": "#ttnkxd",
+      "name": "Wiktionary: Proto-Slavic *košь",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/ko%C5%A1%D1%8C",
+      "parent": "#wiyph3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

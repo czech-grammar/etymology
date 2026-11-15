@@ -1,0 +1,22 @@
+category: A2 nouns
+aliases: známý etymology, origin of známý, známý word origin, etymology of známý
+- Czech známý etymology
+  - Meaning: “acquaintance”
+    - Acquaintance
+    - Known
+  - Word history
+    - Old Czech známý
+    - Proto-Slavic *znajemъ
+    - Proto-Balto-Slavic *źnōˀtei
+    - Proto-Indo-European *ǵneh₃-, “to know”
+  - Slavic cousins
+    - Polish znać
+    - Slovak znať
+    - Russian знать
+  - Related Czech words
+    - seznam: a list
+    - seznamka: dating service
+    - oznámit: to announce
+  - Sources
+    - [Wiktionary: známý](https://en.wiktionary.org/wiki/zn%C3%A1m%C3%BD#Czech)
+    - [Wiktionary: Proto-Slavic *znati](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/znati)

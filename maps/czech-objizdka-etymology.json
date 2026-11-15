@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech objížďka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#j8a292",
+      "name": "Meaning: “detour”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2qn3ju",
+      "name": "Detour",
+      "x": -225,
+      "y": -312,
+      "parent": "#j8a292"
+    },
+    {
+      "@id": "#ui58fh",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p693m8",
+      "name": "From objíždět + -ka",
+      "x": 450,
+      "y": 0,
+      "parent": "#ui58fh"
+    },
+    {
+      "@id": "#heprpz",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3dduuq",
+      "name": "Wiktionary: objížďka",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/obj%C3%AD%C5%BE%C4%8Fka#Czech",
+      "parent": "#heprpz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

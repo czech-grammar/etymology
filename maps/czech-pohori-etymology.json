@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech pohoří etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xp523c",
+      "name": "Meaning: “mountain range”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qf57ce",
+      "name": "Mountain range",
+      "x": -225,
+      "y": -312,
+      "parent": "#xp523c"
+    },
+    {
+      "@id": "#iysy3n",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#67fjui",
+      "name": "From po- + hora",
+      "x": 450,
+      "y": 0,
+      "parent": "#iysy3n"
+    },
+    {
+      "@id": "#mqwx5w",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yhw9qj",
+      "name": "Wiktionary: pohoří",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/poho%C5%99%C3%AD#Czech",
+      "parent": "#mqwx5w"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

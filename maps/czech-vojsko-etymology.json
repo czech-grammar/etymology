@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech vojsko etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#tgcsn8",
+      "name": "Meaning: “army, troops”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5x9c9x",
+      "name": "Army, troops",
+      "x": -416,
+      "y": -138,
+      "parent": "#tgcsn8"
+    },
+    {
+      "@id": "#dprww3",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yz5k8z",
+      "name": "Old Czech vojsko",
+      "x": -172,
+      "y": -333,
+      "parent": "#dprww3"
+    },
+    {
+      "@id": "#zqnstt",
+      "name": "Proto-Slavic *vojьsko",
+      "x": 172,
+      "y": -333,
+      "parent": "#dprww3"
+    },
+    {
+      "@id": "#8u8ib9",
+      "name": "Slavic cousins",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#33vnu8",
+      "name": "Polish wojsko",
+      "x": 416,
+      "y": -138,
+      "parent": "#8u8ib9"
+    },
+    {
+      "@id": "#i8k5c5",
+      "name": "Slovak vojsko",
+      "x": 416,
+      "y": 138,
+      "parent": "#8u8ib9"
+    },
+    {
+      "@id": "#2tq3cm",
+      "name": "Russian войско",
+      "x": 172,
+      "y": 333,
+      "parent": "#8u8ib9"
+    },
+    {
+      "@id": "#pcpivk",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ref7pu",
+      "name": "Wiktionary: vojsko",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/vojsko#Czech",
+      "parent": "#pcpivk"
+    },
+    {
+      "@id": "#s84tnk",
+      "name": "Wiktionary: Proto-Slavic *vojьsko",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/voj%D1%8Csko",
+      "parent": "#pcpivk"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

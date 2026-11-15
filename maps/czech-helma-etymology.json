@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech helma etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gv26as",
+      "name": "Meaning: “helmet”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pn9j94",
+      "name": "Helmet",
+      "x": -225,
+      "y": -312,
+      "parent": "#gv26as"
+    },
+    {
+      "@id": "#dsjche",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jhie43",
+      "name": "Borrowed from German Helm",
+      "x": 470,
+      "y": 0,
+      "parent": "#dsjche"
+    },
+    {
+      "@id": "#nw8jii",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ektp62",
+      "name": "Wiktionary: helma",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/helma#Czech",
+      "parent": "#nw8jii"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

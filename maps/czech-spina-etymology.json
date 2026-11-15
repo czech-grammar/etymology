@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech špína etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#drgaki",
+      "name": "Meaning: “dirt”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7k5ivi",
+      "name": "Dirt",
+      "x": -390,
+      "y": -180,
+      "parent": "#drgaki"
+    },
+    {
+      "@id": "#rx77hz",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#as5hnx",
+      "name": "Old Czech špína",
+      "x": 0,
+      "y": -360,
+      "parent": "#rx77hz"
+    },
+    {
+      "@id": "#m28sa5",
+      "name": "Related Czech words",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rqbsi2",
+      "name": "špinavý: dirty",
+      "x": 390,
+      "y": -180,
+      "parent": "#m28sa5"
+    },
+    {
+      "@id": "#fwy7v6",
+      "name": "špinavec: dirtbag",
+      "x": 390,
+      "y": 180,
+      "parent": "#m28sa5"
+    },
+    {
+      "@id": "#isciwu",
+      "name": "špinit: to dirty",
+      "x": 0,
+      "y": 360,
+      "parent": "#m28sa5"
+    },
+    {
+      "@id": "#knbr8h",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#and4hi",
+      "name": "Wiktionary: špína",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/%C5%A1p%C3%ADna#Czech",
+      "parent": "#knbr8h"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech pódium etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#yk5ntn",
+      "name": "Meaning: “podium, platform; winners’ podium”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fxa5q8",
+      "name": "Podium, platform; winners’ podium",
+      "x": -318,
+      "y": -255,
+      "parent": "#yk5ntn"
+    },
+    {
+      "@id": "#2hkdpv",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tdwcsu",
+      "name": "From Latin podium",
+      "x": 318,
+      "y": -255,
+      "parent": "#2hkdpv"
+    },
+    {
+      "@id": "#rvpw9s",
+      "name": "Ancient Greek πόδιον (pódion, “base”)",
+      "x": 318,
+      "y": 255,
+      "parent": "#2hkdpv"
+    },
+    {
+      "@id": "#q3egij",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u5nr7z",
+      "name": "Wiktionary: pódium",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/p%C3%B3dium#Czech",
+      "parent": "#q3egij"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

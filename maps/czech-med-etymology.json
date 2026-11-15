@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech med etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gpzbzu",
+      "name": "Meaning: “honey”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zn247d",
+      "name": "Honey",
+      "x": -435,
+      "y": -93,
+      "parent": "#gpzbzu"
+    },
+    {
+      "@id": "#t27xds",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#twt338",
+      "name": "Old Czech med",
+      "x": -318,
+      "y": -255,
+      "parent": "#t27xds"
+    },
+    {
+      "@id": "#jsg9pk",
+      "name": "Proto-Slavic *mȅdъ",
+      "x": -116,
+      "y": -348,
+      "parent": "#t27xds"
+    },
+    {
+      "@id": "#r88k88",
+      "name": "Proto-Balto-Slavic *medu",
+      "x": 131,
+      "y": -393,
+      "parent": "#t27xds"
+    },
+    {
+      "@id": "#mh2u6r",
+      "name": "Proto-Indo-European *médʰu",
+      "x": 318,
+      "y": -255,
+      "parent": "#t27xds"
+    },
+    {
+      "@id": "#na3vai",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": 48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ifr663",
+      "name": "Polish miód",
+      "x": 435,
+      "y": -93,
+      "parent": "#na3vai"
+    },
+    {
+      "@id": "#fghpw4",
+      "name": "Slovak med",
+      "x": 435,
+      "y": 93,
+      "parent": "#na3vai"
+    },
+    {
+      "@id": "#ucrztt",
+      "name": "Russian мёд",
+      "x": 318,
+      "y": 255,
+      "parent": "#na3vai"
+    },
+    {
+      "@id": "#yja2bn",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xzyd4f",
+      "name": "medovina: mead",
+      "x": 116,
+      "y": 348,
+      "parent": "#yja2bn"
+    },
+    {
+      "@id": "#i5wdc5",
+      "name": "medvěd: bear",
+      "x": -116,
+      "y": 348,
+      "parent": "#yja2bn"
+    },
+    {
+      "@id": "#8cf8b3",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2cvg3u",
+      "name": "Wiktionary: med",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/med#Czech",
+      "parent": "#8cf8b3"
+    },
+    {
+      "@id": "#8z2qs3",
+      "name": "Wiktionary: Proto-Slavic *medъ",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/med%D1%8A",
+      "parent": "#8cf8b3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech stupeň etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ehdete",
+      "name": "Meaning: “degree”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nnj5g2",
+      "name": "Degree",
+      "x": -435,
+      "y": -93,
+      "parent": "#ehdete"
+    },
+    {
+      "@id": "#aqijbu",
+      "name": "Stair",
+      "x": -318,
+      "y": -255,
+      "parent": "#ehdete"
+    },
+    {
+      "@id": "#7teihf",
+      "name": "Word history",
+      "x": 60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#arscda",
+      "name": "Old Czech stupeň",
+      "x": -116,
+      "y": -348,
+      "parent": "#7teihf"
+    },
+    {
+      "@id": "#kf4izs",
+      "name": "Proto-Slavic *stǫpьňь",
+      "x": 116,
+      "y": -348,
+      "parent": "#7teihf"
+    },
+    {
+      "@id": "#p8t6ex",
+      "name": "Deeper origin uncertain",
+      "x": 318,
+      "y": -255,
+      "parent": "#7teihf"
+    },
+    {
+      "@id": "#tru36h",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#au65ry",
+      "name": "Slovak stupeň",
+      "x": 435,
+      "y": -93,
+      "parent": "#tru36h"
+    },
+    {
+      "@id": "#yax6cf",
+      "name": "Russian ступень",
+      "x": 435,
+      "y": 93,
+      "parent": "#tru36h"
+    },
+    {
+      "@id": "#2wx7w6",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fjdtva",
+      "name": "stupnice: scale",
+      "x": 318,
+      "y": 255,
+      "parent": "#2wx7w6"
+    },
+    {
+      "@id": "#cgjkw4",
+      "name": "stupňovat: to compare",
+      "x": 116,
+      "y": 348,
+      "parent": "#2wx7w6"
+    },
+    {
+      "@id": "#tg7at2",
+      "name": "stopa: trace",
+      "x": -116,
+      "y": 348,
+      "parent": "#2wx7w6"
+    },
+    {
+      "@id": "#yntdye",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yywmh5",
+      "name": "Wiktionary: stupeň",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/stupe%C5%88#Czech",
+      "parent": "#yntdye"
+    },
+    {
+      "@id": "#q6vajg",
+      "name": "Wiktionary: Proto-Slavic *stǫpenь",
+      "x": -454,
+      "y": 97,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/st%C7%ABpen%D1%8C",
+      "parent": "#yntdye"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

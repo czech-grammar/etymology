@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech příď etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#hiapaj",
+      "name": "Meaning: “bow (of a ship)”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iiswne",
+      "name": "Bow (of a ship)",
+      "x": -432,
+      "y": -101,
+      "parent": "#hiapaj"
+    },
+    {
+      "@id": "#zp2kfy",
+      "name": "Word history",
+      "x": -96,
+      "y": -167,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yqgsur",
+      "name": "Proto-Slavic *perdьnъ (\"fore",
+      "x": -295,
+      "y": -272,
+      "parent": "#zp2kfy"
+    },
+    {
+      "@id": "#dq35vp",
+      "name": "From *perdъ, “before” + *-ьnъ",
+      "x": -64,
+      "y": -356,
+      "parent": "#zp2kfy"
+    },
+    {
+      "@id": "#hurd7m",
+      "name": "Slavic cousins",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yyuhxj",
+      "name": "Polish przedni",
+      "x": 187,
+      "y": -327,
+      "parent": "#hurd7m"
+    },
+    {
+      "@id": "#8r72ys",
+      "name": "Slovak predný",
+      "x": 379,
+      "y": -195,
+      "parent": "#hurd7m"
+    },
+    {
+      "@id": "#p73iqm",
+      "name": "Russian передний",
+      "x": 450,
+      "y": 0,
+      "parent": "#hurd7m"
+    },
+    {
+      "@id": "#szgncu",
+      "name": "Related Czech words",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dd3pg3",
+      "name": "dopředu: forward",
+      "x": 379,
+      "y": 195,
+      "parent": "#szgncu"
+    },
+    {
+      "@id": "#3znrst",
+      "name": "napřed: first",
+      "x": 187,
+      "y": 327,
+      "parent": "#szgncu"
+    },
+    {
+      "@id": "#xfcexe",
+      "name": "předem: in advance",
+      "x": -64,
+      "y": 356,
+      "parent": "#szgncu"
+    },
+    {
+      "@id": "#smfk6p",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#746gs3",
+      "name": "Wiktionary: příď",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/p%C5%99%C3%AD%C4%8F#Czech",
+      "parent": "#smfk6p"
+    },
+    {
+      "@id": "#ygwkq8",
+      "name": "Wiktionary: Proto-Slavic *perdьnъ",
+      "x": -451,
+      "y": 105,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/perd%D1%8Cn%D1%8A",
+      "parent": "#smfk6p"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

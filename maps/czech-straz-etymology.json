@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech stráž etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fctu2r",
+      "name": "Meaning: “guard, sentry”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b4fr37",
+      "name": "Guard, sentry",
+      "x": -454,
+      "y": -97,
+      "parent": "#fctu2r"
+    },
+    {
+      "@id": "#9yw2u9",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fevcgn",
+      "name": "Old Czech stráž",
+      "x": -318,
+      "y": -255,
+      "parent": "#9yw2u9"
+    },
+    {
+      "@id": "#k2gvg9",
+      "name": "Proto-Slavic *stȏržь",
+      "x": -116,
+      "y": -348,
+      "parent": "#9yw2u9"
+    },
+    {
+      "@id": "#je2kfm",
+      "name": "Proto-Balto-Slavic *starˀgiás",
+      "x": 136,
+      "y": -408,
+      "parent": "#9yw2u9"
+    },
+    {
+      "@id": "#hhd8a9",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hsjrqh",
+      "name": "Polish stróż",
+      "x": 318,
+      "y": -255,
+      "parent": "#hhd8a9"
+    },
+    {
+      "@id": "#rfky8s",
+      "name": "Slovak stráž",
+      "x": 435,
+      "y": -93,
+      "parent": "#hhd8a9"
+    },
+    {
+      "@id": "#a9mrub",
+      "name": "Russian сторож",
+      "x": 435,
+      "y": 93,
+      "parent": "#hhd8a9"
+    },
+    {
+      "@id": "#ft7qgz",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6qn9uj",
+      "name": "strážný: guardian",
+      "x": 318,
+      "y": 255,
+      "parent": "#ft7qgz"
+    },
+    {
+      "@id": "#v25fzj",
+      "name": "ostraha: watch",
+      "x": 116,
+      "y": 348,
+      "parent": "#ft7qgz"
+    },
+    {
+      "@id": "#avd4qc",
+      "name": "strážkyně: female guardian",
+      "x": -121,
+      "y": 363,
+      "parent": "#ft7qgz"
+    },
+    {
+      "@id": "#j6jnyc",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8j6uiu",
+      "name": "Wiktionary: stráž",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/str%C3%A1%C5%BE#Czech",
+      "parent": "#j6jnyc"
+    },
+    {
+      "@id": "#x4qrzp",
+      "name": "Wiktionary: Proto-Slavic *storžь",
+      "x": -454,
+      "y": 97,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/stor%C5%BE%D1%8C",
+      "parent": "#j6jnyc"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech chod etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#bfz6kg",
+      "name": "Meaning: “course (of a meal)”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6au5cy",
+      "name": "Course (of a meal)",
+      "x": -428,
+      "y": -111,
+      "parent": "#bfz6kg"
+    },
+    {
+      "@id": "#n2mipu",
+      "name": "Word history",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2t272d",
+      "name": "Old Czech chod",
+      "x": -265,
+      "y": -291,
+      "parent": "#n2mipu"
+    },
+    {
+      "@id": "#g9prpn",
+      "name": "Proto-Slavic *xodъ",
+      "x": 0,
+      "y": -360,
+      "parent": "#n2mipu"
+    },
+    {
+      "@id": "#pjf77q",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4skiqr",
+      "name": "Polish chód",
+      "x": 265,
+      "y": -291,
+      "parent": "#pjf77q"
+    },
+    {
+      "@id": "#kev8bg",
+      "name": "Slovak chod",
+      "x": 428,
+      "y": -111,
+      "parent": "#pjf77q"
+    },
+    {
+      "@id": "#gftctq",
+      "name": "Russian ход",
+      "x": 428,
+      "y": 111,
+      "parent": "#pjf77q"
+    },
+    {
+      "@id": "#bzp7z6",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bwkf2y",
+      "name": "nadchod: pedestrian overpass",
+      "x": 265,
+      "y": 291,
+      "parent": "#bzp7z6"
+    },
+    {
+      "@id": "#rrz6zb",
+      "name": "podchod: pedestrian underpass",
+      "x": 0,
+      "y": 360,
+      "parent": "#bzp7z6"
+    },
+    {
+      "@id": "#8g25ut",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mmn53r",
+      "name": "Wiktionary: chod",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/chod#Czech",
+      "parent": "#8g25ut"
+    },
+    {
+      "@id": "#nb2it8",
+      "name": "Wiktionary: Proto-Slavic *xodъ",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/xod%D1%8A",
+      "parent": "#8g25ut"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,21 @@
+category: A2 nouns
+aliases: pekárna etymology, origin of pekárna, pekárna word origin, etymology of pekárna
+- Czech pekárna etymology
+  - Meaning: “bakery”
+    - Bakery
+  - Word history
+    - From péct + -árna
+    - Root: Proto-Slavic *peťi
+    - Proto-Balto-Slavic *péktei
+    - Proto-Indo-European *pékʷeti
+  - Cousins of the root *peťi
+    - Polish piec
+    - Slovak piecť
+    - Russian печь
+  - Related Czech words
+    - pekař: baker
+    - pekáč: pan
+    - péct: to bake
+  - Sources
+    - [Wiktionary: pekárna](https://en.wiktionary.org/wiki/pek%C3%A1rna#Czech)
+    - [Wiktionary: Proto-Slavic *peťi](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/pe%C5%A5i)

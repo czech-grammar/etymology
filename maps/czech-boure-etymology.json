@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech bouře etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ygpz4t",
+      "name": "Meaning: “storm”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zyh8wm",
+      "name": "Storm",
+      "x": -435,
+      "y": -93,
+      "parent": "#ygpz4t"
+    },
+    {
+      "@id": "#g2jya9",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ye5zhw",
+      "name": "Old Czech búřě",
+      "x": -318,
+      "y": -255,
+      "parent": "#g2jya9"
+    },
+    {
+      "@id": "#2wajkn",
+      "name": "Proto-Slavic *buřa",
+      "x": -116,
+      "y": -348,
+      "parent": "#g2jya9"
+    },
+    {
+      "@id": "#yv8e6j",
+      "name": "Proto-Balto-Slavic *baurjā",
+      "x": 136,
+      "y": -408,
+      "parent": "#g2jya9"
+    },
+    {
+      "@id": "#7whvh4",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aw67in",
+      "name": "Polish burza",
+      "x": 318,
+      "y": -255,
+      "parent": "#7whvh4"
+    },
+    {
+      "@id": "#jsrqnf",
+      "name": "Slovak búra;",
+      "x": 435,
+      "y": -93,
+      "parent": "#7whvh4"
+    },
+    {
+      "@id": "#mngsad",
+      "name": "Russian буря",
+      "x": 435,
+      "y": 93,
+      "parent": "#7whvh4"
+    },
+    {
+      "@id": "#vrpian",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ku4dfg",
+      "name": "bouřlivý: stormy",
+      "x": 318,
+      "y": 255,
+      "parent": "#vrpian"
+    },
+    {
+      "@id": "#8adcb9",
+      "name": "bouřka: thunderstorm",
+      "x": 116,
+      "y": 348,
+      "parent": "#vrpian"
+    },
+    {
+      "@id": "#ne8c6p",
+      "name": "buřič: rebel",
+      "x": -116,
+      "y": 348,
+      "parent": "#vrpian"
+    },
+    {
+      "@id": "#nd8b4w",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bm9z9g",
+      "name": "Wiktionary: bouře",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/bou%C5%99e#Czech",
+      "parent": "#nd8b4w"
+    },
+    {
+      "@id": "#yviz2a",
+      "name": "Wiktionary: Proto-Slavic *buřa",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/bu%C5%99a",
+      "parent": "#nd8b4w"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

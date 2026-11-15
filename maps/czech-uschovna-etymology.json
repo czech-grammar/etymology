@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech úschovna etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#sb8bwk",
+      "name": "Meaning: “left-luggage office”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8jg388",
+      "name": "Left-luggage office",
+      "x": -318,
+      "y": -255,
+      "parent": "#sb8bwk"
+    },
+    {
+      "@id": "#ui89iq",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yu7xfr",
+      "name": "From úschova + -na",
+      "x": 318,
+      "y": -255,
+      "parent": "#ui89iq"
+    },
+    {
+      "@id": "#xaafnd",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t4uuej",
+      "name": "úschova: safekeeping",
+      "x": 318,
+      "y": 255,
+      "parent": "#xaafnd"
+    },
+    {
+      "@id": "#7q9hfg",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jchjis",
+      "name": "Wiktionary: úschovna",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/%C3%BAschovna#Czech",
+      "parent": "#7q9hfg"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

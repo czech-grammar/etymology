@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech účetní etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rv23ts",
+      "name": "Meaning: “accountant”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#igfbmv",
+      "name": "Accountant",
+      "x": -416,
+      "y": -138,
+      "parent": "#rv23ts"
+    },
+    {
+      "@id": "#xgkfp3",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b7we23",
+      "name": "From účet + -ní",
+      "x": -172,
+      "y": -333,
+      "parent": "#xgkfp3"
+    },
+    {
+      "@id": "#smfxwe",
+      "name": "Root: Proto-Slavic *čisti",
+      "x": 172,
+      "y": -333,
+      "parent": "#xgkfp3"
+    },
+    {
+      "@id": "#an25n6",
+      "name": "Proto-Balto-Slavic *(s)keistéi",
+      "x": 416,
+      "y": -138,
+      "parent": "#xgkfp3"
+    },
+    {
+      "@id": "#y8zc8w",
+      "name": "Proto-Indo-European *(s)kʷeyt-, “to notice”",
+      "x": 416,
+      "y": 138,
+      "parent": "#xgkfp3"
+    },
+    {
+      "@id": "#6edeqi",
+      "name": "Cousins of the root *čisti",
+      "x": 104,
+      "y": 200,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zxw4mb",
+      "name": "Polish czyść",
+      "x": 172,
+      "y": 333,
+      "parent": "#6edeqi"
+    },
+    {
+      "@id": "#nzcy6s",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#im7h8m",
+      "name": "Wiktionary: účetní",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/%C3%BA%C4%8Detn%C3%AD#Czech",
+      "parent": "#nzcy6s"
+    },
+    {
+      "@id": "#picgw2",
+      "name": "Wiktionary: Proto-Slavic *čisti",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C4%8Disti",
+      "parent": "#nzcy6s"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

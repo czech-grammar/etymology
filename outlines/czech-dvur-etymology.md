@@ -1,0 +1,21 @@
+category: A2 nouns
+aliases: dvůr etymology, origin of dvůr, dvůr word origin, etymology of dvůr
+- Czech dvůr etymology
+  - Meaning: “yard, courtyard”
+    - Yard, courtyard
+    - Court, courtyard
+  - Word history
+    - Old Czech dvór
+    - Proto-Slavic *dvòrъ
+    - Proto-Balto-Slavic *dwáran, “doorway”
+  - Slavic cousins
+    - Polish dwór
+    - Slovak dvor
+    - Russian двор
+  - Related Czech words
+    - dvorana: hall
+    - dvorec: court
+    - dvořan: courtier
+  - Sources
+    - [Wiktionary: dvůr](https://en.wiktionary.org/wiki/dv%C5%AFr#Czech)
+    - [Wiktionary: Proto-Slavic *dvorъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/dvor%D1%8A)

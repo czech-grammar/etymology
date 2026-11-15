@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech účes etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#d2j6ih",
+      "name": "Meaning: “hairstyle”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9trths",
+      "name": "Hairstyle",
+      "x": -318,
+      "y": -255,
+      "parent": "#d2j6ih"
+    },
+    {
+      "@id": "#ivreza",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wa28hx",
+      "name": "From the verb učesat",
+      "x": 318,
+      "y": -255,
+      "parent": "#ivreza"
+    },
+    {
+      "@id": "#siu88e",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bwav4i",
+      "name": "učesat: to comb",
+      "x": 318,
+      "y": 255,
+      "parent": "#siu88e"
+    },
+    {
+      "@id": "#bgs9r9",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kzsc79",
+      "name": "Wiktionary: účes",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/%C3%BA%C4%8Des#Czech",
+      "parent": "#bgs9r9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

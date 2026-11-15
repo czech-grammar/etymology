@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech jeskyně etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#k3225c",
+      "name": "Meaning: “cave”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#udgkau",
+      "name": "Cave",
+      "x": -318,
+      "y": -255,
+      "parent": "#k3225c"
+    },
+    {
+      "@id": "#ycnkn7",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xv7mta",
+      "name": "dialectal Proto-Slavic *ěskyni",
+      "x": 318,
+      "y": -255,
+      "parent": "#ycnkn7"
+    },
+    {
+      "@id": "#qz78s7",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#883wss",
+      "name": "jeskyňář: speleologist",
+      "x": 318,
+      "y": 255,
+      "parent": "#qz78s7"
+    },
+    {
+      "@id": "#twycgi",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4yu8k9",
+      "name": "Wiktionary: jeskyně",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/jeskyn%C4%9B#Czech",
+      "parent": "#twycgi"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech údolí etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#jw8j6c",
+      "name": "Meaning: “valley”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kwdr9z",
+      "name": "Valley",
+      "x": -416,
+      "y": -138,
+      "parent": "#jw8j6c"
+    },
+    {
+      "@id": "#as7huv",
+      "name": "Word history",
+      "x": 88,
+      "y": -170,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z4zzuf",
+      "name": "Proto-Slavic *ǫdolьje",
+      "x": -172,
+      "y": -333,
+      "parent": "#as7huv"
+    },
+    {
+      "@id": "#miiu6x",
+      "name": "From * ǫdolъ + *-ьje",
+      "x": 172,
+      "y": -333,
+      "parent": "#as7huv"
+    },
+    {
+      "@id": "#bj7gqc",
+      "name": "Built from údol + -í",
+      "x": 416,
+      "y": -138,
+      "parent": "#as7huv"
+    },
+    {
+      "@id": "#b9nahi",
+      "name": "Slavic cousins",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ngdnsg",
+      "name": "Slovak údolie",
+      "x": 416,
+      "y": 138,
+      "parent": "#b9nahi"
+    },
+    {
+      "@id": "#tnz7z6",
+      "name": "Russian удолье",
+      "x": 172,
+      "y": 333,
+      "parent": "#b9nahi"
+    },
+    {
+      "@id": "#85wzhy",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vsp2jr",
+      "name": "Wiktionary: údolí",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/%C3%BAdol%C3%AD#Czech",
+      "parent": "#85wzhy"
+    },
+    {
+      "@id": "#xv9adk",
+      "name": "Wiktionary: Proto-Slavic *ǫdolьje",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C7%ABdol%D1%8Cje",
+      "parent": "#85wzhy"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

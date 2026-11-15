@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kráska etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#m2e88q",
+      "name": "Meaning: “beauty, beautiful woman”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aajsxw",
+      "name": "Beauty, beautiful woman",
+      "x": -428,
+      "y": -111,
+      "parent": "#m2e88q"
+    },
+    {
+      "@id": "#s95em2",
+      "name": "Word history",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x38gmd",
+      "name": "Proto-Slavic *krasъka",
+      "x": -265,
+      "y": -291,
+      "parent": "#s95em2"
+    },
+    {
+      "@id": "#u3x5kc",
+      "name": "From *krasa or *krasiti + *-ъka",
+      "x": 0,
+      "y": -360,
+      "parent": "#s95em2"
+    },
+    {
+      "@id": "#uy5kna",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fjnxen",
+      "name": "Polish kraska",
+      "x": 265,
+      "y": -291,
+      "parent": "#uy5kna"
+    },
+    {
+      "@id": "#2mrvpg",
+      "name": "Slovak kráska",
+      "x": 428,
+      "y": -111,
+      "parent": "#uy5kna"
+    },
+    {
+      "@id": "#g236uv",
+      "name": "Russian краска",
+      "x": 428,
+      "y": 111,
+      "parent": "#uy5kna"
+    },
+    {
+      "@id": "#hfaiur",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cgfz8w",
+      "name": "krása: beauty",
+      "x": 265,
+      "y": 291,
+      "parent": "#hfaiur"
+    },
+    {
+      "@id": "#user4h",
+      "name": "krásný: beautiful",
+      "x": 0,
+      "y": 360,
+      "parent": "#hfaiur"
+    },
+    {
+      "@id": "#uazdhn",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6647tv",
+      "name": "Wiktionary: kráska",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/kr%C3%A1ska#Czech",
+      "parent": "#uazdhn"
+    },
+    {
+      "@id": "#g5ksq7",
+      "name": "Wiktionary: Proto-Slavic *krasъka",
+      "x": -447,
+      "y": 116,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kras%D1%8Aka",
+      "parent": "#uazdhn"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

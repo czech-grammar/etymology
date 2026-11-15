@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kočárek etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#acvccn",
+      "name": "Meaning: “pram, pushchair”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#35udd4",
+      "name": "Pram, pushchair",
+      "x": -318,
+      "y": -255,
+      "parent": "#acvccn"
+    },
+    {
+      "@id": "#e284cu",
+      "name": "Pram, baby carriage",
+      "x": 318,
+      "y": -255,
+      "parent": "#acvccn"
+    },
+    {
+      "@id": "#5zhwmv",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9h54zr",
+      "name": "From kočár + -ek",
+      "x": 318,
+      "y": 255,
+      "parent": "#5zhwmv"
+    },
+    {
+      "@id": "#7qn2wr",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u5br74",
+      "name": "Wiktionary: kočárek",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/ko%C4%8D%C3%A1rek#Czech",
+      "parent": "#7qn2wr"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

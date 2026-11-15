@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech molo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#zanc8z",
+      "name": "Meaning: “pier, jetty; catwalk”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qsjzi6",
+      "name": "Pier, jetty; catwalk",
+      "x": -318,
+      "y": -255,
+      "parent": "#zanc8z"
+    },
+    {
+      "@id": "#e3d4jq",
+      "name": "Catwalk, runway",
+      "x": 318,
+      "y": -255,
+      "parent": "#zanc8z"
+    },
+    {
+      "@id": "#kg73q3",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zsmxce",
+      "name": "Borrowed from Italian molo",
+      "x": 318,
+      "y": 255,
+      "parent": "#kg73q3"
+    },
+    {
+      "@id": "#vcp2ev",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5hksr3",
+      "name": "Wiktionary: molo",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/molo#Czech",
+      "parent": "#vcp2ev"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

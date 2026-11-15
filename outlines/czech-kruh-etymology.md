@@ -1,0 +1,21 @@
+category: A2 nouns
+aliases: kruh etymology, origin of kruh, kruh word origin, etymology of kruh
+- Czech kruh etymology
+  - Meaning: “circle”
+    - Circle
+    - Disc
+  - Word history
+    - Old Czech kruh
+    - Proto-Slavic *krǫgъ
+    - Proto-Indo-European *krongʰ-o-
+  - Slavic cousins
+    - Polish krąg
+    - Slovak kruh
+    - Russian круг
+  - Related Czech words
+    - zaokrouhlit: to round
+    - kruháč: roundabout
+    - kružidlo: trammel
+  - Sources
+    - [Wiktionary: kruh](https://en.wiktionary.org/wiki/kruh#Czech)
+    - [Wiktionary: Proto-Slavic *krǫgъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kr%C7%ABg%D1%8A)

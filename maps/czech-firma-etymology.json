@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech firma etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#kt7vrk",
+      "name": "Meaning: “company”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zm6j78",
+      "name": "Company",
+      "x": -318,
+      "y": -255,
+      "parent": "#kt7vrk"
+    },
+    {
+      "@id": "#szwese",
+      "name": "Firm",
+      "x": 318,
+      "y": -255,
+      "parent": "#kt7vrk"
+    },
+    {
+      "@id": "#ymhudn",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ifbp7p",
+      "name": "Borrowed from Italian firma",
+      "x": 318,
+      "y": 255,
+      "parent": "#ymhudn"
+    },
+    {
+      "@id": "#rhttpk",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hiid4c",
+      "name": "Wiktionary: firma",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/firma#Czech",
+      "parent": "#rhttpk"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

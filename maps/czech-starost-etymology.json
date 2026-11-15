@@ -1,0 +1,184 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech starost etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3inc6i",
+      "name": "Meaning: “worry”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v89du5",
+      "name": "Worry",
+      "x": -423,
+      "y": -123,
+      "parent": "#3inc6i"
+    },
+    {
+      "@id": "#bjni9f",
+      "name": "Word history",
+      "x": -40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r5mrn8",
+      "name": "From starat + -ost",
+      "x": -225,
+      "y": -312,
+      "parent": "#bjni9f"
+    },
+    {
+      "@id": "#j7zvxj",
+      "name": "Root: Proto-Slavic *starati",
+      "x": 78,
+      "y": -355,
+      "parent": "#bjni9f"
+    },
+    {
+      "@id": "#8swmsk",
+      "name": "Cousins of the root *starati",
+      "x": 290,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#89y2gr",
+      "name": "Polish starać",
+      "x": 345,
+      "y": -231,
+      "parent": "#8swmsk"
+    },
+    {
+      "@id": "#43gkff",
+      "name": "Slovak starať",
+      "x": 530,
+      "y": 0,
+      "parent": "#8swmsk"
+    },
+    {
+      "@id": "#dh3hr3",
+      "name": "Russian стараться",
+      "x": 345,
+      "y": 231,
+      "parent": "#8swmsk"
+    },
+    {
+      "@id": "#bcv49p",
+      "name": "Related Czech words",
+      "x": 40,
+      "y": 181,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#73tewy",
+      "name": "starosta: mayor",
+      "x": 78,
+      "y": 355,
+      "parent": "#bcv49p"
+    },
+    {
+      "@id": "#rik8xe",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nsq5f4",
+      "name": "Wiktionary: starost",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/starost#Czech",
+      "parent": "#rik8xe"
+    },
+    {
+      "@id": "#arrdhc",
+      "name": "Wiktionary: Proto-Slavic *starati",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/starati",
+      "parent": "#rik8xe"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    }
+  ],
+  "selectedNode": 0
+}

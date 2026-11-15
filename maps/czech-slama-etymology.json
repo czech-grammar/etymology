@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech sláma etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2nfzxf",
+      "name": "Meaning: “straw”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sc6jne",
+      "name": "Straw",
+      "x": -428,
+      "y": -111,
+      "parent": "#2nfzxf"
+    },
+    {
+      "@id": "#7sczqz",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xzi2xr",
+      "name": "Old Czech sláma",
+      "x": -265,
+      "y": -291,
+      "parent": "#7sczqz"
+    },
+    {
+      "@id": "#7ytcbr",
+      "name": "Proto-Slavic *solma",
+      "x": 0,
+      "y": -360,
+      "parent": "#7sczqz"
+    },
+    {
+      "@id": "#296g9m",
+      "name": "Proto-Indo-European *ḱolh₂mos",
+      "x": 265,
+      "y": -291,
+      "parent": "#7sczqz"
+    },
+    {
+      "@id": "#5qm6zx",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i45kux",
+      "name": "Polish słoma",
+      "x": 428,
+      "y": -111,
+      "parent": "#5qm6zx"
+    },
+    {
+      "@id": "#g4xcx4",
+      "name": "Slovak slama",
+      "x": 428,
+      "y": 111,
+      "parent": "#5qm6zx"
+    },
+    {
+      "@id": "#3wcxfr",
+      "name": "Russian солома",
+      "x": 265,
+      "y": 291,
+      "parent": "#5qm6zx"
+    },
+    {
+      "@id": "#7myig5",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5xz5dv",
+      "name": "slamák: straw hat",
+      "x": 0,
+      "y": 360,
+      "parent": "#7myig5"
+    },
+    {
+      "@id": "#3akhcu",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r6mdsw",
+      "name": "Wiktionary: sláma",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/sl%C3%A1ma#Czech",
+      "parent": "#3akhcu"
+    },
+    {
+      "@id": "#dcvk5h",
+      "name": "Wiktionary: Proto-Slavic *solma",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/solma",
+      "parent": "#3akhcu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

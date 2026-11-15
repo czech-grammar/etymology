@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech oheň etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ftvxut",
+      "name": "Meaning: “fire”",
+      "x": -223,
+      "y": -44,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gmxpep",
+      "name": "Fire",
+      "x": -437,
+      "y": -86,
+      "parent": "#ftvxut"
+    },
+    {
+      "@id": "#e6jjw6",
+      "name": "Word history",
+      "x": -28,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#59fj4p",
+      "name": "Old Czech oheň",
+      "x": -337,
+      "y": -239,
+      "parent": "#e6jjw6"
+    },
+    {
+      "@id": "#sstpc9",
+      "name": "Proto-Slavic *ogňь",
+      "x": -160,
+      "y": -337,
+      "parent": "#e6jjw6"
+    },
+    {
+      "@id": "#mn5d6f",
+      "name": "Proto-Balto-Slavic *úngnis",
+      "x": 58,
+      "y": -389,
+      "parent": "#e6jjw6"
+    },
+    {
+      "@id": "#nqcb2j",
+      "name": "Proto-Indo-European *h₁n̥gʷnís",
+      "x": 256,
+      "y": -296,
+      "parent": "#e6jjw6"
+    },
+    {
+      "@id": "#zy2twp",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#99mfvd",
+      "name": "Polish ogień",
+      "x": 398,
+      "y": -167,
+      "parent": "#zy2twp"
+    },
+    {
+      "@id": "#gu6j2d",
+      "name": "Slovak oheň",
+      "x": 450,
+      "y": 0,
+      "parent": "#zy2twp"
+    },
+    {
+      "@id": "#hmgfyk",
+      "name": "Russian огонь",
+      "x": 398,
+      "y": 167,
+      "parent": "#zy2twp"
+    },
+    {
+      "@id": "#ajkpyu",
+      "name": "Related Czech words",
+      "x": 28,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zdr4w9",
+      "name": "ohnisko: focus",
+      "x": 256,
+      "y": 296,
+      "parent": "#ajkpyu"
+    },
+    {
+      "@id": "#iftpbk",
+      "name": "ohniště: firepit",
+      "x": 54,
+      "y": 357,
+      "parent": "#ajkpyu"
+    },
+    {
+      "@id": "#gujppr",
+      "name": "ohňostroj: firework",
+      "x": -160,
+      "y": 337,
+      "parent": "#ajkpyu"
+    },
+    {
+      "@id": "#eah5ck",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ekmgue",
+      "name": "Wiktionary: oheň",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/ohe%C5%88#Czech",
+      "parent": "#eah5ck"
+    },
+    {
+      "@id": "#x9amzv",
+      "name": "Wiktionary: Proto-Slavic *ogňь",
+      "x": -437,
+      "y": 86,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/og%C5%88%D1%8C",
+      "parent": "#eah5ck"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

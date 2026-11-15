@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kontejner etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#aya5wy",
+      "name": "Meaning: “container; skip, dumpster”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#npfbet",
+      "name": "Container; skip, dumpster",
+      "x": -225,
+      "y": -312,
+      "parent": "#aya5wy"
+    },
+    {
+      "@id": "#rehb98",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8qt5xb",
+      "name": "Borrowed from English container",
+      "x": 490,
+      "y": 0,
+      "parent": "#rehb98"
+    },
+    {
+      "@id": "#3sk5qs",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#72p2dn",
+      "name": "Wiktionary: kontejner",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/kontejner#Czech",
+      "parent": "#3sk5qs"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech polibek etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ecdp6z",
+      "name": "Meaning: “kiss”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wn77kv",
+      "name": "Kiss",
+      "x": -225,
+      "y": -312,
+      "parent": "#ecdp6z"
+    },
+    {
+      "@id": "#3y7k8s",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ney62t",
+      "name": "From políbit + -ek",
+      "x": 450,
+      "y": 0,
+      "parent": "#3y7k8s"
+    },
+    {
+      "@id": "#7t92g6",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2di8i5",
+      "name": "Wiktionary: polibek",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/polibek#Czech",
+      "parent": "#7t92g6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

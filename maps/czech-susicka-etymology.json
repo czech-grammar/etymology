@@ -1,0 +1,127 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech sušička etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7d45as",
+      "name": "Meaning: “tumble dryer”",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#davdv9",
+      "name": "Tumble dryer",
+      "x": -364,
+      "y": -212,
+      "parent": "#7d45as"
+    },
+    {
+      "@id": "#rxnfug",
+      "name": "Dryer, clothes dryer",
+      "x": 139,
+      "y": -342,
+      "parent": "#7d45as"
+    },
+    {
+      "@id": "#hdnww9",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kpvief",
+      "name": "From sušit + -čka",
+      "x": 450,
+      "y": 0,
+      "parent": "#hdnww9"
+    },
+    {
+      "@id": "#77pi9r",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mhpm8j",
+      "name": "sušit: to dry",
+      "x": 139,
+      "y": 342,
+      "parent": "#77pi9r"
+    },
+    {
+      "@id": "#ctymvi",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z888h7",
+      "name": "Wiktionary: sušička",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/su%C5%A1i%C4%8Dka#Czech",
+      "parent": "#ctymvi"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

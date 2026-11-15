@@ -1,0 +1,149 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech lano etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#khng9h",
+      "name": "Meaning: “rope”",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9r9vdx",
+      "name": "Rope",
+      "x": -405,
+      "y": -156,
+      "parent": "#khng9h"
+    },
+    {
+      "@id": "#mu4qby",
+      "name": "Word history",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ud5zus",
+      "name": "From Middle High German lanne, “chain”",
+      "x": -100,
+      "y": -351,
+      "parent": "#mu4qby"
+    },
+    {
+      "@id": "#tbtqkj",
+      "name": "Old High German lanna, “metal sheet”",
+      "x": 281,
+      "y": -281,
+      "parent": "#mu4qby"
+    },
+    {
+      "@id": "#4vzeg7",
+      "name": "Vulgar Latin lanna",
+      "x": 450,
+      "y": 0,
+      "parent": "#mu4qby"
+    },
+    {
+      "@id": "#f2h7qu",
+      "name": "Latin lāmina, “sheet especially of metal”",
+      "x": 281,
+      "y": 281,
+      "parent": "#mu4qby"
+    },
+    {
+      "@id": "#hqfa7z",
+      "name": "Related Czech words",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kd79xf",
+      "name": "lanovka: cableway",
+      "x": -100,
+      "y": 351,
+      "parent": "#hqfa7z"
+    },
+    {
+      "@id": "#nmj9u7",
+      "name": "Sources",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n6injx",
+      "name": "Wiktionary: lano",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wiktionary.org/wiki/lano#Czech",
+      "parent": "#nmj9u7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

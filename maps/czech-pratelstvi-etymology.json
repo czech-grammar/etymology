@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech přátelství etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qjntqf",
+      "name": "Meaning: “friendship”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gvy6dt",
+      "name": "Friendship",
+      "x": -225,
+      "y": -312,
+      "parent": "#qjntqf"
+    },
+    {
+      "@id": "#7zk2m4",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#44yacm",
+      "name": "From přítel + -ství",
+      "x": 450,
+      "y": 0,
+      "parent": "#7zk2m4"
+    },
+    {
+      "@id": "#ckgrke",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ns8teu",
+      "name": "Wiktionary: přátelství",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/p%C5%99%C3%A1telstv%C3%AD#Czech",
+      "parent": "#ckgrke"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

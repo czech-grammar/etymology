@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech prales etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fp96nb",
+      "name": "Meaning: “primeval forest, jungle”",
+      "x": -176,
+      "y": -118,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8e9a3f",
+      "name": "Primeval forest, jungle",
+      "x": -499,
+      "y": -143,
+      "parent": "#fp96nb"
+    },
+    {
+      "@id": "#k6qe9m",
+      "name": "Old-growth forest, primeval forest",
+      "x": -225,
+      "y": -312,
+      "parent": "#fp96nb"
+    },
+    {
+      "@id": "#bj4nix",
+      "name": "Word history",
+      "x": 115,
+      "y": -159,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iy34zn",
+      "name": "From pra- + les",
+      "x": 78,
+      "y": -355,
+      "parent": "#bj4nix"
+    },
+    {
+      "@id": "#aey9ch",
+      "name": "Root: Proto-Slavic *lěsъ",
+      "x": 345,
+      "y": -231,
+      "parent": "#bj4nix"
+    },
+    {
+      "@id": "#zdfepq",
+      "name": "Cousins of the root *lěsъ",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sk6us5",
+      "name": "Polish las",
+      "x": 450,
+      "y": 0,
+      "parent": "#zdfepq"
+    },
+    {
+      "@id": "#7cfizx",
+      "name": "Slovak les",
+      "x": 345,
+      "y": 231,
+      "parent": "#zdfepq"
+    },
+    {
+      "@id": "#jwempr",
+      "name": "Russian лес",
+      "x": 78,
+      "y": 355,
+      "parent": "#zdfepq"
+    },
+    {
+      "@id": "#5c37ia",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dxaw5k",
+      "name": "Wiktionary: prales",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/prales#Czech",
+      "parent": "#5c37ia"
+    },
+    {
+      "@id": "#rb2aji",
+      "name": "Wiktionary: Proto-Slavic *lěsъ",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/l%C4%9Bs%D1%8A",
+      "parent": "#5c37ia"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

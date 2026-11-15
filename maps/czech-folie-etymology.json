@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech fólie etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#mhbzhy",
+      "name": "Meaning: “foil, cling film”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9b8fii",
+      "name": "Foil, cling film",
+      "x": -318,
+      "y": -255,
+      "parent": "#mhbzhy"
+    },
+    {
+      "@id": "#amecjq",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zrd496",
+      "name": "Borrowed from German Folie, “foil”",
+      "x": 318,
+      "y": -255,
+      "parent": "#amecjq"
+    },
+    {
+      "@id": "#3rcse4",
+      "name": "Vulgar Latin folia",
+      "x": 318,
+      "y": 255,
+      "parent": "#amecjq"
+    },
+    {
+      "@id": "#y3u5st",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#stzupg",
+      "name": "Wiktionary: fólie",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/f%C3%B3lie#Czech",
+      "parent": "#y3u5st"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

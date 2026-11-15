@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kolega etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ae6mu4",
+      "name": "Meaning: “colleague”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v5ck9m",
+      "name": "Colleague",
+      "x": -225,
+      "y": -312,
+      "parent": "#ae6mu4"
+    },
+    {
+      "@id": "#5atd5a",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r4364s",
+      "name": "Borrowed from Latin collega",
+      "x": 470,
+      "y": 0,
+      "parent": "#5atd5a"
+    },
+    {
+      "@id": "#r8uf79",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#36axda",
+      "name": "Wiktionary: kolega",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/kolega#Czech",
+      "parent": "#r8uf79"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

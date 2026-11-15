@@ -1,0 +1,239 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech zlato etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#k5uhe9",
+      "name": "Meaning: “gold”",
+      "x": -224,
+      "y": -41,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a487pp",
+      "name": "Gold",
+      "x": -439,
+      "y": -80,
+      "parent": "#k5uhe9"
+    },
+    {
+      "@id": "#xizmn4",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yi8ciy",
+      "name": "Old Czech zlato",
+      "x": -352,
+      "y": -224,
+      "parent": "#xizmn4"
+    },
+    {
+      "@id": "#fmcbbm",
+      "name": "Proto-Slavic *zolto",
+      "x": -195,
+      "y": -324,
+      "parent": "#xizmn4"
+    },
+    {
+      "@id": "#8cygn2",
+      "name": "Proto-Balto-Slavic *źálˀtan",
+      "x": 0,
+      "y": -376,
+      "parent": "#xizmn4"
+    },
+    {
+      "@id": "#3f7dmx",
+      "name": "Proto-Indo-European *ǵʰólh₃-tom, “gold”",
+      "x": 195,
+      "y": -324,
+      "parent": "#xizmn4"
+    },
+    {
+      "@id": "#mivbmd",
+      "name": "Proto-Indo-European *ǵʰelh₃-, “green”",
+      "x": 352,
+      "y": -224,
+      "parent": "#xizmn4"
+    },
+    {
+      "@id": "#cmys4p",
+      "name": "Slavic cousins",
+      "x": 224,
+      "y": 41,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#77rp4x",
+      "name": "Polish złoto",
+      "x": 439,
+      "y": -80,
+      "parent": "#cmys4p"
+    },
+    {
+      "@id": "#dmu86d",
+      "name": "Slovak zlato",
+      "x": 439,
+      "y": 80,
+      "parent": "#cmys4p"
+    },
+    {
+      "@id": "#zihc8d",
+      "name": "Russian золото",
+      "x": 352,
+      "y": 224,
+      "parent": "#cmys4p"
+    },
+    {
+      "@id": "#9w3whd",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ew8c83",
+      "name": "pozlátko: gilding",
+      "x": 195,
+      "y": 324,
+      "parent": "#9w3whd"
+    },
+    {
+      "@id": "#yrsapx",
+      "name": "zlatnictví: goldsmithery",
+      "x": 0,
+      "y": 376,
+      "parent": "#9w3whd"
+    },
+    {
+      "@id": "#rxf6nb",
+      "name": "zlatník: goldsmith",
+      "x": -195,
+      "y": 324,
+      "parent": "#9w3whd"
+    },
+    {
+      "@id": "#riiqfr",
+      "name": "Sources",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9tw36t",
+      "name": "Wiktionary: zlato",
+      "x": -352,
+      "y": 224,
+      "link": "https://en.wiktionary.org/wiki/zlato#Czech",
+      "parent": "#riiqfr"
+    },
+    {
+      "@id": "#8f3qer",
+      "name": "Wiktionary: Proto-Slavic *zolto",
+      "x": -459,
+      "y": 84,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/zolto",
+      "parent": "#riiqfr"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech vysvědčení etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#t2d38w",
+      "name": "Meaning: “school report”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qi7c53",
+      "name": "School report",
+      "x": -318,
+      "y": -255,
+      "parent": "#t2d38w"
+    },
+    {
+      "@id": "#7c5e79",
+      "name": "Verbal noun of vysvědčit",
+      "x": 318,
+      "y": -255,
+      "parent": "#t2d38w"
+    },
+    {
+      "@id": "#s6xskv",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eibij7",
+      "name": "From vysvědčit + -ení",
+      "x": 318,
+      "y": 255,
+      "parent": "#s6xskv"
+    },
+    {
+      "@id": "#zybudq",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uj8z56",
+      "name": "Wiktionary: vysvědčení",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/vysv%C4%9Bd%C4%8Den%C3%AD#Czech",
+      "parent": "#zybudq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

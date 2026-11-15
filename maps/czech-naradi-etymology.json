@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech nářadí etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#keqjbg",
+      "name": "Meaning: “tools”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n473kv",
+      "name": "Tools",
+      "x": -423,
+      "y": -123,
+      "parent": "#keqjbg"
+    },
+    {
+      "@id": "#xztg7q",
+      "name": "Word history",
+      "x": 40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vtg8e9",
+      "name": "From na- + řád + -í",
+      "x": -225,
+      "y": -312,
+      "parent": "#xztg7q"
+    },
+    {
+      "@id": "#jum8pf",
+      "name": "Root: Proto-Slavic *rędъ",
+      "x": 78,
+      "y": -355,
+      "parent": "#xztg7q"
+    },
+    {
+      "@id": "#xzberk",
+      "name": "Proto-Balto-Slavic *rindas",
+      "x": 345,
+      "y": -231,
+      "parent": "#xztg7q"
+    },
+    {
+      "@id": "#kvhbn2",
+      "name": "Cousins of the root *rędъ",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m67m9n",
+      "name": "Polish rząd",
+      "x": 450,
+      "y": 0,
+      "parent": "#kvhbn2"
+    },
+    {
+      "@id": "#vqeape",
+      "name": "Slovak riad",
+      "x": 345,
+      "y": 231,
+      "parent": "#kvhbn2"
+    },
+    {
+      "@id": "#tnziav",
+      "name": "Russian ряд",
+      "x": 78,
+      "y": 355,
+      "parent": "#kvhbn2"
+    },
+    {
+      "@id": "#6wgw4y",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5awyjg",
+      "name": "Wiktionary: nářadí",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/n%C3%A1%C5%99ad%C3%AD#Czech",
+      "parent": "#6wgw4y"
+    },
+    {
+      "@id": "#4q39nt",
+      "name": "Wiktionary: Proto-Slavic *rędъ",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/r%C4%99d%D1%8A",
+      "parent": "#6wgw4y"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

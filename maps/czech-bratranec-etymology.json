@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech bratranec etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xr59ah",
+      "name": "Meaning: “cousin”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5briwa",
+      "name": "Cousin",
+      "x": -225,
+      "y": -312,
+      "parent": "#xr59ah"
+    },
+    {
+      "@id": "#dwmu77",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rtmujm",
+      "name": "From Old Czech bratran",
+      "x": 450,
+      "y": 0,
+      "parent": "#dwmu77"
+    },
+    {
+      "@id": "#hqaki5",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8zzy27",
+      "name": "Wiktionary: bratranec",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/bratranec#Czech",
+      "parent": "#hqaki5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

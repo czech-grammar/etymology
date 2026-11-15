@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech hromada etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#jbwx6j",
+      "name": "Meaning: “pile, heap”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bsz258",
+      "name": "Pile, heap",
+      "x": -435,
+      "y": -93,
+      "parent": "#jbwx6j"
+    },
+    {
+      "@id": "#86xgh5",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ryeypk",
+      "name": "Old Czech hromada",
+      "x": -318,
+      "y": -255,
+      "parent": "#86xgh5"
+    },
+    {
+      "@id": "#6ddbde",
+      "name": "Proto-Slavic *gromada",
+      "x": -116,
+      "y": -348,
+      "parent": "#86xgh5"
+    },
+    {
+      "@id": "#i7bw6y",
+      "name": "Proto-Indo-European *h₂gr-om-",
+      "x": 136,
+      "y": -408,
+      "parent": "#86xgh5"
+    },
+    {
+      "@id": "#uaaxj5",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gu37c5",
+      "name": "Polish gromada",
+      "x": 318,
+      "y": -255,
+      "parent": "#uaaxj5"
+    },
+    {
+      "@id": "#hmu3xd",
+      "name": "Slovak hromada",
+      "x": 435,
+      "y": -93,
+      "parent": "#uaaxj5"
+    },
+    {
+      "@id": "#tgx8qf",
+      "name": "Russian громада",
+      "x": 435,
+      "y": 93,
+      "parent": "#uaaxj5"
+    },
+    {
+      "@id": "#p6rzb7",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zh74mv",
+      "name": "dohromady: together",
+      "x": 318,
+      "y": 255,
+      "parent": "#p6rzb7"
+    },
+    {
+      "@id": "#fdrjdq",
+      "name": "hromadit: to accumulate",
+      "x": 116,
+      "y": 348,
+      "parent": "#p6rzb7"
+    },
+    {
+      "@id": "#w9tvak",
+      "name": "shromáždit: to collect",
+      "x": -136,
+      "y": 408,
+      "parent": "#p6rzb7"
+    },
+    {
+      "@id": "#qbnfmw",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gqqhs5",
+      "name": "Wiktionary: hromada",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/hromada#Czech",
+      "parent": "#qbnfmw"
+    },
+    {
+      "@id": "#9mwgd4",
+      "name": "Wiktionary: Proto-Slavic *gromada",
+      "x": -454,
+      "y": 97,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/gromada",
+      "parent": "#qbnfmw"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

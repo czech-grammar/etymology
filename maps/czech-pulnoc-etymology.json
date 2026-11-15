@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech půlnoc etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#263m6h",
+      "name": "Meaning: “midnight”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r2tu2g",
+      "name": "Midnight",
+      "x": -423,
+      "y": -123,
+      "parent": "#263m6h"
+    },
+    {
+      "@id": "#p9dm54",
+      "name": "Word history",
+      "x": 40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#auy46p",
+      "name": "Old Czech pólnoc",
+      "x": -225,
+      "y": -312,
+      "parent": "#p9dm54"
+    },
+    {
+      "@id": "#wc2xug",
+      "name": "Proto-Slavic *polъnoťь",
+      "x": 78,
+      "y": -355,
+      "parent": "#p9dm54"
+    },
+    {
+      "@id": "#s5gj7u",
+      "name": "From *polъ + *noťь",
+      "x": 345,
+      "y": -231,
+      "parent": "#p9dm54"
+    },
+    {
+      "@id": "#v8kmjj",
+      "name": "Slavic cousins",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6bfsza",
+      "name": "Polish północ",
+      "x": 450,
+      "y": 0,
+      "parent": "#v8kmjj"
+    },
+    {
+      "@id": "#n2ng4m",
+      "name": "Slovak polnoc",
+      "x": 345,
+      "y": 231,
+      "parent": "#v8kmjj"
+    },
+    {
+      "@id": "#ecdzyn",
+      "name": "Russian полночь",
+      "x": 78,
+      "y": 355,
+      "parent": "#v8kmjj"
+    },
+    {
+      "@id": "#m4fetq",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ta95sj",
+      "name": "Wiktionary: půlnoc",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/p%C5%AFlnoc#Czech",
+      "parent": "#m4fetq"
+    },
+    {
+      "@id": "#in4r4h",
+      "name": "Wiktionary: Proto-Slavic *polъnoťь",
+      "x": -442,
+      "y": 128,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/pol%D1%8Ano%C5%A5%D1%8C",
+      "parent": "#m4fetq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

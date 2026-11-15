@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech plachta etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#m9gigv",
+      "name": "Meaning: “sail; tarpaulin”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#24qvnt",
+      "name": "Sail; tarpaulin",
+      "x": -432,
+      "y": -101,
+      "parent": "#m9gigv"
+    },
+    {
+      "@id": "#k67n32",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yh6kxe",
+      "name": "Old Czech plachta",
+      "x": -295,
+      "y": -272,
+      "parent": "#k67n32"
+    },
+    {
+      "@id": "#99fkj7",
+      "name": "Proto-Slavic *plaxъta",
+      "x": -64,
+      "y": -356,
+      "parent": "#k67n32"
+    },
+    {
+      "@id": "#c33jhm",
+      "name": "From Proto-Indo-European *pleḱ-, “to fold”",
+      "x": 235,
+      "y": -417,
+      "parent": "#k67n32"
+    },
+    {
+      "@id": "#tafxv9",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dz9qbw",
+      "name": "Polish płachta",
+      "x": 379,
+      "y": -195,
+      "parent": "#tafxv9"
+    },
+    {
+      "@id": "#pimr9d",
+      "name": "Slovak plachta",
+      "x": 450,
+      "y": 0,
+      "parent": "#tafxv9"
+    },
+    {
+      "@id": "#e3k58q",
+      "name": "Russian плахта",
+      "x": 379,
+      "y": 195,
+      "parent": "#tafxv9"
+    },
+    {
+      "@id": "#wn2fds",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8k4viu",
+      "name": "plachetnice: sailboat",
+      "x": 187,
+      "y": 327,
+      "parent": "#wn2fds"
+    },
+    {
+      "@id": "#dutx56",
+      "name": "plachtař: glider pilot",
+      "x": -64,
+      "y": 356,
+      "parent": "#wn2fds"
+    },
+    {
+      "@id": "#ucacw8",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#77fm3i",
+      "name": "Wiktionary: plachta",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/plachta#Czech",
+      "parent": "#ucacw8"
+    },
+    {
+      "@id": "#afduxu",
+      "name": "Wiktionary: Proto-Slavic *plaxъta",
+      "x": -451,
+      "y": 105,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/plax%D1%8Ata",
+      "parent": "#ucacw8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

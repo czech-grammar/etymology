@@ -1,0 +1,21 @@
+category: B2 nouns
+aliases: bedna etymology, origin of bedna, bedna word origin, etymology of bedna
+- Czech bedna etymology
+  - Meaning: “crate, chest”
+    - Crate, chest
+    - Box, crate
+  - Word history
+    - Proto-Slavic *bъdьňa
+    - Proto-Germanic *budin-
+    - Medieval Latin butina (Vulgar Latin *budina)
+    - Ancient Greek πυτίνη (putínē, “flask”)
+  - Slavic cousins
+    - Polish bednia
+    - Slovak debna
+    - Ukrainian бодня
+  - Related Czech words
+    - bednárna: cooperage
+    - bednář: cooper
+  - Sources
+    - [Wiktionary: bedna](https://en.wiktionary.org/wiki/bedna#Czech)
+    - [Wiktionary: Proto-Slavic *bъdьňa](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/b%D1%8Ad%D1%8C%C5%88a)

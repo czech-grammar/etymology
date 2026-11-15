@@ -1,0 +1,22 @@
+category: A2 nouns
+aliases: květinářství etymology, origin of květinářství, květinářství word origin, etymology of květinářství
+- Czech květinářství etymology
+  - Meaning: “florist’s”
+    - Florist’s
+    - Floriculture
+  - Word history
+    - From květinář, “florist” + -ství
+    - Root: Proto-Slavic *květъ
+    - Proto-Balto-Slavic *kwaitas
+    - Proto-Indo-European *ḱwoytos
+  - Cousins of the root *květъ
+    - Polish kwiat
+    - Slovak kvet
+    - Russian цвет
+  - Related Czech words
+    - květ: flower
+    - květina: flowering plant
+    - květinář: florist
+  - Sources
+    - [Wiktionary: květinářství](https://en.wiktionary.org/wiki/kv%C4%9Btin%C3%A1%C5%99stv%C3%AD#Czech)
+    - [Wiktionary: Proto-Slavic *květъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kv%C4%9Bt%D1%8A)

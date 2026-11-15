@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech oznámení etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#r6eqip",
+      "name": "Meaning: “notice, announcement”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2sjzgg",
+      "name": "Notice, announcement",
+      "x": -318,
+      "y": -255,
+      "parent": "#r6eqip"
+    },
+    {
+      "@id": "#v6kj6f",
+      "name": "Verbal noun of oznámit",
+      "x": 318,
+      "y": -255,
+      "parent": "#r6eqip"
+    },
+    {
+      "@id": "#yy28fz",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dvfih4",
+      "name": "From oznámit + -ní",
+      "x": 318,
+      "y": 255,
+      "parent": "#yy28fz"
+    },
+    {
+      "@id": "#xd73hs",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rxibif",
+      "name": "Wiktionary: oznámení",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/ozn%C3%A1men%C3%AD#Czech",
+      "parent": "#xd73hs"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

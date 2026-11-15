@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech regál etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#su5mrm",
+      "name": "Meaning: “shelf unit, shelving”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pkn37w",
+      "name": "Shelf unit, shelving",
+      "x": -318,
+      "y": -255,
+      "parent": "#su5mrm"
+    },
+    {
+      "@id": "#vxmftn",
+      "name": "Rack, shelf",
+      "x": 318,
+      "y": -255,
+      "parent": "#su5mrm"
+    },
+    {
+      "@id": "#2ri27f",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5emka2",
+      "name": "Borrowed from German Regal",
+      "x": 318,
+      "y": 255,
+      "parent": "#2ri27f"
+    },
+    {
+      "@id": "#p9fxus",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s4xqaq",
+      "name": "Wiktionary: regál",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/reg%C3%A1l#Czech",
+      "parent": "#p9fxus"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

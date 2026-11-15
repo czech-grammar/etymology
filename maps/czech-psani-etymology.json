@@ -1,0 +1,194 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech psaní etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#akmg7c",
+      "name": "Meaning: “writing; handwriting”",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rqbuyd",
+      "name": "Writing; handwriting",
+      "x": -489,
+      "y": -113,
+      "parent": "#akmg7c"
+    },
+    {
+      "@id": "#x9mhdx",
+      "name": "Verbal noun of psát",
+      "x": -295,
+      "y": -272,
+      "parent": "#akmg7c"
+    },
+    {
+      "@id": "#3whit7",
+      "name": "Word history",
+      "x": 151,
+      "y": -139,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5gkbsm",
+      "name": "From the verb psát",
+      "x": -64,
+      "y": -356,
+      "parent": "#3whit7"
+    },
+    {
+      "@id": "#a5s9rk",
+      "name": "Root: Proto-Slavic *pьsati",
+      "x": 187,
+      "y": -327,
+      "parent": "#3whit7"
+    },
+    {
+      "@id": "#i76ixv",
+      "name": "Proto-Balto-Slavic *peiśtei or *peiśātei",
+      "x": 379,
+      "y": -195,
+      "parent": "#3whit7"
+    },
+    {
+      "@id": "#hiynbw",
+      "name": "Proto-Indo-European *peyḱ-, “to mark”",
+      "x": 450,
+      "y": 0,
+      "parent": "#3whit7"
+    },
+    {
+      "@id": "#99p4d5",
+      "name": "Cousins of the root *pьsati",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uu3tik",
+      "name": "Polish pisać",
+      "x": 379,
+      "y": 195,
+      "parent": "#99p4d5"
+    },
+    {
+      "@id": "#4b4n6z",
+      "name": "Slovak písať",
+      "x": 187,
+      "y": 327,
+      "parent": "#99p4d5"
+    },
+    {
+      "@id": "#hfkgz3",
+      "name": "Russian писать",
+      "x": -64,
+      "y": 356,
+      "parent": "#99p4d5"
+    },
+    {
+      "@id": "#7z8j8b",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5hfatd",
+      "name": "Wiktionary: psaní",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/psan%C3%AD#Czech",
+      "parent": "#7z8j8b"
+    },
+    {
+      "@id": "#bk45vd",
+      "name": "Wiktionary: Proto-Slavic *pьsati",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/p%D1%8Csati",
+      "parent": "#7z8j8b"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

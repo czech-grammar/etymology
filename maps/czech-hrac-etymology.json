@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech hráč etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rrb7a6",
+      "name": "Meaning: “player”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nxm4q5",
+      "name": "Player",
+      "x": -428,
+      "y": -111,
+      "parent": "#rrb7a6"
+    },
+    {
+      "@id": "#fj3vcx",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3853hx",
+      "name": "Old Czech jhráč",
+      "x": -265,
+      "y": -291,
+      "parent": "#fj3vcx"
+    },
+    {
+      "@id": "#tgrr7a",
+      "name": "Proto-Slavic *jьgračь",
+      "x": 0,
+      "y": -360,
+      "parent": "#fj3vcx"
+    },
+    {
+      "@id": "#hrb4r8",
+      "name": "From *jьgrati, “to play” + *-čь",
+      "x": 265,
+      "y": -291,
+      "parent": "#fj3vcx"
+    },
+    {
+      "@id": "#23yztx",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3s2g6d",
+      "name": "Polish gracz",
+      "x": 428,
+      "y": -111,
+      "parent": "#23yztx"
+    },
+    {
+      "@id": "#8avyvj",
+      "name": "Slovak hráč",
+      "x": 428,
+      "y": 111,
+      "parent": "#23yztx"
+    },
+    {
+      "@id": "#t76yeb",
+      "name": "Ukrainian грач",
+      "x": 265,
+      "y": 291,
+      "parent": "#23yztx"
+    },
+    {
+      "@id": "#25gxfh",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9ikb8j",
+      "name": "protihráč: opponent",
+      "x": 0,
+      "y": 360,
+      "parent": "#25gxfh"
+    },
+    {
+      "@id": "#bbrvmb",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jm84bz",
+      "name": "Wiktionary: hráč",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/hr%C3%A1%C4%8D#Czech",
+      "parent": "#bbrvmb"
+    },
+    {
+      "@id": "#se9mps",
+      "name": "Wiktionary: Proto-Slavic *jьgračь",
+      "x": -447,
+      "y": 116,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/j%D1%8Cgra%C4%8D%D1%8C",
+      "parent": "#bbrvmb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

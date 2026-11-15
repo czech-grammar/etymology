@@ -1,0 +1,21 @@
+category: A2 nouns
+aliases: hlas etymology, origin of hlas, hlas word origin, etymology of hlas
+- Czech hlas etymology
+  - Meaning: “voice”
+    - Voice
+  - Word history
+    - Old Czech hlas
+    - Proto-Slavic *golsъ
+    - Proto-Balto-Slavic *galsás
+    - Proto-Indo-European *golH-so-s
+  - Slavic cousins
+    - Polish głos
+    - Slovak hlas
+    - Russian голос
+  - Related Czech words
+    - hlasatel: newsreader
+    - hlasitost: volume
+    - hlasivka: vocal cord
+  - Sources
+    - [Wiktionary: hlas](https://en.wiktionary.org/wiki/hlas#Czech)
+    - [Wiktionary: Proto-Slavic *golsъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/gols%D1%8A)

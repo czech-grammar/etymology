@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech vzduch etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#upny7b",
+      "name": "Meaning: “air”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7rnabj",
+      "name": "Air",
+      "x": -428,
+      "y": -111,
+      "parent": "#upny7b"
+    },
+    {
+      "@id": "#j5aft9",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#84rdf6",
+      "name": "Borrowed from Russian во́здух (vózdux)",
+      "x": -265,
+      "y": -291,
+      "parent": "#j5aft9"
+    },
+    {
+      "@id": "#48kzsm",
+      "name": "Root: Proto-Slavic *vъzduxъ",
+      "x": 0,
+      "y": -360,
+      "parent": "#j5aft9"
+    },
+    {
+      "@id": "#wq4qba",
+      "name": "From *vъz-, “up” + *duxъ",
+      "x": 265,
+      "y": -291,
+      "parent": "#j5aft9"
+    },
+    {
+      "@id": "#5pqqzb",
+      "name": "Cousins of the root *vъzduxъ",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#59qiev",
+      "name": "Russian воздух",
+      "x": 428,
+      "y": -111,
+      "parent": "#5pqqzb"
+    },
+    {
+      "@id": "#gfhinu",
+      "name": "Related Czech words",
+      "x": 135,
+      "y": 149,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c5vtm2",
+      "name": "horkovzdušný: hot air",
+      "x": 428,
+      "y": 111,
+      "parent": "#gfhinu"
+    },
+    {
+      "@id": "#rx5xe2",
+      "name": "vzducholoď: airship",
+      "x": 265,
+      "y": 291,
+      "parent": "#gfhinu"
+    },
+    {
+      "@id": "#77jhuu",
+      "name": "vzduchoprázdno: vacuum",
+      "x": 0,
+      "y": 360,
+      "parent": "#gfhinu"
+    },
+    {
+      "@id": "#t8v4qm",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k9zmhp",
+      "name": "Wiktionary: vzduch",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/vzduch#Czech",
+      "parent": "#t8v4qm"
+    },
+    {
+      "@id": "#z7z353",
+      "name": "Wiktionary: Proto-Slavic *vъzduxъ",
+      "x": -447,
+      "y": 116,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/v%D1%8Azdux%D1%8A",
+      "parent": "#t8v4qm"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

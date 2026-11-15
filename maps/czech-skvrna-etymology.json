@@ -1,0 +1,183 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech skvrna etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#zqtm77",
+      "name": "Meaning: “stain, spot”",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#apkq2d",
+      "name": "Stain, spot",
+      "x": -428,
+      "y": -111,
+      "parent": "#zqtm77"
+    },
+    {
+      "@id": "#iz8mb8",
+      "name": "Stain, fleck, spot",
+      "x": -265,
+      "y": -291,
+      "parent": "#zqtm77"
+    },
+    {
+      "@id": "#j7tfyb",
+      "name": "Word history",
+      "x": 135,
+      "y": -149,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tnkc73",
+      "name": "Old Czech skvrna",
+      "x": 0,
+      "y": -360,
+      "parent": "#j7tfyb"
+    },
+    {
+      "@id": "#punykk",
+      "name": "Proto-Slavic *skvьrna",
+      "x": 265,
+      "y": -291,
+      "parent": "#j7tfyb"
+    },
+    {
+      "@id": "#be92tr",
+      "name": "Deeper origin uncertain",
+      "x": 428,
+      "y": -111,
+      "parent": "#j7tfyb"
+    },
+    {
+      "@id": "#xnmi9j",
+      "name": "Slavic cousins",
+      "x": 135,
+      "y": 149,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kvg24i",
+      "name": "Polish skwarna",
+      "x": 428,
+      "y": 111,
+      "parent": "#xnmi9j"
+    },
+    {
+      "@id": "#3r8nnh",
+      "name": "Slovak škvrna",
+      "x": 265,
+      "y": 291,
+      "parent": "#xnmi9j"
+    },
+    {
+      "@id": "#kg335p",
+      "name": "Russian скверна",
+      "x": 0,
+      "y": 360,
+      "parent": "#xnmi9j"
+    },
+    {
+      "@id": "#45ra8a",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6rtewd",
+      "name": "Wiktionary: skvrna",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/skvrna#Czech",
+      "parent": "#45ra8a"
+    },
+    {
+      "@id": "#seg97u",
+      "name": "Wiktionary: Proto-Slavic *skvьrna",
+      "x": -447,
+      "y": 116,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/skv%D1%8Crna",
+      "parent": "#45ra8a"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,150 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech heslo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#46wccy",
+      "name": "Meaning: “password”",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#he5i3w",
+      "name": "Password",
+      "x": -405,
+      "y": -156,
+      "parent": "#46wccy"
+    },
+    {
+      "@id": "#irapv6",
+      "name": "Word history",
+      "x": 143,
+      "y": -144,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#taiasf",
+      "name": "Old Czech heslo, “rank”",
+      "x": -100,
+      "y": -351,
+      "parent": "#irapv6"
+    },
+    {
+      "@id": "#qhhxxz",
+      "name": "Proto-Slavic *gъslo",
+      "x": 281,
+      "y": -281,
+      "parent": "#irapv6"
+    },
+    {
+      "@id": "#rsun85",
+      "name": "Deeper origin uncertain",
+      "x": 450,
+      "y": 0,
+      "parent": "#irapv6"
+    },
+    {
+      "@id": "#dxcwmx",
+      "name": "Slavic cousins",
+      "x": 143,
+      "y": 144,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#54xw9w",
+      "name": "Slovak heslo",
+      "x": 281,
+      "y": 281,
+      "parent": "#dxcwmx"
+    },
+    {
+      "@id": "#utn7u7",
+      "name": "Sources",
+      "x": -143,
+      "y": 144,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3su33k",
+      "name": "Wiktionary: heslo",
+      "x": -100,
+      "y": 351,
+      "link": "https://en.wiktionary.org/wiki/heslo#Czech",
+      "parent": "#utn7u7"
+    },
+    {
+      "@id": "#bt9v7w",
+      "name": "Wiktionary: Proto-Slavic *gъslo",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/g%D1%8Aslo",
+      "parent": "#utn7u7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

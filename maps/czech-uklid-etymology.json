@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech úklid etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gv44at",
+      "name": "Meaning: “cleaning, tidying up”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#df2fnd",
+      "name": "Cleaning, tidying up",
+      "x": -318,
+      "y": -255,
+      "parent": "#gv44at"
+    },
+    {
+      "@id": "#r448f7",
+      "name": "Cleaning, cleanup",
+      "x": 318,
+      "y": -255,
+      "parent": "#gv44at"
+    },
+    {
+      "@id": "#rgu69w",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a7nq8a",
+      "name": "From the verb uklidit",
+      "x": 318,
+      "y": 255,
+      "parent": "#rgu69w"
+    },
+    {
+      "@id": "#rjdimh",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cbrqgt",
+      "name": "Wiktionary: úklid",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/%C3%BAklid#Czech",
+      "parent": "#rjdimh"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

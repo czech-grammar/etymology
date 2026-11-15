@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech vzkaz etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5g8hn4",
+      "name": "Meaning: “message, note”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6udc7v",
+      "name": "Message, note",
+      "x": -225,
+      "y": -312,
+      "parent": "#5g8hn4"
+    },
+    {
+      "@id": "#fkvysz",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#48puma",
+      "name": "From the verb vzkázat",
+      "x": 450,
+      "y": 0,
+      "parent": "#fkvysz"
+    },
+    {
+      "@id": "#pm6tpq",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8ru26k",
+      "name": "Wiktionary: vzkaz",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/vzkaz#Czech",
+      "parent": "#pm6tpq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

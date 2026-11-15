@@ -1,0 +1,160 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech sedlák etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#kiu96z",
+      "name": "Meaning: “farmer, peasant”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q7rpqq",
+      "name": "Farmer, peasant",
+      "x": -416,
+      "y": -138,
+      "parent": "#kiu96z"
+    },
+    {
+      "@id": "#wazn4a",
+      "name": "Farmer, husbandman",
+      "x": -172,
+      "y": -333,
+      "parent": "#kiu96z"
+    },
+    {
+      "@id": "#6snyiy",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#afksk8",
+      "name": "Old Czech sedlák",
+      "x": 172,
+      "y": -333,
+      "parent": "#6snyiy"
+    },
+    {
+      "@id": "#q8p58j",
+      "name": "Built from sedlo + -ák",
+      "x": 416,
+      "y": -138,
+      "parent": "#6snyiy"
+    },
+    {
+      "@id": "#qxiwyw",
+      "name": "Related Czech words",
+      "x": 88,
+      "y": 170,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2ycxg7",
+      "name": "osedlat: to saddle",
+      "x": 416,
+      "y": 138,
+      "parent": "#qxiwyw"
+    },
+    {
+      "@id": "#ivnpqr",
+      "name": "sedlář: saddler",
+      "x": 172,
+      "y": 333,
+      "parent": "#qxiwyw"
+    },
+    {
+      "@id": "#ew9k3f",
+      "name": "sedlo: saddle",
+      "x": -172,
+      "y": 333,
+      "parent": "#qxiwyw"
+    },
+    {
+      "@id": "#q5watx",
+      "name": "Sources",
+      "x": -212,
+      "y": 70,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ra34xe",
+      "name": "Wiktionary: sedlák",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/sedl%C3%A1k#Czech",
+      "parent": "#q5watx"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

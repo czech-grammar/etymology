@@ -1,0 +1,160 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech cíl etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#imk5t2",
+      "name": "Meaning: “goal, target; finish line”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wm4mmq",
+      "name": "Goal, target; finish line",
+      "x": -488,
+      "y": -162,
+      "parent": "#imk5t2"
+    },
+    {
+      "@id": "#x6acwt",
+      "name": "Goal, objective, target",
+      "x": -172,
+      "y": -333,
+      "parent": "#imk5t2"
+    },
+    {
+      "@id": "#x32ida",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2ehdsj",
+      "name": "Old Czech cíl",
+      "x": 172,
+      "y": -333,
+      "parent": "#x32ida"
+    },
+    {
+      "@id": "#i8jcfg",
+      "name": "Middle High German zil",
+      "x": 416,
+      "y": -138,
+      "parent": "#x32ida"
+    },
+    {
+      "@id": "#4haarz",
+      "name": "Related Czech words",
+      "x": 88,
+      "y": 170,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tga4hy",
+      "name": "cílený: targeted",
+      "x": 416,
+      "y": 138,
+      "parent": "#4haarz"
+    },
+    {
+      "@id": "#bhfku5",
+      "name": "cílevědomý: goal-oriented",
+      "x": 172,
+      "y": 333,
+      "parent": "#4haarz"
+    },
+    {
+      "@id": "#2bzupp",
+      "name": "cílový: goal",
+      "x": -172,
+      "y": 333,
+      "parent": "#4haarz"
+    },
+    {
+      "@id": "#4a6aba",
+      "name": "Sources",
+      "x": -212,
+      "y": 70,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7ud8fh",
+      "name": "Wiktionary: cíl",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/c%C3%ADl#Czech",
+      "parent": "#4a6aba"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

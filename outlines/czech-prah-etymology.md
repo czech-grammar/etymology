@@ -1,0 +1,21 @@
+category: B2 nouns
+aliases: práh etymology, origin of práh, práh word origin, etymology of práh
+- Czech práh etymology
+  - Meaning: “threshold, doorstep”
+    - Threshold, doorstep
+  - Word history
+    - Old Czech práh
+    - Proto-Slavic *porgъ
+    - Proto-Balto-Slavic *parˀgas
+    - Proto-Indo-European *porgʰos
+  - Slavic cousins
+    - Polish próg
+    - Slovak prah
+    - Russian порог
+  - Related Czech words
+    - prahování: thresholding
+    - pražec: tie
+    - zápraží: doorstep
+  - Sources
+    - [Wiktionary: práh](https://en.wiktionary.org/wiki/pr%C3%A1h#Czech)
+    - [Wiktionary: Proto-Slavic *porgъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/porg%D1%8A)

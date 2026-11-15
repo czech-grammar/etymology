@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech odměna etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#yhf99c",
+      "name": "Meaning: “reward”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j8bjqv",
+      "name": "Reward",
+      "x": -318,
+      "y": -255,
+      "parent": "#yhf99c"
+    },
+    {
+      "@id": "#ttz67c",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iugs82",
+      "name": "From the verb odměnit",
+      "x": 318,
+      "y": -255,
+      "parent": "#ttz67c"
+    },
+    {
+      "@id": "#5yaevg",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hucarx",
+      "name": "odměnit: to reward",
+      "x": 318,
+      "y": 255,
+      "parent": "#5yaevg"
+    },
+    {
+      "@id": "#a3etcz",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uvgtv6",
+      "name": "Wiktionary: odměna",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/odm%C4%9Bna#Czech",
+      "parent": "#a3etcz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

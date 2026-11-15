@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech ukazatel etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#mprsk8",
+      "name": "Meaning: “signpost; indicator, pointer”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rmxza5",
+      "name": "Signpost; indicator, pointer",
+      "x": -225,
+      "y": -312,
+      "parent": "#mprsk8"
+    },
+    {
+      "@id": "#mkpgza",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zqh9ga",
+      "name": "From ukázat + -tel",
+      "x": 450,
+      "y": 0,
+      "parent": "#mkpgza"
+    },
+    {
+      "@id": "#75whpg",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a4pnn4",
+      "name": "Wiktionary: ukazatel",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/ukazatel#Czech",
+      "parent": "#75whpg"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

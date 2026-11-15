@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech chuť etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#dtrn8x",
+      "name": "Meaning: “taste, appetite”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#recteg",
+      "name": "Taste, appetite",
+      "x": -428,
+      "y": -111,
+      "parent": "#dtrn8x"
+    },
+    {
+      "@id": "#wisvye",
+      "name": "Word history",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v42bdd",
+      "name": "Old Czech chut",
+      "x": -265,
+      "y": -291,
+      "parent": "#wisvye"
+    },
+    {
+      "@id": "#c89gjj",
+      "name": "Proto-Slavic *xǫtь",
+      "x": 0,
+      "y": -360,
+      "parent": "#wisvye"
+    },
+    {
+      "@id": "#yq7bms",
+      "name": "Slavic cousins",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gihjhj",
+      "name": "Polish chęć",
+      "x": 265,
+      "y": -291,
+      "parent": "#yq7bms"
+    },
+    {
+      "@id": "#qjh3n8",
+      "name": "Slovak chuť",
+      "x": 428,
+      "y": -111,
+      "parent": "#yq7bms"
+    },
+    {
+      "@id": "#wkanjy",
+      "name": "Related Czech words",
+      "x": 135,
+      "y": 149,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qysa7z",
+      "name": "choutky: craving",
+      "x": 428,
+      "y": 111,
+      "parent": "#wkanjy"
+    },
+    {
+      "@id": "#fjjms8",
+      "name": "chuťovka: canapé",
+      "x": 265,
+      "y": 291,
+      "parent": "#wkanjy"
+    },
+    {
+      "@id": "#2khjzq",
+      "name": "příchuť: flavor",
+      "x": 0,
+      "y": 360,
+      "parent": "#wkanjy"
+    },
+    {
+      "@id": "#t4z79e",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j9qbpi",
+      "name": "Wiktionary: chuť",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/chu%C5%A5#Czech",
+      "parent": "#t4z79e"
+    },
+    {
+      "@id": "#c9j264",
+      "name": "Wiktionary: Proto-Slavic *xǫtь",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/x%C7%ABt%D1%8C",
+      "parent": "#t4z79e"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

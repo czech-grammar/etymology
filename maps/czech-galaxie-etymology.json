@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech galaxie etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#k5zvx9",
+      "name": "Meaning: “galaxy”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c99dxd",
+      "name": "Galaxy",
+      "x": -318,
+      "y": -255,
+      "parent": "#k5zvx9"
+    },
+    {
+      "@id": "#a2vk63",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z4q3yt",
+      "name": "Borrowed from Latin galaxiās",
+      "x": 318,
+      "y": -255,
+      "parent": "#a2vk63"
+    },
+    {
+      "@id": "#uf4mmd",
+      "name": "Ancient Greek γαλαξίας (galaxías, “milky”)",
+      "x": 318,
+      "y": 255,
+      "parent": "#a2vk63"
+    },
+    {
+      "@id": "#c6idta",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xuwj5r",
+      "name": "Wiktionary: galaxie",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/galaxie#Czech",
+      "parent": "#c6idta"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

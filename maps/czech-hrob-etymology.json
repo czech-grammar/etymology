@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech hrob etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#afkggz",
+      "name": "Meaning: “grave”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kmjbgn",
+      "name": "Grave",
+      "x": -435,
+      "y": -93,
+      "parent": "#afkggz"
+    },
+    {
+      "@id": "#9m9rj4",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r3xytb",
+      "name": "Old Czech hrob",
+      "x": -318,
+      "y": -255,
+      "parent": "#9m9rj4"
+    },
+    {
+      "@id": "#fdnyj7",
+      "name": "Proto-Slavic *grobъ",
+      "x": -116,
+      "y": -348,
+      "parent": "#9m9rj4"
+    },
+    {
+      "@id": "#a8kv9x",
+      "name": "By surface analysis",
+      "x": 116,
+      "y": -348,
+      "parent": "#9m9rj4"
+    },
+    {
+      "@id": "#5zhwup",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ahbnei",
+      "name": "Polish grób",
+      "x": 318,
+      "y": -255,
+      "parent": "#5zhwup"
+    },
+    {
+      "@id": "#s55iu8",
+      "name": "Slovak hrob",
+      "x": 435,
+      "y": -93,
+      "parent": "#5zhwup"
+    },
+    {
+      "@id": "#u62ajn",
+      "name": "Russian гроб",
+      "x": 435,
+      "y": 93,
+      "parent": "#5zhwup"
+    },
+    {
+      "@id": "#fqk86d",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h222xj",
+      "name": "hrobař: gravedigger",
+      "x": 318,
+      "y": 255,
+      "parent": "#fqk86d"
+    },
+    {
+      "@id": "#q56nhu",
+      "name": "hrobka: tomb",
+      "x": 116,
+      "y": 348,
+      "parent": "#fqk86d"
+    },
+    {
+      "@id": "#sbnepe",
+      "name": "náhrobek: tombstone",
+      "x": -116,
+      "y": 348,
+      "parent": "#fqk86d"
+    },
+    {
+      "@id": "#isyjj5",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rwcp5s",
+      "name": "Wiktionary: hrob",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/hrob#Czech",
+      "parent": "#isyjj5"
+    },
+    {
+      "@id": "#fxfpcr",
+      "name": "Wiktionary: Proto-Slavic *grobъ",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/grob%D1%8A",
+      "parent": "#isyjj5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

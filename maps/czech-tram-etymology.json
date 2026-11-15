@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech trám etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rfactd",
+      "name": "Meaning: “beam (wooden)”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#88kmz4",
+      "name": "Beam (wooden)",
+      "x": -225,
+      "y": -312,
+      "parent": "#rfactd"
+    },
+    {
+      "@id": "#jqzt8b",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dnj973",
+      "name": "Old Czech trám",
+      "x": 450,
+      "y": 0,
+      "parent": "#jqzt8b"
+    },
+    {
+      "@id": "#3m76pd",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i4w4z2",
+      "name": "Wiktionary: trám",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/tr%C3%A1m#Czech",
+      "parent": "#3m76pd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

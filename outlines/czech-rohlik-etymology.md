@@ -4,6 +4,6 @@ aliases: rohlík etymology, origin of rohlík, rohlík word origin, etymology of
   - Meaning: “bread roll”
     - Bread roll
   - Word history
-    - roh
+    - From roh
   - Sources
     - [Wiktionary: rohlík](https://en.wiktionary.org/wiki/rohl%C3%ADk#Czech)

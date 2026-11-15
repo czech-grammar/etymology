@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech žíla etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#g32vdf",
+      "name": "Meaning: “vein”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dpq4gc",
+      "name": "Vein",
+      "x": -423,
+      "y": -123,
+      "parent": "#g32vdf"
+    },
+    {
+      "@id": "#kdd2m4",
+      "name": "Word history",
+      "x": 40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ktn24z",
+      "name": "Old Czech žíla",
+      "x": -225,
+      "y": -312,
+      "parent": "#kdd2m4"
+    },
+    {
+      "@id": "#3ntc5x",
+      "name": "Proto-Slavic *žila",
+      "x": 78,
+      "y": -355,
+      "parent": "#kdd2m4"
+    },
+    {
+      "@id": "#9iwjz2",
+      "name": "Proto-Balto-Slavic *gī́ˀšlāˀ",
+      "x": 345,
+      "y": -231,
+      "parent": "#kdd2m4"
+    },
+    {
+      "@id": "#z7bpwb",
+      "name": "Slavic cousins",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vrhx59",
+      "name": "Polish żyła",
+      "x": 450,
+      "y": 0,
+      "parent": "#z7bpwb"
+    },
+    {
+      "@id": "#xg8gfk",
+      "name": "Slovak žila",
+      "x": 345,
+      "y": 231,
+      "parent": "#z7bpwb"
+    },
+    {
+      "@id": "#4c8ivg",
+      "name": "Russian жила",
+      "x": 78,
+      "y": 355,
+      "parent": "#z7bpwb"
+    },
+    {
+      "@id": "#bws7gh",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ddt5ww",
+      "name": "Wiktionary: žíla",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/%C5%BE%C3%ADla#Czech",
+      "parent": "#bws7gh"
+    },
+    {
+      "@id": "#ma8du8",
+      "name": "Wiktionary: Proto-Slavic *žila",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C5%BEila",
+      "parent": "#bws7gh"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

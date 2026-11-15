@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech veterinářka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#e8t39w",
+      "name": "Meaning: “vet (f)”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nid44d",
+      "name": "Vet (f)",
+      "x": -318,
+      "y": -255,
+      "parent": "#e8t39w"
+    },
+    {
+      "@id": "#xdu9er",
+      "name": "Female veterinarian",
+      "x": 318,
+      "y": -255,
+      "parent": "#e8t39w"
+    },
+    {
+      "@id": "#widzx4",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cfc4kv",
+      "name": "From veterinář + -ka",
+      "x": 318,
+      "y": 255,
+      "parent": "#widzx4"
+    },
+    {
+      "@id": "#wdu24d",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m8swaw",
+      "name": "Wiktionary: veterinářka",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/veterin%C3%A1%C5%99ka#Czech",
+      "parent": "#wdu24d"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

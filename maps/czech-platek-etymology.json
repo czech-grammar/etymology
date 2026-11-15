@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech plátek etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#tyd9h8",
+      "name": "Meaning: “slice”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c82wyr",
+      "name": "Slice",
+      "x": -225,
+      "y": -312,
+      "parent": "#tyd9h8"
+    },
+    {
+      "@id": "#w7ffw7",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tfgm5a",
+      "name": "From plát + -ek",
+      "x": 450,
+      "y": 0,
+      "parent": "#w7ffw7"
+    },
+    {
+      "@id": "#2cw5mi",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5iwmz5",
+      "name": "Wiktionary: plátek",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/pl%C3%A1tek#Czech",
+      "parent": "#2cw5mi"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

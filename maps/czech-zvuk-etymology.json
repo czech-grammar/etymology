@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech zvuk etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rwftbi",
+      "name": "Meaning: “sound”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k96c7f",
+      "name": "Sound",
+      "x": -432,
+      "y": -101,
+      "parent": "#rwftbi"
+    },
+    {
+      "@id": "#knt68j",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qvi448",
+      "name": "Old Czech zvuk",
+      "x": -295,
+      "y": -272,
+      "parent": "#knt68j"
+    },
+    {
+      "@id": "#uqtwv7",
+      "name": "Proto-Slavic *zvǫkъ",
+      "x": -64,
+      "y": -356,
+      "parent": "#knt68j"
+    },
+    {
+      "@id": "#4kmbwh",
+      "name": "Probably from *zvon- + *-kъ",
+      "x": 203,
+      "y": -357,
+      "parent": "#knt68j"
+    },
+    {
+      "@id": "#u87hee",
+      "name": "Slavic cousins",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i8eb74",
+      "name": "Slovak zvuk",
+      "x": 379,
+      "y": -195,
+      "parent": "#u87hee"
+    },
+    {
+      "@id": "#32bwps",
+      "name": "Russian звук",
+      "x": 450,
+      "y": 0,
+      "parent": "#u87hee"
+    },
+    {
+      "@id": "#k59bfa",
+      "name": "Related Czech words",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qgx7gc",
+      "name": "přízvuk: stress",
+      "x": 379,
+      "y": 195,
+      "parent": "#k59bfa"
+    },
+    {
+      "@id": "#bbbiyi",
+      "name": "ultrazvuk: ultrasound",
+      "x": 187,
+      "y": 327,
+      "parent": "#k59bfa"
+    },
+    {
+      "@id": "#t2q98x",
+      "name": "zvukař: sound engineer",
+      "x": -64,
+      "y": 356,
+      "parent": "#k59bfa"
+    },
+    {
+      "@id": "#83fas3",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zgd6zz",
+      "name": "Wiktionary: zvuk",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/zvuk#Czech",
+      "parent": "#83fas3"
+    },
+    {
+      "@id": "#6hmbms",
+      "name": "Wiktionary: Proto-Slavic *zvǫkъ",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/zv%C7%ABk%D1%8A",
+      "parent": "#83fas3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

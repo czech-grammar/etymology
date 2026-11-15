@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech branka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#yavdrg",
+      "name": "Meaning: “goal (sports); small gate”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hs5w35",
+      "name": "Goal (sports); small gate",
+      "x": -454,
+      "y": -97,
+      "parent": "#yavdrg"
+    },
+    {
+      "@id": "#byaq6j",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bacvrr",
+      "name": "From brána + -ka",
+      "x": -318,
+      "y": -255,
+      "parent": "#byaq6j"
+    },
+    {
+      "@id": "#cygb6j",
+      "name": "Root: Proto-Slavic *borna",
+      "x": -116,
+      "y": -348,
+      "parent": "#byaq6j"
+    },
+    {
+      "@id": "#y9c5bg",
+      "name": "Deeper origin uncertain",
+      "x": 136,
+      "y": -408,
+      "parent": "#byaq6j"
+    },
+    {
+      "@id": "#avrih3",
+      "name": "Cousins of the root *borna",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gr2ha2",
+      "name": "Polish brona",
+      "x": 318,
+      "y": -255,
+      "parent": "#avrih3"
+    },
+    {
+      "@id": "#emrw3n",
+      "name": "Slovak brána",
+      "x": 454,
+      "y": -97,
+      "parent": "#avrih3"
+    },
+    {
+      "@id": "#w72yhg",
+      "name": "Russian борона",
+      "x": 435,
+      "y": 93,
+      "parent": "#avrih3"
+    },
+    {
+      "@id": "#6v2g9m",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fbj787",
+      "name": "brankář: goaltender",
+      "x": 318,
+      "y": 255,
+      "parent": "#6v2g9m"
+    },
+    {
+      "@id": "#p7qmye",
+      "name": "brankářka: female goaltender",
+      "x": 116,
+      "y": 348,
+      "parent": "#6v2g9m"
+    },
+    {
+      "@id": "#bd7uvd",
+      "name": "brankářský: goalkeeper",
+      "x": -136,
+      "y": 408,
+      "parent": "#6v2g9m"
+    },
+    {
+      "@id": "#3fjtqc",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b29xwz",
+      "name": "Wiktionary: branka",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/branka#Czech",
+      "parent": "#3fjtqc"
+    },
+    {
+      "@id": "#fv8sf6",
+      "name": "Wiktionary: Proto-Slavic *borna",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/borna",
+      "parent": "#3fjtqc"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

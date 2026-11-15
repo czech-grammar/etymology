@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech konvice etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#a23fva",
+      "name": "Meaning: “kettle”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dqthfu",
+      "name": "Kettle",
+      "x": -318,
+      "y": -255,
+      "parent": "#a23fva"
+    },
+    {
+      "@id": "#npfbas",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pkiqbf",
+      "name": "From konev + -ice",
+      "x": 318,
+      "y": -255,
+      "parent": "#npfbas"
+    },
+    {
+      "@id": "#n2dgsp",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ggb7k3",
+      "name": "konev: watering can",
+      "x": 318,
+      "y": 255,
+      "parent": "#n2dgsp"
+    },
+    {
+      "@id": "#jaepqy",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d7tvpn",
+      "name": "Wiktionary: konvice",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/konvice#Czech",
+      "parent": "#jaepqy"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

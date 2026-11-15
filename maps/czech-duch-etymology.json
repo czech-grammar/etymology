@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech duch etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#srub7i",
+      "name": "Meaning: “ghost, spirit”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vukin9",
+      "name": "Ghost, spirit",
+      "x": -432,
+      "y": -101,
+      "parent": "#srub7i"
+    },
+    {
+      "@id": "#v9vuqe",
+      "name": "Word history",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qx2gzj",
+      "name": "Old Czech duch",
+      "x": -295,
+      "y": -272,
+      "parent": "#v9vuqe"
+    },
+    {
+      "@id": "#5tx3et",
+      "name": "Proto-Slavic *dȗxъ",
+      "x": -64,
+      "y": -356,
+      "parent": "#v9vuqe"
+    },
+    {
+      "@id": "#mvjx5t",
+      "name": "Proto-Balto-Slavic *dáuṣas",
+      "x": 187,
+      "y": -327,
+      "parent": "#v9vuqe"
+    },
+    {
+      "@id": "#krsa5e",
+      "name": "Proto-Indo-European *dʰows-o-s",
+      "x": 379,
+      "y": -195,
+      "parent": "#v9vuqe"
+    },
+    {
+      "@id": "#imwndv",
+      "name": "Slavic cousins",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t4kxmh",
+      "name": "Polish duch",
+      "x": 450,
+      "y": 0,
+      "parent": "#imwndv"
+    },
+    {
+      "@id": "#wgagi5",
+      "name": "Slovak duch",
+      "x": 379,
+      "y": 195,
+      "parent": "#imwndv"
+    },
+    {
+      "@id": "#33nv75",
+      "name": "Russian дух",
+      "x": 187,
+      "y": 327,
+      "parent": "#imwndv"
+    },
+    {
+      "@id": "#y8t4yb",
+      "name": "Related Czech words",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t2ej9b",
+      "name": "duchovní: spiritual",
+      "x": -64,
+      "y": 356,
+      "parent": "#y8t4yb"
+    },
+    {
+      "@id": "#iynyc4",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jteg9h",
+      "name": "Wiktionary: duch",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/duch#Czech",
+      "parent": "#iynyc4"
+    },
+    {
+      "@id": "#d9zjvt",
+      "name": "Wiktionary: Proto-Slavic *duxъ",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/dux%D1%8A",
+      "parent": "#iynyc4"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

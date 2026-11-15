@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech opice etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#emcjpy",
+      "name": "Meaning: “monkey”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u4ykkk",
+      "name": "Monkey",
+      "x": -432,
+      "y": -101,
+      "parent": "#emcjpy"
+    },
+    {
+      "@id": "#cketqc",
+      "name": "Word history",
+      "x": 96,
+      "y": -167,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#myjxbn",
+      "name": "Old Czech opicě",
+      "x": -295,
+      "y": -272,
+      "parent": "#cketqc"
+    },
+    {
+      "@id": "#2qx998",
+      "name": "Proto-Slavic *opica",
+      "x": -64,
+      "y": -356,
+      "parent": "#cketqc"
+    },
+    {
+      "@id": "#tqqkte",
+      "name": "Proto-Germanic *apô",
+      "x": 187,
+      "y": -327,
+      "parent": "#cketqc"
+    },
+    {
+      "@id": "#2n6m4s",
+      "name": "From *opъ + *-ica",
+      "x": 379,
+      "y": -195,
+      "parent": "#cketqc"
+    },
+    {
+      "@id": "#rzu5qh",
+      "name": "Proto-West Germanic *apō, “ape”",
+      "x": 450,
+      "y": 0,
+      "parent": "#cketqc"
+    },
+    {
+      "@id": "#ek4ynp",
+      "name": "Slavic cousins",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m2fj2i",
+      "name": "Slovak opica",
+      "x": 379,
+      "y": 195,
+      "parent": "#ek4ynp"
+    },
+    {
+      "@id": "#fhn7fa",
+      "name": "Russian опица",
+      "x": 187,
+      "y": 327,
+      "parent": "#ek4ynp"
+    },
+    {
+      "@id": "#4ix83p",
+      "name": "Related Czech words",
+      "x": -36,
+      "y": 198,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ewzyjs",
+      "name": "opičit: to ape",
+      "x": -64,
+      "y": 356,
+      "parent": "#4ix83p"
+    },
+    {
+      "@id": "#9rtfkb",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ctid43",
+      "name": "Wiktionary: opice",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/opice#Czech",
+      "parent": "#9rtfkb"
+    },
+    {
+      "@id": "#3tp6qt",
+      "name": "Wiktionary: Proto-Slavic *opica",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/opica",
+      "parent": "#9rtfkb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

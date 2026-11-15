@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech vlajka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#g6yesv",
+      "name": "Meaning: “flag”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vdgdd6",
+      "name": "Flag",
+      "x": -318,
+      "y": -255,
+      "parent": "#g6yesv"
+    },
+    {
+      "@id": "#u69pt4",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4dc2na",
+      "name": "From vlát + -ka",
+      "x": 318,
+      "y": -255,
+      "parent": "#u69pt4"
+    },
+    {
+      "@id": "#dcnm7s",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v3kg2g",
+      "name": "vlajkonoš: flag-bearer",
+      "x": 318,
+      "y": 255,
+      "parent": "#dcnm7s"
+    },
+    {
+      "@id": "#nfc6er",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hez536",
+      "name": "Wiktionary: vlajka",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/vlajka#Czech",
+      "parent": "#nfc6er"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

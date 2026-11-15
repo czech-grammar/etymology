@@ -1,0 +1,183 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech lípa etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5i29uk",
+      "name": "Meaning: “lime tree, linden”",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#atsefu",
+      "name": "Lime tree, linden",
+      "x": -447,
+      "y": -116,
+      "parent": "#5i29uk"
+    },
+    {
+      "@id": "#mmjnqa",
+      "name": "Lime, linden, basswood",
+      "x": -265,
+      "y": -291,
+      "parent": "#5i29uk"
+    },
+    {
+      "@id": "#27h4fk",
+      "name": "Word history",
+      "x": 135,
+      "y": -149,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k5zmii",
+      "name": "Old Czech lípa",
+      "x": 0,
+      "y": -360,
+      "parent": "#27h4fk"
+    },
+    {
+      "@id": "#bym763",
+      "name": "Proto-Slavic *lipa",
+      "x": 265,
+      "y": -291,
+      "parent": "#27h4fk"
+    },
+    {
+      "@id": "#5tirig",
+      "name": "Proto-Balto-Slavic *léiˀpāˀ",
+      "x": 428,
+      "y": -111,
+      "parent": "#27h4fk"
+    },
+    {
+      "@id": "#vwwdhe",
+      "name": "Slavic cousins",
+      "x": 135,
+      "y": 149,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fcq4cw",
+      "name": "Polish lipa",
+      "x": 428,
+      "y": 111,
+      "parent": "#vwwdhe"
+    },
+    {
+      "@id": "#d8k4gv",
+      "name": "Slovak lipa",
+      "x": 265,
+      "y": 291,
+      "parent": "#vwwdhe"
+    },
+    {
+      "@id": "#6j2db8",
+      "name": "Russian липа",
+      "x": 0,
+      "y": 360,
+      "parent": "#vwwdhe"
+    },
+    {
+      "@id": "#w95ym9",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y85vky",
+      "name": "Wiktionary: lípa",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/l%C3%ADpa#Czech",
+      "parent": "#w95ym9"
+    },
+    {
+      "@id": "#cq9q53",
+      "name": "Wiktionary: Proto-Slavic *lipa",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/lipa",
+      "parent": "#w95ym9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    }
+  ],
+  "selectedNode": 0
+}

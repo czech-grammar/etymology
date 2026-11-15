@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kolegyně etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3m8itn",
+      "name": "Meaning: “colleague (f)”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bctq6j",
+      "name": "Colleague (f)",
+      "x": -318,
+      "y": -255,
+      "parent": "#3m8itn"
+    },
+    {
+      "@id": "#82mh75",
+      "name": "Female colleague",
+      "x": 318,
+      "y": -255,
+      "parent": "#3m8itn"
+    },
+    {
+      "@id": "#6mgb8n",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j3k3km",
+      "name": "From kolega + -yně",
+      "x": 318,
+      "y": 255,
+      "parent": "#6mgb8n"
+    },
+    {
+      "@id": "#22k9ij",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m6fpvq",
+      "name": "Wiktionary: kolegyně",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/kolegyn%C4%9B#Czech",
+      "parent": "#22k9ij"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

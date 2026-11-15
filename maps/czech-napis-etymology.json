@@ -1,0 +1,127 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech nápis etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#bz8cp9",
+      "name": "Meaning: “sign, inscription”",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#phxttr",
+      "name": "Sign, inscription",
+      "x": -364,
+      "y": -212,
+      "parent": "#bz8cp9"
+    },
+    {
+      "@id": "#5srj8i",
+      "name": "Notice, inscription, legend, lettering",
+      "x": 139,
+      "y": -342,
+      "parent": "#bz8cp9"
+    },
+    {
+      "@id": "#kume3u",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w3ma5k",
+      "name": "From the verb napisovat",
+      "x": 450,
+      "y": 0,
+      "parent": "#kume3u"
+    },
+    {
+      "@id": "#mj87aa",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8546hz",
+      "name": "napsat: to write",
+      "x": 139,
+      "y": 342,
+      "parent": "#mj87aa"
+    },
+    {
+      "@id": "#aacgr4",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#si8r4w",
+      "name": "Wiktionary: nápis",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/n%C3%A1pis#Czech",
+      "parent": "#aacgr4"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,127 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech schůzka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#uhdshk",
+      "name": "Meaning: “meeting, date”",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ff4nyc",
+      "name": "Meeting, date",
+      "x": -364,
+      "y": -212,
+      "parent": "#uhdshk"
+    },
+    {
+      "@id": "#eibq7f",
+      "name": "Appointment",
+      "x": 139,
+      "y": -342,
+      "parent": "#uhdshk"
+    },
+    {
+      "@id": "#j85mtz",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hfrgax",
+      "name": "From schůze + -ka",
+      "x": 450,
+      "y": 0,
+      "parent": "#j85mtz"
+    },
+    {
+      "@id": "#3vbf7b",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mzi67y",
+      "name": "schůze: meeting",
+      "x": 139,
+      "y": 342,
+      "parent": "#3vbf7b"
+    },
+    {
+      "@id": "#gaf239",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j6v5ge",
+      "name": "Wiktionary: schůzka",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/sch%C5%AFzka#Czech",
+      "parent": "#gaf239"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

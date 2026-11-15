@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech raketa etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#mj2txu",
+      "name": "Meaning: “racket; rocket”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4rtfsp",
+      "name": "Racket; rocket",
+      "x": -225,
+      "y": -312,
+      "parent": "#mj2txu"
+    },
+    {
+      "@id": "#k4sqjc",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mvnr33",
+      "name": "From German Rakete",
+      "x": 450,
+      "y": 0,
+      "parent": "#k4sqjc"
+    },
+    {
+      "@id": "#6234bp",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s88g7p",
+      "name": "Wiktionary: raketa",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/raketa#Czech",
+      "parent": "#6234bp"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

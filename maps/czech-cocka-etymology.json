@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech čočka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#pvn4g8",
+      "name": "Meaning: “lentil; lens”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zctemw",
+      "name": "Lentil; lens",
+      "x": -225,
+      "y": -312,
+      "parent": "#pvn4g8"
+    },
+    {
+      "@id": "#7p4yyp",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9r9i6q",
+      "name": "Old Czech sočovicě, “lentil”",
+      "x": 470,
+      "y": 0,
+      "parent": "#7p4yyp"
+    },
+    {
+      "@id": "#rpj48u",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n5kfgj",
+      "name": "Wiktionary: čočka",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/%C4%8Do%C4%8Dka#Czech",
+      "parent": "#rpj48u"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

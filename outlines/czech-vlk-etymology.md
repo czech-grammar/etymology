@@ -1,0 +1,21 @@
+category: A2 nouns
+aliases: vlk etymology, origin of vlk, vlk word origin, etymology of vlk
+- Czech vlk etymology
+  - Meaning: “wolf”
+    - Wolf
+  - Word history
+    - Old Czech vlk
+    - Proto-Slavic *vьlkъ
+    - Proto-Balto-Slavic *wilkás
+    - Proto-Indo-European *wĺ̥kʷos
+  - Slavic cousins
+    - Polish wilk
+    - Slovak vlk
+    - Russian волк
+  - Related Czech words
+    - vlče: wolf cub
+    - vlčice: she-wolf
+    - vlkodlak: werewolf
+  - Sources
+    - [Wiktionary: vlk](https://en.wiktionary.org/wiki/vlk#Czech)
+    - [Wiktionary: Proto-Slavic *vьlkъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/v%D1%8Clk%D1%8A)

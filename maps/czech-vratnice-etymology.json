@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech vrátnice etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5rcxc9",
+      "name": "Meaning: “porter’s lodge, reception”",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iuc8x3",
+      "name": "Porter’s lodge, reception",
+      "x": -527,
+      "y": -121,
+      "parent": "#5rcxc9"
+    },
+    {
+      "@id": "#rwytnx",
+      "name": "Gatehouse, porter's lodge, lodge",
+      "x": -295,
+      "y": -272,
+      "parent": "#5rcxc9"
+    },
+    {
+      "@id": "#kyw3ze",
+      "name": "Word history",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gqga3r",
+      "name": "From vrátný + -ice",
+      "x": -64,
+      "y": -356,
+      "parent": "#kyw3ze"
+    },
+    {
+      "@id": "#z8u5th",
+      "name": "Root: Proto-Slavic *vorta",
+      "x": 187,
+      "y": -327,
+      "parent": "#kyw3ze"
+    },
+    {
+      "@id": "#zu54xh",
+      "name": "Cousins of the root *vorta",
+      "x": 290,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ncgmb8",
+      "name": "Polish wrota",
+      "x": 379,
+      "y": -195,
+      "parent": "#zu54xh"
+    },
+    {
+      "@id": "#67xd6w",
+      "name": "Slovak vráta",
+      "x": 530,
+      "y": 0,
+      "parent": "#zu54xh"
+    },
+    {
+      "@id": "#ewujtr",
+      "name": "Russian ворота",
+      "x": 379,
+      "y": 195,
+      "parent": "#zu54xh"
+    },
+    {
+      "@id": "#5uqqib",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tknqnw",
+      "name": "vrata: door",
+      "x": 187,
+      "y": 327,
+      "parent": "#5uqqib"
+    },
+    {
+      "@id": "#ag6cqy",
+      "name": "vrátník: pylorus",
+      "x": -64,
+      "y": 356,
+      "parent": "#5uqqib"
+    },
+    {
+      "@id": "#9j692v",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#agxn5r",
+      "name": "Wiktionary: vrátnice",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/vr%C3%A1tnice#Czech",
+      "parent": "#9j692v"
+    },
+    {
+      "@id": "#kctufg",
+      "name": "Wiktionary: Proto-Slavic *vorta",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/vorta",
+      "parent": "#9j692v"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,149 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech hřbitov etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#vum3qc",
+      "name": "Meaning: “cemetery”",
+      "x": -143,
+      "y": -144,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#42uy2w",
+      "name": "Cemetery",
+      "x": -405,
+      "y": -156,
+      "parent": "#vum3qc"
+    },
+    {
+      "@id": "#2ngnqf",
+      "name": "Graveyard",
+      "x": -100,
+      "y": -351,
+      "parent": "#vum3qc"
+    },
+    {
+      "@id": "#fs8zi9",
+      "name": "Word history",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hvjyck",
+      "name": "Old Czech břitov",
+      "x": 281,
+      "y": -281,
+      "parent": "#fs8zi9"
+    },
+    {
+      "@id": "#arq454",
+      "name": "Middle High German frithof",
+      "x": 450,
+      "y": 0,
+      "parent": "#fs8zi9"
+    },
+    {
+      "@id": "#9w7u4y",
+      "name": "Related Czech words",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xiwciz",
+      "name": "hrob: grave",
+      "x": 281,
+      "y": 281,
+      "parent": "#9w7u4y"
+    },
+    {
+      "@id": "#4g28sb",
+      "name": "pohřbít: to bury",
+      "x": -100,
+      "y": 351,
+      "parent": "#9w7u4y"
+    },
+    {
+      "@id": "#v8d7n7",
+      "name": "Sources",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#emujit",
+      "name": "Wiktionary: hřbitov",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wiktionary.org/wiki/h%C5%99bitov#Czech",
+      "parent": "#v8d7n7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

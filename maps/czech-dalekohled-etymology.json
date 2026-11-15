@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech dalekohled etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5yfkgg",
+      "name": "Meaning: “binoculars; telescope”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mztvhy",
+      "name": "Binoculars; telescope",
+      "x": -423,
+      "y": -123,
+      "parent": "#5yfkgg"
+    },
+    {
+      "@id": "#yntfna",
+      "name": "Word history",
+      "x": 115,
+      "y": -159,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a8r946",
+      "name": "From daleký + -o- + hledět",
+      "x": -225,
+      "y": -312,
+      "parent": "#yntfna"
+    },
+    {
+      "@id": "#wbptw9",
+      "name": "Root: Proto-Slavic *ględěti",
+      "x": 78,
+      "y": -355,
+      "parent": "#yntfna"
+    },
+    {
+      "@id": "#sct4ua",
+      "name": "Proto-Balto-Slavic *glenˀd-",
+      "x": 345,
+      "y": -231,
+      "parent": "#yntfna"
+    },
+    {
+      "@id": "#uy22h8",
+      "name": "Proto-Indo-European *gʰlend-",
+      "x": 450,
+      "y": 0,
+      "parent": "#yntfna"
+    },
+    {
+      "@id": "#ewfr9w",
+      "name": "Cousins of the root *ględěti",
+      "x": 115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9mri4d",
+      "name": "Slovak hľadieť",
+      "x": 345,
+      "y": 231,
+      "parent": "#ewfr9w"
+    },
+    {
+      "@id": "#p7sk2m",
+      "name": "Russian глядеть",
+      "x": 78,
+      "y": 355,
+      "parent": "#ewfr9w"
+    },
+    {
+      "@id": "#aindu2",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5ep2ck",
+      "name": "Wiktionary: dalekohled",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/dalekohled#Czech",
+      "parent": "#aindu2"
+    },
+    {
+      "@id": "#6gjiww",
+      "name": "Wiktionary: Proto-Slavic *ględěti",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/gl%C4%99d%C4%9Bti",
+      "parent": "#aindu2"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kapr etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8nmcdk",
+      "name": "Meaning: “carp”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2r7jz2",
+      "name": "Carp",
+      "x": -416,
+      "y": -138,
+      "parent": "#8nmcdk"
+    },
+    {
+      "@id": "#dt5dk2",
+      "name": "Word history",
+      "x": 88,
+      "y": -170,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tqetw5",
+      "name": "Old Czech kapr",
+      "x": -172,
+      "y": -333,
+      "parent": "#dt5dk2"
+    },
+    {
+      "@id": "#72egzf",
+      "name": "Proto-Slavic *korpъ",
+      "x": 172,
+      "y": -333,
+      "parent": "#dt5dk2"
+    },
+    {
+      "@id": "#k2twjx",
+      "name": "Deeper origin uncertain",
+      "x": 416,
+      "y": -138,
+      "parent": "#dt5dk2"
+    },
+    {
+      "@id": "#tyb75z",
+      "name": "Slavic cousins",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#75zzye",
+      "name": "Slovak krap",
+      "x": 416,
+      "y": 138,
+      "parent": "#tyb75z"
+    },
+    {
+      "@id": "#fmqzir",
+      "name": "Russian короп",
+      "x": 172,
+      "y": 333,
+      "parent": "#tyb75z"
+    },
+    {
+      "@id": "#28dmbs",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e3wcin",
+      "name": "Wiktionary: kapr",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/kapr#Czech",
+      "parent": "#28dmbs"
+    },
+    {
+      "@id": "#w5ywzp",
+      "name": "Wiktionary: Proto-Slavic *korpъ",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/korp%D1%8A",
+      "parent": "#28dmbs"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

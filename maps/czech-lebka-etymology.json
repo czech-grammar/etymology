@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech lebka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gthuns",
+      "name": "Meaning: “skull”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ds3mq5",
+      "name": "Skull",
+      "x": -416,
+      "y": -138,
+      "parent": "#gthuns"
+    },
+    {
+      "@id": "#ke8mdf",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#azfj8a",
+      "name": "Old Czech leb",
+      "x": -172,
+      "y": -333,
+      "parent": "#ke8mdf"
+    },
+    {
+      "@id": "#ystbvi",
+      "name": "Proto-Slavic *lъbъ",
+      "x": 172,
+      "y": -333,
+      "parent": "#ke8mdf"
+    },
+    {
+      "@id": "#zasprw",
+      "name": "Slavic cousins",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vrtwai",
+      "name": "Polish łeb",
+      "x": 416,
+      "y": -138,
+      "parent": "#zasprw"
+    },
+    {
+      "@id": "#u4qmjb",
+      "name": "Slovak leb",
+      "x": 416,
+      "y": 138,
+      "parent": "#zasprw"
+    },
+    {
+      "@id": "#xxkyqz",
+      "name": "Russian лоб",
+      "x": 172,
+      "y": 333,
+      "parent": "#zasprw"
+    },
+    {
+      "@id": "#2es995",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pvvvha",
+      "name": "Wiktionary: lebka",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/lebka#Czech",
+      "parent": "#2es995"
+    },
+    {
+      "@id": "#wrtft3",
+      "name": "Wiktionary: Proto-Slavic *lъbъ",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/l%D1%8Ab%D1%8A",
+      "parent": "#2es995"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,21 @@
+category: B2 nouns
+aliases: strážce etymology, origin of strážce, strážce word origin, etymology of strážce
+- Czech strážce etymology
+  - Meaning: “guard, keeper”
+    - Guard, keeper
+    - Guardian, guard
+  - Word history
+    - From stráž + -ce
+    - Root: Proto-Slavic *storžь
+    - Proto-Balto-Slavic *starˀgiás
+  - Cousins of the root *storžь
+    - Polish stróż
+    - Slovak stráž
+    - Russian сторож
+  - Related Czech words
+    - stráž: guard
+    - strážkyně: female guardian
+    - strážný: guardian
+  - Sources
+    - [Wiktionary: strážce](https://en.wiktionary.org/wiki/str%C3%A1%C5%BEce#Czech)
+    - [Wiktionary: Proto-Slavic *storžь](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/stor%C5%BE%D1%8C)

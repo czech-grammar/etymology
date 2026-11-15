@@ -1,0 +1,173 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech cestovatel etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#pbygqf",
+      "name": "Meaning: “traveller, explorer”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6k9nah",
+      "name": "Traveller, explorer",
+      "x": -416,
+      "y": -138,
+      "parent": "#pbygqf"
+    },
+    {
+      "@id": "#s4bwhh",
+      "name": "Word history",
+      "x": 88,
+      "y": -170,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3ajxui",
+      "name": "From cestovat, “to travel” + -tel",
+      "x": -172,
+      "y": -333,
+      "parent": "#s4bwhh"
+    },
+    {
+      "@id": "#tph89j",
+      "name": "Root: Proto-Slavic *cěsta",
+      "x": 172,
+      "y": -333,
+      "parent": "#s4bwhh"
+    },
+    {
+      "@id": "#xvnsgq",
+      "name": "Deeper origin uncertain",
+      "x": 416,
+      "y": -138,
+      "parent": "#s4bwhh"
+    },
+    {
+      "@id": "#4aryhj",
+      "name": "Cousins of the root *cěsta",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zpaby2",
+      "name": "Slovak cesta",
+      "x": 416,
+      "y": 138,
+      "parent": "#4aryhj"
+    },
+    {
+      "@id": "#5ksppa",
+      "name": "Related Czech words",
+      "x": 88,
+      "y": 170,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#56e68u",
+      "name": "cestovat: to travel",
+      "x": 172,
+      "y": 333,
+      "parent": "#5ksppa"
+    },
+    {
+      "@id": "#ffc4yr",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jtvzsv",
+      "name": "Wiktionary: cestovatel",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/cestovatel#Czech",
+      "parent": "#ffc4yr"
+    },
+    {
+      "@id": "#hjun2m",
+      "name": "Wiktionary: Proto-Slavic *cěsta",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/c%C4%9Bsta",
+      "parent": "#ffc4yr"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

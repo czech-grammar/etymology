@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech rozloučení etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#bmygwf",
+      "name": "Meaning: “farewell, goodbye”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mrtqe5",
+      "name": "Farewell, goodbye",
+      "x": -318,
+      "y": -255,
+      "parent": "#bmygwf"
+    },
+    {
+      "@id": "#wv4r68",
+      "name": "Verbal noun of rozloučit",
+      "x": 318,
+      "y": -255,
+      "parent": "#bmygwf"
+    },
+    {
+      "@id": "#um8vwr",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ia25pj",
+      "name": "From rozloučit + -ení",
+      "x": 318,
+      "y": 255,
+      "parent": "#um8vwr"
+    },
+    {
+      "@id": "#eyjanj",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fpgsm2",
+      "name": "Wiktionary: rozloučení",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/rozlou%C4%8Den%C3%AD#Czech",
+      "parent": "#eyjanj"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech poznámka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#z9damp",
+      "name": "Meaning: “note”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3tuvuc",
+      "name": "Note",
+      "x": -318,
+      "y": -255,
+      "parent": "#z9damp"
+    },
+    {
+      "@id": "#a4au9v",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d6m2rh",
+      "name": "From poznamenat + -ka",
+      "x": 318,
+      "y": -255,
+      "parent": "#a4au9v"
+    },
+    {
+      "@id": "#46dk8w",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ekjpip",
+      "name": "poznamenat: to remark",
+      "x": 318,
+      "y": 255,
+      "parent": "#46dk8w"
+    },
+    {
+      "@id": "#ya7yty",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#566fxx",
+      "name": "Wiktionary: poznámka",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/pozn%C3%A1mka#Czech",
+      "parent": "#ya7yty"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech stáj etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#pgafdz",
+      "name": "Meaning: “stable”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tmuet6",
+      "name": "Stable",
+      "x": -416,
+      "y": -138,
+      "parent": "#pgafdz"
+    },
+    {
+      "@id": "#7yt5qp",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4yjbrj",
+      "name": "Old Czech stájě",
+      "x": -172,
+      "y": -333,
+      "parent": "#7yt5qp"
+    },
+    {
+      "@id": "#avx823",
+      "name": "Proto-Slavic *staja",
+      "x": 172,
+      "y": -333,
+      "parent": "#7yt5qp"
+    },
+    {
+      "@id": "#5t62nf",
+      "name": "Slavic cousins",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w9x378",
+      "name": "Polish staje",
+      "x": 416,
+      "y": -138,
+      "parent": "#5t62nf"
+    },
+    {
+      "@id": "#qkuhvs",
+      "name": "Slovak stajňa",
+      "x": 416,
+      "y": 138,
+      "parent": "#5t62nf"
+    },
+    {
+      "@id": "#w9gpk5",
+      "name": "Russian стая",
+      "x": 172,
+      "y": 333,
+      "parent": "#5t62nf"
+    },
+    {
+      "@id": "#nx3ram",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pj985x",
+      "name": "Wiktionary: stáj",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/st%C3%A1j#Czech",
+      "parent": "#nx3ram"
+    },
+    {
+      "@id": "#wup8qx",
+      "name": "Wiktionary: Proto-Slavic *staja",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/staja",
+      "parent": "#nx3ram"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

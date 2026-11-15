@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech němčina etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#mfzyvb",
+      "name": "Meaning: “German (language)”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8fnsvx",
+      "name": "German (language)",
+      "x": -390,
+      "y": -180,
+      "parent": "#mfzyvb"
+    },
+    {
+      "@id": "#4h2kjz",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z458ix",
+      "name": "From německý, “German” + -čtina",
+      "x": 0,
+      "y": -360,
+      "parent": "#4h2kjz"
+    },
+    {
+      "@id": "#6rwaem",
+      "name": "Related Czech words",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#emjpzi",
+      "name": "dolnoněmčina: Low German",
+      "x": 390,
+      "y": -180,
+      "parent": "#6rwaem"
+    },
+    {
+      "@id": "#rv6tx9",
+      "name": "hornoněmčina: High German",
+      "x": 390,
+      "y": 180,
+      "parent": "#6rwaem"
+    },
+    {
+      "@id": "#u53s8v",
+      "name": "němčinář: teacher of German",
+      "x": 0,
+      "y": 360,
+      "parent": "#6rwaem"
+    },
+    {
+      "@id": "#ne6jd5",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fghffs",
+      "name": "Wiktionary: němčina",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/n%C4%9Bm%C4%8Dina#Czech",
+      "parent": "#ne6jd5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech biologie etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#x27aft",
+      "name": "Meaning: “biology”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w2xb7u",
+      "name": "Biology",
+      "x": -318,
+      "y": -255,
+      "parent": "#x27aft"
+    },
+    {
+      "@id": "#enncm9",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pn5jv5",
+      "name": "From bio- + -logie",
+      "x": 318,
+      "y": -255,
+      "parent": "#enncm9"
+    },
+    {
+      "@id": "#hhgp3b",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k2gr3d",
+      "name": "biolog: biologist",
+      "x": 318,
+      "y": 255,
+      "parent": "#hhgp3b"
+    },
+    {
+      "@id": "#zyrpi3",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6ci6pq",
+      "name": "Wiktionary: biologie",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/biologie#Czech",
+      "parent": "#zyrpi3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

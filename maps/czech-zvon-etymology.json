@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech zvon etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#b2rhc2",
+      "name": "Meaning: “bell”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xnzc87",
+      "name": "Bell",
+      "x": -432,
+      "y": -101,
+      "parent": "#b2rhc2"
+    },
+    {
+      "@id": "#ahzdrp",
+      "name": "Word history",
+      "x": -96,
+      "y": -167,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8ruacp",
+      "name": "Old Czech zvon",
+      "x": -295,
+      "y": -272,
+      "parent": "#ahzdrp"
+    },
+    {
+      "@id": "#evwqiq",
+      "name": "Proto-Slavic *zvonъ",
+      "x": -64,
+      "y": -356,
+      "parent": "#ahzdrp"
+    },
+    {
+      "@id": "#h74t2a",
+      "name": "Slavic cousins",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5ynyf7",
+      "name": "Polish dzwon",
+      "x": 187,
+      "y": -327,
+      "parent": "#h74t2a"
+    },
+    {
+      "@id": "#7ggde3",
+      "name": "Slovak zvon",
+      "x": 379,
+      "y": -195,
+      "parent": "#h74t2a"
+    },
+    {
+      "@id": "#xcfeuy",
+      "name": "Russian звон",
+      "x": 450,
+      "y": 0,
+      "parent": "#h74t2a"
+    },
+    {
+      "@id": "#6s4jur",
+      "name": "Related Czech words",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9gkbz2",
+      "name": "zvonař: bellfounder",
+      "x": 379,
+      "y": 195,
+      "parent": "#6s4jur"
+    },
+    {
+      "@id": "#bxg9q9",
+      "name": "zvonařství: bellfounding",
+      "x": 187,
+      "y": 327,
+      "parent": "#6s4jur"
+    },
+    {
+      "@id": "#eyggzq",
+      "name": "zvonárna: bell foundry",
+      "x": -70,
+      "y": 388,
+      "parent": "#6s4jur"
+    },
+    {
+      "@id": "#9shmpj",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#frhgnm",
+      "name": "Wiktionary: zvon",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/zvon#Czech",
+      "parent": "#9shmpj"
+    },
+    {
+      "@id": "#ggd4b8",
+      "name": "Wiktionary: Proto-Slavic *zvonъ",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/zvon%D1%8A",
+      "parent": "#9shmpj"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

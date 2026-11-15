@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech sklenička etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#6c88ft",
+      "name": "Meaning: “small glass”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xtdz2k",
+      "name": "Small glass",
+      "x": -225,
+      "y": -312,
+      "parent": "#6c88ft"
+    },
+    {
+      "@id": "#fts72t",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pj3vaa",
+      "name": "From sklenice + -čka",
+      "x": 450,
+      "y": 0,
+      "parent": "#fts72t"
+    },
+    {
+      "@id": "#jqhejz",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j423cu",
+      "name": "Wiktionary: sklenička",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/skleni%C4%8Dka#Czech",
+      "parent": "#jqhejz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

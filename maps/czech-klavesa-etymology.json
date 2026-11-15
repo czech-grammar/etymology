@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech klávesa etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#762q8x",
+      "name": "Meaning: “key (keyboard, piano)”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kakunv",
+      "name": "Key (keyboard, piano)",
+      "x": -318,
+      "y": -255,
+      "parent": "#762q8x"
+    },
+    {
+      "@id": "#bdvuga",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#32y6xm",
+      "name": "Borrowed from Medieval Latin clāvēs",
+      "x": 318,
+      "y": -255,
+      "parent": "#bdvuga"
+    },
+    {
+      "@id": "#g2xxq7",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qvupfs",
+      "name": "klávesnice: keyboard",
+      "x": 318,
+      "y": 255,
+      "parent": "#g2xxq7"
+    },
+    {
+      "@id": "#rnbft6",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rv35e2",
+      "name": "Wiktionary: klávesa",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/kl%C3%A1vesa#Czech",
+      "parent": "#rnbft6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

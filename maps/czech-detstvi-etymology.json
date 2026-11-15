@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech dětství etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#kwcicv",
+      "name": "Meaning: “childhood”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sge846",
+      "name": "Childhood",
+      "x": -423,
+      "y": -123,
+      "parent": "#kwcicv"
+    },
+    {
+      "@id": "#pvn52d",
+      "name": "Word history",
+      "x": 40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#98h5uh",
+      "name": "From dítě + -ství",
+      "x": -225,
+      "y": -312,
+      "parent": "#pvn52d"
+    },
+    {
+      "@id": "#gh542z",
+      "name": "Root: Proto-Slavic *dětę",
+      "x": 78,
+      "y": -355,
+      "parent": "#pvn52d"
+    },
+    {
+      "@id": "#crvxen",
+      "name": "From *dětь, “child” + *-ę",
+      "x": 345,
+      "y": -231,
+      "parent": "#pvn52d"
+    },
+    {
+      "@id": "#ma9bqm",
+      "name": "Cousins of the root *dětę",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y7wktr",
+      "name": "Polish dziecię",
+      "x": 450,
+      "y": 0,
+      "parent": "#ma9bqm"
+    },
+    {
+      "@id": "#8jx9mn",
+      "name": "Slovak dieťa",
+      "x": 345,
+      "y": 231,
+      "parent": "#ma9bqm"
+    },
+    {
+      "@id": "#xk7vrr",
+      "name": "Russian дитя",
+      "x": 78,
+      "y": 355,
+      "parent": "#ma9bqm"
+    },
+    {
+      "@id": "#d9kqfp",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#296fuc",
+      "name": "Wiktionary: dětství",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/d%C4%9Btstv%C3%AD#Czech",
+      "parent": "#d9kqfp"
+    },
+    {
+      "@id": "#np35ga",
+      "name": "Wiktionary: Proto-Slavic *dětę",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/d%C4%9Bt%C4%99",
+      "parent": "#d9kqfp"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

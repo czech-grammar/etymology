@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech háj etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#yzbxwr",
+      "name": "Meaning: “grove”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b4sdjk",
+      "name": "Grove",
+      "x": -428,
+      "y": -111,
+      "parent": "#yzbxwr"
+    },
+    {
+      "@id": "#vd76q4",
+      "name": "Word history",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9tdriv",
+      "name": "Old Czech háj",
+      "x": -265,
+      "y": -291,
+      "parent": "#vd76q4"
+    },
+    {
+      "@id": "#yj2b97",
+      "name": "Proto-Slavic *gajь",
+      "x": 0,
+      "y": -360,
+      "parent": "#vd76q4"
+    },
+    {
+      "@id": "#yu4v9j",
+      "name": "Slavic cousins",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bp532w",
+      "name": "Slovak haj",
+      "x": 265,
+      "y": -291,
+      "parent": "#yu4v9j"
+    },
+    {
+      "@id": "#zfgbbk",
+      "name": "Russian гай",
+      "x": 428,
+      "y": -111,
+      "parent": "#yu4v9j"
+    },
+    {
+      "@id": "#f8ewye",
+      "name": "Related Czech words",
+      "x": 135,
+      "y": 149,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i5tnk3",
+      "name": "hájenka: gamekeeper's house",
+      "x": 428,
+      "y": 111,
+      "parent": "#f8ewye"
+    },
+    {
+      "@id": "#zt4efx",
+      "name": "hájit: to defend",
+      "x": 265,
+      "y": 291,
+      "parent": "#f8ewye"
+    },
+    {
+      "@id": "#8ecrs4",
+      "name": "hojit: to heal",
+      "x": 0,
+      "y": 360,
+      "parent": "#f8ewye"
+    },
+    {
+      "@id": "#vegpgg",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3djbtu",
+      "name": "Wiktionary: háj",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/h%C3%A1j#Czech",
+      "parent": "#vegpgg"
+    },
+    {
+      "@id": "#7enix4",
+      "name": "Wiktionary: Proto-Slavic *gajь",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/gaj%D1%8C",
+      "parent": "#vegpgg"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

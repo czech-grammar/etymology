@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech šňůra etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#su4bqc",
+      "name": "Meaning: “cord, line, string”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#htiazu",
+      "name": "Cord, line, string",
+      "x": -225,
+      "y": -312,
+      "parent": "#su4bqc"
+    },
+    {
+      "@id": "#8w26dx",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hxpby9",
+      "name": "Borrowed from German Schnur",
+      "x": 470,
+      "y": 0,
+      "parent": "#8w26dx"
+    },
+    {
+      "@id": "#hvmfpz",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3ptmgx",
+      "name": "Wiktionary: šňůra",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/%C5%A1%C5%88%C5%AFra#Czech",
+      "parent": "#hvmfpz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

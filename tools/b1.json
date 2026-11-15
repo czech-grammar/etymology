@@ -1,0 +1,1736 @@
+[
+ {
+  "cs": "vteřina",
+  "en": "second",
+  "gender": "f",
+  "topic": "time"
+ },
+ {
+  "cs": "chvilka",
+  "en": "moment, little while",
+  "gender": "f",
+  "topic": "time"
+ },
+ {
+  "cs": "sezóna",
+  "en": "season (sports, tourist)",
+  "gender": "f",
+  "topic": "time"
+ },
+ {
+  "cs": "pauza",
+  "en": "break, pause",
+  "gender": "f",
+  "topic": "time"
+ },
+ {
+  "cs": "hodinky",
+  "en": "watch (wristwatch)",
+  "gender": "f",
+  "topic": "time"
+ },
+ {
+  "cs": "dlaň",
+  "en": "palm (of the hand)",
+  "gender": "f",
+  "topic": "body"
+ },
+ {
+  "cs": "paže",
+  "en": "arm",
+  "gender": "f",
+  "topic": "body"
+ },
+ {
+  "cs": "slza",
+  "en": "tear",
+  "gender": "f",
+  "topic": "body"
+ },
+ {
+  "cs": "pleť",
+  "en": "complexion, skin",
+  "gender": "f",
+  "topic": "body"
+ },
+ {
+  "cs": "pěst",
+  "en": "fist",
+  "gender": "f",
+  "topic": "body"
+ },
+ {
+  "cs": "hruď",
+  "en": "chest",
+  "gender": "f",
+  "topic": "body"
+ },
+ {
+  "cs": "brada",
+  "en": "chin; beard",
+  "gender": "f",
+  "topic": "body"
+ },
+ {
+  "cs": "pata",
+  "en": "heel",
+  "gender": "f",
+  "topic": "body"
+ },
+ {
+  "cs": "žíla",
+  "en": "vein",
+  "gender": "f",
+  "topic": "body"
+ },
+ {
+  "cs": "lebka",
+  "en": "skull",
+  "gender": "f",
+  "topic": "body"
+ },
+ {
+  "cs": "únava",
+  "en": "tiredness",
+  "gender": "f",
+  "topic": "body"
+ },
+ {
+  "cs": "dáma",
+  "en": "lady; draughts (game)",
+  "gender": "f",
+  "topic": "family"
+ },
+ {
+  "cs": "dvojice",
+  "en": "pair, couple",
+  "gender": "f",
+  "topic": "family"
+ },
+ {
+  "cs": "holčička",
+  "en": "little girl",
+  "gender": "f",
+  "topic": "family"
+ },
+ {
+  "cs": "královna",
+  "en": "queen",
+  "gender": "f",
+  "topic": "family"
+ },
+ {
+  "cs": "svatba",
+  "en": "wedding",
+  "gender": "f",
+  "topic": "family"
+ },
+ {
+  "cs": "včela",
+  "en": "bee",
+  "gender": "f",
+  "topic": "animals"
+ },
+ {
+  "cs": "střecha",
+  "en": "roof",
+  "gender": "f",
+  "topic": "home"
+ },
+ {
+  "cs": "deska",
+  "en": "board, plank; record (LP)",
+  "gender": "f",
+  "topic": "home"
+ },
+ {
+  "cs": "komora",
+  "en": "pantry, storeroom; chamber",
+  "gender": "f",
+  "topic": "home"
+ },
+ {
+  "cs": "obrazovka",
+  "en": "screen",
+  "gender": "f",
+  "topic": "home"
+ },
+ {
+  "cs": "terasa",
+  "en": "terrace",
+  "gender": "f",
+  "topic": "home"
+ },
+ {
+  "cs": "nádoba",
+  "en": "container, vessel",
+  "gender": "f",
+  "topic": "home"
+ },
+ {
+  "cs": "vila",
+  "en": "villa",
+  "gender": "f",
+  "topic": "home"
+ },
+ {
+  "cs": "baterie",
+  "en": "battery",
+  "gender": "f",
+  "topic": "home"
+ },
+ {
+  "cs": "svíčka",
+  "en": "candle",
+  "gender": "f",
+  "topic": "home"
+ },
+ {
+  "cs": "pohovka",
+  "en": "sofa",
+  "gender": "f",
+  "topic": "home"
+ },
+ {
+  "cs": "trouba",
+  "en": "oven",
+  "gender": "f",
+  "topic": "home"
+ },
+ {
+  "cs": "dílna",
+  "en": "workshop",
+  "gender": "f",
+  "topic": "home"
+ },
+ {
+  "cs": "síť",
+  "en": "net; network",
+  "gender": "f",
+  "topic": "leisure"
+ },
+ {
+  "cs": "fotografie",
+  "en": "photograph",
+  "gender": "f",
+  "topic": "leisure"
+ },
+ {
+  "cs": "fotka",
+  "en": "photo (colloquial)",
+  "gender": "f",
+  "topic": "leisure"
+ },
+ {
+  "cs": "kamera",
+  "en": "camera (video)",
+  "gender": "f",
+  "topic": "leisure"
+ },
+ {
+  "cs": "scéna",
+  "en": "stage; scene",
+  "gender": "f",
+  "topic": "leisure"
+ },
+ {
+  "cs": "píseň",
+  "en": "song",
+  "gender": "f",
+  "topic": "leisure"
+ },
+ {
+  "cs": "branka",
+  "en": "goal (sports); small gate",
+  "gender": "f",
+  "topic": "leisure"
+ },
+ {
+  "cs": "sbírka",
+  "en": "collection",
+  "gender": "f",
+  "topic": "leisure"
+ },
+ {
+  "cs": "maska",
+  "en": "mask",
+  "gender": "f",
+  "topic": "leisure"
+ },
+ {
+  "cs": "narozeniny",
+  "en": "birthday",
+  "gender": "f",
+  "topic": "leisure"
+ },
+ {
+  "cs": "medaile",
+  "en": "medal",
+  "gender": "f",
+  "topic": "leisure"
+ },
+ {
+  "cs": "koule",
+  "en": "ball, sphere",
+  "gender": "f",
+  "topic": "leisure"
+ },
+ {
+  "cs": "hračka",
+  "en": "toy",
+  "gender": "f",
+  "topic": "leisure"
+ },
+ {
+  "cs": "povídka",
+  "en": "short story",
+  "gender": "f",
+  "topic": "leisure"
+ },
+ {
+  "cs": "kostka",
+  "en": "cube; dice; sugar lump",
+  "gender": "f",
+  "topic": "leisure"
+ },
+ {
+  "cs": "přehlídka",
+  "en": "parade, show",
+  "gender": "f",
+  "topic": "leisure"
+ },
+ {
+  "cs": "slavnost",
+  "en": "festivity, celebration",
+  "gender": "f",
+  "topic": "leisure"
+ },
+ {
+  "cs": "půda",
+  "en": "soil; attic",
+  "gender": "f",
+  "topic": "travel"
+ },
+ {
+  "cs": "hlína",
+  "en": "clay, earth",
+  "gender": "f",
+  "topic": "travel"
+ },
+ {
+  "cs": "skála",
+  "en": "rock, cliff",
+  "gender": "f",
+  "topic": "travel"
+ },
+ {
+  "cs": "obloha",
+  "en": "sky",
+  "gender": "f",
+  "topic": "travel"
+ },
+ {
+  "cs": "jeskyně",
+  "en": "cave",
+  "gender": "f",
+  "topic": "travel"
+ },
+ {
+  "cs": "pláž",
+  "en": "beach",
+  "gender": "f",
+  "topic": "travel"
+ },
+ {
+  "cs": "větev",
+  "en": "branch",
+  "gender": "f",
+  "topic": "travel"
+ },
+ {
+  "cs": "kůra",
+  "en": "bark; rind, crust",
+  "gender": "f",
+  "topic": "travel"
+ },
+ {
+  "cs": "stezka",
+  "en": "path, trail",
+  "gender": "f",
+  "topic": "travel"
+ },
+ {
+  "cs": "bouře",
+  "en": "storm",
+  "gender": "f",
+  "topic": "travel"
+ },
+ {
+  "cs": "lázně",
+  "en": "spa",
+  "gender": "f",
+  "topic": "travel"
+ },
+ {
+  "cs": "dodávka",
+  "en": "van; delivery",
+  "gender": "f",
+  "topic": "travel"
+ },
+ {
+  "cs": "kabina",
+  "en": "cabin, booth",
+  "gender": "f",
+  "topic": "travel"
+ },
+ {
+  "cs": "paluba",
+  "en": "deck (of a ship)",
+  "gender": "f",
+  "topic": "travel"
+ },
+ {
+  "cs": "posádka",
+  "en": "crew",
+  "gender": "f",
+  "topic": "travel"
+ },
+ {
+  "cs": "kapsa",
+  "en": "pocket",
+  "gender": "f",
+  "topic": "clothes"
+ },
+ {
+  "cs": "skvrna",
+  "en": "stain, spot",
+  "gender": "f",
+  "topic": "clothes"
+ },
+ {
+  "cs": "uniforma",
+  "en": "uniform",
+  "gender": "f",
+  "topic": "clothes"
+ },
+ {
+  "cs": "tabulka",
+  "en": "table, chart; bar (of chocolate)",
+  "gender": "f",
+  "topic": "school"
+ },
+ {
+  "cs": "poznámka",
+  "en": "note",
+  "gender": "f",
+  "topic": "school"
+ },
+ {
+  "cs": "knížka",
+  "en": "book (small)",
+  "gender": "f",
+  "topic": "school"
+ },
+ {
+  "cs": "kresba",
+  "en": "drawing",
+  "gender": "f",
+  "topic": "school"
+ },
+ {
+  "cs": "nula",
+  "en": "zero",
+  "gender": "f",
+  "topic": "school"
+ },
+ {
+  "cs": "jednička",
+  "en": "number one; top mark",
+  "gender": "f",
+  "topic": "school"
+ },
+ {
+  "cs": "školka",
+  "en": "nursery school",
+  "gender": "f",
+  "topic": "school"
+ },
+ {
+  "cs": "obálka",
+  "en": "envelope",
+  "gender": "f",
+  "topic": "school"
+ },
+ {
+  "cs": "stopa",
+  "en": "footprint, trace",
+  "gender": "f",
+  "topic": "other"
+ },
+ {
+  "cs": "díra",
+  "en": "hole",
+  "gender": "f",
+  "topic": "other"
+ },
+ {
+  "cs": "planeta",
+  "en": "planet",
+  "gender": "f",
+  "topic": "other"
+ },
+ {
+  "cs": "hromada",
+  "en": "pile, heap",
+  "gender": "f",
+  "topic": "other"
+ },
+ {
+  "cs": "kapka",
+  "en": "drop",
+  "gender": "f",
+  "topic": "other"
+ },
+ {
+  "cs": "nádrž",
+  "en": "tank, reservoir",
+  "gender": "f",
+  "topic": "other"
+ },
+ {
+  "cs": "tyč",
+  "en": "pole, rod",
+  "gender": "f",
+  "topic": "other"
+ },
+ {
+  "cs": "čtvrtina",
+  "en": "quarter",
+  "gender": "f",
+  "topic": "other"
+ },
+ {
+  "cs": "konference",
+  "en": "conference",
+  "gender": "f",
+  "topic": "other"
+ },
+ {
+  "cs": "houba",
+  "en": "mushroom; sponge",
+  "gender": "f",
+  "topic": "food"
+ },
+ {
+  "cs": "potravina",
+  "en": "foodstuff (usu. pl. potraviny: groceries)",
+  "gender": "f",
+  "topic": "food"
+ },
+ {
+  "cs": "miska",
+  "en": "bowl",
+  "gender": "f",
+  "topic": "meals"
+ },
+ {
+  "cs": "sklenička",
+  "en": "small glass",
+  "gender": "f",
+  "topic": "meals"
+ },
+ {
+  "cs": "stovka",
+  "en": "hundred; hundred-crown note",
+  "gender": "f",
+  "topic": "shopping"
+ },
+ {
+  "cs": "fronta",
+  "en": "queue",
+  "gender": "f",
+  "topic": "shopping"
+ },
+ {
+  "cs": "prodejna",
+  "en": "shop, store",
+  "gender": "f",
+  "topic": "shopping"
+ },
+ {
+  "cs": "brána",
+  "en": "gate",
+  "gender": "f",
+  "topic": "town"
+ },
+ {
+  "cs": "hala",
+  "en": "hall (sports, station)",
+  "gender": "f",
+  "topic": "town"
+ },
+ {
+  "cs": "elektrárna",
+  "en": "power station",
+  "gender": "f",
+  "topic": "town"
+ },
+ {
+  "cs": "socha",
+  "en": "statue",
+  "gender": "f",
+  "topic": "town"
+ },
+ {
+  "cs": "ulička",
+  "en": "alley, lane",
+  "gender": "f",
+  "topic": "town"
+ },
+ {
+  "cs": "lavička",
+  "en": "bench",
+  "gender": "f",
+  "topic": "town"
+ },
+ {
+  "cs": "pevnost",
+  "en": "fortress",
+  "gender": "f",
+  "topic": "town"
+ },
+ {
+  "cs": "kaple",
+  "en": "chapel",
+  "gender": "f",
+  "topic": "town"
+ },
+ {
+  "cs": "síň",
+  "en": "hall (ceremonial room)",
+  "gender": "f",
+  "topic": "town"
+ },
+ {
+  "cs": "fasáda",
+  "en": "facade",
+  "gender": "f",
+  "topic": "town"
+ },
+ {
+  "cs": "vlas",
+  "en": "hair (a single hair)",
+  "gender": "mi",
+  "topic": "body"
+ },
+ {
+  "cs": "sen",
+  "en": "dream",
+  "gender": "mi",
+  "topic": "body"
+ },
+ {
+  "cs": "úsměv",
+  "en": "smile",
+  "gender": "mi",
+  "topic": "body"
+ },
+ {
+  "cs": "mozek",
+  "en": "brain",
+  "gender": "mi",
+  "topic": "body"
+ },
+ {
+  "cs": "ret",
+  "en": "lip",
+  "gender": "mi",
+  "topic": "body"
+ },
+ {
+  "cs": "dech",
+  "en": "breath",
+  "gender": "mi",
+  "topic": "body"
+ },
+ {
+  "cs": "bok",
+  "en": "side; hip",
+  "gender": "mi",
+  "topic": "body"
+ },
+ {
+  "cs": "smích",
+  "en": "laughter",
+  "gender": "mi",
+  "topic": "body"
+ },
+ {
+  "cs": "sval",
+  "en": "muscle",
+  "gender": "mi",
+  "topic": "body"
+ },
+ {
+  "cs": "smutek",
+  "en": "sadness, grief",
+  "gender": "mi",
+  "topic": "body"
+ },
+ {
+  "cs": "kloub",
+  "en": "joint",
+  "gender": "mi",
+  "topic": "body"
+ },
+ {
+  "cs": "vztek",
+  "en": "anger, rage",
+  "gender": "mi",
+  "topic": "body"
+ },
+ {
+  "cs": "klín",
+  "en": "lap; wedge",
+  "gender": "mi",
+  "topic": "body"
+ },
+ {
+  "cs": "palec",
+  "en": "thumb; big toe",
+  "gender": "mi",
+  "topic": "body"
+ },
+ {
+  "cs": "hřbet",
+  "en": "back (of an animal); spine (of a book)",
+  "gender": "mi",
+  "topic": "body"
+ },
+ {
+  "cs": "nehet",
+  "en": "fingernail",
+  "gender": "mi",
+  "topic": "body"
+ },
+ {
+  "cs": "pot",
+  "en": "sweat",
+  "gender": "mi",
+  "topic": "body"
+ },
+ {
+  "cs": "zadek",
+  "en": "bottom, backside",
+  "gender": "mi",
+  "topic": "body"
+ },
+ {
+  "cs": "pár",
+  "en": "couple; pair",
+  "gender": "mi",
+  "topic": "family"
+ },
+ {
+  "cs": "domov",
+  "en": "home",
+  "gender": "mi",
+  "topic": "home"
+ },
+ {
+  "cs": "prach",
+  "en": "dust",
+  "gender": "mi",
+  "topic": "home"
+ },
+ {
+  "cs": "stolek",
+  "en": "small table, side table",
+  "gender": "mi",
+  "topic": "home"
+ },
+ {
+  "cs": "domek",
+  "en": "small house, cottage",
+  "gender": "mi",
+  "topic": "home"
+ },
+ {
+  "cs": "plot",
+  "en": "fence",
+  "gender": "mi",
+  "topic": "home"
+ },
+ {
+  "cs": "pytel",
+  "en": "sack, bag",
+  "gender": "mi",
+  "topic": "home"
+ },
+ {
+  "cs": "trávník",
+  "en": "lawn",
+  "gender": "mi",
+  "topic": "home"
+ },
+ {
+  "cs": "koš",
+  "en": "basket; bin",
+  "gender": "mi",
+  "topic": "home"
+ },
+ {
+  "cs": "kabel",
+  "en": "cable",
+  "gender": "mi",
+  "topic": "home"
+ },
+ {
+  "cs": "polštář",
+  "en": "pillow, cushion",
+  "gender": "mi",
+  "topic": "home"
+ },
+ {
+  "cs": "rám",
+  "en": "frame",
+  "gender": "mi",
+  "topic": "home"
+ },
+ {
+  "cs": "drát",
+  "en": "wire",
+  "gender": "mi",
+  "topic": "home"
+ },
+ {
+  "cs": "chod",
+  "en": "course (of a meal)",
+  "gender": "mi",
+  "topic": "meals"
+ },
+ {
+  "cs": "dolar",
+  "en": "dollar",
+  "gender": "mi",
+  "topic": "shopping"
+ },
+ {
+  "cs": "seznam",
+  "en": "list",
+  "gender": "mi",
+  "topic": "shopping"
+ },
+ {
+  "cs": "pult",
+  "en": "counter",
+  "gender": "mi",
+  "topic": "shopping"
+ },
+ {
+  "cs": "obal",
+  "en": "packaging, wrapper, cover",
+  "gender": "mi",
+  "topic": "shopping"
+ },
+ {
+  "cs": "cíl",
+  "en": "goal, target; finish line",
+  "gender": "mi",
+  "topic": "leisure"
+ },
+ {
+  "cs": "gól",
+  "en": "goal (scored)",
+  "gender": "mi",
+  "topic": "leisure"
+ },
+ {
+  "cs": "festival",
+  "en": "festival",
+  "gender": "mi",
+  "topic": "leisure"
+ },
+ {
+  "cs": "tábor",
+  "en": "camp",
+  "gender": "mi",
+  "topic": "leisure"
+ },
+ {
+  "cs": "turnaj",
+  "en": "tournament",
+  "gender": "mi",
+  "topic": "leisure"
+ },
+ {
+  "cs": "sbor",
+  "en": "choir; corps",
+  "gender": "mi",
+  "topic": "leisure"
+ },
+ {
+  "cs": "svah",
+  "en": "slope",
+  "gender": "mi",
+  "topic": "leisure"
+ },
+ {
+  "cs": "pohár",
+  "en": "cup, trophy; goblet",
+  "gender": "mi",
+  "topic": "leisure"
+ },
+ {
+  "cs": "zpěv",
+  "en": "singing",
+  "gender": "mi",
+  "topic": "leisure"
+ },
+ {
+  "cs": "večírek",
+  "en": "party",
+  "gender": "mi",
+  "topic": "leisure"
+ },
+ {
+  "cs": "skok",
+  "en": "jump",
+  "gender": "mi",
+  "topic": "leisure"
+ },
+ {
+  "cs": "portrét",
+  "en": "portrait",
+  "gender": "mi",
+  "topic": "leisure"
+ },
+ {
+  "cs": "ateliér",
+  "en": "studio",
+  "gender": "mi",
+  "topic": "leisure"
+ },
+ {
+  "cs": "kroužek",
+  "en": "(hobby) club, circle; small ring",
+  "gender": "mi",
+  "topic": "leisure"
+ },
+ {
+  "cs": "vzduch",
+  "en": "air",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "stroj",
+  "en": "machine",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "stín",
+  "en": "shadow, shade",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "oheň",
+  "en": "fire",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "led",
+  "en": "ice",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "vesmír",
+  "en": "universe, (outer) space",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "břeh",
+  "en": "bank, shore",
+  "gender": "mi",
+  "topic": "travel"
+ },
+ {
+  "cs": "vrchol",
+  "en": "peak, summit; top",
+  "gender": "mi",
+  "topic": "travel"
+ },
+ {
+  "cs": "květ",
+  "en": "flower, blossom",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "pramen",
+  "en": "spring (of water); source",
+  "gender": "mi",
+  "topic": "travel"
+ },
+ {
+  "cs": "kořen",
+  "en": "root",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "písek",
+  "en": "sand",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "kmen",
+  "en": "trunk; tribe",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "plod",
+  "en": "fruit (of a plant)",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "kříž",
+  "en": "cross",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "paprsek",
+  "en": "ray, beam",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "pruh",
+  "en": "stripe; (traffic) lane",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "oceán",
+  "en": "ocean",
+  "gender": "mi",
+  "topic": "travel"
+ },
+ {
+  "cs": "kouř",
+  "en": "smoke",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "plamen",
+  "en": "flame",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "důl",
+  "en": "mine",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "výbuch",
+  "en": "explosion",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "meč",
+  "en": "sword",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "statek",
+  "en": "farm, farmstead",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "krystal",
+  "en": "crystal",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "štít",
+  "en": "shield; gable",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "blesk",
+  "en": "lightning; flash",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "sad",
+  "en": "orchard",
+  "gender": "mi",
+  "topic": "other"
+ },
+ {
+  "cs": "vrch",
+  "en": "hill, top",
+  "gender": "mi",
+  "topic": "travel"
+ },
+ {
+  "cs": "autor",
+  "en": "author, writer",
+  "gender": "ma",
+  "topic": "family"
+ },
+ {
+  "cs": "šéf",
+  "en": "boss",
+  "gender": "ma",
+  "topic": "family"
+ },
+ {
+  "cs": "voják",
+  "en": "soldier",
+  "gender": "ma",
+  "topic": "family"
+ },
+ {
+  "cs": "chlap",
+  "en": "guy, bloke",
+  "gender": "ma",
+  "topic": "family"
+ },
+ {
+  "cs": "vědec",
+  "en": "scientist",
+  "gender": "ma",
+  "topic": "family"
+ },
+ {
+  "cs": "kapitán",
+  "en": "captain",
+  "gender": "ma",
+  "topic": "family"
+ },
+ {
+  "cs": "mladík",
+  "en": "young man, youth",
+  "gender": "ma",
+  "topic": "family"
+ },
+ {
+  "cs": "architekt",
+  "en": "architect",
+  "gender": "ma",
+  "topic": "family"
+ },
+ {
+  "cs": "kněz",
+  "en": "priest",
+  "gender": "ma",
+  "topic": "family"
+ },
+ {
+  "cs": "generál",
+  "en": "general",
+  "gender": "ma",
+  "topic": "family"
+ },
+ {
+  "cs": "pilot",
+  "en": "pilot",
+  "gender": "ma",
+  "topic": "family"
+ },
+ {
+  "cs": "fotograf",
+  "en": "photographer",
+  "gender": "ma",
+  "topic": "family"
+ },
+ {
+  "cs": "papež",
+  "en": "pope",
+  "gender": "ma",
+  "topic": "family"
+ },
+ {
+  "cs": "vrchní",
+  "en": "head waiter",
+  "gender": "ma",
+  "topic": "family"
+ },
+ {
+  "cs": "biskup",
+  "en": "bishop",
+  "gender": "ma",
+  "topic": "family"
+ },
+ {
+  "cs": "rys",
+  "en": "lynx",
+  "gender": "ma",
+  "topic": "animals"
+ },
+ {
+  "cs": "rukáv",
+  "en": "sleeve",
+  "gender": "mi",
+  "topic": "clothes"
+ },
+ {
+  "cs": "obrázek",
+  "en": "picture, drawing",
+  "gender": "mi",
+  "topic": "school"
+ },
+ {
+  "cs": "deník",
+  "en": "diary; daily newspaper",
+  "gender": "mi",
+  "topic": "school"
+ },
+ {
+  "cs": "displej",
+  "en": "display, screen",
+  "gender": "mi",
+  "topic": "school"
+ },
+ {
+  "cs": "úhel",
+  "en": "angle",
+  "gender": "mi",
+  "topic": "school"
+ },
+ {
+  "cs": "vzkaz",
+  "en": "message, note",
+  "gender": "mi",
+  "topic": "school"
+ },
+ {
+  "cs": "zákazník",
+  "en": "customer",
+  "gender": "ma",
+  "topic": "shopping"
+ },
+ {
+  "cs": "návštěvník",
+  "en": "visitor",
+  "gender": "ma",
+  "topic": "travel"
+ },
+ {
+  "cs": "pacient",
+  "en": "patient",
+  "gender": "ma",
+  "topic": "body"
+ },
+ {
+  "cs": "hráč",
+  "en": "player",
+  "gender": "ma",
+  "topic": "leisure"
+ },
+ {
+  "cs": "mistr",
+  "en": "champion; master",
+  "gender": "ma",
+  "topic": "leisure"
+ },
+ {
+  "cs": "soupeř",
+  "en": "opponent",
+  "gender": "ma",
+  "topic": "leisure"
+ },
+ {
+  "cs": "vítěz",
+  "en": "winner",
+  "gender": "ma",
+  "topic": "leisure"
+ },
+ {
+  "cs": "útočník",
+  "en": "striker, forward; attacker",
+  "gender": "ma",
+  "topic": "leisure"
+ },
+ {
+  "cs": "brankář",
+  "en": "goalkeeper",
+  "gender": "ma",
+  "topic": "leisure"
+ },
+ {
+  "cs": "obránce",
+  "en": "defender",
+  "gender": "ma",
+  "topic": "leisure"
+ },
+ {
+  "cs": "jezdec",
+  "en": "rider, horseman",
+  "gender": "ma",
+  "topic": "leisure"
+ },
+ {
+  "cs": "rozhodčí",
+  "en": "referee",
+  "gender": "ma",
+  "topic": "leisure"
+ },
+ {
+  "cs": "duch",
+  "en": "ghost, spirit",
+  "gender": "ma",
+  "topic": "other"
+ },
+ {
+  "cs": "obr",
+  "en": "giant",
+  "gender": "ma",
+  "topic": "other"
+ },
+ {
+  "cs": "král",
+  "en": "king",
+  "gender": "ma",
+  "topic": "other"
+ },
+ {
+  "cs": "hrdina",
+  "en": "hero",
+  "gender": "ma",
+  "topic": "other"
+ },
+ {
+  "cs": "agent",
+  "en": "(secret) agent",
+  "gender": "ma",
+  "topic": "other"
+ },
+ {
+  "cs": "zloděj",
+  "en": "thief",
+  "gender": "ma",
+  "topic": "other"
+ },
+ {
+  "cs": "vězeň",
+  "en": "prisoner",
+  "gender": "ma",
+  "topic": "other"
+ },
+ {
+  "cs": "anděl",
+  "en": "angel",
+  "gender": "ma",
+  "topic": "other"
+ },
+ {
+  "cs": "císař",
+  "en": "emperor",
+  "gender": "ma",
+  "topic": "other"
+ },
+ {
+  "cs": "hrabě",
+  "en": "count (nobleman)",
+  "gender": "ma",
+  "topic": "other"
+ },
+ {
+  "cs": "vstup",
+  "en": "entrance, entry",
+  "gender": "mi",
+  "topic": "town"
+ },
+ {
+  "cs": "roh",
+  "en": "corner; horn",
+  "gender": "mi",
+  "topic": "town"
+ },
+ {
+  "cs": "bar",
+  "en": "bar",
+  "gender": "mi",
+  "topic": "town"
+ },
+ {
+  "cs": "hrob",
+  "en": "grave",
+  "gender": "mi",
+  "topic": "town"
+ },
+ {
+  "cs": "dav",
+  "en": "crowd",
+  "gender": "mi",
+  "topic": "town"
+ },
+ {
+  "cs": "palác",
+  "en": "palace",
+  "gender": "mi",
+  "topic": "town"
+ },
+ {
+  "cs": "hřbitov",
+  "en": "cemetery",
+  "gender": "mi",
+  "topic": "town"
+ },
+ {
+  "cs": "nápis",
+  "en": "sign, inscription",
+  "gender": "mi",
+  "topic": "town"
+ },
+ {
+  "cs": "klášter",
+  "en": "monastery",
+  "gender": "mi",
+  "topic": "town"
+ },
+ {
+  "cs": "sloup",
+  "en": "column, pillar, pole",
+  "gender": "mi",
+  "topic": "town"
+ },
+ {
+  "cs": "sklad",
+  "en": "warehouse, storeroom",
+  "gender": "mi",
+  "topic": "town"
+ },
+ {
+  "cs": "oblouk",
+  "en": "arch, arc",
+  "gender": "mi",
+  "topic": "town"
+ },
+ {
+  "cs": "odchod",
+  "en": "departure, leaving (on foot)",
+  "gender": "mi",
+  "topic": "travel"
+ },
+ {
+  "cs": "výhled",
+  "en": "view (from a place)",
+  "gender": "mi",
+  "topic": "travel"
+ },
+ {
+  "cs": "tunel",
+  "en": "tunnel",
+  "gender": "mi",
+  "topic": "travel"
+ },
+ {
+  "cs": "venkov",
+  "en": "countryside",
+  "gender": "mi",
+  "topic": "travel"
+ },
+ {
+  "cs": "přístav",
+  "en": "harbour, port",
+  "gender": "mi",
+  "topic": "travel"
+ },
+ {
+  "cs": "dětství",
+  "en": "childhood",
+  "gender": "n",
+  "topic": "time"
+ },
+ {
+  "cs": "mládí",
+  "en": "youth",
+  "gender": "n",
+  "topic": "time"
+ },
+ {
+  "cs": "stáří",
+  "en": "old age",
+  "gender": "n",
+  "topic": "time"
+ },
+ {
+  "cs": "výročí",
+  "en": "anniversary",
+  "gender": "n",
+  "topic": "time"
+ },
+ {
+  "cs": "zranění",
+  "en": "injury",
+  "gender": "n",
+  "topic": "body"
+ },
+ {
+  "cs": "gesto",
+  "en": "gesture",
+  "gender": "n",
+  "topic": "body"
+ },
+ {
+  "cs": "obočí",
+  "en": "eyebrow",
+  "gender": "n",
+  "topic": "body"
+ },
+ {
+  "cs": "hrdlo",
+  "en": "throat",
+  "gender": "n",
+  "topic": "body"
+ },
+ {
+  "cs": "stehno",
+  "en": "thigh",
+  "gender": "n",
+  "topic": "body"
+ },
+ {
+  "cs": "vlákno",
+  "en": "fibre, thread",
+  "gender": "n",
+  "topic": "clothes"
+ },
+ {
+  "cs": "umění",
+  "en": "art",
+  "gender": "n",
+  "topic": "school"
+ },
+ {
+  "cs": "čtení",
+  "en": "reading",
+  "gender": "n",
+  "topic": "school"
+ },
+ {
+  "cs": "učení",
+  "en": "learning, studying",
+  "gender": "n",
+  "topic": "school"
+ },
+ {
+  "cs": "psaní",
+  "en": "writing; handwriting",
+  "gender": "n",
+  "topic": "school"
+ },
+ {
+  "cs": "gymnázium",
+  "en": "grammar school, secondary school",
+  "gender": "n",
+  "topic": "school"
+ },
+ {
+  "cs": "písmo",
+  "en": "script, lettering, handwriting",
+  "gender": "n",
+  "topic": "school"
+ },
+ {
+  "cs": "děvče",
+  "en": "girl",
+  "gender": "n",
+  "topic": "family"
+ },
+ {
+  "cs": "manželství",
+  "en": "marriage",
+  "gender": "n",
+  "topic": "family"
+ },
+ {
+  "cs": "přátelství",
+  "en": "friendship",
+  "gender": "n",
+  "topic": "family"
+ },
+ {
+  "cs": "křídlo",
+  "en": "wing",
+  "gender": "n",
+  "topic": "animals"
+ },
+ {
+  "cs": "tlačítko",
+  "en": "button (push button)",
+  "gender": "n",
+  "topic": "home"
+ },
+ {
+  "cs": "osvětlení",
+  "en": "lighting",
+  "gender": "n",
+  "topic": "home"
+ },
+ {
+  "cs": "víčko",
+  "en": "lid; eyelid",
+  "gender": "n",
+  "topic": "home"
+ },
+ {
+  "cs": "jádro",
+  "en": "core, kernel (apple, nut)",
+  "gender": "n",
+  "topic": "food"
+ },
+ {
+  "cs": "těsto",
+  "en": "dough, batter",
+  "gender": "n",
+  "topic": "food"
+ },
+ {
+  "cs": "městečko",
+  "en": "small town",
+  "gender": "n",
+  "topic": "town"
+ },
+ {
+  "cs": "okolí",
+  "en": "surroundings, neighbourhood",
+  "gender": "n",
+  "topic": "town"
+ },
+ {
+  "cs": "zahraničí",
+  "en": "abroad, foreign countries",
+  "gender": "n",
+  "topic": "travel"
+ },
+ {
+  "cs": "údolí",
+  "en": "valley",
+  "gender": "n",
+  "topic": "travel"
+ },
+ {
+  "cs": "pobřeží",
+  "en": "coast, shore",
+  "gender": "n",
+  "topic": "travel"
+ },
+ {
+  "cs": "palivo",
+  "en": "fuel",
+  "gender": "n",
+  "topic": "travel"
+ },
+ {
+  "cs": "utkání",
+  "en": "match (sport)",
+  "gender": "n",
+  "topic": "leisure"
+ },
+ {
+  "cs": "vítězství",
+  "en": "victory",
+  "gender": "n",
+  "topic": "leisure"
+ },
+ {
+  "cs": "přání",
+  "en": "wish; greeting card",
+  "gender": "n",
+  "topic": "leisure"
+ },
+ {
+  "cs": "mužstvo",
+  "en": "team",
+  "gender": "n",
+  "topic": "leisure"
+ },
+ {
+  "cs": "album",
+  "en": "album (photo, music)",
+  "gender": "n",
+  "topic": "leisure"
+ },
+ {
+  "cs": "publikum",
+  "en": "audience",
+  "gender": "n",
+  "topic": "leisure"
+ },
+ {
+  "cs": "kouzlo",
+  "en": "magic, spell, charm",
+  "gender": "n",
+  "topic": "leisure"
+ },
+ {
+  "cs": "sluchátko",
+  "en": "earphone, handset (usually pl. sluchátka)",
+  "gender": "n",
+  "topic": "leisure"
+ },
+ {
+  "cs": "plátno",
+  "en": "canvas; cinema screen; linen",
+  "gender": "n",
+  "topic": "leisure"
+ },
+ {
+  "cs": "setkání",
+  "en": "meeting, encounter",
+  "gender": "n",
+  "topic": "other"
+ },
+ {
+  "cs": "dno",
+  "en": "bottom (of a pot, sea, valley)",
+  "gender": "n",
+  "topic": "other"
+ },
+ {
+  "cs": "tajemství",
+  "en": "secret",
+  "gender": "n",
+  "topic": "other"
+ },
+ {
+  "cs": "překvapení",
+  "en": "surprise",
+  "gender": "n",
+  "topic": "other"
+ },
+ {
+  "cs": "peklo",
+  "en": "hell",
+  "gender": "n",
+  "topic": "other"
+ },
+ {
+  "cs": "vojsko",
+  "en": "army, troops",
+  "gender": "n",
+  "topic": "other"
+ }
+]

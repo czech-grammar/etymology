@@ -1,0 +1,126 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech gymnázium etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#i8kjqg",
+      "name": "Meaning: “grammar school, secondary school”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vjh3pr",
+      "name": "Grammar school, secondary school",
+      "x": -458,
+      "y": -212,
+      "parent": "#i8kjqg"
+    },
+    {
+      "@id": "#zy9tya",
+      "name": "Grammar school (UK)",
+      "x": 0,
+      "y": -360,
+      "parent": "#i8kjqg"
+    },
+    {
+      "@id": "#hiiss8",
+      "name": "Word history",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b9czvr",
+      "name": "From German Gymnasium",
+      "x": 390,
+      "y": -180,
+      "parent": "#hiiss8"
+    },
+    {
+      "@id": "#py7irs",
+      "name": "Latin gymnasium",
+      "x": 390,
+      "y": 180,
+      "parent": "#hiiss8"
+    },
+    {
+      "@id": "#jbn5dt",
+      "name": "Ancient Greek γυμνάσιον (gumnásion, “exercise",
+      "x": 0,
+      "y": 360,
+      "parent": "#hiiss8"
+    },
+    {
+      "@id": "#a7kipy",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#miidds",
+      "name": "Wiktionary: gymnázium",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/gymn%C3%A1zium#Czech",
+      "parent": "#a7kipy"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

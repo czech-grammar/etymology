@@ -1,0 +1,21 @@
+category: A2 nouns
+aliases: život etymology, origin of život, život word origin, etymology of život
+- Czech život etymology
+  - Meaning: “life”
+    - Life
+  - Word history
+    - Old Czech život
+    - Proto-Slavic *životъ
+    - Proto-Balto-Slavic *gīˀwatás
+    - Proto-Indo-European *gʷih₃wotós
+  - Slavic cousins
+    - Polish żywot
+    - Slovak život
+    - Russian живот
+  - Related Czech words
+    - celoživotní: lifelong
+    - doživotní: lifetime
+    - doživotí: life sentence
+  - Sources
+    - [Wiktionary: život](https://en.wiktionary.org/wiki/%C5%BEivot#Czech)
+    - [Wiktionary: Proto-Slavic *životъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C5%BEivot%D1%8A)

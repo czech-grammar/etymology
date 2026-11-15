@@ -1,0 +1,21 @@
+category: B1 nouns
+aliases: skok etymology, origin of skok, skok word origin, etymology of skok
+- Czech skok etymology
+  - Meaning: “jump”
+    - Jump
+  - Word history
+    - Old Czech skok
+    - Proto-Slavic *skokъ
+    - Proto-Balto-Slavic *skakas
+    - Proto-Indo-European *skok-ó-s, “shock”
+  - Slavic cousins
+    - Polish skok
+    - Slovak skok
+    - Russian скок
+  - Related Czech words
+    - náskok: head start
+    - poskok: henchman
+    - přeskok: a vault
+  - Sources
+    - [Wiktionary: skok](https://en.wiktionary.org/wiki/skok#Czech)
+    - [Wiktionary: Proto-Slavic *skokъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/skok%D1%8A)

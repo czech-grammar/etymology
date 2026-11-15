@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech brada etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rsqyqj",
+      "name": "Meaning: “chin; beard”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5dpb5q",
+      "name": "Chin; beard",
+      "x": -432,
+      "y": -101,
+      "parent": "#rsqyqj"
+    },
+    {
+      "@id": "#wmmrky",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zpgukz",
+      "name": "Old Czech brada",
+      "x": -295,
+      "y": -272,
+      "parent": "#wmmrky"
+    },
+    {
+      "@id": "#77gjb9",
+      "name": "Proto-Slavic *bordà",
+      "x": -64,
+      "y": -356,
+      "parent": "#wmmrky"
+    },
+    {
+      "@id": "#cd9ixn",
+      "name": "Proto-Balto-Slavic *bardā́ˀ",
+      "x": 203,
+      "y": -357,
+      "parent": "#wmmrky"
+    },
+    {
+      "@id": "#wf8kwr",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rrcu4v",
+      "name": "Polish broda",
+      "x": 379,
+      "y": -195,
+      "parent": "#wf8kwr"
+    },
+    {
+      "@id": "#zmndpf",
+      "name": "Slovak brada",
+      "x": 450,
+      "y": 0,
+      "parent": "#wf8kwr"
+    },
+    {
+      "@id": "#g8q7hc",
+      "name": "Russian борода",
+      "x": 379,
+      "y": 195,
+      "parent": "#wf8kwr"
+    },
+    {
+      "@id": "#qcch55",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dtcbb5",
+      "name": "bradatý: bearded",
+      "x": 187,
+      "y": 327,
+      "parent": "#qcch55"
+    },
+    {
+      "@id": "#t28e7c",
+      "name": "bradýř: barber",
+      "x": -64,
+      "y": 356,
+      "parent": "#qcch55"
+    },
+    {
+      "@id": "#dfx5pd",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i66z4h",
+      "name": "Wiktionary: brada",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/brada#Czech",
+      "parent": "#dfx5pd"
+    },
+    {
+      "@id": "#s6disy",
+      "name": "Wiktionary: Proto-Slavic *borda",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/borda",
+      "parent": "#dfx5pd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

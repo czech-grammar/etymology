@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech pečivo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#hhsyx2",
+      "name": "Meaning: “bread and rolls”",
+      "x": -176,
+      "y": -118,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a27c7w",
+      "name": "Bread and rolls",
+      "x": -423,
+      "y": -123,
+      "parent": "#hhsyx2"
+    },
+    {
+      "@id": "#qjcxx6",
+      "name": "Pastries, baked goods",
+      "x": -225,
+      "y": -312,
+      "parent": "#hhsyx2"
+    },
+    {
+      "@id": "#rbs79e",
+      "name": "Word history",
+      "x": 115,
+      "y": -159,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dpfqz5",
+      "name": "Proto-Slavic *pečivo",
+      "x": 78,
+      "y": -355,
+      "parent": "#rbs79e"
+    },
+    {
+      "@id": "#gdkgqs",
+      "name": "Built from péct + -ivo",
+      "x": 345,
+      "y": -231,
+      "parent": "#rbs79e"
+    },
+    {
+      "@id": "#saa8ir",
+      "name": "Slavic cousins",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ksagwn",
+      "name": "Polish pieczywo",
+      "x": 450,
+      "y": 0,
+      "parent": "#saa8ir"
+    },
+    {
+      "@id": "#p7ikcw",
+      "name": "Slovak pečivo",
+      "x": 345,
+      "y": 231,
+      "parent": "#saa8ir"
+    },
+    {
+      "@id": "#wgf7pj",
+      "name": "Ukrainian печиво",
+      "x": 78,
+      "y": 355,
+      "parent": "#saa8ir"
+    },
+    {
+      "@id": "#zga3e8",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fm5pwg",
+      "name": "Wiktionary: pečivo",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/pe%C4%8Divo#Czech",
+      "parent": "#zga3e8"
+    },
+    {
+      "@id": "#58tdwy",
+      "name": "Wiktionary: Proto-Slavic *pečivo",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/pe%C4%8Divo",
+      "parent": "#zga3e8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

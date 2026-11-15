@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech sloveso etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#du5gsp",
+      "name": "Meaning: “verb”",
+      "x": -242,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y24383",
+      "name": "Verb",
+      "x": -437,
+      "y": -86,
+      "parent": "#du5gsp"
+    },
+    {
+      "@id": "#a3t7r3",
+      "name": "Word history",
+      "x": -28,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nnf64j",
+      "name": "From slovo, “word” + -eso",
+      "x": -337,
+      "y": -239,
+      "parent": "#a3t7r3"
+    },
+    {
+      "@id": "#bc5ep2",
+      "name": "Root: Proto-Slavic *slovo",
+      "x": -160,
+      "y": -337,
+      "parent": "#a3t7r3"
+    },
+    {
+      "@id": "#b7ba6z",
+      "name": "Proto-Balto-Slavic *ślawas",
+      "x": 58,
+      "y": -389,
+      "parent": "#a3t7r3"
+    },
+    {
+      "@id": "#8h2qy4",
+      "name": "Proto-Indo-European *ḱléwos, “that which is heard”",
+      "x": 256,
+      "y": -296,
+      "parent": "#a3t7r3"
+    },
+    {
+      "@id": "#7du8gv",
+      "name": "Cousins of the root *slovo",
+      "x": 290,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tzkd7b",
+      "name": "Polish słowo",
+      "x": 398,
+      "y": -167,
+      "parent": "#7du8gv"
+    },
+    {
+      "@id": "#tqz97f",
+      "name": "Slovak slovo",
+      "x": 530,
+      "y": 0,
+      "parent": "#7du8gv"
+    },
+    {
+      "@id": "#pcgdtw",
+      "name": "Russian слово",
+      "x": 398,
+      "y": 167,
+      "parent": "#7du8gv"
+    },
+    {
+      "@id": "#43e5cm",
+      "name": "Related Czech words",
+      "x": 28,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hhq9pa",
+      "name": "slovesnost: literature",
+      "x": 256,
+      "y": 296,
+      "parent": "#43e5cm"
+    },
+    {
+      "@id": "#k56jdv",
+      "name": "slovník: dictionary",
+      "x": 54,
+      "y": 357,
+      "parent": "#43e5cm"
+    },
+    {
+      "@id": "#5ezpec",
+      "name": "slovo: word",
+      "x": -160,
+      "y": 337,
+      "parent": "#43e5cm"
+    },
+    {
+      "@id": "#9bhk3u",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4uck4z",
+      "name": "Wiktionary: sloveso",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/sloveso#Czech",
+      "parent": "#9bhk3u"
+    },
+    {
+      "@id": "#rqf3iw",
+      "name": "Wiktionary: Proto-Slavic *slovo",
+      "x": -456,
+      "y": 90,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/slovo",
+      "parent": "#9bhk3u"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

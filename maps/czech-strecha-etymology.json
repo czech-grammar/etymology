@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech střecha etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#t7hkck",
+      "name": "Meaning: “roof”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8i5u5r",
+      "name": "Roof",
+      "x": -432,
+      "y": -101,
+      "parent": "#t7hkck"
+    },
+    {
+      "@id": "#ny29e5",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4fwjnr",
+      "name": "Old Czech střěcha",
+      "x": -295,
+      "y": -272,
+      "parent": "#ny29e5"
+    },
+    {
+      "@id": "#5kc2ri",
+      "name": "Proto-Slavic *strěxa",
+      "x": -64,
+      "y": -356,
+      "parent": "#ny29e5"
+    },
+    {
+      "@id": "#f5kgfn",
+      "name": "Proto-Indo-European *sterh₃-, “to spread”",
+      "x": 235,
+      "y": -417,
+      "parent": "#ny29e5"
+    },
+    {
+      "@id": "#py4qht",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bbypzh",
+      "name": "Polish strzecha",
+      "x": 379,
+      "y": -195,
+      "parent": "#py4qht"
+    },
+    {
+      "@id": "#k5aji3",
+      "name": "Slovak strecha",
+      "x": 450,
+      "y": 0,
+      "parent": "#py4qht"
+    },
+    {
+      "@id": "#yud3n3",
+      "name": "Russian стреха",
+      "x": 379,
+      "y": 195,
+      "parent": "#py4qht"
+    },
+    {
+      "@id": "#9tg7z8",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zf9ze9",
+      "name": "přístřešek: porch",
+      "x": 187,
+      "y": 327,
+      "parent": "#9tg7z8"
+    },
+    {
+      "@id": "#ivrwte",
+      "name": "střechýl: icicle",
+      "x": -64,
+      "y": 356,
+      "parent": "#9tg7z8"
+    },
+    {
+      "@id": "#anwhi6",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wa8awb",
+      "name": "Wiktionary: střecha",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/st%C5%99echa#Czech",
+      "parent": "#anwhi6"
+    },
+    {
+      "@id": "#cgz39w",
+      "name": "Wiktionary: Proto-Slavic *strěxa",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/str%C4%9Bxa",
+      "parent": "#anwhi6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

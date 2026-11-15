@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech tucet etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#za4cqi",
+      "name": "Meaning: “dozen”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vp93e8",
+      "name": "Dozen",
+      "x": -390,
+      "y": -180,
+      "parent": "#za4cqi"
+    },
+    {
+      "@id": "#6t8e4d",
+      "name": "Word history",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bzk5uq",
+      "name": "16–17th-century German Tutzet, Dutzet",
+      "x": 0,
+      "y": -360,
+      "parent": "#6t8e4d"
+    },
+    {
+      "@id": "#646tez",
+      "name": "Middle High German totzen",
+      "x": 390,
+      "y": -180,
+      "parent": "#6t8e4d"
+    },
+    {
+      "@id": "#g4uqcc",
+      "name": "Old French dozaine",
+      "x": 390,
+      "y": 180,
+      "parent": "#6t8e4d"
+    },
+    {
+      "@id": "#mmfx4q",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#us56k5",
+      "name": "veletucet: gross",
+      "x": 0,
+      "y": 360,
+      "parent": "#mmfx4q"
+    },
+    {
+      "@id": "#2cdcc2",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ayrzde",
+      "name": "Wiktionary: tucet",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/tucet#Czech",
+      "parent": "#2cdcc2"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech brankář etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#pb3sjh",
+      "name": "Meaning: “goalkeeper”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a7knmf",
+      "name": "Goalkeeper",
+      "x": -435,
+      "y": -93,
+      "parent": "#pb3sjh"
+    },
+    {
+      "@id": "#293xrj",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6av3ge",
+      "name": "From branka + -ář",
+      "x": -318,
+      "y": -255,
+      "parent": "#293xrj"
+    },
+    {
+      "@id": "#39hfiz",
+      "name": "Root: Proto-Slavic *borna",
+      "x": -116,
+      "y": -348,
+      "parent": "#293xrj"
+    },
+    {
+      "@id": "#jcbhih",
+      "name": "Deeper origin uncertain",
+      "x": 136,
+      "y": -408,
+      "parent": "#293xrj"
+    },
+    {
+      "@id": "#wm6r3u",
+      "name": "Cousins of the root *borna",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nz7h9h",
+      "name": "Polish brona",
+      "x": 318,
+      "y": -255,
+      "parent": "#wm6r3u"
+    },
+    {
+      "@id": "#q7z8au",
+      "name": "Slovak brána",
+      "x": 454,
+      "y": -97,
+      "parent": "#wm6r3u"
+    },
+    {
+      "@id": "#vhs8cw",
+      "name": "Russian борона",
+      "x": 435,
+      "y": 93,
+      "parent": "#wm6r3u"
+    },
+    {
+      "@id": "#rxhnnb",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4ab2gm",
+      "name": "brankářka: female goaltender",
+      "x": 318,
+      "y": 255,
+      "parent": "#rxhnnb"
+    },
+    {
+      "@id": "#xvj9pt",
+      "name": "brankoviště: crease",
+      "x": 116,
+      "y": 348,
+      "parent": "#rxhnnb"
+    },
+    {
+      "@id": "#zz7wqz",
+      "name": "brána: gate",
+      "x": -116,
+      "y": 348,
+      "parent": "#rxhnnb"
+    },
+    {
+      "@id": "#cw2nzp",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a4u6qe",
+      "name": "Wiktionary: brankář",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/brank%C3%A1%C5%99#Czech",
+      "parent": "#cw2nzp"
+    },
+    {
+      "@id": "#nc8g8x",
+      "name": "Wiktionary: Proto-Slavic *borna",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/borna",
+      "parent": "#cw2nzp"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

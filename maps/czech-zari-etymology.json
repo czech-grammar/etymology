@@ -19,113 +19,55 @@
     {
       "@id": "#xute9q",
       "name": "Meaning: “September”",
-      "x": -221,
-      "y": -52,
+      "x": -163,
+      "y": -130,
       "bgColor": "#D6E8FF",
       "parent": "#this"
     },
     {
       "@id": "#uf2gin",
       "name": "September",
-      "x": -432,
-      "y": -101,
+      "x": -318,
+      "y": -255,
       "parent": "#xute9q"
     },
     {
       "@id": "#btdqav",
       "name": "Word history",
-      "x": 96,
-      "y": -167,
+      "x": 230,
+      "y": 0,
       "bgColor": "#D9F2DC",
       "parent": "#this"
     },
     {
       "@id": "#vpyef4",
       "name": "Old Czech zářuj",
-      "x": -295,
-      "y": -272,
+      "x": 318,
+      "y": -255,
       "parent": "#btdqav"
     },
     {
       "@id": "#6g73ak",
-      "name": "Proto-Slavic *za",
-      "x": -64,
-      "y": -356,
+      "name": "Built from za + říje",
+      "x": 318,
+      "y": 255,
       "parent": "#btdqav"
     },
     {
       "@id": "#asg8q7",
-      "name": "Proto-Balto-Slavic *źō",
-      "x": 187,
-      "y": -327,
-      "parent": "#btdqav"
-    },
-    {
-      "@id": "#jpb7rd",
-      "name": "Proto-Indo-European *ǵʰō, “behind”",
-      "x": 379,
-      "y": -195,
-      "parent": "#btdqav"
-    },
-    {
-      "@id": "#87wtqw",
-      "name": "Built from za + říje",
-      "x": 450,
-      "y": 0,
-      "parent": "#btdqav"
-    },
-    {
-      "@id": "#c728at",
-      "name": "Slavic cousins",
-      "x": 96,
-      "y": 167,
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
       "bgColor": "#FFE1CC",
       "parent": "#this"
     },
     {
-      "@id": "#k9q4sr",
-      "name": "Polish za",
-      "x": 379,
-      "y": 195,
-      "parent": "#c728at"
-    },
-    {
-      "@id": "#82cqrg",
-      "name": "Slovak za",
-      "x": 187,
-      "y": 327,
-      "parent": "#c728at"
-    },
-    {
-      "@id": "#tpbh8y",
-      "name": "Russian за",
-      "x": -64,
-      "y": 356,
-      "parent": "#c728at"
-    },
-    {
-      "@id": "#ru3j3j",
-      "name": "Sources",
-      "x": -193,
-      "y": 99,
-      "bgColor": "#FFD6E8",
-      "parent": "#this"
-    },
-    {
-      "@id": "#v6iytf",
+      "@id": "#jpb7rd",
       "name": "Wiktionary: září",
-      "x": -295,
-      "y": 272,
+      "x": -318,
+      "y": 255,
       "link": "https://en.wiktionary.org/wiki/z%C3%A1%C5%99%C3%AD#Czech",
-      "parent": "#ru3j3j"
-    },
-    {
-      "@id": "#w6wr8f",
-      "name": "Wiktionary: Proto-Slavic *za",
-      "x": -432,
-      "y": 101,
-      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/za",
-      "parent": "#ru3j3j"
+      "parent": "#asg8q7"
     }
   ],
   "connections": [
@@ -150,44 +92,12 @@
       "end": 5
     },
     {
-      "start": 3,
+      "start": 0,
       "end": 6
     },
     {
-      "start": 3,
+      "start": 6,
       "end": 7
-    },
-    {
-      "start": 3,
-      "end": 8
-    },
-    {
-      "start": 0,
-      "end": 9
-    },
-    {
-      "start": 9,
-      "end": 10
-    },
-    {
-      "start": 9,
-      "end": 11
-    },
-    {
-      "start": 9,
-      "end": 12
-    },
-    {
-      "start": 0,
-      "end": 13
-    },
-    {
-      "start": 13,
-      "end": 14
-    },
-    {
-      "start": 13,
-      "end": 15
     }
   ],
   "selectedNode": 0

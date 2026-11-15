@@ -1,0 +1,21 @@
+category: B1 nouns
+aliases: vlas etymology, origin of vlas, vlas word origin, etymology of vlas
+- Czech vlas etymology
+  - Meaning: “hair (a single hair)”
+    - Hair (a single hair)
+  - Word history
+    - Old Czech vlas
+    - Proto-Slavic *volsъ
+    - Proto-Balto-Slavic *wálśas, *wálśis
+    - Proto-Indo-European *h₂wolh₁ḱos, *h₂wolh₁ḱis
+  - Slavic cousins
+    - Polish włos
+    - Slovak vlas
+    - Russian волос
+  - Related Czech words
+    - vlasatý: hairy
+    - vlasatice: woman with long hair
+    - vlasec: fishing line
+  - Sources
+    - [Wiktionary: vlas](https://en.wiktionary.org/wiki/vlas#Czech)
+    - [Wiktionary: Proto-Slavic *volsъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/vols%D1%8A)

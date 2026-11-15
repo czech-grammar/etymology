@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech pěna etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2xjb74",
+      "name": "Meaning: “foam”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3aja5u",
+      "name": "Foam",
+      "x": -432,
+      "y": -101,
+      "parent": "#2xjb74"
+    },
+    {
+      "@id": "#7ti6nk",
+      "name": "Word history",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jg9fz2",
+      "name": "Old Czech pěna",
+      "x": -295,
+      "y": -272,
+      "parent": "#7ti6nk"
+    },
+    {
+      "@id": "#y2ii7u",
+      "name": "Proto-Slavic *pěna",
+      "x": -64,
+      "y": -356,
+      "parent": "#7ti6nk"
+    },
+    {
+      "@id": "#ee66wp",
+      "name": "Proto-Balto-Slavic *(s)páiˀnāˀ",
+      "x": 211,
+      "y": -372,
+      "parent": "#7ti6nk"
+    },
+    {
+      "@id": "#6nph49",
+      "name": "Proto-Indo-European *(s)poH(y)-",
+      "x": 379,
+      "y": -195,
+      "parent": "#7ti6nk"
+    },
+    {
+      "@id": "#wi2zdy",
+      "name": "Slavic cousins",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7ivh7z",
+      "name": "Polish piana",
+      "x": 450,
+      "y": 0,
+      "parent": "#wi2zdy"
+    },
+    {
+      "@id": "#ge8mzb",
+      "name": "Slovak pena",
+      "x": 379,
+      "y": 195,
+      "parent": "#wi2zdy"
+    },
+    {
+      "@id": "#sc9j9s",
+      "name": "Russian пена",
+      "x": 187,
+      "y": 327,
+      "parent": "#wi2zdy"
+    },
+    {
+      "@id": "#dnpfs6",
+      "name": "Related Czech words",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5py7vd",
+      "name": "pěnit: to foam",
+      "x": -64,
+      "y": 356,
+      "parent": "#dnpfs6"
+    },
+    {
+      "@id": "#8h9diy",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i6iuhr",
+      "name": "Wiktionary: pěna",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/p%C4%9Bna#Czech",
+      "parent": "#8h9diy"
+    },
+    {
+      "@id": "#hqibm2",
+      "name": "Wiktionary: Proto-Slavic *pěna",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/p%C4%9Bna",
+      "parent": "#8h9diy"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

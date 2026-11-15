@@ -1,0 +1,21 @@
+category: B2 nouns
+aliases: slina etymology, origin of slina, slina word origin, etymology of slina
+- Czech slina etymology
+  - Meaning: “saliva, spit”
+    - Saliva, spit
+  - Word history
+    - Old Czech slina
+    - Proto-Slavic *slina
+    - Proto-Balto-Slavic *sleʔinaʔ
+    - Proto-Indo-European *sleh₁y-n-eh₂
+  - Slavic cousins
+    - Polish ślina
+    - Slovak slina
+    - Russian слюна
+  - Related Czech words
+    - slinný: salivary
+    - slinit: to salivate
+    - slinivka: pancreas
+  - Sources
+    - [Wiktionary: slina](https://en.wiktionary.org/wiki/slina#Czech)
+    - [Wiktionary: Proto-Slavic *slina](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/slina)

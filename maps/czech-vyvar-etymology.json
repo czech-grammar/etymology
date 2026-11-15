@@ -1,0 +1,183 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech vývar etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ddyujx",
+      "name": "Meaning: “broth, stock”",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7jmxnp",
+      "name": "Broth, stock",
+      "x": -428,
+      "y": -111,
+      "parent": "#ddyujx"
+    },
+    {
+      "@id": "#qprxez",
+      "name": "Broth, bouillon",
+      "x": -265,
+      "y": -291,
+      "parent": "#ddyujx"
+    },
+    {
+      "@id": "#cpsdgh",
+      "name": "Word history",
+      "x": 135,
+      "y": -149,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c6ear4",
+      "name": "From vý- + var",
+      "x": 0,
+      "y": -360,
+      "parent": "#cpsdgh"
+    },
+    {
+      "@id": "#sq2yyg",
+      "name": "Root: Proto-Slavic *varъ",
+      "x": 265,
+      "y": -291,
+      "parent": "#cpsdgh"
+    },
+    {
+      "@id": "#3ttvkx",
+      "name": "From the verb *vьrěti",
+      "x": 428,
+      "y": -111,
+      "parent": "#cpsdgh"
+    },
+    {
+      "@id": "#tpcujk",
+      "name": "Cousins of the root *varъ",
+      "x": 135,
+      "y": 149,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6m8rxz",
+      "name": "Polish war",
+      "x": 428,
+      "y": 111,
+      "parent": "#tpcujk"
+    },
+    {
+      "@id": "#9cx4ee",
+      "name": "Slovak var",
+      "x": 265,
+      "y": 291,
+      "parent": "#tpcujk"
+    },
+    {
+      "@id": "#8ygfdr",
+      "name": "Russian вар",
+      "x": 0,
+      "y": 360,
+      "parent": "#tpcujk"
+    },
+    {
+      "@id": "#9snm3c",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#se4tkp",
+      "name": "Wiktionary: vývar",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/v%C3%BDvar#Czech",
+      "parent": "#9snm3c"
+    },
+    {
+      "@id": "#kbdjdd",
+      "name": "Wiktionary: Proto-Slavic *varъ",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/var%D1%8A",
+      "parent": "#9snm3c"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    }
+  ],
+  "selectedNode": 0
+}

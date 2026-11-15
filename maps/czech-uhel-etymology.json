@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech úhel etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#4zqnxm",
+      "name": "Meaning: “angle”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#txtc5u",
+      "name": "Angle",
+      "x": -435,
+      "y": -93,
+      "parent": "#4zqnxm"
+    },
+    {
+      "@id": "#7duk3a",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m677nu",
+      "name": "Old Czech úhel",
+      "x": -318,
+      "y": -255,
+      "parent": "#7duk3a"
+    },
+    {
+      "@id": "#7jy5gw",
+      "name": "Proto-Slavic *ǫgъlъ",
+      "x": -116,
+      "y": -348,
+      "parent": "#7duk3a"
+    },
+    {
+      "@id": "#7uzeuz",
+      "name": "Proto-Indo-European *h₂engulos, “joint?”",
+      "x": 136,
+      "y": -408,
+      "parent": "#7duk3a"
+    },
+    {
+      "@id": "#xqci5c",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kf3zki",
+      "name": "Polish węgieł",
+      "x": 318,
+      "y": -255,
+      "parent": "#xqci5c"
+    },
+    {
+      "@id": "#g8b2h8",
+      "name": "Slovak uhol",
+      "x": 435,
+      "y": -93,
+      "parent": "#xqci5c"
+    },
+    {
+      "@id": "#jbbj72",
+      "name": "Russian угол",
+      "x": 435,
+      "y": 93,
+      "parent": "#xqci5c"
+    },
+    {
+      "@id": "#8ifrpt",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kjk9mt",
+      "name": "čtyřúhelník: quadrilateral",
+      "x": 318,
+      "y": 255,
+      "parent": "#8ifrpt"
+    },
+    {
+      "@id": "#8ht5n4",
+      "name": "mnohoúhelník: polygon",
+      "x": 116,
+      "y": 348,
+      "parent": "#8ifrpt"
+    },
+    {
+      "@id": "#8nsr7e",
+      "name": "trojúhelník: triangle",
+      "x": -131,
+      "y": 393,
+      "parent": "#8ifrpt"
+    },
+    {
+      "@id": "#rssrhb",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5wcv7k",
+      "name": "Wiktionary: úhel",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/%C3%BAhel#Czech",
+      "parent": "#rssrhb"
+    },
+    {
+      "@id": "#ixaj2n",
+      "name": "Wiktionary: Proto-Slavic *ǫgъlъ",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C7%ABg%D1%8Al%D1%8A",
+      "parent": "#rssrhb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

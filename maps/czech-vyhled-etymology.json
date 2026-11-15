@@ -1,0 +1,127 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech výhled etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#t3gk6s",
+      "name": "Meaning: “view (from a place)”",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#45ec9y",
+      "name": "View (from a place)",
+      "x": -364,
+      "y": -212,
+      "parent": "#t3gk6s"
+    },
+    {
+      "@id": "#psxiya",
+      "name": "Outlook",
+      "x": 139,
+      "y": -342,
+      "parent": "#t3gk6s"
+    },
+    {
+      "@id": "#3vse8h",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2ictaq",
+      "name": "From the verb vyhlédnout",
+      "x": 450,
+      "y": 0,
+      "parent": "#3vse8h"
+    },
+    {
+      "@id": "#mzarw8",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4m7p2x",
+      "name": "vyhlídka: prospect",
+      "x": 139,
+      "y": 342,
+      "parent": "#mzarw8"
+    },
+    {
+      "@id": "#zvqt4x",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cjcfu8",
+      "name": "Wiktionary: výhled",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/v%C3%BDhled#Czech",
+      "parent": "#zvqt4x"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

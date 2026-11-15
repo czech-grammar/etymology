@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech důl etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#eijucu",
+      "name": "Meaning: “mine”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aq3dy7",
+      "name": "Mine",
+      "x": -432,
+      "y": -101,
+      "parent": "#eijucu"
+    },
+    {
+      "@id": "#u28cuv",
+      "name": "Word history",
+      "x": -96,
+      "y": -167,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y6puej",
+      "name": "Old Czech dól",
+      "x": -295,
+      "y": -272,
+      "parent": "#u28cuv"
+    },
+    {
+      "@id": "#y268mf",
+      "name": "Proto-Slavic *dolъ",
+      "x": -64,
+      "y": -356,
+      "parent": "#u28cuv"
+    },
+    {
+      "@id": "#3unm6p",
+      "name": "Slavic cousins",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f6z38a",
+      "name": "Polish dół",
+      "x": 187,
+      "y": -327,
+      "parent": "#3unm6p"
+    },
+    {
+      "@id": "#h2ag9q",
+      "name": "Slovak dol",
+      "x": 379,
+      "y": -195,
+      "parent": "#3unm6p"
+    },
+    {
+      "@id": "#y9f9u2",
+      "name": "Russian дол",
+      "x": 450,
+      "y": 0,
+      "parent": "#3unm6p"
+    },
+    {
+      "@id": "#xcn789",
+      "name": "Related Czech words",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a7kj57",
+      "name": "dole: down",
+      "x": 379,
+      "y": 195,
+      "parent": "#xcn789"
+    },
+    {
+      "@id": "#yb5zn7",
+      "name": "dolina: valley",
+      "x": 187,
+      "y": 327,
+      "parent": "#xcn789"
+    },
+    {
+      "@id": "#jgrhwr",
+      "name": "dolovat: to mine",
+      "x": -64,
+      "y": 356,
+      "parent": "#xcn789"
+    },
+    {
+      "@id": "#yjxbxh",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ytf783",
+      "name": "Wiktionary: důl",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/d%C5%AFl#Czech",
+      "parent": "#yjxbxh"
+    },
+    {
+      "@id": "#4y6aim",
+      "name": "Wiktionary: Proto-Slavic *dolъ",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/dol%D1%8A",
+      "parent": "#yjxbxh"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

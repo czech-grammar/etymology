@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech úraz etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#acqeca",
+      "name": "Meaning: “injury”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zuqjt8",
+      "name": "Injury",
+      "x": -225,
+      "y": -312,
+      "parent": "#acqeca"
+    },
+    {
+      "@id": "#hjeha2",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#daratt",
+      "name": "Proto-Slavic *urazъ",
+      "x": 450,
+      "y": 0,
+      "parent": "#hjeha2"
+    },
+    {
+      "@id": "#xk6tmd",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z5gdtf",
+      "name": "Wiktionary: úraz",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/%C3%BAraz#Czech",
+      "parent": "#xk6tmd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

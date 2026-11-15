@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech hrnec etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ajdv2e",
+      "name": "Meaning: “pot, saucepan”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ht6f4a",
+      "name": "Pot, saucepan",
+      "x": -432,
+      "y": -101,
+      "parent": "#ajdv2e"
+    },
+    {
+      "@id": "#zuuhz7",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xkrsjf",
+      "name": "Old Czech hrnec",
+      "x": -295,
+      "y": -272,
+      "parent": "#zuuhz7"
+    },
+    {
+      "@id": "#3qahkm",
+      "name": "Proto-Slavic *gъrnьcь",
+      "x": -64,
+      "y": -356,
+      "parent": "#zuuhz7"
+    },
+    {
+      "@id": "#vqn74k",
+      "name": "From *gъrnъ, “furnace” + *-ьcь",
+      "x": 219,
+      "y": -387,
+      "parent": "#zuuhz7"
+    },
+    {
+      "@id": "#x3dnab",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9xjsid",
+      "name": "Polish garniec",
+      "x": 379,
+      "y": -195,
+      "parent": "#x3dnab"
+    },
+    {
+      "@id": "#34esj7",
+      "name": "Slovak hrniec",
+      "x": 450,
+      "y": 0,
+      "parent": "#x3dnab"
+    },
+    {
+      "@id": "#xy53qn",
+      "name": "Ukrainian горнець;",
+      "x": 379,
+      "y": 195,
+      "parent": "#x3dnab"
+    },
+    {
+      "@id": "#gxs5i8",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nbjmuf",
+      "name": "hrnčíř: potter",
+      "x": 187,
+      "y": 327,
+      "parent": "#gxs5i8"
+    },
+    {
+      "@id": "#fx5ecm",
+      "name": "hrnek: mug",
+      "x": -64,
+      "y": 356,
+      "parent": "#gxs5i8"
+    },
+    {
+      "@id": "#nz95sd",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ft2t7f",
+      "name": "Wiktionary: hrnec",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/hrnec#Czech",
+      "parent": "#nz95sd"
+    },
+    {
+      "@id": "#8bbasz",
+      "name": "Wiktionary: Proto-Slavic *gъrnьcь",
+      "x": -451,
+      "y": 105,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/g%D1%8Arn%D1%8Cc%D1%8C",
+      "parent": "#nz95sd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

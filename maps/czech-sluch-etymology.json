@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech sluch etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#4dkxvg",
+      "name": "Meaning: “hearing”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vdfwih",
+      "name": "Hearing",
+      "x": -432,
+      "y": -101,
+      "parent": "#4dkxvg"
+    },
+    {
+      "@id": "#rurumi",
+      "name": "Word history",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8z4nmq",
+      "name": "Old Czech sluch",
+      "x": -295,
+      "y": -272,
+      "parent": "#rurumi"
+    },
+    {
+      "@id": "#guy88a",
+      "name": "Proto-Slavic *sluxъ",
+      "x": -64,
+      "y": -356,
+      "parent": "#rurumi"
+    },
+    {
+      "@id": "#kriwm9",
+      "name": "Proto-Balto-Slavic *klaušás, *ślaušás",
+      "x": 235,
+      "y": -417,
+      "parent": "#rurumi"
+    },
+    {
+      "@id": "#sxizkn",
+      "name": "Proto-Indo-European *ḱlows-o-s, “to hear”",
+      "x": 379,
+      "y": -195,
+      "parent": "#rurumi"
+    },
+    {
+      "@id": "#buq9ab",
+      "name": "Slavic cousins",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k67a5g",
+      "name": "Polish słuch",
+      "x": 450,
+      "y": 0,
+      "parent": "#buq9ab"
+    },
+    {
+      "@id": "#qkwv4t",
+      "name": "Slovak sluch",
+      "x": 379,
+      "y": 195,
+      "parent": "#buq9ab"
+    },
+    {
+      "@id": "#qpkhia",
+      "name": "Russian слух",
+      "x": 187,
+      "y": 327,
+      "parent": "#buq9ab"
+    },
+    {
+      "@id": "#gagh3a",
+      "name": "Related Czech words",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#resgug",
+      "name": "slyšet: to hear",
+      "x": -64,
+      "y": 356,
+      "parent": "#gagh3a"
+    },
+    {
+      "@id": "#sjr2sv",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cgwqm2",
+      "name": "Wiktionary: sluch",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/sluch#Czech",
+      "parent": "#sjr2sv"
+    },
+    {
+      "@id": "#w6u9w9",
+      "name": "Wiktionary: Proto-Slavic *sluxъ",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/slux%D1%8A",
+      "parent": "#sjr2sv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

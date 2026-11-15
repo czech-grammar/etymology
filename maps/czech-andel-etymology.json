@@ -1,0 +1,149 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech anděl etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#njxbui",
+      "name": "Meaning: “angel”",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c4dyvu",
+      "name": "Angel",
+      "x": -405,
+      "y": -156,
+      "parent": "#njxbui"
+    },
+    {
+      "@id": "#m6tk7c",
+      "name": "Word history",
+      "x": 143,
+      "y": -144,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5q98u9",
+      "name": "Old Czech anjel",
+      "x": -100,
+      "y": -351,
+      "parent": "#m6tk7c"
+    },
+    {
+      "@id": "#8n6nrf",
+      "name": "Medieval Latin angelus",
+      "x": 281,
+      "y": -281,
+      "parent": "#m6tk7c"
+    },
+    {
+      "@id": "#p7ny84",
+      "name": "Ancient Greek ἄγγελος (ángelos)",
+      "x": 450,
+      "y": 0,
+      "parent": "#m6tk7c"
+    },
+    {
+      "@id": "#4tikhz",
+      "name": "Related Czech words",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#79psby",
+      "name": "andělský: angelic",
+      "x": 281,
+      "y": 281,
+      "parent": "#4tikhz"
+    },
+    {
+      "@id": "#2smeuv",
+      "name": "archanděl: archangel",
+      "x": -100,
+      "y": 351,
+      "parent": "#4tikhz"
+    },
+    {
+      "@id": "#2xwi8m",
+      "name": "Sources",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yj7vbf",
+      "name": "Wiktionary: anděl",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wiktionary.org/wiki/and%C4%9Bl#Czech",
+      "parent": "#2xwi8m"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

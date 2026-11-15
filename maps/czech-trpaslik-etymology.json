@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech trpaslík etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#adid52",
+      "name": "Meaning: “dwarf; garden gnome”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#94tgzp",
+      "name": "Dwarf; garden gnome",
+      "x": -454,
+      "y": -97,
+      "parent": "#adid52"
+    },
+    {
+      "@id": "#amu5vj",
+      "name": "Word history",
+      "x": 60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p8u4w8",
+      "name": "From Old Church Slavonic трьпѧстъкъ (trĭpęstŭkŭ)",
+      "x": -318,
+      "y": -255,
+      "parent": "#amu5vj"
+    },
+    {
+      "@id": "#bdvt5b",
+      "name": "Proto-Slavic *tri + *pęstь + *-ikъ",
+      "x": -116,
+      "y": -348,
+      "parent": "#amu5vj"
+    },
+    {
+      "@id": "#mvnuvg",
+      "name": "Probably Proto-Balto-Slavic *penkstis",
+      "x": 136,
+      "y": -408,
+      "parent": "#amu5vj"
+    },
+    {
+      "@id": "#f5bmpm",
+      "name": "Proto-Indo-European *pn̥kʷstis",
+      "x": 318,
+      "y": -255,
+      "parent": "#amu5vj"
+    },
+    {
+      "@id": "#xxe2ne",
+      "name": "Proto-Indo-European *pewǵ-, “punch”",
+      "x": 435,
+      "y": -93,
+      "parent": "#amu5vj"
+    },
+    {
+      "@id": "#ai7fd3",
+      "name": "Slavic cousins",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xrkvze",
+      "name": "Polish pięść",
+      "x": 435,
+      "y": 93,
+      "parent": "#ai7fd3"
+    },
+    {
+      "@id": "#7dnq4b",
+      "name": "Slovak päsť",
+      "x": 318,
+      "y": 255,
+      "parent": "#ai7fd3"
+    },
+    {
+      "@id": "#zzsefy",
+      "name": "Russian пясть",
+      "x": 116,
+      "y": 348,
+      "parent": "#ai7fd3"
+    },
+    {
+      "@id": "#uqhbp2",
+      "name": "Related Czech words",
+      "x": -60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6rihz6",
+      "name": "trpasličí: dwarf",
+      "x": -116,
+      "y": 348,
+      "parent": "#uqhbp2"
+    },
+    {
+      "@id": "#z77mbu",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#93mp96",
+      "name": "Wiktionary: trpaslík",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/trpasl%C3%ADk#Czech",
+      "parent": "#z77mbu"
+    },
+    {
+      "@id": "#zq69as",
+      "name": "Wiktionary: Proto-Slavic *pęstь",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/p%C4%99st%D1%8C",
+      "parent": "#z77mbu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,149 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech lavice etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#nxkkja",
+      "name": "Meaning: “school desk”",
+      "x": -143,
+      "y": -144,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3zzu4y",
+      "name": "School desk",
+      "x": -405,
+      "y": -156,
+      "parent": "#nxkkja"
+    },
+    {
+      "@id": "#8trwut",
+      "name": "Bench",
+      "x": -100,
+      "y": -351,
+      "parent": "#nxkkja"
+    },
+    {
+      "@id": "#eum6f2",
+      "name": "Word history",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e8hn98",
+      "name": "Old Czech lavicě",
+      "x": 281,
+      "y": -281,
+      "parent": "#eum6f2"
+    },
+    {
+      "@id": "#6gmgr7",
+      "name": "Built from lava + -ice",
+      "x": 450,
+      "y": 0,
+      "parent": "#eum6f2"
+    },
+    {
+      "@id": "#yxmfct",
+      "name": "Related Czech words",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rwe4ib",
+      "name": "lavička: bench",
+      "x": 281,
+      "y": 281,
+      "parent": "#yxmfct"
+    },
+    {
+      "@id": "#7ijnw5",
+      "name": "lávka: footbridge",
+      "x": -100,
+      "y": 351,
+      "parent": "#yxmfct"
+    },
+    {
+      "@id": "#5pkbbz",
+      "name": "Sources",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#thhr7q",
+      "name": "Wiktionary: lavice",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wiktionary.org/wiki/lavice#Czech",
+      "parent": "#5pkbbz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

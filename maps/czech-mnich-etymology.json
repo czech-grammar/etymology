@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech mnich etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#6ycicj",
+      "name": "Meaning: “monk”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#esf6ri",
+      "name": "Monk",
+      "x": -225,
+      "y": -312,
+      "parent": "#6ycicj"
+    },
+    {
+      "@id": "#rqk2dg",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e6p3b2",
+      "name": "Old Czech mnich",
+      "x": 450,
+      "y": 0,
+      "parent": "#rqk2dg"
+    },
+    {
+      "@id": "#g2npzz",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#umwh6x",
+      "name": "Wiktionary: mnich",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/mnich#Czech",
+      "parent": "#g2npzz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

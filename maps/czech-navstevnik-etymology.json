@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech návštěvník etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xe7gyq",
+      "name": "Meaning: “visitor”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vdehmz",
+      "name": "Visitor",
+      "x": -318,
+      "y": -255,
+      "parent": "#xe7gyq"
+    },
+    {
+      "@id": "#jbi8np",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p34di4",
+      "name": "From návštěva + -ník",
+      "x": 318,
+      "y": -255,
+      "parent": "#jbi8np"
+    },
+    {
+      "@id": "#a9rrd6",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#er5van",
+      "name": "návštěva: visit",
+      "x": 318,
+      "y": 255,
+      "parent": "#a9rrd6"
+    },
+    {
+      "@id": "#xp5v5a",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9ydxg8",
+      "name": "Wiktionary: návštěvník",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/n%C3%A1v%C5%A1t%C4%9Bvn%C3%ADk#Czech",
+      "parent": "#xp5v5a"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

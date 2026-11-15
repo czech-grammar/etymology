@@ -1,0 +1,150 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech sloup etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#wvbqh4",
+      "name": "Meaning: “column, pillar, pole”",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6md6tn",
+      "name": "Column, pillar, pole",
+      "x": -405,
+      "y": -156,
+      "parent": "#wvbqh4"
+    },
+    {
+      "@id": "#m9p73b",
+      "name": "Word history",
+      "x": 143,
+      "y": -144,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3zuau8",
+      "name": "Old Czech stlúp",
+      "x": -100,
+      "y": -351,
+      "parent": "#m9p73b"
+    },
+    {
+      "@id": "#jpnmzm",
+      "name": "Proto-Slavic *stъlbъ",
+      "x": 281,
+      "y": -281,
+      "parent": "#m9p73b"
+    },
+    {
+      "@id": "#4kjpru",
+      "name": "Proto-Indo-European *stl̥b-",
+      "x": 450,
+      "y": 0,
+      "parent": "#m9p73b"
+    },
+    {
+      "@id": "#6en4i3",
+      "name": "Slavic cousins",
+      "x": 143,
+      "y": 144,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wec7b4",
+      "name": "Russian столб",
+      "x": 281,
+      "y": 281,
+      "parent": "#6en4i3"
+    },
+    {
+      "@id": "#w9cn4e",
+      "name": "Sources",
+      "x": -143,
+      "y": 144,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#26nttj",
+      "name": "Wiktionary: sloup",
+      "x": -100,
+      "y": 351,
+      "link": "https://en.wiktionary.org/wiki/sloup#Czech",
+      "parent": "#w9cn4e"
+    },
+    {
+      "@id": "#sa7zju",
+      "name": "Wiktionary: Proto-Slavic *stъlbъ",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/st%D1%8Alb%D1%8A",
+      "parent": "#w9cn4e"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

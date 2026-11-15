@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech sochař etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#bw7qbd",
+      "name": "Meaning: “sculptor”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8dxx75",
+      "name": "Sculptor",
+      "x": -225,
+      "y": -312,
+      "parent": "#bw7qbd"
+    },
+    {
+      "@id": "#kteek9",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z2mtnc",
+      "name": "From socha, “sculpture” + -ař",
+      "x": 470,
+      "y": 0,
+      "parent": "#kteek9"
+    },
+    {
+      "@id": "#fqsguz",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8hu7gb",
+      "name": "Wiktionary: sochař",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/socha%C5%99#Czech",
+      "parent": "#fqsguz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

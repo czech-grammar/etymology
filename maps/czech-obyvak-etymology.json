@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech obývák etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ws9f3d",
+      "name": "Meaning: “living room”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6gce9k",
+      "name": "Living room",
+      "x": -416,
+      "y": -138,
+      "parent": "#ws9f3d"
+    },
+    {
+      "@id": "#mj5fmg",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bfyd24",
+      "name": "From obývat + -ák",
+      "x": -172,
+      "y": -333,
+      "parent": "#mj5fmg"
+    },
+    {
+      "@id": "#zwice9",
+      "name": "Root: Proto-Slavic *byvati",
+      "x": 172,
+      "y": -333,
+      "parent": "#mj5fmg"
+    },
+    {
+      "@id": "#p8snv4",
+      "name": "Cousins of the root *byvati",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9wbtvt",
+      "name": "Polish bywać",
+      "x": 416,
+      "y": -138,
+      "parent": "#p8snv4"
+    },
+    {
+      "@id": "#652db2",
+      "name": "Slovak bývať",
+      "x": 416,
+      "y": 138,
+      "parent": "#p8snv4"
+    },
+    {
+      "@id": "#uftrie",
+      "name": "Russian бывать",
+      "x": 172,
+      "y": 333,
+      "parent": "#p8snv4"
+    },
+    {
+      "@id": "#ks7yxr",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2mm4mf",
+      "name": "Wiktionary: obývák",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/ob%C3%BDv%C3%A1k#Czech",
+      "parent": "#ks7yxr"
+    },
+    {
+      "@id": "#37cbzg",
+      "name": "Wiktionary: Proto-Slavic *byvati",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/byvati",
+      "parent": "#ks7yxr"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

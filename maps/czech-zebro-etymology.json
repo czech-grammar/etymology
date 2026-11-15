@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech žebro etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2sjpxf",
+      "name": "Meaning: “rib; spare rib (food)”",
+      "x": -242,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nfxtx9",
+      "name": "Rib; spare rib (food)",
+      "x": -494,
+      "y": -98,
+      "parent": "#2sjpxf"
+    },
+    {
+      "@id": "#qczkz9",
+      "name": "Word history",
+      "x": 28,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w5v53k",
+      "name": "Old Czech řebro",
+      "x": -337,
+      "y": -239,
+      "parent": "#qczkz9"
+    },
+    {
+      "@id": "#y9qwt9",
+      "name": "Proto-Slavic *rebrò",
+      "x": -160,
+      "y": -337,
+      "parent": "#qczkz9"
+    },
+    {
+      "@id": "#x3d9fy",
+      "name": "Proto-Balto-Slavic *rébran",
+      "x": 58,
+      "y": -389,
+      "parent": "#qczkz9"
+    },
+    {
+      "@id": "#2pzxxn",
+      "name": "Proto-Indo-European *h₁rebʰróm",
+      "x": 256,
+      "y": -296,
+      "parent": "#qczkz9"
+    },
+    {
+      "@id": "#gs6qf2",
+      "name": "Proto-Indo-European *h₁rebʰ-",
+      "x": 398,
+      "y": -167,
+      "parent": "#qczkz9"
+    },
+    {
+      "@id": "#6k8tkd",
+      "name": "Slavic cousins",
+      "x": 204,
+      "y": 86,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ysv4v4",
+      "name": "Polish żebro",
+      "x": 450,
+      "y": 0,
+      "parent": "#6k8tkd"
+    },
+    {
+      "@id": "#snmfzr",
+      "name": "Slovak rebro",
+      "x": 398,
+      "y": 167,
+      "parent": "#6k8tkd"
+    },
+    {
+      "@id": "#cvyvsv",
+      "name": "Russian ребро",
+      "x": 256,
+      "y": 296,
+      "parent": "#6k8tkd"
+    },
+    {
+      "@id": "#ptyn5i",
+      "name": "Related Czech words",
+      "x": -28,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kf79by",
+      "name": "žeberní: rib",
+      "x": 54,
+      "y": 357,
+      "parent": "#ptyn5i"
+    },
+    {
+      "@id": "#23ds2i",
+      "name": "žebřík: ladder",
+      "x": -160,
+      "y": 337,
+      "parent": "#ptyn5i"
+    },
+    {
+      "@id": "#g9mwn8",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cu8sfw",
+      "name": "Wiktionary: žebro",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/%C5%BEebro#Czech",
+      "parent": "#g9mwn8"
+    },
+    {
+      "@id": "#d3xqu2",
+      "name": "Wiktionary: Proto-Slavic *rebro",
+      "x": -456,
+      "y": 90,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/rebro",
+      "parent": "#g9mwn8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,183 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech pěst etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#mw8mgq",
+      "name": "Meaning: “fist”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#75i3sa",
+      "name": "Fist",
+      "x": -428,
+      "y": -111,
+      "parent": "#mw8mgq"
+    },
+    {
+      "@id": "#hg2gii",
+      "name": "Word history",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k79gv5",
+      "name": "Old Czech pěst",
+      "x": -265,
+      "y": -291,
+      "parent": "#hg2gii"
+    },
+    {
+      "@id": "#eu28v5",
+      "name": "Proto-Slavic *pęstь",
+      "x": 0,
+      "y": -360,
+      "parent": "#hg2gii"
+    },
+    {
+      "@id": "#d296xf",
+      "name": "Proto-Balto-Slavic *penkstis",
+      "x": 265,
+      "y": -291,
+      "parent": "#hg2gii"
+    },
+    {
+      "@id": "#hbntvh",
+      "name": "Proto-Indo-European *pn̥kʷstis",
+      "x": 428,
+      "y": -111,
+      "parent": "#hg2gii"
+    },
+    {
+      "@id": "#yhfca3",
+      "name": "Slavic cousins",
+      "x": 135,
+      "y": 149,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k2tbru",
+      "name": "Polish pięść",
+      "x": 428,
+      "y": 111,
+      "parent": "#yhfca3"
+    },
+    {
+      "@id": "#fijd8b",
+      "name": "Slovak päsť",
+      "x": 265,
+      "y": 291,
+      "parent": "#yhfca3"
+    },
+    {
+      "@id": "#mwtzvk",
+      "name": "Russian пясть",
+      "x": 0,
+      "y": 360,
+      "parent": "#yhfca3"
+    },
+    {
+      "@id": "#iqdzw6",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qnhmbq",
+      "name": "Wiktionary: pěst",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/p%C4%9Bst#Czech",
+      "parent": "#iqdzw6"
+    },
+    {
+      "@id": "#72mkuw",
+      "name": "Wiktionary: Proto-Slavic *pęstь",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/p%C4%99st%D1%8C",
+      "parent": "#iqdzw6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    }
+  ],
+  "selectedNode": 0
+}

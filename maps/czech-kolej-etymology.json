@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kolej etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7ivntp",
+      "name": "Meaning: “hall of residence”",
+      "x": -204,
+      "y": -86,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7jrhqs",
+      "name": "Hall of residence",
+      "x": -475,
+      "y": -94,
+      "parent": "#7ivntp"
+    },
+    {
+      "@id": "#gh5bmq",
+      "name": "Rut, track, groove",
+      "x": -337,
+      "y": -239,
+      "parent": "#7ivntp"
+    },
+    {
+      "@id": "#4fhtks",
+      "name": "Word history",
+      "x": 28,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6pezaw",
+      "name": "Old Czech kolejě",
+      "x": -160,
+      "y": -337,
+      "parent": "#4fhtks"
+    },
+    {
+      "@id": "#6w636u",
+      "name": "Proto-Slavic *kolěja",
+      "x": 58,
+      "y": -389,
+      "parent": "#4fhtks"
+    },
+    {
+      "@id": "#gypt35",
+      "name": "From *kolo + *-ěja",
+      "x": 256,
+      "y": -296,
+      "parent": "#4fhtks"
+    },
+    {
+      "@id": "#8j4awd",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xbmcy5",
+      "name": "Polish kolej",
+      "x": 398,
+      "y": -167,
+      "parent": "#8j4awd"
+    },
+    {
+      "@id": "#qcj7vw",
+      "name": "Slovak koľaj",
+      "x": 450,
+      "y": 0,
+      "parent": "#8j4awd"
+    },
+    {
+      "@id": "#b7w2jm",
+      "name": "Russian колея;",
+      "x": 398,
+      "y": 167,
+      "parent": "#8j4awd"
+    },
+    {
+      "@id": "#f3gztw",
+      "name": "Related Czech words",
+      "x": 28,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jvb4bz",
+      "name": "kolejiště: trackage",
+      "x": 256,
+      "y": 296,
+      "parent": "#f3gztw"
+    },
+    {
+      "@id": "#xzhhgy",
+      "name": "kolejnice: rail",
+      "x": 54,
+      "y": 357,
+      "parent": "#f3gztw"
+    },
+    {
+      "@id": "#yp73m7",
+      "name": "vykolejit: to derail",
+      "x": -160,
+      "y": 337,
+      "parent": "#f3gztw"
+    },
+    {
+      "@id": "#yasb2i",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tzdsii",
+      "name": "Wiktionary: kolej",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/kolej#Czech",
+      "parent": "#yasb2i"
+    },
+    {
+      "@id": "#jswxfe",
+      "name": "Wiktionary: Proto-Slavic *kolěja",
+      "x": -456,
+      "y": 90,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kol%C4%9Bja",
+      "parent": "#yasb2i"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

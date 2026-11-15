@@ -1,0 +1,183 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech umění etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#abh6dc",
+      "name": "Meaning: “art”",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yrhgfb",
+      "name": "Art",
+      "x": -428,
+      "y": -111,
+      "parent": "#abh6dc"
+    },
+    {
+      "@id": "#xwigq9",
+      "name": "Verbal noun of umět",
+      "x": -265,
+      "y": -291,
+      "parent": "#abh6dc"
+    },
+    {
+      "@id": "#4vjc8w",
+      "name": "Word history",
+      "x": 135,
+      "y": -149,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sbcsxa",
+      "name": "From umět + -ení",
+      "x": 0,
+      "y": -360,
+      "parent": "#4vjc8w"
+    },
+    {
+      "@id": "#2i7zcz",
+      "name": "Root: Proto-Slavic *uměti",
+      "x": 265,
+      "y": -291,
+      "parent": "#4vjc8w"
+    },
+    {
+      "@id": "#dq3t7v",
+      "name": "From *umъ + *-ěti",
+      "x": 428,
+      "y": -111,
+      "parent": "#4vjc8w"
+    },
+    {
+      "@id": "#d9bnkv",
+      "name": "Cousins of the root *uměti",
+      "x": 135,
+      "y": 149,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bdf69q",
+      "name": "Polish umieć",
+      "x": 428,
+      "y": 111,
+      "parent": "#d9bnkv"
+    },
+    {
+      "@id": "#pqn2sm",
+      "name": "Slovak umieť",
+      "x": 265,
+      "y": 291,
+      "parent": "#d9bnkv"
+    },
+    {
+      "@id": "#yex5hd",
+      "name": "Russian уметь",
+      "x": 0,
+      "y": 360,
+      "parent": "#d9bnkv"
+    },
+    {
+      "@id": "#zpg7v5",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qrdxgb",
+      "name": "Wiktionary: umění",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/um%C4%9Bn%C3%AD#Czech",
+      "parent": "#zpg7v5"
+    },
+    {
+      "@id": "#xcj4eu",
+      "name": "Wiktionary: Proto-Slavic *uměti",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/um%C4%9Bti",
+      "parent": "#zpg7v5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    }
+  ],
+  "selectedNode": 0
+}

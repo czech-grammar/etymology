@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech petržel etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qwqew3",
+      "name": "Meaning: “parsley”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ch9mma",
+      "name": "Parsley",
+      "x": -318,
+      "y": -255,
+      "parent": "#qwqew3"
+    },
+    {
+      "@id": "#53u49u",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fc5eh4",
+      "name": "Borrowed from German Petersilie",
+      "x": 318,
+      "y": -255,
+      "parent": "#53u49u"
+    },
+    {
+      "@id": "#ydbdnc",
+      "name": "Latin petroselīnum",
+      "x": 318,
+      "y": 255,
+      "parent": "#53u49u"
+    },
+    {
+      "@id": "#nx8tkb",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eiqfnj",
+      "name": "Wiktionary: petržel",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/petr%C5%BEel#Czech",
+      "parent": "#nx8tkb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

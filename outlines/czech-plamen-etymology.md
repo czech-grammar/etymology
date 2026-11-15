@@ -1,0 +1,21 @@
+category: B1 nouns
+aliases: plamen etymology, origin of plamen, plamen word origin, etymology of plamen
+- Czech plamen etymology
+  - Meaning: “flame”
+    - Flame
+  - Word history
+    - Old Czech plamen
+    - Proto-Slavic *polmy
+    - Proto-Balto-Slavic *palmōns
+    - Proto-Indo-European *polh₁-men-
+  - Slavic cousins
+    - Polish płomień
+    - Slovak plameň
+    - Russian поломя
+  - Related Czech words
+    - plamenka: phlox
+    - plamenomet: flamethrower
+    - plameňák: flamingo
+  - Sources
+    - [Wiktionary: plamen](https://en.wiktionary.org/wiki/plamen#Czech)
+    - [Wiktionary: Proto-Slavic *polmy](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/polmy)

@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech požár etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#b425rn",
+      "name": "Meaning: “fire (blaze)”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qgn3wr",
+      "name": "Fire (blaze)",
+      "x": -435,
+      "y": -93,
+      "parent": "#b425rn"
+    },
+    {
+      "@id": "#yi45cf",
+      "name": "Fire, conflagration",
+      "x": -318,
+      "y": -255,
+      "parent": "#b425rn"
+    },
+    {
+      "@id": "#axsyv4",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5x4pv7",
+      "name": "Proto-Slavic *požarъ",
+      "x": -116,
+      "y": -348,
+      "parent": "#axsyv4"
+    },
+    {
+      "@id": "#92y2vk",
+      "name": "From *po- + *žarъ",
+      "x": 116,
+      "y": -348,
+      "parent": "#axsyv4"
+    },
+    {
+      "@id": "#karaat",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wyuz4d",
+      "name": "Polish pożar",
+      "x": 318,
+      "y": -255,
+      "parent": "#karaat"
+    },
+    {
+      "@id": "#dm9f5a",
+      "name": "Slovak požiar",
+      "x": 435,
+      "y": -93,
+      "parent": "#karaat"
+    },
+    {
+      "@id": "#gmpabv",
+      "name": "Russian пожар",
+      "x": 435,
+      "y": 93,
+      "parent": "#karaat"
+    },
+    {
+      "@id": "#fat2sw",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tijau8",
+      "name": "požární: firefighting",
+      "x": 318,
+      "y": 255,
+      "parent": "#fat2sw"
+    },
+    {
+      "@id": "#wza65y",
+      "name": "požárník: firefighter",
+      "x": 116,
+      "y": 348,
+      "parent": "#fat2sw"
+    },
+    {
+      "@id": "#xcmkvh",
+      "name": "požářiště: fireground",
+      "x": -131,
+      "y": 393,
+      "parent": "#fat2sw"
+    },
+    {
+      "@id": "#73sket",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ewheus",
+      "name": "Wiktionary: požár",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/po%C5%BE%C3%A1r#Czech",
+      "parent": "#73sket"
+    },
+    {
+      "@id": "#m7n4iz",
+      "name": "Wiktionary: Proto-Slavic *požarъ",
+      "x": -454,
+      "y": 97,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/po%C5%BEar%D1%8A",
+      "parent": "#73sket"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

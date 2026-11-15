@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech knihkupectví etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5yg3hb",
+      "name": "Meaning: “bookshop”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hx2c97",
+      "name": "Bookshop",
+      "x": -435,
+      "y": -93,
+      "parent": "#5yg3hb"
+    },
+    {
+      "@id": "#73rbxt",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xwjg42",
+      "name": "From knihkupec, “bookseller” + -ctví",
+      "x": -318,
+      "y": -255,
+      "parent": "#73rbxt"
+    },
+    {
+      "@id": "#q4nw93",
+      "name": "Root: Proto-Slavic *kupьcь",
+      "x": -116,
+      "y": -348,
+      "parent": "#73rbxt"
+    },
+    {
+      "@id": "#z7xfke",
+      "name": "By surface analysis, *kupiti + *-ьcь",
+      "x": 136,
+      "y": -408,
+      "parent": "#73rbxt"
+    },
+    {
+      "@id": "#gyvtx4",
+      "name": "Cousins of the root *kupьcь",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h6pps6",
+      "name": "Polish kupiec",
+      "x": 318,
+      "y": -255,
+      "parent": "#gyvtx4"
+    },
+    {
+      "@id": "#5vwumm",
+      "name": "Slovak kupec",
+      "x": 454,
+      "y": -97,
+      "parent": "#gyvtx4"
+    },
+    {
+      "@id": "#ueqd65",
+      "name": "Russian купец",
+      "x": 435,
+      "y": 93,
+      "parent": "#gyvtx4"
+    },
+    {
+      "@id": "#bgiqyu",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#82zts8",
+      "name": "kniha: book",
+      "x": 318,
+      "y": 255,
+      "parent": "#bgiqyu"
+    },
+    {
+      "@id": "#2vrtqq",
+      "name": "knihkupec: bookseller",
+      "x": 116,
+      "y": 348,
+      "parent": "#bgiqyu"
+    },
+    {
+      "@id": "#9adr3b",
+      "name": "kupec: merchant",
+      "x": -116,
+      "y": 348,
+      "parent": "#bgiqyu"
+    },
+    {
+      "@id": "#j5zrmf",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t3auk5",
+      "name": "Wiktionary: knihkupectví",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/knihkupectv%C3%AD#Czech",
+      "parent": "#j5zrmf"
+    },
+    {
+      "@id": "#xu7n93",
+      "name": "Wiktionary: Proto-Slavic *kupьcь",
+      "x": -454,
+      "y": 97,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kup%D1%8Cc%D1%8C",
+      "parent": "#j5zrmf"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

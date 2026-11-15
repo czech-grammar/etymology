@@ -1,0 +1,183 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech ocet etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ctwpem",
+      "name": "Meaning: “vinegar”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cvhwz3",
+      "name": "Vinegar",
+      "x": -428,
+      "y": -111,
+      "parent": "#ctwpem"
+    },
+    {
+      "@id": "#9rnwvc",
+      "name": "Word history",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v72mf6",
+      "name": "Old Czech ocet",
+      "x": -265,
+      "y": -291,
+      "parent": "#9rnwvc"
+    },
+    {
+      "@id": "#fmqc27",
+      "name": "Proto-Slavic *ocьtъ",
+      "x": 0,
+      "y": -360,
+      "parent": "#9rnwvc"
+    },
+    {
+      "@id": "#uqzu7d",
+      "name": "Latin acētum",
+      "x": 265,
+      "y": -291,
+      "parent": "#9rnwvc"
+    },
+    {
+      "@id": "#pjs5gn",
+      "name": "Gothic 𐌰𐌺𐌴𐌹𐍄 (akeit) or 𐌰𐌺𐌴𐍄 (akēt)",
+      "x": 428,
+      "y": -111,
+      "parent": "#9rnwvc"
+    },
+    {
+      "@id": "#ixpg62",
+      "name": "Slavic cousins",
+      "x": 135,
+      "y": 149,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b8vzn4",
+      "name": "Polish ocet",
+      "x": 428,
+      "y": 111,
+      "parent": "#ixpg62"
+    },
+    {
+      "@id": "#fp6q7v",
+      "name": "Slovak ocot",
+      "x": 265,
+      "y": 291,
+      "parent": "#ixpg62"
+    },
+    {
+      "@id": "#dgwbhz",
+      "name": "Russian оцет",
+      "x": 0,
+      "y": 360,
+      "parent": "#ixpg62"
+    },
+    {
+      "@id": "#jdrvjd",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w99ayq",
+      "name": "Wiktionary: ocet",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/ocet#Czech",
+      "parent": "#jdrvjd"
+    },
+    {
+      "@id": "#adnycu",
+      "name": "Wiktionary: Proto-Slavic *ocьtъ",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/oc%D1%8Ct%D1%8A",
+      "parent": "#jdrvjd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech soudkyně etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#jchijb",
+      "name": "Meaning: “judge (f)”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#urx7qz",
+      "name": "Judge (f)",
+      "x": -318,
+      "y": -255,
+      "parent": "#jchijb"
+    },
+    {
+      "@id": "#6rdayr",
+      "name": "Female equivalent of soudce",
+      "x": 318,
+      "y": -255,
+      "parent": "#jchijb"
+    },
+    {
+      "@id": "#xrkd2z",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vp5bkn",
+      "name": "From soudit + -kyně",
+      "x": 318,
+      "y": 255,
+      "parent": "#xrkd2z"
+    },
+    {
+      "@id": "#37kzhh",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tpwhty",
+      "name": "Wiktionary: soudkyně",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/soudkyn%C4%9B#Czech",
+      "parent": "#37kzhh"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

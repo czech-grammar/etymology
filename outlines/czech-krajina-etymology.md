@@ -1,0 +1,22 @@
+category: A2 nouns
+aliases: krajina etymology, origin of krajina, krajina word origin, etymology of krajina
+- Czech krajina etymology
+  - Meaning: “landscape, countryside”
+    - Landscape, countryside
+    - Landscape, scenery
+  - Word history
+    - Old Czech krajina
+    - Proto-Slavic *krajina
+    - From *krajь, “end” + *-ina
+    - Built from kraj + -ina
+  - Slavic cousins
+    - Polish kraina
+    - Slovak krajina
+    - Russian краина
+  - Related Czech words
+    - krajinář: landscapist
+    - krajinomalba: landscape painting
+    - kraj: edge
+  - Sources
+    - [Wiktionary: krajina](https://en.wiktionary.org/wiki/krajina#Czech)
+    - [Wiktionary: Proto-Slavic *krajina](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/krajina)

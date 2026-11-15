@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech pánev etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3f2tr9",
+      "name": "Meaning: “frying pan”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a8rj6i",
+      "name": "Frying pan",
+      "x": -318,
+      "y": -255,
+      "parent": "#3f2tr9"
+    },
+    {
+      "@id": "#ykk4rp",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ihmt7x",
+      "name": "Borrowed from German Pfanne",
+      "x": 318,
+      "y": -255,
+      "parent": "#ykk4rp"
+    },
+    {
+      "@id": "#spfw6v",
+      "name": "Late Latin panna",
+      "x": 318,
+      "y": 255,
+      "parent": "#ykk4rp"
+    },
+    {
+      "@id": "#fjzhah",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qgzg9q",
+      "name": "Wiktionary: pánev",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/p%C3%A1nev#Czech",
+      "parent": "#fjzhah"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

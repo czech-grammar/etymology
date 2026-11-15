@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech švagrová etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xmjrab",
+      "name": "Meaning: “sister-in-law”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9btpga",
+      "name": "Sister-in-law",
+      "x": -225,
+      "y": -312,
+      "parent": "#xmjrab"
+    },
+    {
+      "@id": "#feyr93",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sis4yb",
+      "name": "Old Czech švagrová",
+      "x": 450,
+      "y": 0,
+      "parent": "#feyr93"
+    },
+    {
+      "@id": "#79fse6",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#st8656",
+      "name": "Wiktionary: švagrová",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/%C5%A1vagrov%C3%A1#Czech",
+      "parent": "#79fse6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech alej etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#dvc5gf",
+      "name": "Meaning: “avenue, tree-lined lane”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#isgimz",
+      "name": "Avenue, tree-lined lane",
+      "x": -318,
+      "y": -255,
+      "parent": "#dvc5gf"
+    },
+    {
+      "@id": "#5xims2",
+      "name": "Alley",
+      "x": 318,
+      "y": -255,
+      "parent": "#dvc5gf"
+    },
+    {
+      "@id": "#ur4azr",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#khm7pw",
+      "name": "From Old French alee",
+      "x": 318,
+      "y": 255,
+      "parent": "#ur4azr"
+    },
+    {
+      "@id": "#wzzvpw",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6hs6ny",
+      "name": "Wiktionary: alej",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/alej#Czech",
+      "parent": "#wzzvpw"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

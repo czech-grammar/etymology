@@ -1,0 +1,21 @@
+category: A2 nouns
+aliases: střed etymology, origin of střed, střed word origin, etymology of střed
+- Czech střed etymology
+  - Meaning: “centre, middle”
+    - Centre, middle
+    - Middle, midpoint, center
+  - Word history
+    - Proto-Slavic *serda
+    - Proto-Balto-Slavic *śerd-
+    - Proto-Indo-European *ḱerd-, “heart”
+  - Slavic cousins
+    - Polish środa
+    - Slovak streda
+    - Russian середа
+  - Related Czech words
+    - prostřední: middle
+    - prostředek: means
+    - prostředníček: middle finger
+  - Sources
+    - [Wiktionary: střed](https://en.wiktionary.org/wiki/st%C5%99ed#Czech)
+    - [Wiktionary: Proto-Slavic *serda](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/serda)

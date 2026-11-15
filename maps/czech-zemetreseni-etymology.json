@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech zemětřesení etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xz46d7",
+      "name": "Meaning: “earthquake”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wmtp3s",
+      "name": "Earthquake",
+      "x": -416,
+      "y": -138,
+      "parent": "#xz46d7"
+    },
+    {
+      "@id": "#ixz9cp",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hahvk2",
+      "name": "From země, “ground” + třesení, “shaking”",
+      "x": -172,
+      "y": -333,
+      "parent": "#ixz9cp"
+    },
+    {
+      "@id": "#bvmt9v",
+      "name": "Root: Proto-Slavic *zemľa",
+      "x": 172,
+      "y": -333,
+      "parent": "#ixz9cp"
+    },
+    {
+      "@id": "#mu8wy7",
+      "name": "Cousins of the root *zemľa",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#autwqd",
+      "name": "Polish ziemia",
+      "x": 416,
+      "y": -138,
+      "parent": "#mu8wy7"
+    },
+    {
+      "@id": "#62auiw",
+      "name": "Slovak zem",
+      "x": 416,
+      "y": 138,
+      "parent": "#mu8wy7"
+    },
+    {
+      "@id": "#vndht2",
+      "name": "Russian земля",
+      "x": 172,
+      "y": 333,
+      "parent": "#mu8wy7"
+    },
+    {
+      "@id": "#e5y2sc",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j556d9",
+      "name": "Wiktionary: zemětřesení",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/zem%C4%9Bt%C5%99esen%C3%AD#Czech",
+      "parent": "#e5y2sc"
+    },
+    {
+      "@id": "#qbqhi3",
+      "name": "Wiktionary: Proto-Slavic *zemľa",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/zem%C4%BEa",
+      "parent": "#e5y2sc"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

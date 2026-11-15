@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech chodba etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#h3tmre",
+      "name": "Meaning: “corridor”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#743fzb",
+      "name": "Corridor",
+      "x": -428,
+      "y": -111,
+      "parent": "#h3tmre"
+    },
+    {
+      "@id": "#syzd3w",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9cycqb",
+      "name": "Proto-Slavic *xodьba",
+      "x": -265,
+      "y": -291,
+      "parent": "#syzd3w"
+    },
+    {
+      "@id": "#zqv2x2",
+      "name": "From *xoditi + *-ьba",
+      "x": 0,
+      "y": -360,
+      "parent": "#syzd3w"
+    },
+    {
+      "@id": "#3kkjji",
+      "name": "Built from chodit + -ba",
+      "x": 265,
+      "y": -291,
+      "parent": "#syzd3w"
+    },
+    {
+      "@id": "#7hr9t4",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pkijhi",
+      "name": "Slovak chodba",
+      "x": 428,
+      "y": -111,
+      "parent": "#7hr9t4"
+    },
+    {
+      "@id": "#23ih3w",
+      "name": "Russian ходьба",
+      "x": 428,
+      "y": 111,
+      "parent": "#7hr9t4"
+    },
+    {
+      "@id": "#gyqrx2",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hz687a",
+      "name": "chodec: pedestrian",
+      "x": 265,
+      "y": 291,
+      "parent": "#gyqrx2"
+    },
+    {
+      "@id": "#pa6f3k",
+      "name": "chodidlo: sole",
+      "x": 0,
+      "y": 360,
+      "parent": "#gyqrx2"
+    },
+    {
+      "@id": "#qhku9q",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#95zber",
+      "name": "Wiktionary: chodba",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/chodba#Czech",
+      "parent": "#qhku9q"
+    },
+    {
+      "@id": "#vi8eem",
+      "name": "Wiktionary: Proto-Slavic *xodьba",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/xod%D1%8Cba",
+      "parent": "#qhku9q"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

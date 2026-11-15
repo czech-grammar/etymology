@@ -1,0 +1,127 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech partner etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#246m6t",
+      "name": "Meaning: “partner”",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6ba92i",
+      "name": "Partner",
+      "x": -364,
+      "y": -212,
+      "parent": "#246m6t"
+    },
+    {
+      "@id": "#bik8v6",
+      "name": "Word history",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#49jwim",
+      "name": "Borrowed from English partner",
+      "x": 139,
+      "y": -342,
+      "parent": "#bik8v6"
+    },
+    {
+      "@id": "#qavebn",
+      "name": "Related Czech words",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fefai7",
+      "name": "part: part",
+      "x": 450,
+      "y": 0,
+      "parent": "#qavebn"
+    },
+    {
+      "@id": "#6amnwh",
+      "name": "partnerství: partnership",
+      "x": 139,
+      "y": 342,
+      "parent": "#qavebn"
+    },
+    {
+      "@id": "#g9czaa",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gf7mya",
+      "name": "Wiktionary: partner",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/partner#Czech",
+      "parent": "#g9czaa"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

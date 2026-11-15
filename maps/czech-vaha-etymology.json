@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech váha etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#tk7ezg",
+      "name": "Meaning: “scales; weight”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qy35jb",
+      "name": "Scales; weight",
+      "x": -318,
+      "y": -255,
+      "parent": "#tk7ezg"
+    },
+    {
+      "@id": "#s9wu32",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z9dphi",
+      "name": "Borrowed from Old High German waga",
+      "x": 318,
+      "y": -255,
+      "parent": "#s9wu32"
+    },
+    {
+      "@id": "#q6krej",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7fm3pr",
+      "name": "závaží: weight",
+      "x": 318,
+      "y": 255,
+      "parent": "#q6krej"
+    },
+    {
+      "@id": "#vmksgy",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h8kv5g",
+      "name": "Wiktionary: váha",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/v%C3%A1ha#Czech",
+      "parent": "#vmksgy"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

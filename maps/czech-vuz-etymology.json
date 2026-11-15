@@ -1,0 +1,239 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech vůz etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#njgnci",
+      "name": "Meaning: “car, wagon”",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e98ktt",
+      "name": "Car, wagon",
+      "x": -439,
+      "y": -80,
+      "parent": "#njgnci"
+    },
+    {
+      "@id": "#9b964w",
+      "name": "Cart",
+      "x": -352,
+      "y": -224,
+      "parent": "#njgnci"
+    },
+    {
+      "@id": "#se225y",
+      "name": "Word history",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yq6b97",
+      "name": "Old Czech vóz",
+      "x": -195,
+      "y": -324,
+      "parent": "#se225y"
+    },
+    {
+      "@id": "#tpqj4g",
+      "name": "Proto-Slavic *vozъ",
+      "x": 0,
+      "y": -376,
+      "parent": "#se225y"
+    },
+    {
+      "@id": "#fqafre",
+      "name": "Proto-Balto-Slavic *waźas",
+      "x": 195,
+      "y": -324,
+      "parent": "#se225y"
+    },
+    {
+      "@id": "#8evbfh",
+      "name": "Proto-Indo-European *wóǵʰ-o-s",
+      "x": 352,
+      "y": -224,
+      "parent": "#se225y"
+    },
+    {
+      "@id": "#u4waup",
+      "name": "Slavic cousins",
+      "x": 224,
+      "y": 41,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8nzq2h",
+      "name": "Polish wóz",
+      "x": 439,
+      "y": -80,
+      "parent": "#u4waup"
+    },
+    {
+      "@id": "#izj5gn",
+      "name": "Slovak voz",
+      "x": 439,
+      "y": 80,
+      "parent": "#u4waup"
+    },
+    {
+      "@id": "#ijrjac",
+      "name": "Russian воз",
+      "x": 352,
+      "y": 224,
+      "parent": "#u4waup"
+    },
+    {
+      "@id": "#v99bp3",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2hdc4p",
+      "name": "podvozek: chassis",
+      "x": 195,
+      "y": 324,
+      "parent": "#v99bp3"
+    },
+    {
+      "@id": "#9ygsg3",
+      "name": "vézt: to carry",
+      "x": 0,
+      "y": 376,
+      "parent": "#v99bp3"
+    },
+    {
+      "@id": "#6f6tfu",
+      "name": "vozataj: carriage driver",
+      "x": -195,
+      "y": 324,
+      "parent": "#v99bp3"
+    },
+    {
+      "@id": "#7n7mex",
+      "name": "Sources",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nt6ugd",
+      "name": "Wiktionary: vůz",
+      "x": -352,
+      "y": 224,
+      "link": "https://en.wiktionary.org/wiki/v%C5%AFz#Czech",
+      "parent": "#7n7mex"
+    },
+    {
+      "@id": "#dh2m4m",
+      "name": "Wiktionary: Proto-Slavic *vozъ",
+      "x": -439,
+      "y": 80,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/voz%D1%8A",
+      "parent": "#7n7mex"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    }
+  ],
+  "selectedNode": 0
+}

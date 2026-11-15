@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech sezóna etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#sxdu7k",
+      "name": "Meaning: “season (sports, tourist)”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kvdxjy",
+      "name": "Season (sports, tourist)",
+      "x": -225,
+      "y": -312,
+      "parent": "#sxdu7k"
+    },
+    {
+      "@id": "#qjydxc",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vhr8hu",
+      "name": "Borrowed from French saison",
+      "x": 470,
+      "y": 0,
+      "parent": "#qjydxc"
+    },
+    {
+      "@id": "#r4xe8b",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pzbxpb",
+      "name": "Wiktionary: sezóna",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/sez%C3%B3na#Czech",
+      "parent": "#r4xe8b"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

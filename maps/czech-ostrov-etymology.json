@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech ostrov etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#478cr6",
+      "name": "Meaning: “island”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rzkkjt",
+      "name": "Island",
+      "x": -432,
+      "y": -101,
+      "parent": "#478cr6"
+    },
+    {
+      "@id": "#irzy8z",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i4cmf9",
+      "name": "Old Czech ostrov",
+      "x": -295,
+      "y": -272,
+      "parent": "#irzy8z"
+    },
+    {
+      "@id": "#g6b9th",
+      "name": "Proto-Slavic *ostrovъ",
+      "x": -64,
+      "y": -356,
+      "parent": "#irzy8z"
+    },
+    {
+      "@id": "#4pw4wu",
+      "name": "Proto-Balto-Slavic *ab-srawas, *sráwas",
+      "x": 235,
+      "y": -417,
+      "parent": "#irzy8z"
+    },
+    {
+      "@id": "#nn7uz4",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9tm7eb",
+      "name": "Polish ostrów",
+      "x": 379,
+      "y": -195,
+      "parent": "#nn7uz4"
+    },
+    {
+      "@id": "#c6dfqm",
+      "name": "Slovak ostrov",
+      "x": 450,
+      "y": 0,
+      "parent": "#nn7uz4"
+    },
+    {
+      "@id": "#kiwwii",
+      "name": "Russian остров",
+      "x": 379,
+      "y": 195,
+      "parent": "#nn7uz4"
+    },
+    {
+      "@id": "#43k453",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6wpqva",
+      "name": "ostrovan: islander",
+      "x": 187,
+      "y": 327,
+      "parent": "#43k453"
+    },
+    {
+      "@id": "#ejvwz3",
+      "name": "poloostrov: peninsula",
+      "x": -64,
+      "y": 356,
+      "parent": "#43k453"
+    },
+    {
+      "@id": "#kxvtb7",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vrt5z2",
+      "name": "Wiktionary: ostrov",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/ostrov#Czech",
+      "parent": "#kxvtb7"
+    },
+    {
+      "@id": "#rb99aa",
+      "name": "Wiktionary: Proto-Slavic *ostrovъ",
+      "x": -451,
+      "y": 105,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/ostrov%D1%8A",
+      "parent": "#kxvtb7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

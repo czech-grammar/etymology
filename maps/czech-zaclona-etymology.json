@@ -1,0 +1,127 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech záclona etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#64bc3p",
+      "name": "Meaning: “curtain”",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4wvd7z",
+      "name": "Curtain",
+      "x": -364,
+      "y": -212,
+      "parent": "#64bc3p"
+    },
+    {
+      "@id": "#8rrzj9",
+      "name": "Word history",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7qucjc",
+      "name": "From the verb zaclonit",
+      "x": 139,
+      "y": -342,
+      "parent": "#8rrzj9"
+    },
+    {
+      "@id": "#cesusg",
+      "name": "Related Czech words",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7pzh4b",
+      "name": "clona: aperture",
+      "x": 450,
+      "y": 0,
+      "parent": "#cesusg"
+    },
+    {
+      "@id": "#u5m28e",
+      "name": "clonit: to shield",
+      "x": 139,
+      "y": 342,
+      "parent": "#cesusg"
+    },
+    {
+      "@id": "#4k9pxv",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ajmqzs",
+      "name": "Wiktionary: záclona",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/z%C3%A1clona#Czech",
+      "parent": "#4k9pxv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

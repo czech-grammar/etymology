@@ -1,0 +1,126 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech bouda etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#db3gkv",
+      "name": "Meaning: “shed, hut; kennel”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v6zwry",
+      "name": "Shed, hut; kennel",
+      "x": -390,
+      "y": -180,
+      "parent": "#db3gkv"
+    },
+    {
+      "@id": "#zdtqa8",
+      "name": "Hut, shack",
+      "x": 0,
+      "y": -360,
+      "parent": "#db3gkv"
+    },
+    {
+      "@id": "#i2r6u2",
+      "name": "Word history",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9ffvfw",
+      "name": "Old Czech buda",
+      "x": 390,
+      "y": -180,
+      "parent": "#i2r6u2"
+    },
+    {
+      "@id": "#xqmp75",
+      "name": "Middle High German buode",
+      "x": 390,
+      "y": 180,
+      "parent": "#i2r6u2"
+    },
+    {
+      "@id": "#pnhq3k",
+      "name": "Proto-Germanic *bōþō",
+      "x": 0,
+      "y": 360,
+      "parent": "#i2r6u2"
+    },
+    {
+      "@id": "#vfamjv",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4mgshv",
+      "name": "Wiktionary: bouda",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/bouda#Czech",
+      "parent": "#vfamjv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

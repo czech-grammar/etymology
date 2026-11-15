@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech bok etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7ykkru",
+      "name": "Meaning: “side; hip”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fhuexj",
+      "name": "Side; hip",
+      "x": -432,
+      "y": -101,
+      "parent": "#7ykkru"
+    },
+    {
+      "@id": "#4brw7i",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#85xjgp",
+      "name": "Old Czech bok",
+      "x": -295,
+      "y": -272,
+      "parent": "#4brw7i"
+    },
+    {
+      "@id": "#ch4crq",
+      "name": "Proto-Slavic *bokъ",
+      "x": -64,
+      "y": -356,
+      "parent": "#4brw7i"
+    },
+    {
+      "@id": "#bpkve5",
+      "name": "Deeper origin uncertain",
+      "x": 187,
+      "y": -327,
+      "parent": "#4brw7i"
+    },
+    {
+      "@id": "#jax3hh",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#62u3mh",
+      "name": "Polish bok",
+      "x": 379,
+      "y": -195,
+      "parent": "#jax3hh"
+    },
+    {
+      "@id": "#nw33wh",
+      "name": "Slovak bok",
+      "x": 450,
+      "y": 0,
+      "parent": "#jax3hh"
+    },
+    {
+      "@id": "#n2hizm",
+      "name": "Russian бок",
+      "x": 379,
+      "y": 195,
+      "parent": "#jax3hh"
+    },
+    {
+      "@id": "#kdi5ha",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hsitqd",
+      "name": "úbočí: hillside",
+      "x": 187,
+      "y": 327,
+      "parent": "#kdi5ha"
+    },
+    {
+      "@id": "#t26dnp",
+      "name": "odbočit: to turn",
+      "x": -64,
+      "y": 356,
+      "parent": "#kdi5ha"
+    },
+    {
+      "@id": "#habznj",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ct86ue",
+      "name": "Wiktionary: bok",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/bok#Czech",
+      "parent": "#habznj"
+    },
+    {
+      "@id": "#i6ruvq",
+      "name": "Wiktionary: Proto-Slavic *bokъ",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/bok%D1%8A",
+      "parent": "#habznj"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

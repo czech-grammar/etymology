@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech smetana etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ask8jk",
+      "name": "Meaning: “cream”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vygewp",
+      "name": "Cream",
+      "x": -416,
+      "y": -138,
+      "parent": "#ask8jk"
+    },
+    {
+      "@id": "#5tmm2h",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5pg8hq",
+      "name": "Old Czech smetana",
+      "x": -172,
+      "y": -333,
+      "parent": "#5tmm2h"
+    },
+    {
+      "@id": "#c7mymc",
+      "name": "Proto-Slavic *sъmetana",
+      "x": 172,
+      "y": -333,
+      "parent": "#5tmm2h"
+    },
+    {
+      "@id": "#6qf7m5",
+      "name": "Slavic cousins",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#psktvt",
+      "name": "Polish śmietana",
+      "x": 416,
+      "y": -138,
+      "parent": "#6qf7m5"
+    },
+    {
+      "@id": "#m2xd4d",
+      "name": "Slovak smotana",
+      "x": 416,
+      "y": 138,
+      "parent": "#6qf7m5"
+    },
+    {
+      "@id": "#gkpkkk",
+      "name": "Russian сметана",
+      "x": 172,
+      "y": 333,
+      "parent": "#6qf7m5"
+    },
+    {
+      "@id": "#fhgbq2",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#knnetx",
+      "name": "Wiktionary: smetana",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/smetana#Czech",
+      "parent": "#fhgbq2"
+    },
+    {
+      "@id": "#z4daz8",
+      "name": "Wiktionary: Proto-Slavic *sъmetana",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/s%D1%8Ametana",
+      "parent": "#fhgbq2"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

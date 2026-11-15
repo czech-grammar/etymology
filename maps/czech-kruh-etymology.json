@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kruh etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#hhrzvy",
+      "name": "Meaning: “circle”",
+      "x": -204,
+      "y": -86,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m89ap2",
+      "name": "Circle",
+      "x": -437,
+      "y": -86,
+      "parent": "#hhrzvy"
+    },
+    {
+      "@id": "#4jfnex",
+      "name": "Disc",
+      "x": -337,
+      "y": -239,
+      "parent": "#hhrzvy"
+    },
+    {
+      "@id": "#2rxzem",
+      "name": "Word history",
+      "x": 28,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eeet7m",
+      "name": "Old Czech kruh",
+      "x": -160,
+      "y": -337,
+      "parent": "#2rxzem"
+    },
+    {
+      "@id": "#kdhufz",
+      "name": "Proto-Slavic *krǫgъ",
+      "x": 54,
+      "y": -357,
+      "parent": "#2rxzem"
+    },
+    {
+      "@id": "#jv92an",
+      "name": "Proto-Indo-European *krongʰ-o-",
+      "x": 256,
+      "y": -296,
+      "parent": "#2rxzem"
+    },
+    {
+      "@id": "#hqphkj",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mbrb8t",
+      "name": "Polish krąg",
+      "x": 398,
+      "y": -167,
+      "parent": "#hqphkj"
+    },
+    {
+      "@id": "#fnadrj",
+      "name": "Slovak kruh",
+      "x": 450,
+      "y": 0,
+      "parent": "#hqphkj"
+    },
+    {
+      "@id": "#5f6wah",
+      "name": "Russian круг",
+      "x": 398,
+      "y": 167,
+      "parent": "#hqphkj"
+    },
+    {
+      "@id": "#6qjrp2",
+      "name": "Related Czech words",
+      "x": 28,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w9ea29",
+      "name": "zaokrouhlit: to round",
+      "x": 256,
+      "y": 296,
+      "parent": "#6qjrp2"
+    },
+    {
+      "@id": "#4n7ddb",
+      "name": "kruháč: roundabout",
+      "x": 54,
+      "y": 357,
+      "parent": "#6qjrp2"
+    },
+    {
+      "@id": "#dhyeuw",
+      "name": "kružidlo: trammel",
+      "x": -160,
+      "y": 337,
+      "parent": "#6qjrp2"
+    },
+    {
+      "@id": "#fg5dhi",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rr5zud",
+      "name": "Wiktionary: kruh",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/kruh#Czech",
+      "parent": "#fg5dhi"
+    },
+    {
+      "@id": "#faibza",
+      "name": "Wiktionary: Proto-Slavic *krǫgъ",
+      "x": -456,
+      "y": 90,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kr%C7%ABg%D1%8A",
+      "parent": "#fg5dhi"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

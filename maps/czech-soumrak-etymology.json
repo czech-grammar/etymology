@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech soumrak etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#4e99rz",
+      "name": "Meaning: “dusk, twilight”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qy9wtr",
+      "name": "Dusk, twilight",
+      "x": -423,
+      "y": -123,
+      "parent": "#4e99rz"
+    },
+    {
+      "@id": "#ufvnst",
+      "name": "Word history",
+      "x": 40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#39u8mk",
+      "name": "Old Czech súmrak",
+      "x": -225,
+      "y": -312,
+      "parent": "#ufvnst"
+    },
+    {
+      "@id": "#x6krjv",
+      "name": "Proto-Slavic *sǫmorkъ",
+      "x": 78,
+      "y": -355,
+      "parent": "#ufvnst"
+    },
+    {
+      "@id": "#6d3xzv",
+      "name": "From *sǫ- + *morkъ",
+      "x": 345,
+      "y": -231,
+      "parent": "#ufvnst"
+    },
+    {
+      "@id": "#7zzy42",
+      "name": "Slavic cousins",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5bqe4n",
+      "name": "Polish zmrok",
+      "x": 450,
+      "y": 0,
+      "parent": "#7zzy42"
+    },
+    {
+      "@id": "#c728r5",
+      "name": "Slovak súmrak",
+      "x": 345,
+      "y": 231,
+      "parent": "#7zzy42"
+    },
+    {
+      "@id": "#ctvfhx",
+      "name": "Russian сумерки",
+      "x": 78,
+      "y": 355,
+      "parent": "#7zzy42"
+    },
+    {
+      "@id": "#cjvy6v",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ss9583",
+      "name": "Wiktionary: soumrak",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/soumrak#Czech",
+      "parent": "#cjvy6v"
+    },
+    {
+      "@id": "#r6pjks",
+      "name": "Wiktionary: Proto-Slavic *sǫmorkъ",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/s%C7%ABmork%D1%8A",
+      "parent": "#cjvy6v"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

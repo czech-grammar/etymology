@@ -1,0 +1,127 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech pobřeží etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#hm753g",
+      "name": "Meaning: “coast, shore”",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7b37cb",
+      "name": "Coast, shore",
+      "x": -364,
+      "y": -212,
+      "parent": "#hm753g"
+    },
+    {
+      "@id": "#si75a2",
+      "name": "Word history",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#56mphc",
+      "name": "Old Czech pobřěžie",
+      "x": 139,
+      "y": -342,
+      "parent": "#si75a2"
+    },
+    {
+      "@id": "#b6567j",
+      "name": "Built from po- + břeh + -í",
+      "x": 450,
+      "y": 0,
+      "parent": "#si75a2"
+    },
+    {
+      "@id": "#hqqrqc",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uydcfr",
+      "name": "břeh: bank",
+      "x": 139,
+      "y": 342,
+      "parent": "#hqqrqc"
+    },
+    {
+      "@id": "#yksydk",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m2zyyw",
+      "name": "Wiktionary: pobřeží",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/pob%C5%99e%C5%BE%C3%AD#Czech",
+      "parent": "#yksydk"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

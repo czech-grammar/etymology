@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kachna etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#cuj4k2",
+      "name": "Meaning: “duck”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x9338z",
+      "name": "Duck",
+      "x": -390,
+      "y": -180,
+      "parent": "#cuj4k2"
+    },
+    {
+      "@id": "#q8nqu3",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4eqxa9",
+      "name": "Probably of imitative origin",
+      "x": 0,
+      "y": -360,
+      "parent": "#q8nqu3"
+    },
+    {
+      "@id": "#474akb",
+      "name": "Related Czech words",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tuemy3",
+      "name": "kačena: female duck",
+      "x": 390,
+      "y": -180,
+      "parent": "#474akb"
+    },
+    {
+      "@id": "#xsui74",
+      "name": "kačer: drake",
+      "x": 390,
+      "y": 180,
+      "parent": "#474akb"
+    },
+    {
+      "@id": "#m4zukq",
+      "name": "káča: top",
+      "x": 0,
+      "y": 360,
+      "parent": "#474akb"
+    },
+    {
+      "@id": "#rnn2yc",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d7hds4",
+      "name": "Wiktionary: kachna",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/kachna#Czech",
+      "parent": "#rnn2yc"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

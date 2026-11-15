@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech pracovna etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ztpckp",
+      "name": "Meaning: “study (room)”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#chi3e7",
+      "name": "Study (room)",
+      "x": -318,
+      "y": -255,
+      "parent": "#ztpckp"
+    },
+    {
+      "@id": "#7rqnd3",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y3kcv8",
+      "name": "From práce + -ovna",
+      "x": 318,
+      "y": -255,
+      "parent": "#7rqnd3"
+    },
+    {
+      "@id": "#2xp627",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s9b8dj",
+      "name": "práce: work",
+      "x": 318,
+      "y": 255,
+      "parent": "#2xp627"
+    },
+    {
+      "@id": "#yq44mb",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8xn5ik",
+      "name": "Wiktionary: pracovna",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/pracovna#Czech",
+      "parent": "#yq44mb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

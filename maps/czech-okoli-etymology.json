@@ -1,0 +1,149 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech okolí etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#q9rdiz",
+      "name": "Meaning: “surroundings, neighbourhood”",
+      "x": -143,
+      "y": -144,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7x3y95",
+      "name": "Surroundings, neighbourhood",
+      "x": -495,
+      "y": -191,
+      "parent": "#q9rdiz"
+    },
+    {
+      "@id": "#qmuddj",
+      "name": "Surroundings, surrounding area",
+      "x": -100,
+      "y": -351,
+      "parent": "#q9rdiz"
+    },
+    {
+      "@id": "#tqbb2h",
+      "name": "Word history",
+      "x": 143,
+      "y": -144,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2qv6vy",
+      "name": "From o- + kolo",
+      "x": 281,
+      "y": -281,
+      "parent": "#tqbb2h"
+    },
+    {
+      "@id": "#a2meba",
+      "name": "Related Czech words",
+      "x": 143,
+      "y": 144,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yfy8yz",
+      "name": "okolek: rand",
+      "x": 450,
+      "y": 0,
+      "parent": "#a2meba"
+    },
+    {
+      "@id": "#nmiziv",
+      "name": "okolík: umbel",
+      "x": 281,
+      "y": 281,
+      "parent": "#a2meba"
+    },
+    {
+      "@id": "#ypxnkd",
+      "name": "okolnost: circumstance",
+      "x": -100,
+      "y": 351,
+      "parent": "#a2meba"
+    },
+    {
+      "@id": "#njxk2t",
+      "name": "Sources",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dv8eyz",
+      "name": "Wiktionary: okolí",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wiktionary.org/wiki/okol%C3%AD#Czech",
+      "parent": "#njxk2t"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

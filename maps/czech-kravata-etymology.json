@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kravata etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#miq6jt",
+      "name": "Meaning: “tie”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3q3me4",
+      "name": "Tie",
+      "x": -318,
+      "y": -255,
+      "parent": "#miq6jt"
+    },
+    {
+      "@id": "#4z4fr3",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#niz35m",
+      "name": "Borrowed from German Krawatte",
+      "x": 318,
+      "y": -255,
+      "parent": "#4z4fr3"
+    },
+    {
+      "@id": "#bnhscn",
+      "name": "French cravate",
+      "x": 318,
+      "y": 255,
+      "parent": "#4z4fr3"
+    },
+    {
+      "@id": "#hq2vh4",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ff65jc",
+      "name": "Wiktionary: kravata",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/kravata#Czech",
+      "parent": "#hq2vh4"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

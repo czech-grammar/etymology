@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech družstvo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#4ncsfc",
+      "name": "Meaning: “team”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vdnamj",
+      "name": "Team",
+      "x": -318,
+      "y": -255,
+      "parent": "#4ncsfc"
+    },
+    {
+      "@id": "#imd4pm",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w7i4t9",
+      "name": "From druh + -stvo",
+      "x": 318,
+      "y": -255,
+      "parent": "#imd4pm"
+    },
+    {
+      "@id": "#rdck4e",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9k9k4g",
+      "name": "druh: companion",
+      "x": 318,
+      "y": 255,
+      "parent": "#rdck4e"
+    },
+    {
+      "@id": "#2ghsxs",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#usf8in",
+      "name": "Wiktionary: družstvo",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/dru%C5%BEstvo#Czech",
+      "parent": "#2ghsxs"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

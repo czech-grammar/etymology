@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech hnízdo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#b8gwb2",
+      "name": "Meaning: “nest”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kp998q",
+      "name": "Nest",
+      "x": -435,
+      "y": -93,
+      "parent": "#b8gwb2"
+    },
+    {
+      "@id": "#ivsfjs",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s9pf7q",
+      "name": "Old Czech hniezdo",
+      "x": -318,
+      "y": -255,
+      "parent": "#ivsfjs"
+    },
+    {
+      "@id": "#2vija2",
+      "name": "Proto-Slavic *gnězdo",
+      "x": -116,
+      "y": -348,
+      "parent": "#ivsfjs"
+    },
+    {
+      "@id": "#daxgei",
+      "name": "Proto-Balto-Slavic *nisdan",
+      "x": 136,
+      "y": -408,
+      "parent": "#ivsfjs"
+    },
+    {
+      "@id": "#u4465n",
+      "name": "Proto-Indo-European *nisdós",
+      "x": 318,
+      "y": -255,
+      "parent": "#ivsfjs"
+    },
+    {
+      "@id": "#b9n5by",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": 48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8ssump",
+      "name": "Polish gniazdo",
+      "x": 435,
+      "y": -93,
+      "parent": "#b9n5by"
+    },
+    {
+      "@id": "#ncaet8",
+      "name": "Slovak hniezdo",
+      "x": 435,
+      "y": 93,
+      "parent": "#b9n5by"
+    },
+    {
+      "@id": "#avqhku",
+      "name": "Russian гнездо",
+      "x": 318,
+      "y": 255,
+      "parent": "#b9n5by"
+    },
+    {
+      "@id": "#qnn9g2",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4dt76k",
+      "name": "hnízdiště: nesting site",
+      "x": 116,
+      "y": 348,
+      "parent": "#qnn9g2"
+    },
+    {
+      "@id": "#7b9fgx",
+      "name": "hnízdit: to nest",
+      "x": -116,
+      "y": 348,
+      "parent": "#qnn9g2"
+    },
+    {
+      "@id": "#tm5itu",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3zf842",
+      "name": "Wiktionary: hnízdo",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/hn%C3%ADzdo#Czech",
+      "parent": "#tm5itu"
+    },
+    {
+      "@id": "#kjmtd3",
+      "name": "Wiktionary: Proto-Slavic *gnězdo",
+      "x": -454,
+      "y": 97,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/gn%C4%9Bzdo",
+      "parent": "#tm5itu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech zrno etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#reg3fe",
+      "name": "Meaning: “grain, kernel; coffee bean”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q4s9xq",
+      "name": "Grain, kernel; coffee bean",
+      "x": -432,
+      "y": -101,
+      "parent": "#reg3fe"
+    },
+    {
+      "@id": "#r3xhjf",
+      "name": "Word history",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y6k5ai",
+      "name": "Old Czech zrno",
+      "x": -295,
+      "y": -272,
+      "parent": "#r3xhjf"
+    },
+    {
+      "@id": "#fcz75a",
+      "name": "Proto-Slavic *zьrno",
+      "x": -64,
+      "y": -356,
+      "parent": "#r3xhjf"
+    },
+    {
+      "@id": "#gjgz9q",
+      "name": "Proto-Balto-Slavic *źírˀnan",
+      "x": 203,
+      "y": -357,
+      "parent": "#r3xhjf"
+    },
+    {
+      "@id": "#5jtn2p",
+      "name": "Proto-Indo-European *ǵr̥h₂nóm",
+      "x": 379,
+      "y": -195,
+      "parent": "#r3xhjf"
+    },
+    {
+      "@id": "#ssim4g",
+      "name": "Slavic cousins",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#24y7bn",
+      "name": "Polish ziarno",
+      "x": 450,
+      "y": 0,
+      "parent": "#ssim4g"
+    },
+    {
+      "@id": "#z6ucyc",
+      "name": "Slovak zrno",
+      "x": 379,
+      "y": 195,
+      "parent": "#ssim4g"
+    },
+    {
+      "@id": "#hyvtu4",
+      "name": "Russian зерно",
+      "x": 187,
+      "y": 327,
+      "parent": "#ssim4g"
+    },
+    {
+      "@id": "#nic6r7",
+      "name": "Related Czech words",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#37kpzi",
+      "name": "zrní: grain",
+      "x": -64,
+      "y": 356,
+      "parent": "#nic6r7"
+    },
+    {
+      "@id": "#fc9xqv",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jahe9m",
+      "name": "Wiktionary: zrno",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/zrno#Czech",
+      "parent": "#fc9xqv"
+    },
+    {
+      "@id": "#4va7ug",
+      "name": "Wiktionary: Proto-Slavic *zьrno",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/z%D1%8Crno",
+      "parent": "#fc9xqv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech uhlí etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#evbaab",
+      "name": "Meaning: “coal”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zrtyw8",
+      "name": "Coal",
+      "x": -432,
+      "y": -101,
+      "parent": "#evbaab"
+    },
+    {
+      "@id": "#k6ynee",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#25hvba",
+      "name": "Root: Proto-Slavic *ǫglь",
+      "x": -295,
+      "y": -272,
+      "parent": "#k6ynee"
+    },
+    {
+      "@id": "#cnn3je",
+      "name": "Proto-Balto-Slavic *ánˀglis",
+      "x": -64,
+      "y": -356,
+      "parent": "#k6ynee"
+    },
+    {
+      "@id": "#69kp3d",
+      "name": "Proto-Indo-European *h₁óngʷl̥, “charcoal”",
+      "x": 235,
+      "y": -417,
+      "parent": "#k6ynee"
+    },
+    {
+      "@id": "#q3j5y4",
+      "name": "Cousins of the root *ǫglь",
+      "x": 270,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vbxrh8",
+      "name": "Polish węgiel",
+      "x": 379,
+      "y": -195,
+      "parent": "#q3j5y4"
+    },
+    {
+      "@id": "#uvyvaa",
+      "name": "Slovak uhlie",
+      "x": 510,
+      "y": 0,
+      "parent": "#q3j5y4"
+    },
+    {
+      "@id": "#uqm24f",
+      "name": "Russian уголь",
+      "x": 379,
+      "y": 195,
+      "parent": "#q3j5y4"
+    },
+    {
+      "@id": "#5562ie",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xthzwq",
+      "name": "uhel: charcoal",
+      "x": 187,
+      "y": 327,
+      "parent": "#5562ie"
+    },
+    {
+      "@id": "#z4sfxr",
+      "name": "uhlíř: collier",
+      "x": -64,
+      "y": 356,
+      "parent": "#5562ie"
+    },
+    {
+      "@id": "#tzqrfi",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fdtgug",
+      "name": "Wiktionary: uhlí",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/uhl%C3%AD#Czech",
+      "parent": "#tzqrfi"
+    },
+    {
+      "@id": "#b38axm",
+      "name": "Wiktionary: Proto-Slavic *ǫglь",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C7%ABgl%D1%8C",
+      "parent": "#tzqrfi"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

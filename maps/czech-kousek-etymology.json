@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kousek etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#a7s5mq",
+      "name": "Meaning: “piece, bit”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jvc9ms",
+      "name": "Piece, bit",
+      "x": -423,
+      "y": -123,
+      "parent": "#a7s5mq"
+    },
+    {
+      "@id": "#8guksb",
+      "name": "Word history",
+      "x": 40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mjvze6",
+      "name": "From kus + -ek",
+      "x": -225,
+      "y": -312,
+      "parent": "#8guksb"
+    },
+    {
+      "@id": "#fxvaje",
+      "name": "Root: Proto-Slavic *kǫsъ",
+      "x": 78,
+      "y": -355,
+      "parent": "#8guksb"
+    },
+    {
+      "@id": "#s85tge",
+      "name": "Proto-Balto-Slavic *kanˀdas",
+      "x": 345,
+      "y": -231,
+      "parent": "#8guksb"
+    },
+    {
+      "@id": "#87dqha",
+      "name": "Cousins of the root *kǫsъ",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8ce5qv",
+      "name": "Polish kęsy",
+      "x": 450,
+      "y": 0,
+      "parent": "#87dqha"
+    },
+    {
+      "@id": "#99ut37",
+      "name": "Slovak kusý",
+      "x": 345,
+      "y": 231,
+      "parent": "#87dqha"
+    },
+    {
+      "@id": "#x7ge7c",
+      "name": "Russian кусой",
+      "x": 78,
+      "y": 355,
+      "parent": "#87dqha"
+    },
+    {
+      "@id": "#nhytbr",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cwt99g",
+      "name": "Wiktionary: kousek",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/kousek#Czech",
+      "parent": "#nhytbr"
+    },
+    {
+      "@id": "#9s6524",
+      "name": "Wiktionary: Proto-Slavic *kǫsъ",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/k%C7%ABs%D1%8A",
+      "parent": "#nhytbr"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

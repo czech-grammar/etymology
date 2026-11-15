@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kouzlo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#68srat",
+      "name": "Meaning: “magic, spell, charm”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rkt238",
+      "name": "Magic, spell, charm",
+      "x": -428,
+      "y": -111,
+      "parent": "#68srat"
+    },
+    {
+      "@id": "#sp4zdt",
+      "name": "Word history",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ymjiar",
+      "name": "Proto-Slavic *kuzlo",
+      "x": -265,
+      "y": -291,
+      "parent": "#sp4zdt"
+    },
+    {
+      "@id": "#rprf2q",
+      "name": "Deeper origin uncertain",
+      "x": 0,
+      "y": -360,
+      "parent": "#sp4zdt"
+    },
+    {
+      "@id": "#8xynis",
+      "name": "Slavic cousins",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hz8spk",
+      "name": "Slovak kúzlo",
+      "x": 265,
+      "y": -291,
+      "parent": "#8xynis"
+    },
+    {
+      "@id": "#dkxviu",
+      "name": "Russian кузло",
+      "x": 428,
+      "y": -111,
+      "parent": "#8xynis"
+    },
+    {
+      "@id": "#ruppni",
+      "name": "Related Czech words",
+      "x": 135,
+      "y": 149,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pwy8ua",
+      "name": "kouzelník: magician",
+      "x": 428,
+      "y": 111,
+      "parent": "#ruppni"
+    },
+    {
+      "@id": "#56btte",
+      "name": "kouzelný: magic",
+      "x": 265,
+      "y": 291,
+      "parent": "#ruppni"
+    },
+    {
+      "@id": "#3vggpu",
+      "name": "kouzlit: to do magic",
+      "x": 0,
+      "y": 360,
+      "parent": "#ruppni"
+    },
+    {
+      "@id": "#8k4jxk",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9rrbhh",
+      "name": "Wiktionary: kouzlo",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/kouzlo#Czech",
+      "parent": "#8k4jxk"
+    },
+    {
+      "@id": "#8x67sw",
+      "name": "Wiktionary: Proto-Slavic *kuzlo",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kuzlo",
+      "parent": "#8k4jxk"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

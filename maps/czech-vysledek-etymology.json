@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech výsledek etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#sy9bxy",
+      "name": "Meaning: “result, score”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mud2s4",
+      "name": "Result, score",
+      "x": -390,
+      "y": -180,
+      "parent": "#sy9bxy"
+    },
+    {
+      "@id": "#5wv498",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ajcpdb",
+      "name": "From vysledovat + -ek",
+      "x": 0,
+      "y": -360,
+      "parent": "#5wv498"
+    },
+    {
+      "@id": "#s3m2a8",
+      "name": "Related Czech words",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mrhgvh",
+      "name": "naposledy: last time",
+      "x": 390,
+      "y": -180,
+      "parent": "#s3m2a8"
+    },
+    {
+      "@id": "#esucyy",
+      "name": "následek: consequence",
+      "x": 390,
+      "y": 180,
+      "parent": "#s3m2a8"
+    },
+    {
+      "@id": "#wranng",
+      "name": "následně: consequently",
+      "x": 0,
+      "y": 360,
+      "parent": "#s3m2a8"
+    },
+    {
+      "@id": "#szqsd3",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vtwu65",
+      "name": "Wiktionary: výsledek",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/v%C3%BDsledek#Czech",
+      "parent": "#szqsd3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

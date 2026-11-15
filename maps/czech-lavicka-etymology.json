@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech lavička etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#p329z4",
+      "name": "Meaning: “bench”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fxvqip",
+      "name": "Bench",
+      "x": -225,
+      "y": -312,
+      "parent": "#p329z4"
+    },
+    {
+      "@id": "#xnnaez",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p2hcjm",
+      "name": "From lavice + -ka",
+      "x": 450,
+      "y": 0,
+      "parent": "#xnnaez"
+    },
+    {
+      "@id": "#fw87g4",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d65tu9",
+      "name": "Wiktionary: lavička",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/lavi%C4%8Dka#Czech",
+      "parent": "#fw87g4"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

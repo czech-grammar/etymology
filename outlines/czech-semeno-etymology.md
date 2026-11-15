@@ -1,0 +1,21 @@
+category: B2 nouns
+aliases: semeno etymology, origin of semeno, semeno word origin, etymology of semeno
+- Czech semeno etymology
+  - Meaning: “seed”
+    - Seed
+    - Sperm, semen
+  - Word history
+    - Old Czech siemě
+    - Proto-Slavic *sěmę
+    - Proto-Balto-Slavic *sḗˀmin
+    - Proto-Indo-European *séh₁mn̥
+  - Slavic cousins
+    - Polish siemię
+    - Slovak semeno
+    - Russian семя
+  - Related Czech words
+    - semeniště: nursery
+    - semeník: ovary
+  - Sources
+    - [Wiktionary: semeno](https://en.wiktionary.org/wiki/semeno#Czech)
+    - [Wiktionary: Proto-Slavic *sěmę](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/s%C4%9Bm%C4%99)

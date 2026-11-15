@@ -1,0 +1,184 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech plot etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ma963v",
+      "name": "Meaning: “fence”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#43i8aj",
+      "name": "Fence",
+      "x": -423,
+      "y": -123,
+      "parent": "#ma963v"
+    },
+    {
+      "@id": "#eut7h6",
+      "name": "Word history",
+      "x": -40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j5dejj",
+      "name": "Old Czech plot",
+      "x": -225,
+      "y": -312,
+      "parent": "#eut7h6"
+    },
+    {
+      "@id": "#s2kgty",
+      "name": "Proto-Slavic *plotъ",
+      "x": 78,
+      "y": -355,
+      "parent": "#eut7h6"
+    },
+    {
+      "@id": "#xw6nqe",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4f7n97",
+      "name": "Polish płot",
+      "x": 345,
+      "y": -231,
+      "parent": "#xw6nqe"
+    },
+    {
+      "@id": "#wvhh2z",
+      "name": "Slovak plot",
+      "x": 450,
+      "y": 0,
+      "parent": "#xw6nqe"
+    },
+    {
+      "@id": "#abns6k",
+      "name": "Russian плот",
+      "x": 345,
+      "y": 231,
+      "parent": "#xw6nqe"
+    },
+    {
+      "@id": "#cmx75b",
+      "name": "Related Czech words",
+      "x": 40,
+      "y": 181,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jnbj5t",
+      "name": "oplotit: to fence",
+      "x": 78,
+      "y": 355,
+      "parent": "#cmx75b"
+    },
+    {
+      "@id": "#4wbc7f",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9dv4kw",
+      "name": "Wiktionary: plot",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/plot#Czech",
+      "parent": "#4wbc7f"
+    },
+    {
+      "@id": "#mac56m",
+      "name": "Wiktionary: Proto-Slavic *plotъ",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/plot%D1%8A",
+      "parent": "#4wbc7f"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    }
+  ],
+  "selectedNode": 0
+}

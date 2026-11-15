@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech zájezd etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#497gd3",
+      "name": "Meaning: “package tour”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i8rb6n",
+      "name": "Package tour",
+      "x": -318,
+      "y": -255,
+      "parent": "#497gd3"
+    },
+    {
+      "@id": "#yjsa4y",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gn5bcx",
+      "name": "From the verb zajezdit",
+      "x": 318,
+      "y": -255,
+      "parent": "#yjsa4y"
+    },
+    {
+      "@id": "#uiusug",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#26bmh9",
+      "name": "zájezdový: touring",
+      "x": 318,
+      "y": 255,
+      "parent": "#uiusug"
+    },
+    {
+      "@id": "#axq7qq",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uvi386",
+      "name": "Wiktionary: zájezd",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/z%C3%A1jezd#Czech",
+      "parent": "#axq7qq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

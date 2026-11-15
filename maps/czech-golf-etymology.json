@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech golf etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fg66u7",
+      "name": "Meaning: “golf”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4idf8w",
+      "name": "Golf",
+      "x": -318,
+      "y": -255,
+      "parent": "#fg66u7"
+    },
+    {
+      "@id": "#hnikff",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qbqm4g",
+      "name": "Borrowed from English golf",
+      "x": 318,
+      "y": -255,
+      "parent": "#hnikff"
+    },
+    {
+      "@id": "#u25hiw",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ibjp2t",
+      "name": "golfista: golfer",
+      "x": 318,
+      "y": 255,
+      "parent": "#u25hiw"
+    },
+    {
+      "@id": "#iumyrj",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bva3ta",
+      "name": "Wiktionary: golf",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/golf#Czech",
+      "parent": "#iumyrj"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

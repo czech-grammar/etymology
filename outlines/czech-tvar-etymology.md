@@ -1,0 +1,21 @@
+category: A2 nouns
+aliases: tvář etymology, origin of tvář, tvář word origin, etymology of tvář
+- Czech tvář etymology
+  - Meaning: “face, cheek”
+    - Face, cheek
+  - Word history
+    - Old Czech tvář
+    - Proto-Slavic *tvarь
+    - Proto-Balto-Slavic *twōrˀ-
+    - Proto-Indo-European *twōrH-
+  - Slavic cousins
+    - Polish twarz
+    - Slovak tvár, “face”
+    - Russian тварь
+  - Related Czech words
+    - tvářit: to grimace
+    - tvar: shape
+    - tvořit: to create
+  - Sources
+    - [Wiktionary: tvář](https://en.wiktionary.org/wiki/tv%C3%A1%C5%99#Czech)
+    - [Wiktionary: Proto-Slavic *tvarь](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/tvar%D1%8C)

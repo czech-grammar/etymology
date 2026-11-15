@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech stříbro etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#dpm7hy",
+      "name": "Meaning: “silver”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ugiedk",
+      "name": "Silver",
+      "x": -428,
+      "y": -111,
+      "parent": "#dpm7hy"
+    },
+    {
+      "@id": "#q47xx8",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x9x5cs",
+      "name": "Old Czech střiebro",
+      "x": -265,
+      "y": -291,
+      "parent": "#q47xx8"
+    },
+    {
+      "@id": "#z624j5",
+      "name": "Proto-Slavic *sьrebro",
+      "x": 0,
+      "y": -360,
+      "parent": "#q47xx8"
+    },
+    {
+      "@id": "#g5ddqa",
+      "name": "Proto-Balto-Slavic *sirabras",
+      "x": 265,
+      "y": -291,
+      "parent": "#q47xx8"
+    },
+    {
+      "@id": "#545n7p",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#97qysr",
+      "name": "Polish srebro",
+      "x": 428,
+      "y": -111,
+      "parent": "#545n7p"
+    },
+    {
+      "@id": "#pdvs9i",
+      "name": "Slovak srebro",
+      "x": 428,
+      "y": 111,
+      "parent": "#545n7p"
+    },
+    {
+      "@id": "#7hmvzq",
+      "name": "Russian серебро",
+      "x": 265,
+      "y": 291,
+      "parent": "#545n7p"
+    },
+    {
+      "@id": "#ay3pgm",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q6t4n4",
+      "name": "stříbřitý: silvery",
+      "x": 0,
+      "y": 360,
+      "parent": "#ay3pgm"
+    },
+    {
+      "@id": "#sk5hxj",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c3vzhr",
+      "name": "Wiktionary: stříbro",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/st%C5%99%C3%ADbro#Czech",
+      "parent": "#sk5hxj"
+    },
+    {
+      "@id": "#dy4itn",
+      "name": "Wiktionary: Proto-Slavic *sьrebro",
+      "x": -447,
+      "y": 116,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/s%D1%8Crebro",
+      "parent": "#sk5hxj"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

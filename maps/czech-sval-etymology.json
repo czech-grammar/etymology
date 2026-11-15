@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech sval etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#h6w8bp",
+      "name": "Meaning: “muscle”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wxxu73",
+      "name": "Muscle",
+      "x": -390,
+      "y": -180,
+      "parent": "#h6w8bp"
+    },
+    {
+      "@id": "#ay82bp",
+      "name": "Word history",
+      "x": 115,
+      "y": -159,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rzwp4m",
+      "name": "Old Czech sval",
+      "x": 0,
+      "y": -360,
+      "parent": "#ay82bp"
+    },
+    {
+      "@id": "#6awpbg",
+      "name": "Built from deverbal from svalit",
+      "x": 390,
+      "y": -180,
+      "parent": "#ay82bp"
+    },
+    {
+      "@id": "#a6ab8u",
+      "name": "Related Czech words",
+      "x": 115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vrctng",
+      "name": "svalnáč: muscleman",
+      "x": 390,
+      "y": 180,
+      "parent": "#a6ab8u"
+    },
+    {
+      "@id": "#xecw94",
+      "name": "svalstvo: musculature",
+      "x": 0,
+      "y": 360,
+      "parent": "#a6ab8u"
+    },
+    {
+      "@id": "#5ktyh4",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5smhe5",
+      "name": "Wiktionary: sval",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/sval#Czech",
+      "parent": "#5ktyh4"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

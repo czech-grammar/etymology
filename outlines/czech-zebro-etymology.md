@@ -1,0 +1,21 @@
+category: B2 nouns
+aliases: žebro etymology, origin of žebro, žebro word origin, etymology of žebro
+- Czech žebro etymology
+  - Meaning: “rib; spare rib (food)”
+    - Rib; spare rib (food)
+  - Word history
+    - Old Czech řebro
+    - Proto-Slavic *rebrò
+    - Proto-Balto-Slavic *rébran
+    - Proto-Indo-European *h₁rebʰróm
+    - Proto-Indo-European *h₁rebʰ-
+  - Slavic cousins
+    - Polish żebro
+    - Slovak rebro
+    - Russian ребро
+  - Related Czech words
+    - žeberní: rib
+    - žebřík: ladder
+  - Sources
+    - [Wiktionary: žebro](https://en.wiktionary.org/wiki/%C5%BEebro#Czech)
+    - [Wiktionary: Proto-Slavic *rebro](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/rebro)

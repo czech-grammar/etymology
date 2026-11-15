@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech mlýn etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#adm26p",
+      "name": "Meaning: “mill”",
+      "x": -223,
+      "y": -44,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7r4k8z",
+      "name": "Mill",
+      "x": -437,
+      "y": -86,
+      "parent": "#adm26p"
+    },
+    {
+      "@id": "#avz3h2",
+      "name": "Word history",
+      "x": 28,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8yf868",
+      "name": "Old Czech mlýn",
+      "x": -337,
+      "y": -239,
+      "parent": "#avz3h2"
+    },
+    {
+      "@id": "#jh3b2b",
+      "name": "Proto-Slavic *mъlinъ",
+      "x": -160,
+      "y": -337,
+      "parent": "#avz3h2"
+    },
+    {
+      "@id": "#5j8d34",
+      "name": "Borrowed from Old High German mulīn",
+      "x": 58,
+      "y": -389,
+      "parent": "#avz3h2"
+    },
+    {
+      "@id": "#mtnyk6",
+      "name": "Proto-West Germanic *mulīnu",
+      "x": 256,
+      "y": -296,
+      "parent": "#avz3h2"
+    },
+    {
+      "@id": "#jppkih",
+      "name": "Late Latin molīna",
+      "x": 398,
+      "y": -167,
+      "parent": "#avz3h2"
+    },
+    {
+      "@id": "#prtzmy",
+      "name": "Slavic cousins",
+      "x": 204,
+      "y": 86,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#488xye",
+      "name": "Polish młyn",
+      "x": 450,
+      "y": 0,
+      "parent": "#prtzmy"
+    },
+    {
+      "@id": "#9r8fpa",
+      "name": "Slovak mlyn",
+      "x": 398,
+      "y": 167,
+      "parent": "#prtzmy"
+    },
+    {
+      "@id": "#yfxsu4",
+      "name": "Russian млин",
+      "x": 256,
+      "y": 296,
+      "parent": "#prtzmy"
+    },
+    {
+      "@id": "#c3g428",
+      "name": "Related Czech words",
+      "x": -28,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8t858i",
+      "name": "mlynář: miller",
+      "x": 54,
+      "y": 357,
+      "parent": "#c3g428"
+    },
+    {
+      "@id": "#taedkm",
+      "name": "mlýnovka: scrum-half",
+      "x": -160,
+      "y": 337,
+      "parent": "#c3g428"
+    },
+    {
+      "@id": "#y8diaa",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xib582",
+      "name": "Wiktionary: mlýn",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/ml%C3%BDn#Czech",
+      "parent": "#y8diaa"
+    },
+    {
+      "@id": "#4u745h",
+      "name": "Wiktionary: Proto-Slavic *mъlinъ",
+      "x": -456,
+      "y": 90,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/m%D1%8Alin%D1%8A",
+      "parent": "#y8diaa"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

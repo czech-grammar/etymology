@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech dech etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#nxgnkp",
+      "name": "Meaning: “breath”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ettsd7",
+      "name": "Breath",
+      "x": -428,
+      "y": -111,
+      "parent": "#nxgnkp"
+    },
+    {
+      "@id": "#4igm64",
+      "name": "Word history",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8dqb36",
+      "name": "Old Czech dech",
+      "x": -265,
+      "y": -291,
+      "parent": "#4igm64"
+    },
+    {
+      "@id": "#xmde9w",
+      "name": "Proto-Slavic *dъxъ",
+      "x": 0,
+      "y": -360,
+      "parent": "#4igm64"
+    },
+    {
+      "@id": "#m68u83",
+      "name": "Slavic cousins",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vm9wpb",
+      "name": "Polish dech",
+      "x": 265,
+      "y": -291,
+      "parent": "#m68u83"
+    },
+    {
+      "@id": "#nqr6jm",
+      "name": "Ukrainian дох",
+      "x": 428,
+      "y": -111,
+      "parent": "#m68u83"
+    },
+    {
+      "@id": "#2fkuvq",
+      "name": "Related Czech words",
+      "x": 135,
+      "y": 149,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v5k6hb",
+      "name": "dechovka: brass music",
+      "x": 428,
+      "y": 111,
+      "parent": "#2fkuvq"
+    },
+    {
+      "@id": "#cm4k8g",
+      "name": "nádech: inspiration",
+      "x": 265,
+      "y": 291,
+      "parent": "#2fkuvq"
+    },
+    {
+      "@id": "#hux3up",
+      "name": "přídech: aspiration",
+      "x": 0,
+      "y": 360,
+      "parent": "#2fkuvq"
+    },
+    {
+      "@id": "#bix7bm",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cgh8mc",
+      "name": "Wiktionary: dech",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/dech#Czech",
+      "parent": "#bix7bm"
+    },
+    {
+      "@id": "#e6g5iw",
+      "name": "Wiktionary: Proto-Slavic *dъxъ",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/d%D1%8Ax%D1%8A",
+      "parent": "#bix7bm"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

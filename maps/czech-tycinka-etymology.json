@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech tyčinka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#t34rkw",
+      "name": "Meaning: “(pretzel) stick; (chocolate) bar”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hrb8iq",
+      "name": "(pretzel) stick; (chocolate) bar",
+      "x": -318,
+      "y": -255,
+      "parent": "#t34rkw"
+    },
+    {
+      "@id": "#cwkn5p",
+      "name": "Rod",
+      "x": 318,
+      "y": -255,
+      "parent": "#t34rkw"
+    },
+    {
+      "@id": "#x3fn7v",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4i66jh",
+      "name": "From tyč + -inka",
+      "x": 318,
+      "y": 255,
+      "parent": "#x3fn7v"
+    },
+    {
+      "@id": "#9pwg5e",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7zje5v",
+      "name": "Wiktionary: tyčinka",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/ty%C4%8Dinka#Czech",
+      "parent": "#9pwg5e"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

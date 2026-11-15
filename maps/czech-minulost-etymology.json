@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech minulost etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#d94xvq",
+      "name": "Meaning: “past”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qjxetq",
+      "name": "Past",
+      "x": -423,
+      "y": -123,
+      "parent": "#d94xvq"
+    },
+    {
+      "@id": "#j3bsr9",
+      "name": "Word history",
+      "x": 40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nubtiz",
+      "name": "From minulý + -ost",
+      "x": -225,
+      "y": -312,
+      "parent": "#j3bsr9"
+    },
+    {
+      "@id": "#8yfpeg",
+      "name": "Root: Proto-Slavic *minǫti",
+      "x": 78,
+      "y": -355,
+      "parent": "#j3bsr9"
+    },
+    {
+      "@id": "#8zegtc",
+      "name": "Deeper origin uncertain",
+      "x": 345,
+      "y": -231,
+      "parent": "#j3bsr9"
+    },
+    {
+      "@id": "#2vc7zx",
+      "name": "Cousins of the root *minǫti",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jeauv9",
+      "name": "Polish minąć",
+      "x": 450,
+      "y": 0,
+      "parent": "#2vc7zx"
+    },
+    {
+      "@id": "#qykmy7",
+      "name": "Slovak minúť",
+      "x": 345,
+      "y": 231,
+      "parent": "#2vc7zx"
+    },
+    {
+      "@id": "#ndykdj",
+      "name": "Russian минуть",
+      "x": 78,
+      "y": 355,
+      "parent": "#2vc7zx"
+    },
+    {
+      "@id": "#6uzqy9",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xjrqg5",
+      "name": "Wiktionary: minulost",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/minulost#Czech",
+      "parent": "#6uzqy9"
+    },
+    {
+      "@id": "#588fnj",
+      "name": "Wiktionary: Proto-Slavic *minǫti",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/min%C7%ABti",
+      "parent": "#6uzqy9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

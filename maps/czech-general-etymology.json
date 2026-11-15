@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech generál etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#4ay66r",
+      "name": "Meaning: “general”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sszs9e",
+      "name": "General",
+      "x": -390,
+      "y": -180,
+      "parent": "#4ay66r"
+    },
+    {
+      "@id": "#ydqdnr",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pg69nh",
+      "name": "Borrowed from Latin generalis",
+      "x": 0,
+      "y": -360,
+      "parent": "#ydqdnr"
+    },
+    {
+      "@id": "#d365t4",
+      "name": "Related Czech words",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pzw6z9",
+      "name": "generálmajor: major general",
+      "x": 390,
+      "y": -180,
+      "parent": "#d365t4"
+    },
+    {
+      "@id": "#e4id3a",
+      "name": "generálplukovník: colonel general",
+      "x": 390,
+      "y": 180,
+      "parent": "#d365t4"
+    },
+    {
+      "@id": "#zd2d62",
+      "name": "generálporučík: lieutenant general",
+      "x": 0,
+      "y": 360,
+      "parent": "#d365t4"
+    },
+    {
+      "@id": "#288cfc",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qwu7hr",
+      "name": "Wiktionary: generál",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/gener%C3%A1l#Czech",
+      "parent": "#288cfc"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

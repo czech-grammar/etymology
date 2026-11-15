@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech paprika etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#syt3x3",
+      "name": "Meaning: “pepper”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rik4kq",
+      "name": "Pepper",
+      "x": -435,
+      "y": -93,
+      "parent": "#syt3x3"
+    },
+    {
+      "@id": "#bthi29",
+      "name": "Paprika",
+      "x": -318,
+      "y": -255,
+      "parent": "#syt3x3"
+    },
+    {
+      "@id": "#e7nuv9",
+      "name": "Word history",
+      "x": 115,
+      "y": -159,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mv9qd8",
+      "name": "Borrowed from Hungarian paprika",
+      "x": -116,
+      "y": -348,
+      "parent": "#e7nuv9"
+    },
+    {
+      "@id": "#f4rauk",
+      "name": "Root: Proto-Slavic *pьpьrь",
+      "x": 136,
+      "y": -408,
+      "parent": "#e7nuv9"
+    },
+    {
+      "@id": "#r5ddbw",
+      "name": "Borrowed from Latin piper, “pepper”",
+      "x": 318,
+      "y": -255,
+      "parent": "#e7nuv9"
+    },
+    {
+      "@id": "#789b48",
+      "name": "Ancient Greek πέπερι (péperi)",
+      "x": 435,
+      "y": -93,
+      "parent": "#e7nuv9"
+    },
+    {
+      "@id": "#frpmnc",
+      "name": "Cousins of the root *pьpьrь",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rcazx3",
+      "name": "Polish pieprz",
+      "x": 435,
+      "y": 93,
+      "parent": "#frpmnc"
+    },
+    {
+      "@id": "#f8zhk7",
+      "name": "Slovak piepor",
+      "x": 318,
+      "y": 255,
+      "parent": "#frpmnc"
+    },
+    {
+      "@id": "#ikaigq",
+      "name": "Russian перец",
+      "x": 116,
+      "y": 348,
+      "parent": "#frpmnc"
+    },
+    {
+      "@id": "#3gdhrc",
+      "name": "Related Czech words",
+      "x": -60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vvtgcs",
+      "name": "paprikáš: paprikash",
+      "x": -116,
+      "y": 348,
+      "parent": "#3gdhrc"
+    },
+    {
+      "@id": "#fjtb3k",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p3jetu",
+      "name": "Wiktionary: paprika",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/paprika#Czech",
+      "parent": "#fjtb3k"
+    },
+    {
+      "@id": "#6uvpes",
+      "name": "Wiktionary: Proto-Slavic *pьpьrь",
+      "x": -454,
+      "y": 97,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/p%D1%8Cp%D1%8Cr%D1%8C",
+      "parent": "#fjtb3k"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

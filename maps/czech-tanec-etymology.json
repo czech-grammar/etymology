@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech tanec etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#dtu8mw",
+      "name": "Meaning: “dance”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jyge6q",
+      "name": "Dance",
+      "x": -390,
+      "y": -180,
+      "parent": "#dtu8mw"
+    },
+    {
+      "@id": "#gk5v8x",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t8p2vc",
+      "name": "Borrowed from German Tanz",
+      "x": 0,
+      "y": -360,
+      "parent": "#gk5v8x"
+    },
+    {
+      "@id": "#skiw2z",
+      "name": "Related Czech words",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ae88uu",
+      "name": "tancovat: to dance",
+      "x": 390,
+      "y": -180,
+      "parent": "#skiw2z"
+    },
+    {
+      "@id": "#b99tuj",
+      "name": "tanečnice: female dancer",
+      "x": 390,
+      "y": 180,
+      "parent": "#skiw2z"
+    },
+    {
+      "@id": "#pgindn",
+      "name": "tanečník: male dancer",
+      "x": 0,
+      "y": 360,
+      "parent": "#skiw2z"
+    },
+    {
+      "@id": "#3yhidz",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yfjzwt",
+      "name": "Wiktionary: tanec",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/tanec#Czech",
+      "parent": "#3yhidz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech paprsek etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#pwjr84",
+      "name": "Meaning: “ray, beam”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5gkbs6",
+      "name": "Ray, beam",
+      "x": -318,
+      "y": -255,
+      "parent": "#pwjr84"
+    },
+    {
+      "@id": "#s3haip",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c9wq6y",
+      "name": "Old Czech paprslek",
+      "x": 318,
+      "y": -255,
+      "parent": "#s3haip"
+    },
+    {
+      "@id": "#m3qgaa",
+      "name": "Built from pa- + prskat",
+      "x": 318,
+      "y": 255,
+      "parent": "#s3haip"
+    },
+    {
+      "@id": "#jnxhib",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#awy7jk",
+      "name": "Wiktionary: paprsek",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/paprsek#Czech",
+      "parent": "#jnxhib"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

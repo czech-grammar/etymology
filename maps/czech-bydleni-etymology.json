@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech bydlení etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7292c2",
+      "name": "Meaning: “housing, home”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#88zzec",
+      "name": "Housing, home",
+      "x": -318,
+      "y": -255,
+      "parent": "#7292c2"
+    },
+    {
+      "@id": "#unzadd",
+      "name": "Verbal noun of bydlet",
+      "x": 318,
+      "y": -255,
+      "parent": "#7292c2"
+    },
+    {
+      "@id": "#d9dsg2",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#em28wt",
+      "name": "From bydlet + -ení",
+      "x": 318,
+      "y": 255,
+      "parent": "#d9dsg2"
+    },
+    {
+      "@id": "#fzhxbn",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6hhprj",
+      "name": "Wiktionary: bydlení",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/bydlen%C3%AD#Czech",
+      "parent": "#fzhxbn"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

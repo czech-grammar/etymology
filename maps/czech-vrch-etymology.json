@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech vrch etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ztw6q3",
+      "name": "Meaning: “hill, top”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jv2ziw",
+      "name": "Hill, top",
+      "x": -435,
+      "y": -93,
+      "parent": "#ztw6q3"
+    },
+    {
+      "@id": "#6xgp6d",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#irc4qz",
+      "name": "Old Czech vrch",
+      "x": -318,
+      "y": -255,
+      "parent": "#6xgp6d"
+    },
+    {
+      "@id": "#c5z9kb",
+      "name": "Proto-Slavic *vьrxъ",
+      "x": -116,
+      "y": -348,
+      "parent": "#6xgp6d"
+    },
+    {
+      "@id": "#yq8253",
+      "name": "Proto-Balto-Slavic *wíršus",
+      "x": 136,
+      "y": -408,
+      "parent": "#6xgp6d"
+    },
+    {
+      "@id": "#ytyxga",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xfubp8",
+      "name": "Polish wierch",
+      "x": 318,
+      "y": -255,
+      "parent": "#ytyxga"
+    },
+    {
+      "@id": "#38szde",
+      "name": "Slovak vrch",
+      "x": 435,
+      "y": -93,
+      "parent": "#ytyxga"
+    },
+    {
+      "@id": "#efgemq",
+      "name": "Russian верх;",
+      "x": 435,
+      "y": 93,
+      "parent": "#ytyxga"
+    },
+    {
+      "@id": "#y92886",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ncja86",
+      "name": "vrcholný: top",
+      "x": 318,
+      "y": 255,
+      "parent": "#y92886"
+    },
+    {
+      "@id": "#p6ukwa",
+      "name": "povrch: surface",
+      "x": 116,
+      "y": 348,
+      "parent": "#y92886"
+    },
+    {
+      "@id": "#bb89eu",
+      "name": "svršek: upper leather",
+      "x": -116,
+      "y": 348,
+      "parent": "#y92886"
+    },
+    {
+      "@id": "#bpxesv",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8subaz",
+      "name": "Wiktionary: vrch",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/vrch#Czech",
+      "parent": "#bpxesv"
+    },
+    {
+      "@id": "#x2kc8p",
+      "name": "Wiktionary: Proto-Slavic *vьrxъ",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/v%D1%8Crx%D1%8A",
+      "parent": "#bpxesv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

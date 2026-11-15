@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech uzel etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ajk9zh",
+      "name": "Meaning: “knot”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9hgqcu",
+      "name": "Knot",
+      "x": -432,
+      "y": -101,
+      "parent": "#ajk9zh"
+    },
+    {
+      "@id": "#s9zqmu",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ity6zz",
+      "name": "Old Czech uzel",
+      "x": -295,
+      "y": -272,
+      "parent": "#s9zqmu"
+    },
+    {
+      "@id": "#iq8h4x",
+      "name": "Proto-Slavic *ǫzlъ",
+      "x": -64,
+      "y": -356,
+      "parent": "#s9zqmu"
+    },
+    {
+      "@id": "#q9gny3",
+      "name": "Deeper origin uncertain",
+      "x": 187,
+      "y": -327,
+      "parent": "#s9zqmu"
+    },
+    {
+      "@id": "#mmtzwk",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fc4847",
+      "name": "Polish węzeł",
+      "x": 379,
+      "y": -195,
+      "parent": "#mmtzwk"
+    },
+    {
+      "@id": "#ghivnk",
+      "name": "Slovak uzol",
+      "x": 450,
+      "y": 0,
+      "parent": "#mmtzwk"
+    },
+    {
+      "@id": "#q2ufcf",
+      "name": "Russian узел",
+      "x": 379,
+      "y": 195,
+      "parent": "#mmtzwk"
+    },
+    {
+      "@id": "#g33j8z",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#czrhry",
+      "name": "uzlina: lymph node",
+      "x": 187,
+      "y": 327,
+      "parent": "#g33j8z"
+    },
+    {
+      "@id": "#vpct4y",
+      "name": "zauzlovat: to knot",
+      "x": -64,
+      "y": 356,
+      "parent": "#g33j8z"
+    },
+    {
+      "@id": "#y2dc4e",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r4bkch",
+      "name": "Wiktionary: uzel",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/uzel#Czech",
+      "parent": "#y2dc4e"
+    },
+    {
+      "@id": "#j4ir3c",
+      "name": "Wiktionary: Proto-Slavic *ǫzlъ",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C7%ABzl%D1%8A",
+      "parent": "#y2dc4e"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

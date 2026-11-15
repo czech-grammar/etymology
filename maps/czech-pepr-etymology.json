@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech pepř etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#f3irqm",
+      "name": "Meaning: “pepper”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qhyrzs",
+      "name": "Pepper",
+      "x": -428,
+      "y": -111,
+      "parent": "#f3irqm"
+    },
+    {
+      "@id": "#4me42g",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#veiznq",
+      "name": "Proto-Slavic *pьpьrь",
+      "x": -265,
+      "y": -291,
+      "parent": "#4me42g"
+    },
+    {
+      "@id": "#zzmqq2",
+      "name": "Borrowed from Latin piper, “pepper”",
+      "x": 0,
+      "y": -360,
+      "parent": "#4me42g"
+    },
+    {
+      "@id": "#t7i4ha",
+      "name": "Ancient Greek πέπερι (péperi)",
+      "x": 265,
+      "y": -291,
+      "parent": "#4me42g"
+    },
+    {
+      "@id": "#a3g9dd",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3msu8p",
+      "name": "Polish pieprz",
+      "x": 428,
+      "y": -111,
+      "parent": "#a3g9dd"
+    },
+    {
+      "@id": "#cwycn8",
+      "name": "Slovak piepor",
+      "x": 428,
+      "y": 111,
+      "parent": "#a3g9dd"
+    },
+    {
+      "@id": "#n88mib",
+      "name": "Russian перец",
+      "x": 265,
+      "y": 291,
+      "parent": "#a3g9dd"
+    },
+    {
+      "@id": "#7d93uf",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aqjws4",
+      "name": "pepřenka: pepper shaker",
+      "x": 0,
+      "y": 360,
+      "parent": "#7d93uf"
+    },
+    {
+      "@id": "#m6g6yt",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9rexy6",
+      "name": "Wiktionary: pepř",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/pep%C5%99#Czech",
+      "parent": "#m6g6yt"
+    },
+    {
+      "@id": "#x2ysi5",
+      "name": "Wiktionary: Proto-Slavic *pьpьrь",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/p%D1%8Cp%D1%8Cr%D1%8C",
+      "parent": "#m6g6yt"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

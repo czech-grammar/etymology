@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech obzor etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7dgk92",
+      "name": "Meaning: “horizon”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7sk44i",
+      "name": "Horizon",
+      "x": -416,
+      "y": -138,
+      "parent": "#7dgk92"
+    },
+    {
+      "@id": "#r3xjxh",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8kfmfx",
+      "name": "Proto-Slavic *obzorъ",
+      "x": -172,
+      "y": -333,
+      "parent": "#r3xjxh"
+    },
+    {
+      "@id": "#hbw5k8",
+      "name": "Built from ob + zřít",
+      "x": 172,
+      "y": -333,
+      "parent": "#r3xjxh"
+    },
+    {
+      "@id": "#53sydr",
+      "name": "Slavic cousins",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4zyybn",
+      "name": "Polish obzór",
+      "x": 416,
+      "y": -138,
+      "parent": "#53sydr"
+    },
+    {
+      "@id": "#3qhyr5",
+      "name": "Slovak obzor",
+      "x": 416,
+      "y": 138,
+      "parent": "#53sydr"
+    },
+    {
+      "@id": "#2686i7",
+      "name": "Russian обзор",
+      "x": 172,
+      "y": 333,
+      "parent": "#53sydr"
+    },
+    {
+      "@id": "#n76gsn",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#whggu3",
+      "name": "Wiktionary: obzor",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/obzor#Czech",
+      "parent": "#n76gsn"
+    },
+    {
+      "@id": "#bdz7nq",
+      "name": "Wiktionary: Proto-Slavic *obzorъ",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/obzor%D1%8A",
+      "parent": "#n76gsn"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

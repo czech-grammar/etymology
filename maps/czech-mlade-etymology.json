@@ -1,0 +1,183 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech mládě etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#57m9bf",
+      "name": "Meaning: “young animal, cub”",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#viqdvf",
+      "name": "Young animal, cub",
+      "x": -447,
+      "y": -116,
+      "parent": "#57m9bf"
+    },
+    {
+      "@id": "#ed55gt",
+      "name": "Baby animal",
+      "x": -265,
+      "y": -291,
+      "parent": "#57m9bf"
+    },
+    {
+      "@id": "#na7u93",
+      "name": "Word history",
+      "x": 135,
+      "y": -149,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7vdddv",
+      "name": "From mladý + -ě",
+      "x": 0,
+      "y": -360,
+      "parent": "#na7u93"
+    },
+    {
+      "@id": "#fbrr6w",
+      "name": "Root: Proto-Slavic *moldъ",
+      "x": 265,
+      "y": -291,
+      "parent": "#na7u93"
+    },
+    {
+      "@id": "#26f97g",
+      "name": "Proto-Balto-Slavic *maldás",
+      "x": 428,
+      "y": -111,
+      "parent": "#na7u93"
+    },
+    {
+      "@id": "#455hfq",
+      "name": "Cousins of the root *moldъ",
+      "x": 135,
+      "y": 149,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w4tfhu",
+      "name": "Polish młody",
+      "x": 428,
+      "y": 111,
+      "parent": "#455hfq"
+    },
+    {
+      "@id": "#a3wj9g",
+      "name": "Slovak mladý",
+      "x": 265,
+      "y": 291,
+      "parent": "#455hfq"
+    },
+    {
+      "@id": "#c2j7mk",
+      "name": "Russian молодой",
+      "x": 0,
+      "y": 360,
+      "parent": "#455hfq"
+    },
+    {
+      "@id": "#mmeq68",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8hwby7",
+      "name": "Wiktionary: mládě",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/ml%C3%A1d%C4%9B#Czech",
+      "parent": "#mmeq68"
+    },
+    {
+      "@id": "#4rj9zh",
+      "name": "Wiktionary: Proto-Slavic *moldъ",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/mold%D1%8A",
+      "parent": "#mmeq68"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    }
+  ],
+  "selectedNode": 0
+}

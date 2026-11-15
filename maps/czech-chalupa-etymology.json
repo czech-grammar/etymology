@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech chalupa etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#pq4e42",
+      "name": "Meaning: “cottage”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nqc2z8",
+      "name": "Cottage",
+      "x": -428,
+      "y": -111,
+      "parent": "#pq4e42"
+    },
+    {
+      "@id": "#gzms5h",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q74g7t",
+      "name": "Old Czech chalupa",
+      "x": -265,
+      "y": -291,
+      "parent": "#gzms5h"
+    },
+    {
+      "@id": "#5rxrvg",
+      "name": "Proto-Slavic *xalupa",
+      "x": 0,
+      "y": -360,
+      "parent": "#gzms5h"
+    },
+    {
+      "@id": "#5v5ekb",
+      "name": "Deeper origin uncertain",
+      "x": 265,
+      "y": -291,
+      "parent": "#gzms5h"
+    },
+    {
+      "@id": "#552gnh",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tayii9",
+      "name": "Polish chałupa",
+      "x": 428,
+      "y": -111,
+      "parent": "#552gnh"
+    },
+    {
+      "@id": "#zh8p5i",
+      "name": "Slovak chalupa",
+      "x": 428,
+      "y": 111,
+      "parent": "#552gnh"
+    },
+    {
+      "@id": "#4a5mkt",
+      "name": "Russian халпа",
+      "x": 265,
+      "y": 291,
+      "parent": "#552gnh"
+    },
+    {
+      "@id": "#4yq7ah",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ifkqnt",
+      "name": "chalupář: weekend cottager",
+      "x": 0,
+      "y": 360,
+      "parent": "#4yq7ah"
+    },
+    {
+      "@id": "#hb5pgg",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#md3xff",
+      "name": "Wiktionary: chalupa",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/chalupa#Czech",
+      "parent": "#hb5pgg"
+    },
+    {
+      "@id": "#nqwgmp",
+      "name": "Wiktionary: Proto-Slavic *xalupa",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/xalupa",
+      "parent": "#hb5pgg"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

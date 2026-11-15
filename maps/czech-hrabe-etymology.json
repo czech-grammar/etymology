@@ -1,0 +1,149 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech hrabě etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ktwr2h",
+      "name": "Meaning: “count (nobleman)”",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8cwgb9",
+      "name": "Count (nobleman)",
+      "x": -405,
+      "y": -156,
+      "parent": "#ktwr2h"
+    },
+    {
+      "@id": "#78y3a2",
+      "name": "Word history",
+      "x": 143,
+      "y": -144,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dfvb5e",
+      "name": "Old Czech hrabie",
+      "x": -100,
+      "y": -351,
+      "parent": "#78y3a2"
+    },
+    {
+      "@id": "#fzsu2i",
+      "name": "Middle High German grâve",
+      "x": 281,
+      "y": -281,
+      "parent": "#78y3a2"
+    },
+    {
+      "@id": "#bnjviu",
+      "name": "Old High German grāfio, “ruler”",
+      "x": 450,
+      "y": 0,
+      "parent": "#78y3a2"
+    },
+    {
+      "@id": "#t2hrb7",
+      "name": "Related Czech words",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gdani4",
+      "name": "hraběcí: count",
+      "x": 281,
+      "y": 281,
+      "parent": "#t2hrb7"
+    },
+    {
+      "@id": "#v8qtqj",
+      "name": "hrabství: county",
+      "x": -100,
+      "y": 351,
+      "parent": "#t2hrb7"
+    },
+    {
+      "@id": "#5dq4qk",
+      "name": "Sources",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pwi852",
+      "name": "Wiktionary: hrabě",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wiktionary.org/wiki/hrab%C4%9B#Czech",
+      "parent": "#5dq4qk"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,22 @@
+category: A2 nouns
+aliases: zlato etymology, origin of zlato, zlato word origin, etymology of zlato
+- Czech zlato etymology
+  - Meaning: “gold”
+    - Gold
+  - Word history
+    - Old Czech zlato
+    - Proto-Slavic *zolto
+    - Proto-Balto-Slavic *źálˀtan
+    - Proto-Indo-European *ǵʰólh₃-tom, “gold”
+    - Proto-Indo-European *ǵʰelh₃-, “green”
+  - Slavic cousins
+    - Polish złoto
+    - Slovak zlato
+    - Russian золото
+  - Related Czech words
+    - pozlátko: gilding
+    - zlatnictví: goldsmithery
+    - zlatník: goldsmith
+  - Sources
+    - [Wiktionary: zlato](https://en.wiktionary.org/wiki/zlato#Czech)
+    - [Wiktionary: Proto-Slavic *zolto](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/zolto)

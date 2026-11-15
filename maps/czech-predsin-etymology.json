@@ -1,0 +1,183 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech předsíň etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#9nwf9b",
+      "name": "Meaning: “hall, entrance hall”",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g3hhwr",
+      "name": "Hall, entrance hall",
+      "x": -466,
+      "y": -121,
+      "parent": "#9nwf9b"
+    },
+    {
+      "@id": "#k34c2n",
+      "name": "Atrium",
+      "x": -265,
+      "y": -291,
+      "parent": "#9nwf9b"
+    },
+    {
+      "@id": "#k62e4j",
+      "name": "Word history",
+      "x": 135,
+      "y": -149,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8e8c78",
+      "name": "From před- + síň",
+      "x": 0,
+      "y": -360,
+      "parent": "#k62e4j"
+    },
+    {
+      "@id": "#mahefr",
+      "name": "Root: Proto-Slavic *sěnь",
+      "x": 265,
+      "y": -291,
+      "parent": "#k62e4j"
+    },
+    {
+      "@id": "#xay5qa",
+      "name": "Proto-Balto-Slavic *śáiˀnis",
+      "x": 428,
+      "y": -111,
+      "parent": "#k62e4j"
+    },
+    {
+      "@id": "#vdnga6",
+      "name": "Cousins of the root *sěnь",
+      "x": 135,
+      "y": 149,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ydwj8n",
+      "name": "Polish sień",
+      "x": 428,
+      "y": 111,
+      "parent": "#vdnga6"
+    },
+    {
+      "@id": "#wrf6kx",
+      "name": "Slovak sieň",
+      "x": 265,
+      "y": 291,
+      "parent": "#vdnga6"
+    },
+    {
+      "@id": "#zv3vbp",
+      "name": "Russian сень",
+      "x": 0,
+      "y": 360,
+      "parent": "#vdnga6"
+    },
+    {
+      "@id": "#b4w2ke",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#indgny",
+      "name": "Wiktionary: předsíň",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/p%C5%99eds%C3%AD%C5%88#Czech",
+      "parent": "#b4w2ke"
+    },
+    {
+      "@id": "#pgeg2f",
+      "name": "Wiktionary: Proto-Slavic *sěnь",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/s%C4%9Bn%D1%8C",
+      "parent": "#b4w2ke"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    }
+  ],
+  "selectedNode": 0
+}

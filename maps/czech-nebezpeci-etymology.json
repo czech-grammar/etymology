@@ -19,121 +19,63 @@
     {
       "@id": "#2gi5i3",
       "name": "Meaning: “danger”",
-      "x": -221,
-      "y": -52,
+      "x": -163,
+      "y": -130,
       "bgColor": "#D6E8FF",
       "parent": "#this"
     },
     {
       "@id": "#3jk2eq",
       "name": "Danger",
-      "x": -432,
-      "y": -101,
+      "x": -318,
+      "y": -255,
       "parent": "#2gi5i3"
     },
     {
       "@id": "#9252uc",
       "name": "Word history",
-      "x": 33,
-      "y": -182,
+      "x": 163,
+      "y": -130,
       "bgColor": "#D9F2DC",
       "parent": "#this"
     },
     {
       "@id": "#6i5275",
       "name": "From ne- + bezpečí",
-      "x": -295,
-      "y": -272,
+      "x": 318,
+      "y": -255,
       "parent": "#9252uc"
     },
     {
       "@id": "#4jzut6",
-      "name": "Root: Proto-Slavic *ne",
-      "x": -64,
-      "y": -356,
-      "parent": "#9252uc"
-    },
-    {
-      "@id": "#4sw75w",
-      "name": "Proto-Balto-Slavic *ne",
-      "x": 187,
-      "y": -327,
-      "parent": "#9252uc"
-    },
-    {
-      "@id": "#vk2y92",
-      "name": "Proto-Indo-European *né",
-      "x": 379,
-      "y": -195,
-      "parent": "#9252uc"
-    },
-    {
-      "@id": "#ye667r",
-      "name": "Cousins of the root *ne",
-      "x": 193,
-      "y": 99,
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
       "bgColor": "#FFE1CC",
       "parent": "#this"
     },
     {
-      "@id": "#gkmq2q",
-      "name": "Polish nie",
-      "x": 450,
-      "y": 0,
-      "parent": "#ye667r"
+      "@id": "#4sw75w",
+      "name": "nebezpečný: dangerous",
+      "x": 318,
+      "y": 255,
+      "parent": "#4jzut6"
     },
     {
-      "@id": "#hdm7wm",
-      "name": "Slovak nie",
-      "x": 379,
-      "y": 195,
-      "parent": "#ye667r"
-    },
-    {
-      "@id": "#z2hr42",
-      "name": "Russian не",
-      "x": 187,
-      "y": 327,
-      "parent": "#ye667r"
-    },
-    {
-      "@id": "#42b8f9",
-      "name": "Related Czech words",
-      "x": -33,
-      "y": 182,
+      "@id": "#vk2y92",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
       "bgColor": "#FFD6E8",
       "parent": "#this"
     },
     {
-      "@id": "#xymj59",
-      "name": "nebezpečný: dangerous",
-      "x": -64,
-      "y": 356,
-      "parent": "#42b8f9"
-    },
-    {
-      "@id": "#546bwk",
-      "name": "Sources",
-      "x": -193,
-      "y": 99,
-      "bgColor": "#FFF3C4",
-      "parent": "#this"
-    },
-    {
-      "@id": "#jc74i3",
+      "@id": "#ye667r",
       "name": "Wiktionary: nebezpečí",
-      "x": -295,
-      "y": 272,
+      "x": -318,
+      "y": 255,
       "link": "https://en.wiktionary.org/wiki/nebezpe%C4%8D%C3%AD#Czech",
-      "parent": "#546bwk"
-    },
-    {
-      "@id": "#gfgawu",
-      "name": "Wiktionary: Proto-Slavic *ne",
-      "x": -432,
-      "y": 101,
-      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/ne",
-      "parent": "#546bwk"
+      "parent": "#vk2y92"
     }
   ],
   "connections": [
@@ -154,52 +96,20 @@
       "end": 4
     },
     {
-      "start": 3,
+      "start": 0,
       "end": 5
     },
     {
-      "start": 3,
+      "start": 5,
       "end": 6
     },
     {
-      "start": 3,
+      "start": 0,
       "end": 7
     },
     {
-      "start": 0,
+      "start": 7,
       "end": 8
-    },
-    {
-      "start": 8,
-      "end": 9
-    },
-    {
-      "start": 8,
-      "end": 10
-    },
-    {
-      "start": 8,
-      "end": 11
-    },
-    {
-      "start": 0,
-      "end": 12
-    },
-    {
-      "start": 12,
-      "end": 13
-    },
-    {
-      "start": 0,
-      "end": 14
-    },
-    {
-      "start": 14,
-      "end": 15
-    },
-    {
-      "start": 14,
-      "end": 16
     }
   ],
   "selectedNode": 0

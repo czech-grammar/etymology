@@ -1,0 +1,22 @@
+category: B2 nouns
+aliases: zvěř etymology, origin of zvěř, zvěř word origin, etymology of zvěř
+- Czech zvěř etymology
+  - Meaning: “game, wild animals”
+    - Game, wild animals
+    - Wild animals, game
+  - Word history
+    - Old Czech zvěř
+    - Proto-Slavic *zvěrь
+    - Proto-Balto-Slavic *źwēˀrís
+    - Proto-Indo-European *ǵʰwer-is, “wild animal”
+  - Slavic cousins
+    - Polish zwierz
+    - Slovak zver
+    - Russian зверь
+  - Related Czech words
+    - zvěřina: game
+    - zvěřinec: menagerie
+    - zvíře: animal
+  - Sources
+    - [Wiktionary: zvěř](https://en.wiktionary.org/wiki/zv%C4%9B%C5%99#Czech)
+    - [Wiktionary: Proto-Slavic *zvěrь](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/zv%C4%9Br%D1%8C)

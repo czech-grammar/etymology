@@ -1,0 +1,127 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech maturita etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#n3h8qs",
+      "name": "Meaning: “school-leaving exam”",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sx9cpq",
+      "name": "School-leaving exam",
+      "x": -364,
+      "y": -212,
+      "parent": "#n3h8qs"
+    },
+    {
+      "@id": "#7a6kgr",
+      "name": "Matura",
+      "x": 139,
+      "y": -342,
+      "parent": "#n3h8qs"
+    },
+    {
+      "@id": "#dee5kv",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gb3prv",
+      "name": "Borrowed from Latin mātūritās",
+      "x": 470,
+      "y": 0,
+      "parent": "#dee5kv"
+    },
+    {
+      "@id": "#qgjq6u",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nh2prp",
+      "name": "maturant: secondary school graduate",
+      "x": 139,
+      "y": 342,
+      "parent": "#qgjq6u"
+    },
+    {
+      "@id": "#baiwjr",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#imnw7b",
+      "name": "Wiktionary: maturita",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/maturita#Czech",
+      "parent": "#baiwjr"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

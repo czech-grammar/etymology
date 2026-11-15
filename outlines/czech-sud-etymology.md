@@ -1,0 +1,21 @@
+category: B2 nouns
+aliases: sud etymology, origin of sud, sud word origin, etymology of sud
+- Czech sud etymology
+  - Meaning: “barrel”
+    - Barrel
+  - Word history
+    - Old Czech sud
+    - Proto-Slavic *sǫdъ
+    - Proto-Balto-Slavic *sámdas
+    - Proto-Indo-European *som-dʰh₁-os
+    - From *som- + *dʰeh₁- + *-os
+  - Slavic cousins
+    - Polish sąd, “court”
+    - Slovak súd
+    - Russian суд
+  - Related Czech words
+    - soud: court
+    - soudit: to judge
+  - Sources
+    - [Wiktionary: sud](https://en.wiktionary.org/wiki/sud#Czech)
+    - [Wiktionary: Proto-Slavic *sǫdъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/s%C7%ABd%D1%8A)

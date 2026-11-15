@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech oslava etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ekqfku",
+      "name": "Meaning: “celebration, party”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xmg24z",
+      "name": "Celebration, party",
+      "x": -318,
+      "y": -255,
+      "parent": "#ekqfku"
+    },
+    {
+      "@id": "#yf4muh",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2jzhhs",
+      "name": "From the verb oslavit",
+      "x": 318,
+      "y": -255,
+      "parent": "#yf4muh"
+    },
+    {
+      "@id": "#w86f83",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8hp5g5",
+      "name": "slavnost: celebration",
+      "x": 318,
+      "y": 255,
+      "parent": "#w86f83"
+    },
+    {
+      "@id": "#vkxs4h",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7shtwu",
+      "name": "Wiktionary: oslava",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/oslava#Czech",
+      "parent": "#vkxs4h"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

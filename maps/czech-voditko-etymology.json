@@ -1,0 +1,183 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech vodítko etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#myjrrw",
+      "name": "Meaning: “dog lead; clue, guide”",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5bir3r",
+      "name": "Dog lead; clue, guide",
+      "x": -485,
+      "y": -126,
+      "parent": "#myjrrw"
+    },
+    {
+      "@id": "#5frgc9",
+      "name": "Leash",
+      "x": -265,
+      "y": -291,
+      "parent": "#myjrrw"
+    },
+    {
+      "@id": "#gfqi2q",
+      "name": "Word history",
+      "x": 135,
+      "y": -149,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#igjft8",
+      "name": "From vodit + -tko",
+      "x": 0,
+      "y": -360,
+      "parent": "#gfqi2q"
+    },
+    {
+      "@id": "#uafxp3",
+      "name": "Root: Proto-Slavic *voditi",
+      "x": 265,
+      "y": -291,
+      "parent": "#gfqi2q"
+    },
+    {
+      "@id": "#msykip",
+      "name": "Proto-Balto-Slavic *wádīˀtei",
+      "x": 428,
+      "y": -111,
+      "parent": "#gfqi2q"
+    },
+    {
+      "@id": "#7rh7wp",
+      "name": "Cousins of the root *voditi",
+      "x": 135,
+      "y": 149,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jpxqyi",
+      "name": "Polish wodzić",
+      "x": 428,
+      "y": 111,
+      "parent": "#7rh7wp"
+    },
+    {
+      "@id": "#5b65yh",
+      "name": "Slovak vodiť",
+      "x": 265,
+      "y": 291,
+      "parent": "#7rh7wp"
+    },
+    {
+      "@id": "#2haaau",
+      "name": "Russian водить",
+      "x": 0,
+      "y": 360,
+      "parent": "#7rh7wp"
+    },
+    {
+      "@id": "#9tq6ab",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jcmqg6",
+      "name": "Wiktionary: vodítko",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/vod%C3%ADtko#Czech",
+      "parent": "#9tq6ab"
+    },
+    {
+      "@id": "#62tibt",
+      "name": "Wiktionary: Proto-Slavic *voditi",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/voditi",
+      "parent": "#9tq6ab"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    }
+  ],
+  "selectedNode": 0
+}

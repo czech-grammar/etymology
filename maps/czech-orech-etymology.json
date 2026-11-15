@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech ořech etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#kqysg4",
+      "name": "Meaning: “nut, walnut”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nv5b7z",
+      "name": "Nut, walnut",
+      "x": -432,
+      "y": -101,
+      "parent": "#kqysg4"
+    },
+    {
+      "@id": "#j6i45c",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qh3pii",
+      "name": "Old Czech ořěch",
+      "x": -295,
+      "y": -272,
+      "parent": "#j6i45c"
+    },
+    {
+      "@id": "#rv8m4x",
+      "name": "Proto-Slavic *orěxъ",
+      "x": -64,
+      "y": -356,
+      "parent": "#j6i45c"
+    },
+    {
+      "@id": "#ir4h9c",
+      "name": "Proto-Balto-Slavic *aráiˀsas",
+      "x": 203,
+      "y": -357,
+      "parent": "#j6i45c"
+    },
+    {
+      "@id": "#9s7bed",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y2yfrp",
+      "name": "Polish orzech",
+      "x": 379,
+      "y": -195,
+      "parent": "#9s7bed"
+    },
+    {
+      "@id": "#uun48e",
+      "name": "Slovak orech",
+      "x": 450,
+      "y": 0,
+      "parent": "#9s7bed"
+    },
+    {
+      "@id": "#maygqe",
+      "name": "Russian орех",
+      "x": 379,
+      "y": 195,
+      "parent": "#9s7bed"
+    },
+    {
+      "@id": "#2jt7xp",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#94eqev",
+      "name": "ořechový: nut",
+      "x": 187,
+      "y": 327,
+      "parent": "#2jt7xp"
+    },
+    {
+      "@id": "#sygjzw",
+      "name": "ořešák: walnut",
+      "x": -64,
+      "y": 356,
+      "parent": "#2jt7xp"
+    },
+    {
+      "@id": "#xfxy97",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jgwi3z",
+      "name": "Wiktionary: ořech",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/o%C5%99ech#Czech",
+      "parent": "#xfxy97"
+    },
+    {
+      "@id": "#t975ns",
+      "name": "Wiktionary: Proto-Slavic *orěxъ",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/or%C4%9Bx%D1%8A",
+      "parent": "#xfxy97"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

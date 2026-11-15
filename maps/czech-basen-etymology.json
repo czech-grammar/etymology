@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech báseň etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#yhcu59",
+      "name": "Meaning: “poem”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#86npbe",
+      "name": "Poem",
+      "x": -428,
+      "y": -111,
+      "parent": "#yhcu59"
+    },
+    {
+      "@id": "#hnvtye",
+      "name": "Word history",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t9yskh",
+      "name": "Old Czech básn",
+      "x": -265,
+      "y": -291,
+      "parent": "#hnvtye"
+    },
+    {
+      "@id": "#54aaei",
+      "name": "Proto-Slavic *basnь",
+      "x": 0,
+      "y": -360,
+      "parent": "#hnvtye"
+    },
+    {
+      "@id": "#vd3mqp",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ktdsfh",
+      "name": "Polish baśń",
+      "x": 265,
+      "y": -291,
+      "parent": "#vd3mqp"
+    },
+    {
+      "@id": "#n7vebp",
+      "name": "Slovak báseň",
+      "x": 428,
+      "y": -111,
+      "parent": "#vd3mqp"
+    },
+    {
+      "@id": "#za7st5",
+      "name": "Russian баснь",
+      "x": 428,
+      "y": 111,
+      "parent": "#vd3mqp"
+    },
+    {
+      "@id": "#mt37fu",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#97d5x7",
+      "name": "básník: poet",
+      "x": 265,
+      "y": 291,
+      "parent": "#mt37fu"
+    },
+    {
+      "@id": "#2t6ipq",
+      "name": "básnířka: female poet",
+      "x": 0,
+      "y": 360,
+      "parent": "#mt37fu"
+    },
+    {
+      "@id": "#pxmmse",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p6ikem",
+      "name": "Wiktionary: báseň",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/b%C3%A1se%C5%88#Czech",
+      "parent": "#pxmmse"
+    },
+    {
+      "@id": "#qvsg6q",
+      "name": "Wiktionary: Proto-Slavic *basnь",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/basn%D1%8C",
+      "parent": "#pxmmse"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

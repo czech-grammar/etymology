@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kytice etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#shkyym",
+      "name": "Meaning: “bouquet”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hgxzyj",
+      "name": "Bouquet",
+      "x": -225,
+      "y": -312,
+      "parent": "#shkyym"
+    },
+    {
+      "@id": "#nxugma",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#usqhpt",
+      "name": "From kytka + -ice",
+      "x": 450,
+      "y": 0,
+      "parent": "#nxugma"
+    },
+    {
+      "@id": "#i8d3y9",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sd9ab4",
+      "name": "Wiktionary: kytice",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/kytice#Czech",
+      "parent": "#i8d3y9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech dějepis etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5ad5n7",
+      "name": "Meaning: “history (subject)”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9baejn",
+      "name": "History (subject)",
+      "x": -432,
+      "y": -101,
+      "parent": "#5ad5n7"
+    },
+    {
+      "@id": "#b28k2b",
+      "name": "Word history",
+      "x": -96,
+      "y": -167,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cazwzp",
+      "name": "Root: Proto-Slavic *pisьmo",
+      "x": -295,
+      "y": -272,
+      "parent": "#b28k2b"
+    },
+    {
+      "@id": "#sagpiu",
+      "name": "From *pis- + *-ьmo",
+      "x": -64,
+      "y": -356,
+      "parent": "#b28k2b"
+    },
+    {
+      "@id": "#5k84pr",
+      "name": "Cousins of the root *pisьmo",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zwfcu7",
+      "name": "Polish pismo",
+      "x": 187,
+      "y": -327,
+      "parent": "#5k84pr"
+    },
+    {
+      "@id": "#qam8kv",
+      "name": "Slovak písmo",
+      "x": 379,
+      "y": -195,
+      "parent": "#5k84pr"
+    },
+    {
+      "@id": "#29pzj2",
+      "name": "Russian письмо",
+      "x": 450,
+      "y": 0,
+      "parent": "#5k84pr"
+    },
+    {
+      "@id": "#7ygz6b",
+      "name": "Related Czech words",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g6jvp6",
+      "name": "dějepisář: history teacher",
+      "x": 379,
+      "y": 195,
+      "parent": "#7ygz6b"
+    },
+    {
+      "@id": "#hah69p",
+      "name": "dějepisec: historian",
+      "x": 187,
+      "y": 327,
+      "parent": "#7ygz6b"
+    },
+    {
+      "@id": "#6pcaga",
+      "name": "děj: process",
+      "x": -64,
+      "y": 356,
+      "parent": "#7ygz6b"
+    },
+    {
+      "@id": "#xxzt36",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d36u9s",
+      "name": "Wiktionary: dějepis",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/d%C4%9Bjepis#Czech",
+      "parent": "#xxzt36"
+    },
+    {
+      "@id": "#4vx263",
+      "name": "Wiktionary: Proto-Slavic *pisьmo",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/pis%D1%8Cmo",
+      "parent": "#xxzt36"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

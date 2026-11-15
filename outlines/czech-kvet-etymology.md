@@ -1,0 +1,21 @@
+category: B1 nouns
+aliases: květ etymology, origin of květ, květ word origin, etymology of květ
+- Czech květ etymology
+  - Meaning: “flower, blossom”
+    - Flower, blossom
+  - Word history
+    - Old Czech květ
+    - Proto-Slavic *květъ
+    - Proto-Balto-Slavic *kwaitas
+    - Proto-Indo-European *ḱwoytos
+  - Slavic cousins
+    - Polish kwiat
+    - Slovak kvet
+    - Russian цвет
+  - Related Czech words
+    - květnatý: flowery
+    - kvést: to flower
+    - květen: May
+  - Sources
+    - [Wiktionary: květ](https://en.wiktionary.org/wiki/kv%C4%9Bt#Czech)
+    - [Wiktionary: Proto-Slavic *květъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kv%C4%9Bt%D1%8A)

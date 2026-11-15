@@ -1,0 +1,21 @@
+category: B2 nouns
+aliases: mlýn etymology, origin of mlýn, mlýn word origin, etymology of mlýn
+- Czech mlýn etymology
+  - Meaning: “mill”
+    - Mill
+  - Word history
+    - Old Czech mlýn
+    - Proto-Slavic *mъlinъ
+    - Borrowed from Old High German mulīn
+    - Proto-West Germanic *mulīnu
+    - Late Latin molīna
+  - Slavic cousins
+    - Polish młyn
+    - Slovak mlyn
+    - Russian млин
+  - Related Czech words
+    - mlynář: miller
+    - mlýnovka: scrum-half
+  - Sources
+    - [Wiktionary: mlýn](https://en.wiktionary.org/wiki/ml%C3%BDn#Czech)
+    - [Wiktionary: Proto-Slavic *mъlinъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/m%D1%8Alin%D1%8A)

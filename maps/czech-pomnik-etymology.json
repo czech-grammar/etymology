@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech pomník etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#vwafgd",
+      "name": "Meaning: “monument, memorial”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zctefk",
+      "name": "Monument, memorial",
+      "x": -428,
+      "y": -111,
+      "parent": "#vwafgd"
+    },
+    {
+      "@id": "#pyy8gv",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#67rfch",
+      "name": "Borrowed from Polish pomnik",
+      "x": -265,
+      "y": -291,
+      "parent": "#pyy8gv"
+    },
+    {
+      "@id": "#er5xi8",
+      "name": "Root: Proto-Slavic *pomьněti",
+      "x": 0,
+      "y": -360,
+      "parent": "#pyy8gv"
+    },
+    {
+      "@id": "#a3qn4k",
+      "name": "From *po- + *mьněti",
+      "x": 265,
+      "y": -291,
+      "parent": "#pyy8gv"
+    },
+    {
+      "@id": "#4s7njs",
+      "name": "Cousins of the root *pomьněti",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ig4uc5",
+      "name": "Polish pomnieć",
+      "x": 428,
+      "y": -111,
+      "parent": "#4s7njs"
+    },
+    {
+      "@id": "#y4g9rq",
+      "name": "Slovak pomnieť",
+      "x": 428,
+      "y": 111,
+      "parent": "#4s7njs"
+    },
+    {
+      "@id": "#tne5xg",
+      "name": "Ukrainian помнити",
+      "x": 265,
+      "y": 291,
+      "parent": "#4s7njs"
+    },
+    {
+      "@id": "#8jry3n",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gynkpv",
+      "name": "památník: memorial",
+      "x": 0,
+      "y": 360,
+      "parent": "#8jry3n"
+    },
+    {
+      "@id": "#hjn8h3",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#65ybsb",
+      "name": "Wiktionary: pomník",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/pomn%C3%ADk#Czech",
+      "parent": "#hjn8h3"
+    },
+    {
+      "@id": "#isxjiy",
+      "name": "Wiktionary: Proto-Slavic *pomьněti",
+      "x": -447,
+      "y": 116,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/pom%D1%8Cn%C4%9Bti",
+      "parent": "#hjn8h3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

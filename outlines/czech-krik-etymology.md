@@ -1,0 +1,21 @@
+category: B2 nouns
+aliases: křik etymology, origin of křik, křik word origin, etymology of křik
+- Czech křik etymology
+  - Meaning: “shouting, screaming”
+    - Shouting, screaming
+  - Word history
+    - Old Czech křik
+    - Proto-Slavic *krȋkъ
+    - Proto-Balto-Slavic *kreik-
+    - Proto-Indo-European *(s)kreik-
+  - Slavic cousins
+    - Polish krzyk
+    - Slovak krik
+    - Russian крик
+  - Related Czech words
+    - křičící: screaming
+    - vykřičník: exclamation mark
+    - výkřik: scream
+  - Sources
+    - [Wiktionary: křik](https://en.wiktionary.org/wiki/k%C5%99ik#Czech)
+    - [Wiktionary: Proto-Slavic *krikъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/krik%D1%8A)

@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech čtvrt etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#e4icf4",
+      "name": "Meaning: “quarter (of an hour)”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k4igwa",
+      "name": "Quarter (of an hour)",
+      "x": -390,
+      "y": -180,
+      "parent": "#e4icf4"
+    },
+    {
+      "@id": "#e4tyju",
+      "name": "Word history",
+      "x": 115,
+      "y": -159,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nc56wk",
+      "name": "Old Czech čtvrt",
+      "x": 0,
+      "y": -360,
+      "parent": "#e4tyju"
+    },
+    {
+      "@id": "#abj9dw",
+      "name": "Proto-Slavic *četvьrtь",
+      "x": 390,
+      "y": -180,
+      "parent": "#e4tyju"
+    },
+    {
+      "@id": "#yvkzmh",
+      "name": "Related Czech words",
+      "x": 115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kxxbdz",
+      "name": "čtvrtina: quarter",
+      "x": 390,
+      "y": 180,
+      "parent": "#yvkzmh"
+    },
+    {
+      "@id": "#bztwbh",
+      "name": "tříčtvrtka: center",
+      "x": 0,
+      "y": 360,
+      "parent": "#yvkzmh"
+    },
+    {
+      "@id": "#i35sbe",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cstdq5",
+      "name": "Wiktionary: čtvrt",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/%C4%8Dtvrt#Czech",
+      "parent": "#i35sbe"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

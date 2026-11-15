@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech brouk etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#nq767i",
+      "name": "Meaning: “beetle”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a7mft6",
+      "name": "Beetle",
+      "x": -318,
+      "y": -255,
+      "parent": "#nq767i"
+    },
+    {
+      "@id": "#r6ii44",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zjzub2",
+      "name": "Old Czech brúk",
+      "x": 318,
+      "y": -255,
+      "parent": "#r6ii44"
+    },
+    {
+      "@id": "#xtgajn",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6kkhgy",
+      "name": "broukat: to hum",
+      "x": 318,
+      "y": 255,
+      "parent": "#xtgajn"
+    },
+    {
+      "@id": "#4skhqc",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5z9k9u",
+      "name": "Wiktionary: brouk",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/brouk#Czech",
+      "parent": "#4skhqc"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech příbuzný etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#eugrst",
+      "name": "Meaning: “relative”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b4pycg",
+      "name": "Relative",
+      "x": -435,
+      "y": -93,
+      "parent": "#eugrst"
+    },
+    {
+      "@id": "#zxb258",
+      "name": "Related to, akin",
+      "x": -318,
+      "y": -255,
+      "parent": "#eugrst"
+    },
+    {
+      "@id": "#4c82d7",
+      "name": "Word history",
+      "x": 60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4cmket",
+      "name": "Old Czech přívuzný",
+      "x": -116,
+      "y": -348,
+      "parent": "#4c82d7"
+    },
+    {
+      "@id": "#aaw9dj",
+      "name": "Proto-Slavic *privǫzьnъ",
+      "x": 126,
+      "y": -378,
+      "parent": "#4c82d7"
+    },
+    {
+      "@id": "#x7nmdm",
+      "name": "Deeper origin uncertain",
+      "x": 318,
+      "y": -255,
+      "parent": "#4c82d7"
+    },
+    {
+      "@id": "#gg5nj2",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": 48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v7gyrb",
+      "name": "Polish wiązać",
+      "x": 435,
+      "y": -93,
+      "parent": "#gg5nj2"
+    },
+    {
+      "@id": "#tdd2u5",
+      "name": "Slovak viazať",
+      "x": 435,
+      "y": 93,
+      "parent": "#gg5nj2"
+    },
+    {
+      "@id": "#ktkzut",
+      "name": "Russian вязать",
+      "x": 318,
+      "y": 255,
+      "parent": "#gg5nj2"
+    },
+    {
+      "@id": "#eeyxmp",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#inv5yc",
+      "name": "příbuznost: kinship",
+      "x": 116,
+      "y": 348,
+      "parent": "#eeyxmp"
+    },
+    {
+      "@id": "#dxixzu",
+      "name": "příbuzenstvo: relatives",
+      "x": -131,
+      "y": 393,
+      "parent": "#eeyxmp"
+    },
+    {
+      "@id": "#pphh3b",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jdj75p",
+      "name": "Wiktionary: příbuzný",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/p%C5%99%C3%ADbuzn%C3%BD#Czech",
+      "parent": "#pphh3b"
+    },
+    {
+      "@id": "#p2qjbz",
+      "name": "Wiktionary: Proto-Slavic *vęzati",
+      "x": -454,
+      "y": 97,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/v%C4%99zati",
+      "parent": "#pphh3b"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

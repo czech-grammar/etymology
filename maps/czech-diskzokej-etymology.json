@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech diskžokej etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#t7x6w3",
+      "name": "Meaning: “DJ”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ktqkfe",
+      "name": "DJ",
+      "x": -318,
+      "y": -255,
+      "parent": "#t7x6w3"
+    },
+    {
+      "@id": "#qr9kgm",
+      "name": "Disc jockey",
+      "x": 318,
+      "y": -255,
+      "parent": "#t7x6w3"
+    },
+    {
+      "@id": "#2t4i48",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zr4d8y",
+      "name": "Borrowed from English disc jockey",
+      "x": 318,
+      "y": 255,
+      "parent": "#2t4i48"
+    },
+    {
+      "@id": "#nmzuw7",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dbqdsz",
+      "name": "Wiktionary: diskžokej",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/disk%C5%BEokej#Czech",
+      "parent": "#nmzuw7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

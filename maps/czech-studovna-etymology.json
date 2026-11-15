@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech studovna etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qg63nx",
+      "name": "Meaning: “study room”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m4dcar",
+      "name": "Study room",
+      "x": -390,
+      "y": -180,
+      "parent": "#qg63nx"
+    },
+    {
+      "@id": "#pdy969",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y4cpw8",
+      "name": "From studovat + -na",
+      "x": 0,
+      "y": -360,
+      "parent": "#pdy969"
+    },
+    {
+      "@id": "#7hfbd2",
+      "name": "Related Czech words",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ag5j4t",
+      "name": "student: student",
+      "x": 390,
+      "y": -180,
+      "parent": "#7hfbd2"
+    },
+    {
+      "@id": "#xfdrrw",
+      "name": "studie: study",
+      "x": 390,
+      "y": 180,
+      "parent": "#7hfbd2"
+    },
+    {
+      "@id": "#auf7yq",
+      "name": "studio: studio",
+      "x": 0,
+      "y": 360,
+      "parent": "#7hfbd2"
+    },
+    {
+      "@id": "#x4r362",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zzecgw",
+      "name": "Wiktionary: studovna",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/studovna#Czech",
+      "parent": "#x4r362"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

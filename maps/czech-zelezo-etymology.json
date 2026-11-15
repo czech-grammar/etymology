@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech železo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qzqzfz",
+      "name": "Meaning: “iron”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gzhvmw",
+      "name": "Iron",
+      "x": -435,
+      "y": -93,
+      "parent": "#qzqzfz"
+    },
+    {
+      "@id": "#pdcwku",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9e5kvv",
+      "name": "Old Czech železo",
+      "x": -318,
+      "y": -255,
+      "parent": "#pdcwku"
+    },
+    {
+      "@id": "#ej8jek",
+      "name": "Proto-Slavic *želězo",
+      "x": -116,
+      "y": -348,
+      "parent": "#pdcwku"
+    },
+    {
+      "@id": "#42i5hy",
+      "name": "Deeper origin uncertain",
+      "x": 131,
+      "y": -393,
+      "parent": "#pdcwku"
+    },
+    {
+      "@id": "#8md39d",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zdrzi5",
+      "name": "Polish żelazo",
+      "x": 318,
+      "y": -255,
+      "parent": "#8md39d"
+    },
+    {
+      "@id": "#8h9f22",
+      "name": "Slovak železo",
+      "x": 435,
+      "y": -93,
+      "parent": "#8md39d"
+    },
+    {
+      "@id": "#xyg5s5",
+      "name": "Russian железо;",
+      "x": 435,
+      "y": 93,
+      "parent": "#8md39d"
+    },
+    {
+      "@id": "#d2txve",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5fqisa",
+      "name": "železárna: ironworks",
+      "x": 318,
+      "y": 255,
+      "parent": "#d2txve"
+    },
+    {
+      "@id": "#tqx9u8",
+      "name": "železář: ironmaster",
+      "x": 116,
+      "y": 348,
+      "parent": "#d2txve"
+    },
+    {
+      "@id": "#ucvpbk",
+      "name": "železářství: iron making",
+      "x": -131,
+      "y": 393,
+      "parent": "#d2txve"
+    },
+    {
+      "@id": "#i5tvwy",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kuciyh",
+      "name": "Wiktionary: železo",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/%C5%BEelezo#Czech",
+      "parent": "#i5tvwy"
+    },
+    {
+      "@id": "#pafv2e",
+      "name": "Wiktionary: Proto-Slavic *želězo",
+      "x": -454,
+      "y": 97,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C5%BEel%C4%9Bzo",
+      "parent": "#i5tvwy"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

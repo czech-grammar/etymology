@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech horečka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2fpag7",
+      "name": "Meaning: “fever”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4qd6su",
+      "name": "Fever",
+      "x": -428,
+      "y": -111,
+      "parent": "#2fpag7"
+    },
+    {
+      "@id": "#jgjh97",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2siebi",
+      "name": "From horký + -ka",
+      "x": -265,
+      "y": -291,
+      "parent": "#jgjh97"
+    },
+    {
+      "@id": "#tv8sx5",
+      "name": "Root: Proto-Slavic *gorьkъ",
+      "x": 0,
+      "y": -360,
+      "parent": "#jgjh97"
+    },
+    {
+      "@id": "#jg33yj",
+      "name": "From *goře, “sorrow” + *-ьkъ",
+      "x": 265,
+      "y": -291,
+      "parent": "#jgjh97"
+    },
+    {
+      "@id": "#fbhsfz",
+      "name": "Cousins of the root *gorьkъ",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kzhikk",
+      "name": "Polish gorzki, “bitter”",
+      "x": 428,
+      "y": -111,
+      "parent": "#fbhsfz"
+    },
+    {
+      "@id": "#uyntdf",
+      "name": "Slovak horký",
+      "x": 428,
+      "y": 111,
+      "parent": "#fbhsfz"
+    },
+    {
+      "@id": "#v9sg9t",
+      "name": "Russian горький",
+      "x": 265,
+      "y": 291,
+      "parent": "#fbhsfz"
+    },
+    {
+      "@id": "#6r5hu6",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#impnkf",
+      "name": "horečnatý: feverish",
+      "x": 0,
+      "y": 360,
+      "parent": "#6r5hu6"
+    },
+    {
+      "@id": "#yd5er7",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jbmcqw",
+      "name": "Wiktionary: horečka",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/hore%C4%8Dka#Czech",
+      "parent": "#yd5er7"
+    },
+    {
+      "@id": "#8b4fkn",
+      "name": "Wiktionary: Proto-Slavic *gorьkъ",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/gor%D1%8Ck%D1%8A",
+      "parent": "#yd5er7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

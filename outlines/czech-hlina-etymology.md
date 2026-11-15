@@ -1,0 +1,21 @@
+category: B1 nouns
+aliases: hlína etymology, origin of hlína, hlína word origin, etymology of hlína
+- Czech hlína etymology
+  - Meaning: “clay, earth”
+    - Clay, earth
+    - Earth, soil
+  - Word history
+    - Old Czech hlína
+    - Proto-Slavic *glina
+    - Proto-Balto-Slavic *gléiˀnāˀ
+    - Proto-Indo-European *gleh₁y-
+  - Slavic cousins
+    - Polish glina
+    - Slovak hlina
+    - Russian глина
+  - Related Czech words
+    - hliněný: earthen
+    - hliniště: clay pit
+  - Sources
+    - [Wiktionary: hlína](https://en.wiktionary.org/wiki/hl%C3%ADna#Czech)
+    - [Wiktionary: Proto-Slavic *glina](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/glina)

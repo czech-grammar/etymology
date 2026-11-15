@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech dlažba etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#9t4ss2",
+      "name": "Meaning: “paving, cobblestones”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fmb82m",
+      "name": "Paving, cobblestones",
+      "x": -318,
+      "y": -255,
+      "parent": "#9t4ss2"
+    },
+    {
+      "@id": "#dsav48",
+      "name": "Paving, pavement",
+      "x": 318,
+      "y": -255,
+      "parent": "#9t4ss2"
+    },
+    {
+      "@id": "#8txgaz",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ffetgt",
+      "name": "From dláždit + -ba",
+      "x": 318,
+      "y": 255,
+      "parent": "#8txgaz"
+    },
+    {
+      "@id": "#bh9vpc",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cpv5au",
+      "name": "Wiktionary: dlažba",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/dla%C5%BEba#Czech",
+      "parent": "#bh9vpc"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

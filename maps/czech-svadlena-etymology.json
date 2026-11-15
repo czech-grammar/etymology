@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech švadlena etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#z37jfz",
+      "name": "Meaning: “seamstress”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ytw7sv",
+      "name": "Seamstress",
+      "x": -390,
+      "y": -180,
+      "parent": "#z37jfz"
+    },
+    {
+      "@id": "#is2nzf",
+      "name": "Word history",
+      "x": 115,
+      "y": -159,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9knrtr",
+      "name": "Old Czech švadlena, švadlí",
+      "x": 0,
+      "y": -360,
+      "parent": "#is2nzf"
+    },
+    {
+      "@id": "#c8quk3",
+      "name": "Built from švadlí + -ena",
+      "x": 390,
+      "y": -180,
+      "parent": "#is2nzf"
+    },
+    {
+      "@id": "#sitm8d",
+      "name": "Related Czech words",
+      "x": 115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i5u8p6",
+      "name": "šít: to sew",
+      "x": 390,
+      "y": 180,
+      "parent": "#sitm8d"
+    },
+    {
+      "@id": "#xqc87d",
+      "name": "švec: shoemaker",
+      "x": 0,
+      "y": 360,
+      "parent": "#sitm8d"
+    },
+    {
+      "@id": "#cyz4bi",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sraqr8",
+      "name": "Wiktionary: švadlena",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/%C5%A1vadlena#Czech",
+      "parent": "#cyz4bi"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

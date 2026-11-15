@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kalendář etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#berj4f",
+      "name": "Meaning: “calendar”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9tf458",
+      "name": "Calendar",
+      "x": -225,
+      "y": -312,
+      "parent": "#berj4f"
+    },
+    {
+      "@id": "#rahh7f",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a3kehr",
+      "name": "Borrowed from Latin calendarius",
+      "x": 490,
+      "y": 0,
+      "parent": "#rahh7f"
+    },
+    {
+      "@id": "#3g5hd4",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uyfzw3",
+      "name": "Wiktionary: kalendář",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/kalend%C3%A1%C5%99#Czech",
+      "parent": "#3g5hd4"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

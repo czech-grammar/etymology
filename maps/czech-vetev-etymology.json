@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech větev etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gxgmdm",
+      "name": "Meaning: “branch”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5cwxen",
+      "name": "Branch",
+      "x": -428,
+      "y": -111,
+      "parent": "#gxgmdm"
+    },
+    {
+      "@id": "#fennuv",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#64dphr",
+      "name": "Old Czech větev",
+      "x": -265,
+      "y": -291,
+      "parent": "#fennuv"
+    },
+    {
+      "@id": "#mxtrng",
+      "name": "Proto-Slavic *větvь",
+      "x": 0,
+      "y": -360,
+      "parent": "#fennuv"
+    },
+    {
+      "@id": "#vp7xm2",
+      "name": "Proto-Indo-European *weh₁y-",
+      "x": 265,
+      "y": -291,
+      "parent": "#fennuv"
+    },
+    {
+      "@id": "#3kwv55",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#66qq78",
+      "name": "Slovak vetva",
+      "x": 428,
+      "y": -111,
+      "parent": "#3kwv55"
+    },
+    {
+      "@id": "#xfbfqt",
+      "name": "Russian ветвь",
+      "x": 428,
+      "y": 111,
+      "parent": "#3kwv55"
+    },
+    {
+      "@id": "#n7ntdz",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6hmxp6",
+      "name": "rozvětvený: branched",
+      "x": 265,
+      "y": 291,
+      "parent": "#n7ntdz"
+    },
+    {
+      "@id": "#5nynbp",
+      "name": "větvit: to branch",
+      "x": 0,
+      "y": 360,
+      "parent": "#n7ntdz"
+    },
+    {
+      "@id": "#k5rhhd",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b32428",
+      "name": "Wiktionary: větev",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/v%C4%9Btev#Czech",
+      "parent": "#k5rhhd"
+    },
+    {
+      "@id": "#ncyuqu",
+      "name": "Wiktionary: Proto-Slavic *větvь",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/v%C4%9Btv%D1%8C",
+      "parent": "#k5rhhd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

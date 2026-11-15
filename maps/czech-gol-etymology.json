@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech gól etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xncdzk",
+      "name": "Meaning: “goal (scored)”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9k4cpr",
+      "name": "Goal (scored)",
+      "x": -390,
+      "y": -180,
+      "parent": "#xncdzk"
+    },
+    {
+      "@id": "#64ccr8",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fdhvhw",
+      "name": "Borrowed from English goal",
+      "x": 0,
+      "y": -360,
+      "parent": "#64ccr8"
+    },
+    {
+      "@id": "#y7hdjc",
+      "name": "Related Czech words",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jdmaqd",
+      "name": "gólman: goaltender",
+      "x": 390,
+      "y": -180,
+      "parent": "#y7hdjc"
+    },
+    {
+      "@id": "#3twhc5",
+      "name": "gólmanka: female goaltender",
+      "x": 390,
+      "y": 180,
+      "parent": "#y7hdjc"
+    },
+    {
+      "@id": "#z57vbw",
+      "name": "gólovka: goalscoring opportunity",
+      "x": 0,
+      "y": 360,
+      "parent": "#y7hdjc"
+    },
+    {
+      "@id": "#t6xkww",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rss8dj",
+      "name": "Wiktionary: gól",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/g%C3%B3l#Czech",
+      "parent": "#t6xkww"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

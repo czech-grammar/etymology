@@ -1,0 +1,21 @@
+category: B1 nouns
+aliases: oheň etymology, origin of oheň, oheň word origin, etymology of oheň
+- Czech oheň etymology
+  - Meaning: “fire”
+    - Fire
+  - Word history
+    - Old Czech oheň
+    - Proto-Slavic *ogňь
+    - Proto-Balto-Slavic *úngnis
+    - Proto-Indo-European *h₁n̥gʷnís
+  - Slavic cousins
+    - Polish ogień
+    - Slovak oheň
+    - Russian огонь
+  - Related Czech words
+    - ohnisko: focus
+    - ohniště: firepit
+    - ohňostroj: firework
+  - Sources
+    - [Wiktionary: oheň](https://en.wiktionary.org/wiki/ohe%C5%88#Czech)
+    - [Wiktionary: Proto-Slavic *ogňь](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/og%C5%88%D1%8C)

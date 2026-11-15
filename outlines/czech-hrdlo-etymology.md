@@ -1,0 +1,21 @@
+category: B1 nouns
+aliases: hrdlo etymology, origin of hrdlo, hrdlo word origin, etymology of hrdlo
+- Czech hrdlo etymology
+  - Meaning: “throat”
+    - Throat
+  - Word history
+    - Old Czech hrdlo
+    - Proto-Slavic *gъrdlo
+    - Proto-Balto-Slavic *gúrˀtlan
+    - Proto-Indo-European *gʷr̥h₃tlóm
+  - Slavic cousins
+    - Polish gardło
+    - Slovak hrdlo
+    - Russian горло
+  - Related Czech words
+    - hrdelní: throaty
+    - hrdlička: turtle dove
+    - hrdlořez: cutthroat
+  - Sources
+    - [Wiktionary: hrdlo](https://en.wiktionary.org/wiki/hrdlo#Czech)
+    - [Wiktionary: Proto-Slavic *gъrdlo](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/g%D1%8Ardlo)

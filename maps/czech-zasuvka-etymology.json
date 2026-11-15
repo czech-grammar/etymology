@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech zásuvka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#tqazas",
+      "name": "Meaning: “drawer; socket”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7fvb5s",
+      "name": "Drawer; socket",
+      "x": -318,
+      "y": -255,
+      "parent": "#tqazas"
+    },
+    {
+      "@id": "#asdj2b",
+      "name": "Socket, power socket",
+      "x": 318,
+      "y": -255,
+      "parent": "#tqazas"
+    },
+    {
+      "@id": "#f6gpgk",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mpqkw4",
+      "name": "From zasouvat + -ka",
+      "x": 318,
+      "y": 255,
+      "parent": "#f6gpgk"
+    },
+    {
+      "@id": "#cxug7z",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hskusy",
+      "name": "Wiktionary: zásuvka",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/z%C3%A1suvka#Czech",
+      "parent": "#cxug7z"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

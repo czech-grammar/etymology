@@ -1,0 +1,21 @@
+category: B2 nouns
+aliases: poutník etymology, origin of poutník, poutník word origin, etymology of poutník
+- Czech poutník etymology
+  - Meaning: “pilgrim”
+    - Pilgrim
+    - Wayfarer
+  - Word history
+    - Old Czech pútník
+    - Proto-Slavic *pǫtьnikъ
+    - From *pǫtь + *-ьnikъ
+    - Built from pouť + -ník
+  - Slavic cousins
+    - Polish pątnik
+    - Slovak pútnik
+    - Russian путник
+  - Related Czech words
+    - souputník: fellow traveller
+    - pouť: pilgrimage
+  - Sources
+    - [Wiktionary: poutník](https://en.wiktionary.org/wiki/poutn%C3%ADk#Czech)
+    - [Wiktionary: Proto-Slavic *pǫtьnikъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/p%C7%ABt%D1%8Cnik%D1%8A)

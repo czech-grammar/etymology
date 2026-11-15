@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech půjčovna etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#bn3xzq",
+      "name": "Meaning: “rental shop”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v5muhi",
+      "name": "Rental shop",
+      "x": -390,
+      "y": -180,
+      "parent": "#bn3xzq"
+    },
+    {
+      "@id": "#f8sz9y",
+      "name": "Rental service, hire service",
+      "x": 0,
+      "y": -360,
+      "parent": "#bn3xzq"
+    },
+    {
+      "@id": "#up8bfb",
+      "name": "Word history",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qssvj6",
+      "name": "From půjčovat + -na",
+      "x": 390,
+      "y": -180,
+      "parent": "#up8bfb"
+    },
+    {
+      "@id": "#ptee6p",
+      "name": "Related Czech words",
+      "x": 115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tnu798",
+      "name": "autopůjčovna: car rental",
+      "x": 390,
+      "y": 180,
+      "parent": "#ptee6p"
+    },
+    {
+      "@id": "#yqe8vk",
+      "name": "půjčit: to lend",
+      "x": 0,
+      "y": 360,
+      "parent": "#ptee6p"
+    },
+    {
+      "@id": "#ez763s",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yt4pug",
+      "name": "Wiktionary: půjčovna",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/p%C5%AFj%C4%8Dovna#Czech",
+      "parent": "#ez763s"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

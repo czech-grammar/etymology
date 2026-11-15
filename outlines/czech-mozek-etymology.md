@@ -1,0 +1,21 @@
+category: B1 nouns
+aliases: mozek etymology, origin of mozek, mozek word origin, etymology of mozek
+- Czech mozek etymology
+  - Meaning: “brain”
+    - Brain
+  - Word history
+    - Old Czech mozk
+    - Proto-Slavic *mozgъ, “marrow”
+    - Proto-Balto-Slavic *masgás
+    - Proto-Indo-European *mosgʰós
+  - Slavic cousins
+    - Polish mózg
+    - Slovak mozog
+    - Russian мозг
+  - Related Czech words
+    - bezmozek: idiot
+    - mezimozek: diencephalon
+    - mozkovna: braincase
+  - Sources
+    - [Wiktionary: mozek](https://en.wiktionary.org/wiki/mozek#Czech)
+    - [Wiktionary: Proto-Slavic *mozgъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/mozg%D1%8A)

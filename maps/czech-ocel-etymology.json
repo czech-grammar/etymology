@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech ocel etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#86mqdu",
+      "name": "Meaning: “steel”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u8tat3",
+      "name": "Steel",
+      "x": -390,
+      "y": -180,
+      "parent": "#86mqdu"
+    },
+    {
+      "@id": "#nrvvwj",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rcgqfk",
+      "name": "Proto-Slavic *ocelь, *ocělь",
+      "x": 0,
+      "y": -360,
+      "parent": "#nrvvwj"
+    },
+    {
+      "@id": "#9rrde4",
+      "name": "Related Czech words",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jakyg6",
+      "name": "ocelárna: steelworks",
+      "x": 390,
+      "y": -180,
+      "parent": "#9rrde4"
+    },
+    {
+      "@id": "#m74gn8",
+      "name": "ocelář: steelworker",
+      "x": 390,
+      "y": 180,
+      "parent": "#9rrde4"
+    },
+    {
+      "@id": "#8pfw3x",
+      "name": "ocelářství: steel industry",
+      "x": 0,
+      "y": 360,
+      "parent": "#9rrde4"
+    },
+    {
+      "@id": "#4x2eix",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vqbw3g",
+      "name": "Wiktionary: ocel",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/ocel#Czech",
+      "parent": "#4x2eix"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

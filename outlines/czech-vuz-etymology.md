@@ -1,0 +1,22 @@
+category: A2 nouns
+aliases: vůz etymology, origin of vůz, vůz word origin, etymology of vůz
+- Czech vůz etymology
+  - Meaning: “car, wagon”
+    - Car, wagon
+    - Cart
+  - Word history
+    - Old Czech vóz
+    - Proto-Slavic *vozъ
+    - Proto-Balto-Slavic *waźas
+    - Proto-Indo-European *wóǵʰ-o-s
+  - Slavic cousins
+    - Polish wóz
+    - Slovak voz
+    - Russian воз
+  - Related Czech words
+    - podvozek: chassis
+    - vézt: to carry
+    - vozataj: carriage driver
+  - Sources
+    - [Wiktionary: vůz](https://en.wiktionary.org/wiki/v%C5%AFz#Czech)
+    - [Wiktionary: Proto-Slavic *vozъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/voz%D1%8A)

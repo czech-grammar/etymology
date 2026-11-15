@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech pult etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#hhkkgn",
+      "name": "Meaning: “counter”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9hs36h",
+      "name": "Counter",
+      "x": -225,
+      "y": -312,
+      "parent": "#hhkkgn"
+    },
+    {
+      "@id": "#7bmhua",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9wwp8c",
+      "name": "Borrowed from German Pult",
+      "x": 470,
+      "y": 0,
+      "parent": "#7bmhua"
+    },
+    {
+      "@id": "#sq7h4t",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w5gska",
+      "name": "Wiktionary: pult",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/pult#Czech",
+      "parent": "#sq7h4t"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

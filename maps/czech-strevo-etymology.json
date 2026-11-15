@@ -1,0 +1,183 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech střevo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#cs3vkz",
+      "name": "Meaning: “intestine, gut”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2cjp7n",
+      "name": "Intestine, gut",
+      "x": -428,
+      "y": -111,
+      "parent": "#cs3vkz"
+    },
+    {
+      "@id": "#479d7s",
+      "name": "Word history",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bjmp72",
+      "name": "Old Czech třěvo",
+      "x": -265,
+      "y": -291,
+      "parent": "#479d7s"
+    },
+    {
+      "@id": "#tjbefd",
+      "name": "Proto-Slavic *červo",
+      "x": 0,
+      "y": -360,
+      "parent": "#479d7s"
+    },
+    {
+      "@id": "#4hdjuv",
+      "name": "Proto-Balto-Slavic *ker-m-, *ker-w-",
+      "x": 265,
+      "y": -291,
+      "parent": "#479d7s"
+    },
+    {
+      "@id": "#5fszju",
+      "name": "Proto-Indo-European *(s)ker-, “to cut”",
+      "x": 428,
+      "y": -111,
+      "parent": "#479d7s"
+    },
+    {
+      "@id": "#s4d89f",
+      "name": "Slavic cousins",
+      "x": 135,
+      "y": 149,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x7k9d7",
+      "name": "Polish trzewa",
+      "x": 428,
+      "y": 111,
+      "parent": "#s4d89f"
+    },
+    {
+      "@id": "#sxqgzh",
+      "name": "Slovak črevo",
+      "x": 265,
+      "y": 291,
+      "parent": "#s4d89f"
+    },
+    {
+      "@id": "#gjhpqy",
+      "name": "Russian черёво",
+      "x": 0,
+      "y": 360,
+      "parent": "#s4d89f"
+    },
+    {
+      "@id": "#kqtbfq",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hjmw5x",
+      "name": "Wiktionary: střevo",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/st%C5%99evo#Czech",
+      "parent": "#kqtbfq"
+    },
+    {
+      "@id": "#znx8fr",
+      "name": "Wiktionary: Proto-Slavic *červo",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C4%8Dervo",
+      "parent": "#kqtbfq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    }
+  ],
+  "selectedNode": 0
+}

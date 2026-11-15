@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech scéna etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#v5uhxg",
+      "name": "Meaning: “stage; scene”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4amkw9",
+      "name": "Stage; scene",
+      "x": -390,
+      "y": -180,
+      "parent": "#v5uhxg"
+    },
+    {
+      "@id": "#yww82r",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5tjwt5",
+      "name": "From Ancient Greek σκηνή (skēnḗ)",
+      "x": 0,
+      "y": -360,
+      "parent": "#yww82r"
+    },
+    {
+      "@id": "#3wmqum",
+      "name": "Related Czech words",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5s52a8",
+      "name": "scenérie: scenery",
+      "x": 390,
+      "y": -180,
+      "parent": "#3wmqum"
+    },
+    {
+      "@id": "#6imgj4",
+      "name": "scénárista: scriptwriter",
+      "x": 390,
+      "y": 180,
+      "parent": "#3wmqum"
+    },
+    {
+      "@id": "#a7td4c",
+      "name": "scénář: script",
+      "x": 0,
+      "y": 360,
+      "parent": "#3wmqum"
+    },
+    {
+      "@id": "#fpy4qe",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p367ai",
+      "name": "Wiktionary: scéna",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/sc%C3%A9na#Czech",
+      "parent": "#fpy4qe"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

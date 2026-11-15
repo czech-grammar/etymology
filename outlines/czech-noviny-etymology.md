@@ -5,7 +5,7 @@ aliases: noviny etymology, origin of noviny, noviny word origin, etymology of no
     - Newspaper
     - Inflection of novina
   - Word history
-    - nový
+    - From nový
   - Related Czech words
     - novinář: journalist
   - Sources

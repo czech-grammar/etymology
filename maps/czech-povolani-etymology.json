@@ -19,92 +19,55 @@
     {
       "@id": "#rzehhm",
       "name": "Meaning: “profession”",
-      "x": -163,
-      "y": -130,
+      "x": 0,
+      "y": -184,
       "bgColor": "#D6E8FF",
       "parent": "#this"
     },
     {
       "@id": "#rx4d43",
       "name": "Profession",
-      "x": -416,
-      "y": -138,
+      "x": -318,
+      "y": -255,
       "parent": "#rzehhm"
     },
     {
       "@id": "#cftrkd",
       "name": "Verbal noun of povolat",
-      "x": -172,
-      "y": -333,
+      "x": 318,
+      "y": -255,
       "parent": "#rzehhm"
     },
     {
       "@id": "#p3j4jx",
       "name": "Word history",
       "x": 163,
-      "y": -130,
+      "y": 130,
       "bgColor": "#D9F2DC",
       "parent": "#this"
     },
     {
       "@id": "#isd2cj",
       "name": "From povolat + -ání",
-      "x": 172,
-      "y": -333,
+      "x": 318,
+      "y": 255,
       "parent": "#p3j4jx"
     },
     {
       "@id": "#9h7f57",
-      "name": "Root: Proto-Slavic *po-",
-      "x": 416,
-      "y": -138,
-      "parent": "#p3j4jx"
-    },
-    {
-      "@id": "#bzbxc2",
-      "name": "Cousins of the root *po-",
-      "x": 163,
+      "name": "Sources",
+      "x": -163,
       "y": 130,
       "bgColor": "#FFE1CC",
       "parent": "#this"
     },
     {
-      "@id": "#74wrcb",
-      "name": "Polish po-",
-      "x": 416,
-      "y": 138,
-      "parent": "#bzbxc2"
-    },
-    {
-      "@id": "#nbqjqk",
-      "name": "Russian по-",
-      "x": 172,
-      "y": 333,
-      "parent": "#bzbxc2"
-    },
-    {
-      "@id": "#m8ppua",
-      "name": "Sources",
-      "x": -163,
-      "y": 130,
-      "bgColor": "#FFD6E8",
-      "parent": "#this"
-    },
-    {
-      "@id": "#fjdc47",
+      "@id": "#bzbxc2",
       "name": "Wiktionary: povolání",
-      "x": -172,
-      "y": 333,
+      "x": -318,
+      "y": 255,
       "link": "https://en.wiktionary.org/wiki/povol%C3%A1n%C3%AD#Czech",
-      "parent": "#m8ppua"
-    },
-    {
-      "@id": "#7y69z9",
-      "name": "Wiktionary: Proto-Slavic *po-",
-      "x": -416,
-      "y": 138,
-      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/po-",
-      "parent": "#m8ppua"
+      "parent": "#9h7f57"
     }
   ],
   "connections": [
@@ -129,32 +92,12 @@
       "end": 5
     },
     {
-      "start": 4,
+      "start": 0,
       "end": 6
     },
     {
-      "start": 0,
+      "start": 6,
       "end": 7
-    },
-    {
-      "start": 7,
-      "end": 8
-    },
-    {
-      "start": 7,
-      "end": 9
-    },
-    {
-      "start": 0,
-      "end": 10
-    },
-    {
-      "start": 10,
-      "end": 11
-    },
-    {
-      "start": 10,
-      "end": 12
     }
   ],
   "selectedNode": 0

@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech píseň etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#q6q566",
+      "name": "Meaning: “song”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nfy52f",
+      "name": "Song",
+      "x": -432,
+      "y": -101,
+      "parent": "#q6q566"
+    },
+    {
+      "@id": "#ubna4f",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xz9u4y",
+      "name": "Old Czech piesn",
+      "x": -295,
+      "y": -272,
+      "parent": "#ubna4f"
+    },
+    {
+      "@id": "#b7m9du",
+      "name": "Proto-Slavic *pěsnь",
+      "x": -64,
+      "y": -356,
+      "parent": "#ubna4f"
+    },
+    {
+      "@id": "#ws8gfw",
+      "name": "From *pěti, “to sing” + *-snь",
+      "x": 211,
+      "y": -372,
+      "parent": "#ubna4f"
+    },
+    {
+      "@id": "#6swu4a",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f9fujz",
+      "name": "Polish pieśń",
+      "x": 379,
+      "y": -195,
+      "parent": "#6swu4a"
+    },
+    {
+      "@id": "#vskhjf",
+      "name": "Slovak pieseň",
+      "x": 450,
+      "y": 0,
+      "parent": "#6swu4a"
+    },
+    {
+      "@id": "#6tvbvj",
+      "name": "Russian песня",
+      "x": 379,
+      "y": 195,
+      "parent": "#6swu4a"
+    },
+    {
+      "@id": "#extvkd",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#khegiv",
+      "name": "pět: five",
+      "x": 187,
+      "y": 327,
+      "parent": "#extvkd"
+    },
+    {
+      "@id": "#djuahs",
+      "name": "zpívat: to sing",
+      "x": -64,
+      "y": 356,
+      "parent": "#extvkd"
+    },
+    {
+      "@id": "#hhq7pz",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pj2z73",
+      "name": "Wiktionary: píseň",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/p%C3%ADse%C5%88#Czech",
+      "parent": "#hhq7pz"
+    },
+    {
+      "@id": "#grh95z",
+      "name": "Wiktionary: Proto-Slavic *pěsnь",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/p%C4%9Bsn%D1%8C",
+      "parent": "#hhq7pz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

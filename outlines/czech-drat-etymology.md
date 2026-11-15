@@ -1,0 +1,21 @@
+category: B1 nouns
+aliases: drát etymology, origin of drát, drát word origin, etymology of drát
+- Czech drát etymology
+  - Meaning: “wire”
+    - Wire
+    - To rip
+  - Word history
+    - Old Czech dráti
+    - Proto-Slavic *dьràti, “to tear”
+    - Proto-Balto-Slavic *dírāˀtei
+    - Proto-Indo-European *derH-, “to split”
+  - Slavic cousins
+    - Slovak drať
+    - Russian драть
+  - Related Czech words
+    - rozedrat: to scrape
+    - dráteník: tinker
+    - drátěnka: steel wool
+  - Sources
+    - [Wiktionary: drát](https://en.wiktionary.org/wiki/dr%C3%A1t#Czech)
+    - [Wiktionary: Proto-Slavic *dьrati](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/d%D1%8Crati)

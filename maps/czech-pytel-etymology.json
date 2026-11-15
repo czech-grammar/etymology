@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech pytel etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#i63mub",
+      "name": "Meaning: “sack, bag”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8hi76k",
+      "name": "Sack, bag",
+      "x": -390,
+      "y": -180,
+      "parent": "#i63mub"
+    },
+    {
+      "@id": "#zgsnv3",
+      "name": "Bag, sack",
+      "x": 0,
+      "y": -360,
+      "parent": "#i63mub"
+    },
+    {
+      "@id": "#6wch6g",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kx5586",
+      "name": "Old Czech pytel",
+      "x": 390,
+      "y": -180,
+      "parent": "#6wch6g"
+    },
+    {
+      "@id": "#5559ak",
+      "name": "Middle High German piutel",
+      "x": 390,
+      "y": 180,
+      "parent": "#6wch6g"
+    },
+    {
+      "@id": "#puj9tb",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6pqe4k",
+      "name": "pytlák: poacher",
+      "x": 0,
+      "y": 360,
+      "parent": "#puj9tb"
+    },
+    {
+      "@id": "#5e9dd5",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sbsi2b",
+      "name": "Wiktionary: pytel",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/pytel#Czech",
+      "parent": "#5e9dd5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

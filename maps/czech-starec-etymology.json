@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech stařec etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#zevham",
+      "name": "Meaning: “old man”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a8e2ku",
+      "name": "Old man",
+      "x": -432,
+      "y": -101,
+      "parent": "#zevham"
+    },
+    {
+      "@id": "#atpqpg",
+      "name": "Word history",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yyag7n",
+      "name": "Old Czech stařec",
+      "x": -295,
+      "y": -272,
+      "parent": "#atpqpg"
+    },
+    {
+      "@id": "#ss4ii4",
+      "name": "Proto-Slavic *starьcь",
+      "x": -64,
+      "y": -356,
+      "parent": "#atpqpg"
+    },
+    {
+      "@id": "#33g9pn",
+      "name": "From *starъ + *-ьcь",
+      "x": 187,
+      "y": -327,
+      "parent": "#atpqpg"
+    },
+    {
+      "@id": "#txcm84",
+      "name": "Built from starý + -ec",
+      "x": 379,
+      "y": -195,
+      "parent": "#atpqpg"
+    },
+    {
+      "@id": "#q8kvcb",
+      "name": "Slavic cousins",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d72hu8",
+      "name": "Polish starzec",
+      "x": 450,
+      "y": 0,
+      "parent": "#q8kvcb"
+    },
+    {
+      "@id": "#89a27u",
+      "name": "Slovak starec",
+      "x": 379,
+      "y": 195,
+      "parent": "#q8kvcb"
+    },
+    {
+      "@id": "#ysbe83",
+      "name": "Russian старец",
+      "x": 187,
+      "y": 327,
+      "parent": "#q8kvcb"
+    },
+    {
+      "@id": "#eaqnzm",
+      "name": "Related Czech words",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fqd7qd",
+      "name": "stařena: old woman",
+      "x": -64,
+      "y": 356,
+      "parent": "#eaqnzm"
+    },
+    {
+      "@id": "#8h5uua",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8pgpkb",
+      "name": "Wiktionary: stařec",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/sta%C5%99ec#Czech",
+      "parent": "#8h5uua"
+    },
+    {
+      "@id": "#r2eibv",
+      "name": "Wiktionary: Proto-Slavic *starьcь",
+      "x": -451,
+      "y": 105,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/star%D1%8Cc%D1%8C",
+      "parent": "#8h5uua"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

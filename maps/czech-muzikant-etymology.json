@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech muzikant etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#nk75ky",
+      "name": "Meaning: “musician”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#btg3t4",
+      "name": "Musician",
+      "x": -390,
+      "y": -180,
+      "parent": "#nk75ky"
+    },
+    {
+      "@id": "#2eb6cn",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iq79aw",
+      "name": "Borrowed from German Musikant",
+      "x": 0,
+      "y": -360,
+      "parent": "#2eb6cn"
+    },
+    {
+      "@id": "#prwipt",
+      "name": "Related Czech words",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ix5be3",
+      "name": "múza: muse",
+      "x": 390,
+      "y": -180,
+      "parent": "#prwipt"
+    },
+    {
+      "@id": "#ksard8",
+      "name": "muzika: music",
+      "x": 390,
+      "y": 180,
+      "parent": "#prwipt"
+    },
+    {
+      "@id": "#5wz4si",
+      "name": "muzikál: musical",
+      "x": 0,
+      "y": 360,
+      "parent": "#prwipt"
+    },
+    {
+      "@id": "#ndwsz7",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4eeyv8",
+      "name": "Wiktionary: muzikant",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/muzikant#Czech",
+      "parent": "#ndwsz7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

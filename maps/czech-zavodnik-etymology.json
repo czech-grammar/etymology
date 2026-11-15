@@ -1,0 +1,149 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech závodník etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qcrzuw",
+      "name": "Meaning: “racer, competitor”",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q35we5",
+      "name": "Racer, competitor",
+      "x": -405,
+      "y": -156,
+      "parent": "#qcrzuw"
+    },
+    {
+      "@id": "#nde65s",
+      "name": "Word history",
+      "x": 143,
+      "y": -144,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kmhvu7",
+      "name": "Old Czech závodník",
+      "x": -100,
+      "y": -351,
+      "parent": "#nde65s"
+    },
+    {
+      "@id": "#ana7hq",
+      "name": "Proto-Slavic *zavodьnikъ",
+      "x": 281,
+      "y": -281,
+      "parent": "#nde65s"
+    },
+    {
+      "@id": "#9qkef8",
+      "name": "Built from závod, “competition” + -ník",
+      "x": 450,
+      "y": 0,
+      "parent": "#nde65s"
+    },
+    {
+      "@id": "#2mfyrc",
+      "name": "Related Czech words",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2x39va",
+      "name": "závod: competition",
+      "x": 281,
+      "y": 281,
+      "parent": "#2mfyrc"
+    },
+    {
+      "@id": "#w3nae3",
+      "name": "závodiště: racetrack",
+      "x": -100,
+      "y": 351,
+      "parent": "#2mfyrc"
+    },
+    {
+      "@id": "#hmytq3",
+      "name": "Sources",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b3xayz",
+      "name": "Wiktionary: závodník",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wiktionary.org/wiki/z%C3%A1vodn%C3%ADk#Czech",
+      "parent": "#hmytq3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

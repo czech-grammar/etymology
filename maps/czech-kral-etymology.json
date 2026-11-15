@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech král etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#mewvpu",
+      "name": "Meaning: “king”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fhb7fk",
+      "name": "King",
+      "x": -435,
+      "y": -93,
+      "parent": "#mewvpu"
+    },
+    {
+      "@id": "#v228hf",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rbb4tc",
+      "name": "Old Czech král",
+      "x": -318,
+      "y": -255,
+      "parent": "#v228hf"
+    },
+    {
+      "@id": "#vv4epm",
+      "name": "Proto-Slavic *korľь which comes",
+      "x": -116,
+      "y": -348,
+      "parent": "#v228hf"
+    },
+    {
+      "@id": "#zihf7x",
+      "name": "Old High German Karl",
+      "x": 136,
+      "y": -408,
+      "parent": "#v228hf"
+    },
+    {
+      "@id": "#p7q75c",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ksa727",
+      "name": "Polish król",
+      "x": 318,
+      "y": -255,
+      "parent": "#p7q75c"
+    },
+    {
+      "@id": "#h6uryh",
+      "name": "Slovak kráľ",
+      "x": 435,
+      "y": -93,
+      "parent": "#p7q75c"
+    },
+    {
+      "@id": "#72abxe",
+      "name": "Russian король",
+      "x": 435,
+      "y": 93,
+      "parent": "#p7q75c"
+    },
+    {
+      "@id": "#ayx899",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9q47ea",
+      "name": "královrah: regicide",
+      "x": 318,
+      "y": 255,
+      "parent": "#ayx899"
+    },
+    {
+      "@id": "#hgri45",
+      "name": "kralevic: crown prince",
+      "x": 116,
+      "y": 348,
+      "parent": "#ayx899"
+    },
+    {
+      "@id": "#kye4tk",
+      "name": "králík: rabbit",
+      "x": -116,
+      "y": 348,
+      "parent": "#ayx899"
+    },
+    {
+      "@id": "#vxensn",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sxptxd",
+      "name": "Wiktionary: král",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/kr%C3%A1l#Czech",
+      "parent": "#vxensn"
+    },
+    {
+      "@id": "#r6ajg2",
+      "name": "Wiktionary: Proto-Slavic *korľь",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kor%C4%BE%D1%8C",
+      "parent": "#vxensn"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

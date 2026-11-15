@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech jehla etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#tpsyed",
+      "name": "Meaning: “needle”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dvp9bz",
+      "name": "Needle",
+      "x": -432,
+      "y": -101,
+      "parent": "#tpsyed"
+    },
+    {
+      "@id": "#w9kr49",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jkwude",
+      "name": "Old Czech jehla",
+      "x": -295,
+      "y": -272,
+      "parent": "#w9kr49"
+    },
+    {
+      "@id": "#xdb88r",
+      "name": "Proto-Slavic *jьgъla",
+      "x": -64,
+      "y": -356,
+      "parent": "#w9kr49"
+    },
+    {
+      "@id": "#8rgtxi",
+      "name": "From *jьgo, “yoke” + *-ъla",
+      "x": 203,
+      "y": -357,
+      "parent": "#w9kr49"
+    },
+    {
+      "@id": "#ebj3hb",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w5p7hg",
+      "name": "Polish igła",
+      "x": 379,
+      "y": -195,
+      "parent": "#ebj3hb"
+    },
+    {
+      "@id": "#u3bhh5",
+      "name": "Slovak ihla",
+      "x": 450,
+      "y": 0,
+      "parent": "#ebj3hb"
+    },
+    {
+      "@id": "#fqbf56",
+      "name": "Russian игла",
+      "x": 379,
+      "y": 195,
+      "parent": "#ebj3hb"
+    },
+    {
+      "@id": "#drap2r",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#982ara",
+      "name": "jehličí: needles",
+      "x": 187,
+      "y": 327,
+      "parent": "#drap2r"
+    },
+    {
+      "@id": "#6ipbxx",
+      "name": "jehlan: pyramid",
+      "x": -64,
+      "y": 356,
+      "parent": "#drap2r"
+    },
+    {
+      "@id": "#5vaatp",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sdym8d",
+      "name": "Wiktionary: jehla",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/jehla#Czech",
+      "parent": "#5vaatp"
+    },
+    {
+      "@id": "#35p8xg",
+      "name": "Wiktionary: Proto-Slavic *jьgъla",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/j%D1%8Cg%D1%8Ala",
+      "parent": "#5vaatp"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

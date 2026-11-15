@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech nůžky etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#nm6r2q",
+      "name": "Meaning: “scissors”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d98as6",
+      "name": "Scissors",
+      "x": -225,
+      "y": -312,
+      "parent": "#nm6r2q"
+    },
+    {
+      "@id": "#9iemjc",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#633552",
+      "name": "Old Czech nóžky",
+      "x": 450,
+      "y": 0,
+      "parent": "#9iemjc"
+    },
+    {
+      "@id": "#kpn2gh",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8iqvfw",
+      "name": "Wiktionary: nůžky",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/n%C5%AF%C5%BEky#Czech",
+      "parent": "#kpn2gh"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

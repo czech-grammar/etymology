@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech vítěz etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qudxg8",
+      "name": "Meaning: “winner”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uupbin",
+      "name": "Winner",
+      "x": -428,
+      "y": -111,
+      "parent": "#qudxg8"
+    },
+    {
+      "@id": "#4fcvrr",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hdadvn",
+      "name": "Old Czech vítěz",
+      "x": -265,
+      "y": -291,
+      "parent": "#4fcvrr"
+    },
+    {
+      "@id": "#ttspu2",
+      "name": "Proto-Slavic *vitędzь",
+      "x": 0,
+      "y": -360,
+      "parent": "#4fcvrr"
+    },
+    {
+      "@id": "#rdfyeg",
+      "name": "Deeper origin uncertain",
+      "x": 265,
+      "y": -291,
+      "parent": "#4fcvrr"
+    },
+    {
+      "@id": "#vhfvxc",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jgp92y",
+      "name": "Polish wiciądz",
+      "x": 428,
+      "y": -111,
+      "parent": "#vhfvxc"
+    },
+    {
+      "@id": "#nscvmu",
+      "name": "Slovak víťaz",
+      "x": 428,
+      "y": 111,
+      "parent": "#vhfvxc"
+    },
+    {
+      "@id": "#gu3n2y",
+      "name": "Russian витязь",
+      "x": 265,
+      "y": 291,
+      "parent": "#vhfvxc"
+    },
+    {
+      "@id": "#if6ajp",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ztxspr",
+      "name": "vítězit: to win",
+      "x": 0,
+      "y": 360,
+      "parent": "#if6ajp"
+    },
+    {
+      "@id": "#kqumns",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7h7zk2",
+      "name": "Wiktionary: vítěz",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/v%C3%ADt%C4%9Bz#Czech",
+      "parent": "#kqumns"
+    },
+    {
+      "@id": "#bmxzre",
+      "name": "Wiktionary: Proto-Slavic *vitędzь",
+      "x": -447,
+      "y": 116,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/vit%C4%99dz%D1%8C",
+      "parent": "#kqumns"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

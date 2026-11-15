@@ -1,0 +1,194 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech ulička etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#dissqj",
+      "name": "Meaning: “alley, lane”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#igm6uw",
+      "name": "Alley, lane",
+      "x": -432,
+      "y": -101,
+      "parent": "#dissqj"
+    },
+    {
+      "@id": "#is9vey",
+      "name": "Word history",
+      "x": 96,
+      "y": -167,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4vnss9",
+      "name": "From ulice + -ka",
+      "x": -295,
+      "y": -272,
+      "parent": "#is9vey"
+    },
+    {
+      "@id": "#e9426e",
+      "name": "Root: Proto-Slavic *ulica",
+      "x": -64,
+      "y": -356,
+      "parent": "#is9vey"
+    },
+    {
+      "@id": "#cnb6ae",
+      "name": "From *ula + *-ica",
+      "x": 187,
+      "y": -327,
+      "parent": "#is9vey"
+    },
+    {
+      "@id": "#2aqy3f",
+      "name": "Proto-Balto-Slavic *aul-",
+      "x": 379,
+      "y": -195,
+      "parent": "#is9vey"
+    },
+    {
+      "@id": "#3hg7nc",
+      "name": "Proto-Indo-European *h₂ewlós, “hollowed-out object”",
+      "x": 450,
+      "y": 0,
+      "parent": "#is9vey"
+    },
+    {
+      "@id": "#de7v8t",
+      "name": "Cousins of the root *ulica",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q22qjw",
+      "name": "Polish ulica",
+      "x": 379,
+      "y": 195,
+      "parent": "#de7v8t"
+    },
+    {
+      "@id": "#3vawre",
+      "name": "Slovak ulica",
+      "x": 187,
+      "y": 327,
+      "parent": "#de7v8t"
+    },
+    {
+      "@id": "#jqnnqg",
+      "name": "Russian улица",
+      "x": -64,
+      "y": 356,
+      "parent": "#de7v8t"
+    },
+    {
+      "@id": "#69aneg",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4abbj8",
+      "name": "Wiktionary: ulička",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/uli%C4%8Dka#Czech",
+      "parent": "#69aneg"
+    },
+    {
+      "@id": "#brat2m",
+      "name": "Wiktionary: Proto-Slavic *ulica",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/ulica",
+      "parent": "#69aneg"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

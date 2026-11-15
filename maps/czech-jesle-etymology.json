@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech jesle etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#x6mumt",
+      "name": "Meaning: “nursery, crèche”",
+      "x": -176,
+      "y": -118,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xct3sm",
+      "name": "Nursery, crèche",
+      "x": -423,
+      "y": -123,
+      "parent": "#x6mumt"
+    },
+    {
+      "@id": "#fiw9zb",
+      "name": "Hayrack, crib",
+      "x": -225,
+      "y": -312,
+      "parent": "#x6mumt"
+    },
+    {
+      "@id": "#6xk22k",
+      "name": "Word history",
+      "x": 115,
+      "y": -159,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yck9d6",
+      "name": "Proto-Slavic *jasli",
+      "x": 78,
+      "y": -355,
+      "parent": "#6xk22k"
+    },
+    {
+      "@id": "#ypydg2",
+      "name": "Proto-Indo-European *h₁ed-, “to eat”",
+      "x": 345,
+      "y": -231,
+      "parent": "#6xk22k"
+    },
+    {
+      "@id": "#w38wfa",
+      "name": "Slavic cousins",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4eghx8",
+      "name": "Polish jasła",
+      "x": 450,
+      "y": 0,
+      "parent": "#w38wfa"
+    },
+    {
+      "@id": "#mk3ede",
+      "name": "Slovak jasle",
+      "x": 345,
+      "y": 231,
+      "parent": "#w38wfa"
+    },
+    {
+      "@id": "#8cxxux",
+      "name": "Russian ясли",
+      "x": 78,
+      "y": 355,
+      "parent": "#w38wfa"
+    },
+    {
+      "@id": "#yczd7u",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k8j73t",
+      "name": "Wiktionary: jesle",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/jesle#Czech",
+      "parent": "#yczd7u"
+    },
+    {
+      "@id": "#bkppfx",
+      "name": "Wiktionary: Proto-Slavic *jasli",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/jasli",
+      "parent": "#yczd7u"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

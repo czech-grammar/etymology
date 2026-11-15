@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech vrchol etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ypsbbw",
+      "name": "Meaning: “peak, summit; top”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#67sn7x",
+      "name": "Peak, summit; top",
+      "x": -473,
+      "y": -101,
+      "parent": "#ypsbbw"
+    },
+    {
+      "@id": "#tvj7u3",
+      "name": "Peak, summit, top",
+      "x": -318,
+      "y": -255,
+      "parent": "#ypsbbw"
+    },
+    {
+      "@id": "#2adskv",
+      "name": "Word history",
+      "x": 60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ezd35j",
+      "name": "Proto-Slavic *vьrxolъ",
+      "x": -116,
+      "y": -348,
+      "parent": "#2adskv"
+    },
+    {
+      "@id": "#4rr6bc",
+      "name": "By surface analysis, *vьrxъ + *-olъ",
+      "x": 136,
+      "y": -408,
+      "parent": "#2adskv"
+    },
+    {
+      "@id": "#is7y45",
+      "name": "Built from vrch + -ol",
+      "x": 318,
+      "y": -255,
+      "parent": "#2adskv"
+    },
+    {
+      "@id": "#phdjas",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cczpdz",
+      "name": "Polish wierzchołek",
+      "x": 435,
+      "y": -93,
+      "parent": "#phdjas"
+    },
+    {
+      "@id": "#vjvbjd",
+      "name": "Slovak vrchol",
+      "x": 435,
+      "y": 93,
+      "parent": "#phdjas"
+    },
+    {
+      "@id": "#3h5yjw",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mnry7d",
+      "name": "vrcholný: top",
+      "x": 318,
+      "y": 255,
+      "parent": "#3h5yjw"
+    },
+    {
+      "@id": "#pd5wy8",
+      "name": "vrch: hill",
+      "x": 116,
+      "y": 348,
+      "parent": "#3h5yjw"
+    },
+    {
+      "@id": "#e4tm6s",
+      "name": "vrcholek: peak",
+      "x": -116,
+      "y": 348,
+      "parent": "#3h5yjw"
+    },
+    {
+      "@id": "#tm4gxp",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4pviy7",
+      "name": "Wiktionary: vrchol",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/vrchol#Czech",
+      "parent": "#tm4gxp"
+    },
+    {
+      "@id": "#8vcayu",
+      "name": "Wiktionary: Proto-Slavic *vьrxolъ",
+      "x": -454,
+      "y": 97,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/v%D1%8Crxol%D1%8A",
+      "parent": "#tm4gxp"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,149 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech guma etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rjxdpj",
+      "name": "Meaning: “rubber, eraser”",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vu7qzm",
+      "name": "Rubber, eraser",
+      "x": -405,
+      "y": -156,
+      "parent": "#rjxdpj"
+    },
+    {
+      "@id": "#eiiwt3",
+      "name": "Word history",
+      "x": 143,
+      "y": -144,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v27crg",
+      "name": "Borrowed from German Gumma",
+      "x": -100,
+      "y": -351,
+      "parent": "#eiiwt3"
+    },
+    {
+      "@id": "#7yiuxh",
+      "name": "New Latin gumma",
+      "x": 281,
+      "y": -281,
+      "parent": "#eiiwt3"
+    },
+    {
+      "@id": "#4i3iw9",
+      "name": "Latin gummi",
+      "x": 450,
+      "y": 0,
+      "parent": "#eiiwt3"
+    },
+    {
+      "@id": "#jk5p5i",
+      "name": "Related Czech words",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#drjpjw",
+      "name": "gumárna: rubber factory",
+      "x": 281,
+      "y": 281,
+      "parent": "#jk5p5i"
+    },
+    {
+      "@id": "#9gd8up",
+      "name": "gumový: rubber",
+      "x": -100,
+      "y": 351,
+      "parent": "#jk5p5i"
+    },
+    {
+      "@id": "#x8cj3y",
+      "name": "Sources",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ehhzqr",
+      "name": "Wiktionary: guma",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wiktionary.org/wiki/guma#Czech",
+      "parent": "#x8cj3y"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

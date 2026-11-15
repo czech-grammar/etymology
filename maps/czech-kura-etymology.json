@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kůra etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#wgkqen",
+      "name": "Meaning: “bark; rind, crust”",
+      "x": -242,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4iy3e4",
+      "name": "Bark; rind, crust",
+      "x": -494,
+      "y": -98,
+      "parent": "#wgkqen"
+    },
+    {
+      "@id": "#aq6jwb",
+      "name": "Word history",
+      "x": -28,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xyw8da",
+      "name": "Old Czech kóra",
+      "x": -337,
+      "y": -239,
+      "parent": "#aq6jwb"
+    },
+    {
+      "@id": "#nqjxhk",
+      "name": "Proto-Slavic *kora",
+      "x": -160,
+      "y": -337,
+      "parent": "#aq6jwb"
+    },
+    {
+      "@id": "#dcewe2",
+      "name": "Proto-Balto-Slavic *karā́ˀ",
+      "x": 58,
+      "y": -389,
+      "parent": "#aq6jwb"
+    },
+    {
+      "@id": "#ct4yjn",
+      "name": "Proto-Indo-European *(s)kor-eh₂",
+      "x": 256,
+      "y": -296,
+      "parent": "#aq6jwb"
+    },
+    {
+      "@id": "#zfetc7",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kjgddg",
+      "name": "Polish kora",
+      "x": 398,
+      "y": -167,
+      "parent": "#zfetc7"
+    },
+    {
+      "@id": "#dskgmt",
+      "name": "Slovak kôra",
+      "x": 450,
+      "y": 0,
+      "parent": "#zfetc7"
+    },
+    {
+      "@id": "#gux7x9",
+      "name": "Russian кора",
+      "x": 398,
+      "y": 167,
+      "parent": "#zfetc7"
+    },
+    {
+      "@id": "#fyj5fr",
+      "name": "Related Czech words",
+      "x": 28,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zy476y",
+      "name": "kůrový: bark",
+      "x": 256,
+      "y": 296,
+      "parent": "#fyj5fr"
+    },
+    {
+      "@id": "#gm5h44",
+      "name": "korek: cork",
+      "x": 54,
+      "y": 357,
+      "parent": "#fyj5fr"
+    },
+    {
+      "@id": "#32rwpx",
+      "name": "korýš: crustacean",
+      "x": -160,
+      "y": 337,
+      "parent": "#fyj5fr"
+    },
+    {
+      "@id": "#gzwjt9",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e5tmaz",
+      "name": "Wiktionary: kůra",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/k%C5%AFra#Czech",
+      "parent": "#gzwjt9"
+    },
+    {
+      "@id": "#2byc8u",
+      "name": "Wiktionary: Proto-Slavic *kora",
+      "x": -437,
+      "y": 86,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kora",
+      "parent": "#gzwjt9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

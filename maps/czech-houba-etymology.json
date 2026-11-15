@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech houba etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#cc9zg3",
+      "name": "Meaning: “mushroom; sponge”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c755df",
+      "name": "Mushroom; sponge",
+      "x": -454,
+      "y": -97,
+      "parent": "#cc9zg3"
+    },
+    {
+      "@id": "#paipb4",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d2tdup",
+      "name": "Old Czech húba",
+      "x": -318,
+      "y": -255,
+      "parent": "#paipb4"
+    },
+    {
+      "@id": "#ydxraf",
+      "name": "Proto-Slavic *gǫba",
+      "x": -116,
+      "y": -348,
+      "parent": "#paipb4"
+    },
+    {
+      "@id": "#jvf6u8",
+      "name": "Deeper origin uncertain",
+      "x": 126,
+      "y": -378,
+      "parent": "#paipb4"
+    },
+    {
+      "@id": "#eqb4wd",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bckvaa",
+      "name": "Polish gęba",
+      "x": 318,
+      "y": -255,
+      "parent": "#eqb4wd"
+    },
+    {
+      "@id": "#q2fjuk",
+      "name": "Slovak huba, “mushroom”",
+      "x": 454,
+      "y": -97,
+      "parent": "#eqb4wd"
+    },
+    {
+      "@id": "#4nebts",
+      "name": "Russian губа",
+      "x": 435,
+      "y": 93,
+      "parent": "#eqb4wd"
+    },
+    {
+      "@id": "#3bivb7",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ie9z7z",
+      "name": "houbařský: mushrooming",
+      "x": 318,
+      "y": 255,
+      "parent": "#3bivb7"
+    },
+    {
+      "@id": "#azfw5z",
+      "name": "houbový: mushroom",
+      "x": 116,
+      "y": 348,
+      "parent": "#3bivb7"
+    },
+    {
+      "@id": "#i8q4gt",
+      "name": "houbař: mushroom picker",
+      "x": -121,
+      "y": 363,
+      "parent": "#3bivb7"
+    },
+    {
+      "@id": "#rrheek",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2yvmcz",
+      "name": "Wiktionary: houba",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/houba#Czech",
+      "parent": "#rrheek"
+    },
+    {
+      "@id": "#9u7vgv",
+      "name": "Wiktionary: Proto-Slavic *gǫba",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/g%C7%ABba",
+      "parent": "#rrheek"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

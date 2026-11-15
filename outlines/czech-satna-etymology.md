@@ -1,0 +1,21 @@
+category: A2 nouns
+aliases: šatna etymology, origin of šatna, šatna word origin, etymology of šatna
+- Czech šatna etymology
+  - Meaning: “cloakroom, changing room”
+    - Cloakroom, changing room
+    - Dressing room, changing room
+  - Word history
+    - From šat + -na
+    - Root: Proto-Slavic *šata
+    - Borrowed from Proto-West Germanic *hāt, “garment”
+  - Cousins of the root *šata
+    - Polish szata
+    - Slovak šata
+    - Russian шата
+  - Related Czech words
+    - šatnář: male cloakroom attendant
+    - šatnářka: female cloakroom attendant
+    - šat: clothing
+  - Sources
+    - [Wiktionary: šatna](https://en.wiktionary.org/wiki/%C5%A1atna#Czech)
+    - [Wiktionary: Proto-Slavic *šata](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C5%A1ata)

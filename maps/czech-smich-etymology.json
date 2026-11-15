@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech smích etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#u7bazn",
+      "name": "Meaning: “laughter”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#itycvk",
+      "name": "Laughter",
+      "x": -432,
+      "y": -101,
+      "parent": "#u7bazn"
+    },
+    {
+      "@id": "#hv4fi5",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xhhjnp",
+      "name": "Old Czech smiech",
+      "x": -295,
+      "y": -272,
+      "parent": "#hv4fi5"
+    },
+    {
+      "@id": "#2266pz",
+      "name": "Proto-Slavic *směxъ",
+      "x": -64,
+      "y": -356,
+      "parent": "#hv4fi5"
+    },
+    {
+      "@id": "#6wytkg",
+      "name": "From *smьjati + *-xъ",
+      "x": 187,
+      "y": -327,
+      "parent": "#hv4fi5"
+    },
+    {
+      "@id": "#wna37g",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d2mzfy",
+      "name": "Polish śmiech",
+      "x": 379,
+      "y": -195,
+      "parent": "#wna37g"
+    },
+    {
+      "@id": "#7q39md",
+      "name": "Slovak smiech",
+      "x": 450,
+      "y": 0,
+      "parent": "#wna37g"
+    },
+    {
+      "@id": "#y8z6gx",
+      "name": "Russian смех",
+      "x": 379,
+      "y": 195,
+      "parent": "#wna37g"
+    },
+    {
+      "@id": "#ztgt74",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2876k5",
+      "name": "posměšek: a jeer",
+      "x": 187,
+      "y": 327,
+      "parent": "#ztgt74"
+    },
+    {
+      "@id": "#r4cxze",
+      "name": "úsměv: smile",
+      "x": -64,
+      "y": 356,
+      "parent": "#ztgt74"
+    },
+    {
+      "@id": "#9adjk3",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ykk999",
+      "name": "Wiktionary: smích",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/sm%C3%ADch#Czech",
+      "parent": "#9adjk3"
+    },
+    {
+      "@id": "#6qy7xc",
+      "name": "Wiktionary: Proto-Slavic *směxъ",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/sm%C4%9Bx%D1%8A",
+      "parent": "#9adjk3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

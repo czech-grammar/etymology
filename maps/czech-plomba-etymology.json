@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech plomba etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2kbqar",
+      "name": "Meaning: “filling (tooth)”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c4uvbx",
+      "name": "Filling (tooth)",
+      "x": -225,
+      "y": -312,
+      "parent": "#2kbqar"
+    },
+    {
+      "@id": "#nbyp6e",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3rjy9y",
+      "name": "Borrowed from German Plombe",
+      "x": 470,
+      "y": 0,
+      "parent": "#nbyp6e"
+    },
+    {
+      "@id": "#agpwxu",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ywfzaj",
+      "name": "Wiktionary: plomba",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/plomba#Czech",
+      "parent": "#agpwxu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

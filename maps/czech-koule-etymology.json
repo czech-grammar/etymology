@@ -1,0 +1,149 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech koule etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ac4eax",
+      "name": "Meaning: “ball, sphere”",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fkqjy9",
+      "name": "Ball, sphere",
+      "x": -405,
+      "y": -156,
+      "parent": "#ac4eax"
+    },
+    {
+      "@id": "#kiaf82",
+      "name": "Word history",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5b3viq",
+      "name": "Old Czech kule",
+      "x": -100,
+      "y": -351,
+      "parent": "#kiaf82"
+    },
+    {
+      "@id": "#xeazk8",
+      "name": "Middle High German kūle",
+      "x": 281,
+      "y": -281,
+      "parent": "#kiaf82"
+    },
+    {
+      "@id": "#um35ve",
+      "name": "Related Czech words",
+      "x": 143,
+      "y": 144,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nhanrq",
+      "name": "kulový: spheres",
+      "x": 450,
+      "y": 0,
+      "parent": "#um35ve"
+    },
+    {
+      "@id": "#maqyqe",
+      "name": "kulečník: billiards",
+      "x": 281,
+      "y": 281,
+      "parent": "#um35ve"
+    },
+    {
+      "@id": "#43ey3p",
+      "name": "kulka: bullet",
+      "x": -100,
+      "y": 351,
+      "parent": "#um35ve"
+    },
+    {
+      "@id": "#36yv5m",
+      "name": "Sources",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b83q9p",
+      "name": "Wiktionary: koule",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wiktionary.org/wiki/koule#Czech",
+      "parent": "#36yv5m"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

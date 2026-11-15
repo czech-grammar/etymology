@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech obloha etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7y44ri",
+      "name": "Meaning: “sky”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kk86nu",
+      "name": "Sky",
+      "x": -318,
+      "y": -255,
+      "parent": "#7y44ri"
+    },
+    {
+      "@id": "#s88hxr",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3bgp5y",
+      "name": "From the verb obložit, “to overlay”",
+      "x": 318,
+      "y": -255,
+      "parent": "#s88hxr"
+    },
+    {
+      "@id": "#wtnjd3",
+      "name": "From ob- + ložit, “to place”",
+      "x": 318,
+      "y": 255,
+      "parent": "#s88hxr"
+    },
+    {
+      "@id": "#7hq5re",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7a3yez",
+      "name": "Wiktionary: obloha",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/obloha#Czech",
+      "parent": "#7hq5re"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

@@ -129,8 +129,11 @@ export function senses(sec) {
 }
 
 // The Proto-Slavic page the etymology names for the word itself (the last one, not a suffix)
+// prefixes (o-, po-, vy-…) are not a word's root: "From o- + kolo" has no Proto-Slavic root here
+const PREFIXES = new Set(['o(b)', 'ob', 'o', 'u', 'za', 'na', 'po', 'do', 'ne', 'otъ', 'podъ', 'nadъ', 'perdъ', 'pri', 'pro', 'vy', 'vъ', 'sъ', 'sǫ', 'bez', 'jьz', 'orz', 'pa', 'pra'])
+const isPrefix = t => t.endsWith('-') || PREFIXES.has(t)
 export function protoSlavic(sec) {
-  const links = [...etymologyHtml(sec).matchAll(/title="Reconstruction:Proto-Slavic\/([^"#]+?)"/g)].map(m => m[1]).filter(t => !t.startsWith('-') && !/does not exist/.test(t))
+  const links = [...etymologyHtml(sec).matchAll(/title="Reconstruction:Proto-Slavic\/([^"#]+?)"/g)].map(m => m[1]).filter(t => !t.startsWith('-') && !/does not exist/.test(t) && !isPrefix(decodeURIComponent(t)))
   return links.at(-1) ?? null
 }
 

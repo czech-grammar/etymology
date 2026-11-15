@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech čelo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#j8zbzu",
+      "name": "Meaning: “forehead”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#shwciy",
+      "name": "Forehead",
+      "x": -435,
+      "y": -93,
+      "parent": "#j8zbzu"
+    },
+    {
+      "@id": "#er7imw",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mwmsfa",
+      "name": "Old Czech čelo",
+      "x": -318,
+      "y": -255,
+      "parent": "#er7imw"
+    },
+    {
+      "@id": "#sfs4vg",
+      "name": "Proto-Slavic *čelo",
+      "x": -116,
+      "y": -348,
+      "parent": "#er7imw"
+    },
+    {
+      "@id": "#6rcjxq",
+      "name": "Proto-Indo-European *kelh₃os",
+      "x": 136,
+      "y": -408,
+      "parent": "#er7imw"
+    },
+    {
+      "@id": "#8439dw",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7t5qkv",
+      "name": "Polish czoło",
+      "x": 318,
+      "y": -255,
+      "parent": "#8439dw"
+    },
+    {
+      "@id": "#3c9a8q",
+      "name": "Slovak čelo",
+      "x": 435,
+      "y": -93,
+      "parent": "#8439dw"
+    },
+    {
+      "@id": "#edavx9",
+      "name": "Russian чело",
+      "x": 435,
+      "y": 93,
+      "parent": "#8439dw"
+    },
+    {
+      "@id": "#7s7pvv",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fcu9iy",
+      "name": "čelenka: headband",
+      "x": 318,
+      "y": 255,
+      "parent": "#7s7pvv"
+    },
+    {
+      "@id": "#64wkqm",
+      "name": "čelovka: headlamp",
+      "x": 116,
+      "y": 348,
+      "parent": "#7s7pvv"
+    },
+    {
+      "@id": "#huwrc2",
+      "name": "náčelník: chief",
+      "x": -116,
+      "y": 348,
+      "parent": "#7s7pvv"
+    },
+    {
+      "@id": "#9j7zdz",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zevrz5",
+      "name": "Wiktionary: čelo",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/%C4%8Delo#Czech",
+      "parent": "#9j7zdz"
+    },
+    {
+      "@id": "#ifxatw",
+      "name": "Wiktionary: Proto-Slavic *čelo",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C4%8Delo",
+      "parent": "#9j7zdz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

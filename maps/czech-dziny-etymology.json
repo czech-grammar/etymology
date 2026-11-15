@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech džíny etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#wnvqtt",
+      "name": "Meaning: “jeans”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j3ffas",
+      "name": "Jeans",
+      "x": -225,
+      "y": -312,
+      "parent": "#wnvqtt"
+    },
+    {
+      "@id": "#2zas6w",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xz7atk",
+      "name": "Borrowed from English jeans",
+      "x": 470,
+      "y": 0,
+      "parent": "#2zas6w"
+    },
+    {
+      "@id": "#np4yic",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#harcs6",
+      "name": "Wiktionary: džíny",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/d%C5%BE%C3%ADny#Czech",
+      "parent": "#np4yic"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

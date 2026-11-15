@@ -1,0 +1,127 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech navigace etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#w2xr9s",
+      "name": "Meaning: “sat-nav”",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uccgph",
+      "name": "Sat-nav",
+      "x": -364,
+      "y": -212,
+      "parent": "#w2xr9s"
+    },
+    {
+      "@id": "#z3z26j",
+      "name": "Navigation",
+      "x": 139,
+      "y": -342,
+      "parent": "#w2xr9s"
+    },
+    {
+      "@id": "#nra7ag",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rrngqh",
+      "name": "Latin nāvigātiō + Czech -ace",
+      "x": 470,
+      "y": 0,
+      "parent": "#nra7ag"
+    },
+    {
+      "@id": "#uad29c",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cv2t5c",
+      "name": "navigátor: navigator",
+      "x": 139,
+      "y": 342,
+      "parent": "#uad29c"
+    },
+    {
+      "@id": "#x2v4cv",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qzuayx",
+      "name": "Wiktionary: navigace",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/navigace#Czech",
+      "parent": "#x2v4cv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

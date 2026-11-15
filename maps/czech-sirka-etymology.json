@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech šířka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#327qzv",
+      "name": "Meaning: “width”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ib8tna",
+      "name": "Width",
+      "x": -225,
+      "y": -312,
+      "parent": "#327qzv"
+    },
+    {
+      "@id": "#6ean4r",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7ww57a",
+      "name": "From šíře + -ka",
+      "x": 450,
+      "y": 0,
+      "parent": "#6ean4r"
+    },
+    {
+      "@id": "#44ya3i",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8hsrn5",
+      "name": "Wiktionary: šířka",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/%C5%A1%C3%AD%C5%99ka#Czech",
+      "parent": "#44ya3i"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

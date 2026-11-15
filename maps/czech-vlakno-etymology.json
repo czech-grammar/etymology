@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech vlákno etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xjfia9",
+      "name": "Meaning: “fibre, thread”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aw3h87",
+      "name": "Fibre, thread",
+      "x": -428,
+      "y": -111,
+      "parent": "#xjfia9"
+    },
+    {
+      "@id": "#ytmbja",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rhxmak",
+      "name": "Old Czech vlákno",
+      "x": -265,
+      "y": -291,
+      "parent": "#ytmbja"
+    },
+    {
+      "@id": "#5dsgqc",
+      "name": "Proto-Slavic *volkno",
+      "x": 0,
+      "y": -360,
+      "parent": "#ytmbja"
+    },
+    {
+      "@id": "#89vmu4",
+      "name": "Deeper origin uncertain",
+      "x": 265,
+      "y": -291,
+      "parent": "#ytmbja"
+    },
+    {
+      "@id": "#d6m3qm",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nvxksw",
+      "name": "Polish włókno",
+      "x": 428,
+      "y": -111,
+      "parent": "#d6m3qm"
+    },
+    {
+      "@id": "#wsy5jt",
+      "name": "Slovak vlákno",
+      "x": 428,
+      "y": 111,
+      "parent": "#d6m3qm"
+    },
+    {
+      "@id": "#v95vd7",
+      "name": "Russian волокно",
+      "x": 265,
+      "y": 291,
+      "parent": "#d6m3qm"
+    },
+    {
+      "@id": "#62c7q9",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dhjjba",
+      "name": "vláknina: dietary fiber",
+      "x": 0,
+      "y": 360,
+      "parent": "#62c7q9"
+    },
+    {
+      "@id": "#3vb9t5",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#edkbvn",
+      "name": "Wiktionary: vlákno",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/vl%C3%A1kno#Czech",
+      "parent": "#3vb9t5"
+    },
+    {
+      "@id": "#49ka22",
+      "name": "Wiktionary: Proto-Slavic *volkno",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/volkno",
+      "parent": "#3vb9t5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

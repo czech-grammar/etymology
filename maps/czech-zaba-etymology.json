@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech žába etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fh2spw",
+      "name": "Meaning: “frog”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c57ka8",
+      "name": "Frog",
+      "x": -432,
+      "y": -101,
+      "parent": "#fh2spw"
+    },
+    {
+      "@id": "#br25jq",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gesi2q",
+      "name": "Old Czech žába",
+      "x": -295,
+      "y": -272,
+      "parent": "#br25jq"
+    },
+    {
+      "@id": "#a5nztg",
+      "name": "Proto-Slavic *žaba",
+      "x": -64,
+      "y": -356,
+      "parent": "#br25jq"
+    },
+    {
+      "@id": "#ju563w",
+      "name": "Deeper origin uncertain",
+      "x": 187,
+      "y": -327,
+      "parent": "#br25jq"
+    },
+    {
+      "@id": "#csm5qx",
+      "name": "Slavic cousins",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b354c5",
+      "name": "Polish żaba",
+      "x": 379,
+      "y": -195,
+      "parent": "#csm5qx"
+    },
+    {
+      "@id": "#wqcfra",
+      "name": "Russian жаба",
+      "x": 450,
+      "y": 0,
+      "parent": "#csm5qx"
+    },
+    {
+      "@id": "#arfpph",
+      "name": "Related Czech words",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8gfuph",
+      "name": "žabař: frog-catcher",
+      "x": 379,
+      "y": 195,
+      "parent": "#arfpph"
+    },
+    {
+      "@id": "#275qct",
+      "name": "žabák: male frog",
+      "x": 187,
+      "y": 327,
+      "parent": "#arfpph"
+    },
+    {
+      "@id": "#h79fj5",
+      "name": "žabinec: common chickweed",
+      "x": -64,
+      "y": 356,
+      "parent": "#arfpph"
+    },
+    {
+      "@id": "#s2piwz",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yur35i",
+      "name": "Wiktionary: žába",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/%C5%BE%C3%A1ba#Czech",
+      "parent": "#s2piwz"
+    },
+    {
+      "@id": "#zxwtbk",
+      "name": "Wiktionary: Proto-Slavic *žaba",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C5%BEaba",
+      "parent": "#s2piwz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

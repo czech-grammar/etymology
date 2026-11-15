@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech dav etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xnyf6c",
+      "name": "Meaning: “crowd”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h2tb8j",
+      "name": "Crowd",
+      "x": -416,
+      "y": -138,
+      "parent": "#xnyf6c"
+    },
+    {
+      "@id": "#gn57er",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6eqgys",
+      "name": "Root: Proto-Slavic *daviti",
+      "x": -172,
+      "y": -333,
+      "parent": "#gn57er"
+    },
+    {
+      "@id": "#xcd6pt",
+      "name": "Probably Proto-Indo-European *dʰōh₂w- + *-iti",
+      "x": 196,
+      "y": -378,
+      "parent": "#gn57er"
+    },
+    {
+      "@id": "#qb9bfa",
+      "name": "Cousins of the root *daviti",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8dwgbe",
+      "name": "Polish dławić",
+      "x": 416,
+      "y": -138,
+      "parent": "#qb9bfa"
+    },
+    {
+      "@id": "#cinv3p",
+      "name": "Slovak dáviť",
+      "x": 416,
+      "y": 138,
+      "parent": "#qb9bfa"
+    },
+    {
+      "@id": "#uyphc4",
+      "name": "Russian давить",
+      "x": 172,
+      "y": 333,
+      "parent": "#qb9bfa"
+    },
+    {
+      "@id": "#hyfm55",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r5jwxq",
+      "name": "Wiktionary: dav",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/dav#Czech",
+      "parent": "#hyfm55"
+    },
+    {
+      "@id": "#qvii98",
+      "name": "Wiktionary: Proto-Slavic *daviti",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/daviti",
+      "parent": "#hyfm55"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

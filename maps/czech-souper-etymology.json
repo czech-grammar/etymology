@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech soupeř etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fa4z74",
+      "name": "Meaning: “opponent”",
+      "x": -176,
+      "y": -118,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p7xrzz",
+      "name": "Opponent",
+      "x": -423,
+      "y": -123,
+      "parent": "#fa4z74"
+    },
+    {
+      "@id": "#tq5acv",
+      "name": "Rival",
+      "x": -225,
+      "y": -312,
+      "parent": "#fa4z74"
+    },
+    {
+      "@id": "#jnz2hn",
+      "name": "Word history",
+      "x": 176,
+      "y": -118,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cjdegc",
+      "name": "Old Czech súpeř",
+      "x": 78,
+      "y": -355,
+      "parent": "#jnz2hn"
+    },
+    {
+      "@id": "#q5if9i",
+      "name": "Proto-Slavic *sǫpьřь",
+      "x": 345,
+      "y": -231,
+      "parent": "#jnz2hn"
+    },
+    {
+      "@id": "#rmpi8c",
+      "name": "From *sǫ- + *perti + *-jь",
+      "x": 450,
+      "y": 0,
+      "parent": "#jnz2hn"
+    },
+    {
+      "@id": "#qnmkxr",
+      "name": "Slavic cousins",
+      "x": 115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sw9did",
+      "name": "Polish szampierz",
+      "x": 345,
+      "y": 231,
+      "parent": "#qnmkxr"
+    },
+    {
+      "@id": "#686c8b",
+      "name": "Slovak súper",
+      "x": 78,
+      "y": 355,
+      "parent": "#qnmkxr"
+    },
+    {
+      "@id": "#zai6rj",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q3jhvg",
+      "name": "Wiktionary: soupeř",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/soupe%C5%99#Czech",
+      "parent": "#zai6rj"
+    },
+    {
+      "@id": "#kfhs4q",
+      "name": "Wiktionary: Proto-Slavic *sǫpьřь",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/s%C7%ABp%D1%8C%C5%99%D1%8C",
+      "parent": "#zai6rj"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

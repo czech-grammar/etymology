@@ -1,0 +1,150 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech hmyz etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fnqq85",
+      "name": "Meaning: “insects”",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7rfr7j",
+      "name": "Insects",
+      "x": -405,
+      "y": -156,
+      "parent": "#fnqq85"
+    },
+    {
+      "@id": "#agsnx3",
+      "name": "Word history",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bshydz",
+      "name": "Root: Proto-Slavic *gъmyzъ",
+      "x": -100,
+      "y": -351,
+      "parent": "#agsnx3"
+    },
+    {
+      "@id": "#dbahjg",
+      "name": "Deeper origin uncertain",
+      "x": 281,
+      "y": -281,
+      "parent": "#agsnx3"
+    },
+    {
+      "@id": "#7sz4ed",
+      "name": "Cousins of the root *gъmyzъ",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7jb5cf",
+      "name": "Slovak hmyz",
+      "x": 450,
+      "y": 0,
+      "parent": "#7sz4ed"
+    },
+    {
+      "@id": "#9vj4ez",
+      "name": "Russian гмыза",
+      "x": 281,
+      "y": 281,
+      "parent": "#7sz4ed"
+    },
+    {
+      "@id": "#967kju",
+      "name": "Sources",
+      "x": -143,
+      "y": 144,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r987gc",
+      "name": "Wiktionary: hmyz",
+      "x": -100,
+      "y": 351,
+      "link": "https://en.wiktionary.org/wiki/hmyz#Czech",
+      "parent": "#967kju"
+    },
+    {
+      "@id": "#8my45y",
+      "name": "Wiktionary: Proto-Slavic *gъmyzъ",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/g%D1%8Amyz%D1%8A",
+      "parent": "#967kju"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

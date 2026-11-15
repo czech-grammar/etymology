@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech slza etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#i3sp9j",
+      "name": "Meaning: “tear”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#puc65c",
+      "name": "Tear",
+      "x": -423,
+      "y": -123,
+      "parent": "#i3sp9j"
+    },
+    {
+      "@id": "#cr6x2z",
+      "name": "Word history",
+      "x": 40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ah7fb5",
+      "name": "Old Czech slza",
+      "x": -225,
+      "y": -312,
+      "parent": "#cr6x2z"
+    },
+    {
+      "@id": "#nxvtmb",
+      "name": "Proto-Slavic *slьza",
+      "x": 78,
+      "y": -355,
+      "parent": "#cr6x2z"
+    },
+    {
+      "@id": "#w2tugq",
+      "name": "From the verb *slьzati, “to slip”",
+      "x": 345,
+      "y": -231,
+      "parent": "#cr6x2z"
+    },
+    {
+      "@id": "#22d9yq",
+      "name": "Slavic cousins",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iq5uh8",
+      "name": "Polish łza",
+      "x": 450,
+      "y": 0,
+      "parent": "#22d9yq"
+    },
+    {
+      "@id": "#qgmken",
+      "name": "Slovak slza",
+      "x": 345,
+      "y": 231,
+      "parent": "#22d9yq"
+    },
+    {
+      "@id": "#xpev2z",
+      "name": "Russian слеза",
+      "x": 78,
+      "y": 355,
+      "parent": "#22d9yq"
+    },
+    {
+      "@id": "#u265um",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8kqfdk",
+      "name": "Wiktionary: slza",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/slza#Czech",
+      "parent": "#u265um"
+    },
+    {
+      "@id": "#b5sduj",
+      "name": "Wiktionary: Proto-Slavic *slьza",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/sl%D1%8Cza",
+      "parent": "#u265um"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

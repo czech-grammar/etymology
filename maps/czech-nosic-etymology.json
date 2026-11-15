@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech nosič etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#pm3qj8",
+      "name": "Meaning: “roof rack, carrier; porter”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2haa8m",
+      "name": "Roof rack, carrier; porter",
+      "x": -225,
+      "y": -312,
+      "parent": "#pm3qj8"
+    },
+    {
+      "@id": "#ddswtw",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#betrgp",
+      "name": "From nosit + -č",
+      "x": 450,
+      "y": 0,
+      "parent": "#ddswtw"
+    },
+    {
+      "@id": "#aqm4kc",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#savqzd",
+      "name": "Wiktionary: nosič",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/nosi%C4%8D#Czech",
+      "parent": "#aqm4kc"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

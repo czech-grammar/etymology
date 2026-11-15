@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech fix etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#hczvpp",
+      "name": "Meaning: “felt-tip pen”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tvn7yn",
+      "name": "Felt-tip pen",
+      "x": -225,
+      "y": -312,
+      "parent": "#hczvpp"
+    },
+    {
+      "@id": "#tf9xpu",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vtefmm",
+      "name": "fixační tužka",
+      "x": 450,
+      "y": 0,
+      "parent": "#tf9xpu"
+    },
+    {
+      "@id": "#mejddc",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h35tky",
+      "name": "Wiktionary: fix",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/fix#Czech",
+      "parent": "#mejddc"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

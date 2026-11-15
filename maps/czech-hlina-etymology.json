@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech hlína etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#6j659n",
+      "name": "Meaning: “clay, earth”",
+      "x": -204,
+      "y": -86,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wevytf",
+      "name": "Clay, earth",
+      "x": -437,
+      "y": -86,
+      "parent": "#6j659n"
+    },
+    {
+      "@id": "#a74kaj",
+      "name": "Earth, soil",
+      "x": -337,
+      "y": -239,
+      "parent": "#6j659n"
+    },
+    {
+      "@id": "#xxjjxk",
+      "name": "Word history",
+      "x": 82,
+      "y": -172,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#up5sgk",
+      "name": "Old Czech hlína",
+      "x": -160,
+      "y": -337,
+      "parent": "#xxjjxk"
+    },
+    {
+      "@id": "#7zkhzs",
+      "name": "Proto-Slavic *glina",
+      "x": 54,
+      "y": -357,
+      "parent": "#xxjjxk"
+    },
+    {
+      "@id": "#82xvsx",
+      "name": "Proto-Balto-Slavic *gléiˀnāˀ",
+      "x": 256,
+      "y": -296,
+      "parent": "#xxjjxk"
+    },
+    {
+      "@id": "#js53fe",
+      "name": "Proto-Indo-European *gleh₁y-",
+      "x": 398,
+      "y": -167,
+      "parent": "#xxjjxk"
+    },
+    {
+      "@id": "#kgyftd",
+      "name": "Slavic cousins",
+      "x": 204,
+      "y": 86,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cnmgqs",
+      "name": "Polish glina",
+      "x": 450,
+      "y": 0,
+      "parent": "#kgyftd"
+    },
+    {
+      "@id": "#yixtqr",
+      "name": "Slovak hlina",
+      "x": 398,
+      "y": 167,
+      "parent": "#kgyftd"
+    },
+    {
+      "@id": "#vvvmhc",
+      "name": "Russian глина",
+      "x": 256,
+      "y": 296,
+      "parent": "#kgyftd"
+    },
+    {
+      "@id": "#4mccyd",
+      "name": "Related Czech words",
+      "x": -28,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a5sb4f",
+      "name": "hliněný: earthen",
+      "x": 54,
+      "y": 357,
+      "parent": "#4mccyd"
+    },
+    {
+      "@id": "#adqvpg",
+      "name": "hliniště: clay pit",
+      "x": -160,
+      "y": 337,
+      "parent": "#4mccyd"
+    },
+    {
+      "@id": "#b6t5eq",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ka7yha",
+      "name": "Wiktionary: hlína",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/hl%C3%ADna#Czech",
+      "parent": "#b6t5eq"
+    },
+    {
+      "@id": "#bd9asa",
+      "name": "Wiktionary: Proto-Slavic *glina",
+      "x": -456,
+      "y": 90,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/glina",
+      "parent": "#b6t5eq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

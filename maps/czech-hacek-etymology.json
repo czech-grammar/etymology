@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech háček etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5djw9m",
+      "name": "Meaning: “small hook; the ˇ mark”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bfj3wz",
+      "name": "Small hook; the ˇ mark (háček)",
+      "x": -318,
+      "y": -255,
+      "parent": "#5djw9m"
+    },
+    {
+      "@id": "#knnkzx",
+      "name": "Fishhook",
+      "x": 318,
+      "y": -255,
+      "parent": "#5djw9m"
+    },
+    {
+      "@id": "#g4ivww",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5tzmt4",
+      "name": "From hák + -ek",
+      "x": 318,
+      "y": 255,
+      "parent": "#g4ivww"
+    },
+    {
+      "@id": "#p422wq",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e3d8hx",
+      "name": "Wiktionary: háček",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/h%C3%A1%C4%8Dek#Czech",
+      "parent": "#p422wq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

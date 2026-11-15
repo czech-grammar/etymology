@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech sud etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#dep6cd",
+      "name": "Meaning: “barrel”",
+      "x": -223,
+      "y": -44,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ahg54p",
+      "name": "Barrel",
+      "x": -437,
+      "y": -86,
+      "parent": "#dep6cd"
+    },
+    {
+      "@id": "#hhqpmp",
+      "name": "Word history",
+      "x": 28,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#76jmcc",
+      "name": "Old Czech sud",
+      "x": -337,
+      "y": -239,
+      "parent": "#hhqpmp"
+    },
+    {
+      "@id": "#tewmed",
+      "name": "Proto-Slavic *sǫdъ",
+      "x": -160,
+      "y": -337,
+      "parent": "#hhqpmp"
+    },
+    {
+      "@id": "#p7kr4p",
+      "name": "Proto-Balto-Slavic *sámdas",
+      "x": 58,
+      "y": -389,
+      "parent": "#hhqpmp"
+    },
+    {
+      "@id": "#9s7mx7",
+      "name": "Proto-Indo-European *som-dʰh₁-os",
+      "x": 256,
+      "y": -296,
+      "parent": "#hhqpmp"
+    },
+    {
+      "@id": "#7is77k",
+      "name": "From *som- + *dʰeh₁- + *-os",
+      "x": 398,
+      "y": -167,
+      "parent": "#hhqpmp"
+    },
+    {
+      "@id": "#vxcsdp",
+      "name": "Slavic cousins",
+      "x": 204,
+      "y": 86,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dfzz5q",
+      "name": "Polish sąd, “court”",
+      "x": 450,
+      "y": 0,
+      "parent": "#vxcsdp"
+    },
+    {
+      "@id": "#xus9hg",
+      "name": "Slovak súd",
+      "x": 398,
+      "y": 167,
+      "parent": "#vxcsdp"
+    },
+    {
+      "@id": "#yupdhw",
+      "name": "Russian суд",
+      "x": 256,
+      "y": 296,
+      "parent": "#vxcsdp"
+    },
+    {
+      "@id": "#4iw85w",
+      "name": "Related Czech words",
+      "x": -28,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dzkrb4",
+      "name": "soud: court",
+      "x": 54,
+      "y": 357,
+      "parent": "#4iw85w"
+    },
+    {
+      "@id": "#s93uch",
+      "name": "soudit: to judge",
+      "x": -160,
+      "y": 337,
+      "parent": "#4iw85w"
+    },
+    {
+      "@id": "#5s6asb",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c79pr3",
+      "name": "Wiktionary: sud",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/sud#Czech",
+      "parent": "#5s6asb"
+    },
+    {
+      "@id": "#3npfmt",
+      "name": "Wiktionary: Proto-Slavic *sǫdъ",
+      "x": -437,
+      "y": 86,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/s%C7%ABd%D1%8A",
+      "parent": "#5s6asb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

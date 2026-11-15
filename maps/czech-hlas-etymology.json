@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech hlas etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gv3zxi",
+      "name": "Meaning: “voice”",
+      "x": -223,
+      "y": -44,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7ncww2",
+      "name": "Voice",
+      "x": -437,
+      "y": -86,
+      "parent": "#gv3zxi"
+    },
+    {
+      "@id": "#smz5vv",
+      "name": "Word history",
+      "x": -28,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zk2xdb",
+      "name": "Old Czech hlas",
+      "x": -337,
+      "y": -239,
+      "parent": "#smz5vv"
+    },
+    {
+      "@id": "#uahd39",
+      "name": "Proto-Slavic *golsъ",
+      "x": -160,
+      "y": -337,
+      "parent": "#smz5vv"
+    },
+    {
+      "@id": "#2dcx6j",
+      "name": "Proto-Balto-Slavic *galsás",
+      "x": 58,
+      "y": -389,
+      "parent": "#smz5vv"
+    },
+    {
+      "@id": "#ku2hz5",
+      "name": "Proto-Indo-European *golH-so-s",
+      "x": 256,
+      "y": -296,
+      "parent": "#smz5vv"
+    },
+    {
+      "@id": "#e8222j",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7sew36",
+      "name": "Polish głos",
+      "x": 398,
+      "y": -167,
+      "parent": "#e8222j"
+    },
+    {
+      "@id": "#jn6h6s",
+      "name": "Slovak hlas",
+      "x": 450,
+      "y": 0,
+      "parent": "#e8222j"
+    },
+    {
+      "@id": "#96mpza",
+      "name": "Russian голос",
+      "x": 398,
+      "y": 167,
+      "parent": "#e8222j"
+    },
+    {
+      "@id": "#vungv5",
+      "name": "Related Czech words",
+      "x": 28,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#czt3f4",
+      "name": "hlasatel: newsreader",
+      "x": 256,
+      "y": 296,
+      "parent": "#vungv5"
+    },
+    {
+      "@id": "#f7nnbc",
+      "name": "hlasitost: volume",
+      "x": 54,
+      "y": 357,
+      "parent": "#vungv5"
+    },
+    {
+      "@id": "#cpxt4f",
+      "name": "hlasivka: vocal cord",
+      "x": -174,
+      "y": 367,
+      "parent": "#vungv5"
+    },
+    {
+      "@id": "#tae5d6",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#svz8tz",
+      "name": "Wiktionary: hlas",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/hlas#Czech",
+      "parent": "#tae5d6"
+    },
+    {
+      "@id": "#6s93cr",
+      "name": "Wiktionary: Proto-Slavic *golsъ",
+      "x": -456,
+      "y": 90,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/gols%D1%8A",
+      "parent": "#tae5d6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech borovice etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#vwu8wu",
+      "name": "Meaning: “pine”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yhje6d",
+      "name": "Pine",
+      "x": -225,
+      "y": -312,
+      "parent": "#vwu8wu"
+    },
+    {
+      "@id": "#4vzz4s",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qfmnp2",
+      "name": "From borový + -ice",
+      "x": 450,
+      "y": 0,
+      "parent": "#4vzz4s"
+    },
+    {
+      "@id": "#bukfwr",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ipg27f",
+      "name": "Wiktionary: borovice",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/borovice#Czech",
+      "parent": "#bukfwr"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

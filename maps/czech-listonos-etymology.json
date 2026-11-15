@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech listonoš etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#p4qf2q",
+      "name": "Meaning: “postman”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xf8h64",
+      "name": "Postman",
+      "x": -416,
+      "y": -138,
+      "parent": "#p4qf2q"
+    },
+    {
+      "@id": "#u383t7",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vefr7u",
+      "name": "From list + -o- + nosit",
+      "x": -172,
+      "y": -333,
+      "parent": "#u383t7"
+    },
+    {
+      "@id": "#6tkssh",
+      "name": "Root: Proto-Slavic *listъ",
+      "x": 172,
+      "y": -333,
+      "parent": "#u383t7"
+    },
+    {
+      "@id": "#tc38w5",
+      "name": "Cousins of the root *listъ",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9b3qew",
+      "name": "Polish list",
+      "x": 416,
+      "y": -138,
+      "parent": "#tc38w5"
+    },
+    {
+      "@id": "#9y3gu5",
+      "name": "Slovak list",
+      "x": 416,
+      "y": 138,
+      "parent": "#tc38w5"
+    },
+    {
+      "@id": "#qnxqre",
+      "name": "Russian лист",
+      "x": 172,
+      "y": 333,
+      "parent": "#tc38w5"
+    },
+    {
+      "@id": "#q88t9n",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tccqn3",
+      "name": "Wiktionary: listonoš",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/listono%C5%A1#Czech",
+      "parent": "#q88t9n"
+    },
+    {
+      "@id": "#75ewpp",
+      "name": "Wiktionary: Proto-Slavic *listъ",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/list%D1%8A",
+      "parent": "#q88t9n"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

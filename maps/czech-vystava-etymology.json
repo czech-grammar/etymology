@@ -1,0 +1,127 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech výstava etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#a8nu6k",
+      "name": "Meaning: “exhibition”",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wwh7fe",
+      "name": "Exhibition",
+      "x": -364,
+      "y": -212,
+      "parent": "#a8nu6k"
+    },
+    {
+      "@id": "#dnc2h5",
+      "name": "Word history",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2bi2cq",
+      "name": "From vystavit + -a",
+      "x": 139,
+      "y": -342,
+      "parent": "#dnc2h5"
+    },
+    {
+      "@id": "#te5je6",
+      "name": "Related Czech words",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iiv3gn",
+      "name": "vystavit: to expose",
+      "x": 450,
+      "y": 0,
+      "parent": "#te5je6"
+    },
+    {
+      "@id": "#nysq3x",
+      "name": "výstaviště: exhibition centre",
+      "x": 139,
+      "y": 342,
+      "parent": "#te5je6"
+    },
+    {
+      "@id": "#jfaut3",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pgbqcz",
+      "name": "Wiktionary: výstava",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/v%C3%BDstava#Czech",
+      "parent": "#jfaut3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,21 @@
+category: A2 nouns
+aliases: kraj etymology, origin of kraj, kraj word origin, etymology of kraj
+- Czech kraj etymology
+  - Meaning: “region; edge”
+    - Region; edge
+    - Edge, periphery, outskirts
+  - Word history
+    - Old Czech kraj
+    - Proto-Slavic *krajь
+    - Built from deverbal from krájet
+  - Slavic cousins
+    - Polish kraj
+    - Slovak kraj
+    - Russian край
+  - Related Czech words
+    - krajan: compatriot
+    - krajina: landscape
+    - krajka: lace
+  - Sources
+    - [Wiktionary: kraj](https://en.wiktionary.org/wiki/kraj#Czech)
+    - [Wiktionary: Proto-Slavic *krajь](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kraj%D1%8C)

@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech semeno etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#9f9nwm",
+      "name": "Meaning: “seed”",
+      "x": -204,
+      "y": -86,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h9cemh",
+      "name": "Seed",
+      "x": -437,
+      "y": -86,
+      "parent": "#9f9nwm"
+    },
+    {
+      "@id": "#aefuzd",
+      "name": "Sperm, semen",
+      "x": -337,
+      "y": -239,
+      "parent": "#9f9nwm"
+    },
+    {
+      "@id": "#gxwnqb",
+      "name": "Word history",
+      "x": 82,
+      "y": -172,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m3rm6m",
+      "name": "Old Czech siemě",
+      "x": -160,
+      "y": -337,
+      "parent": "#gxwnqb"
+    },
+    {
+      "@id": "#dvsun5",
+      "name": "Proto-Slavic *sěmę",
+      "x": 54,
+      "y": -357,
+      "parent": "#gxwnqb"
+    },
+    {
+      "@id": "#yxfdp7",
+      "name": "Proto-Balto-Slavic *sḗˀmin",
+      "x": 256,
+      "y": -296,
+      "parent": "#gxwnqb"
+    },
+    {
+      "@id": "#jnkstj",
+      "name": "Proto-Indo-European *séh₁mn̥",
+      "x": 398,
+      "y": -167,
+      "parent": "#gxwnqb"
+    },
+    {
+      "@id": "#scqryp",
+      "name": "Slavic cousins",
+      "x": 204,
+      "y": 86,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9eqnxa",
+      "name": "Polish siemię",
+      "x": 450,
+      "y": 0,
+      "parent": "#scqryp"
+    },
+    {
+      "@id": "#vgi76y",
+      "name": "Slovak semeno",
+      "x": 398,
+      "y": 167,
+      "parent": "#scqryp"
+    },
+    {
+      "@id": "#fh3j9w",
+      "name": "Russian семя",
+      "x": 256,
+      "y": 296,
+      "parent": "#scqryp"
+    },
+    {
+      "@id": "#j4zj89",
+      "name": "Related Czech words",
+      "x": -28,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4cqyyc",
+      "name": "semeniště: nursery",
+      "x": 54,
+      "y": 357,
+      "parent": "#j4zj89"
+    },
+    {
+      "@id": "#bxt7vc",
+      "name": "semeník: ovary",
+      "x": -160,
+      "y": 337,
+      "parent": "#j4zj89"
+    },
+    {
+      "@id": "#ppjkci",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q4vdha",
+      "name": "Wiktionary: semeno",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/semeno#Czech",
+      "parent": "#ppjkci"
+    },
+    {
+      "@id": "#q4mebx",
+      "name": "Wiktionary: Proto-Slavic *sěmę",
+      "x": -437,
+      "y": 86,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/s%C4%9Bm%C4%99",
+      "parent": "#ppjkci"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

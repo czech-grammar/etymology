@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech objetí etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qt7iqr",
+      "name": "Meaning: “hug, embrace”",
+      "x": -176,
+      "y": -118,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hqmq7r",
+      "name": "Hug, embrace",
+      "x": -423,
+      "y": -123,
+      "parent": "#qt7iqr"
+    },
+    {
+      "@id": "#zyzgxh",
+      "name": "Verbal noun of obejmout",
+      "x": -225,
+      "y": -312,
+      "parent": "#qt7iqr"
+    },
+    {
+      "@id": "#tb7xvj",
+      "name": "Word history",
+      "x": 115,
+      "y": -159,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pyua74",
+      "name": "Proto-Slavic *obъjętьje",
+      "x": 78,
+      "y": -355,
+      "parent": "#tb7xvj"
+    },
+    {
+      "@id": "#sufuiw",
+      "name": "By surface analysis, *obъjęti + *-ьje",
+      "x": 345,
+      "y": -231,
+      "parent": "#tb7xvj"
+    },
+    {
+      "@id": "#27b496",
+      "name": "Slavic cousins",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7atk6f",
+      "name": "Polish objęcie",
+      "x": 450,
+      "y": 0,
+      "parent": "#27b496"
+    },
+    {
+      "@id": "#jb9gm9",
+      "name": "Slovak objatie",
+      "x": 345,
+      "y": 231,
+      "parent": "#27b496"
+    },
+    {
+      "@id": "#enxjbw",
+      "name": "Russian объятие;",
+      "x": 78,
+      "y": 355,
+      "parent": "#27b496"
+    },
+    {
+      "@id": "#gyecpf",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9stai4",
+      "name": "Wiktionary: objetí",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/objet%C3%AD#Czech",
+      "parent": "#gyecpf"
+    },
+    {
+      "@id": "#jtn272",
+      "name": "Wiktionary: Proto-Slavic *obъjętьje",
+      "x": -442,
+      "y": 128,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/ob%D1%8Aj%C4%99t%D1%8Cje",
+      "parent": "#gyecpf"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

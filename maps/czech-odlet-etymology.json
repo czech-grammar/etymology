@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech odlet etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#zecfg5",
+      "name": "Meaning: “departure (by plane)”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q7m3x7",
+      "name": "Departure (by plane)",
+      "x": -416,
+      "y": -138,
+      "parent": "#zecfg5"
+    },
+    {
+      "@id": "#7ac7id",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q76tym",
+      "name": "From the verb odletět",
+      "x": -172,
+      "y": -333,
+      "parent": "#7ac7id"
+    },
+    {
+      "@id": "#vuxjxd",
+      "name": "Root: Proto-Slavic *letěti",
+      "x": 172,
+      "y": -333,
+      "parent": "#7ac7id"
+    },
+    {
+      "@id": "#ickym2",
+      "name": "Cousins of the root *letěti",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jie5ka",
+      "name": "Polish lecieć",
+      "x": 416,
+      "y": -138,
+      "parent": "#ickym2"
+    },
+    {
+      "@id": "#husq5b",
+      "name": "Slovak letieť",
+      "x": 416,
+      "y": 138,
+      "parent": "#ickym2"
+    },
+    {
+      "@id": "#888z76",
+      "name": "Russian лететь",
+      "x": 172,
+      "y": 333,
+      "parent": "#ickym2"
+    },
+    {
+      "@id": "#imhwv8",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wc2nq2",
+      "name": "Wiktionary: odlet",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/odlet#Czech",
+      "parent": "#imhwv8"
+    },
+    {
+      "@id": "#43y65k",
+      "name": "Wiktionary: Proto-Slavic *letěti",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/let%C4%9Bti",
+      "parent": "#imhwv8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

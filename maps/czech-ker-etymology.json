@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech keř etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#c6p99b",
+      "name": "Meaning: “bush”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mb2kmh",
+      "name": "Bush",
+      "x": -428,
+      "y": -111,
+      "parent": "#c6p99b"
+    },
+    {
+      "@id": "#npuy7a",
+      "name": "Word history",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#755ftm",
+      "name": "Old Czech keř",
+      "x": -265,
+      "y": -291,
+      "parent": "#npuy7a"
+    },
+    {
+      "@id": "#a4nh62",
+      "name": "Proto-Slavic *kъřь, “shrub”",
+      "x": 0,
+      "y": -360,
+      "parent": "#npuy7a"
+    },
+    {
+      "@id": "#ir9n2z",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wk6h6a",
+      "name": "Polish kierz",
+      "x": 265,
+      "y": -291,
+      "parent": "#ir9n2z"
+    },
+    {
+      "@id": "#vq25kt",
+      "name": "Slovak ker",
+      "x": 428,
+      "y": -111,
+      "parent": "#ir9n2z"
+    },
+    {
+      "@id": "#bhuqct",
+      "name": "Russian корь",
+      "x": 428,
+      "y": 111,
+      "parent": "#ir9n2z"
+    },
+    {
+      "@id": "#24g3rg",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ey7mqf",
+      "name": "křovák: Bushman",
+      "x": 265,
+      "y": 291,
+      "parent": "#24g3rg"
+    },
+    {
+      "@id": "#keeubd",
+      "name": "křovina: shrubbery",
+      "x": 0,
+      "y": 360,
+      "parent": "#24g3rg"
+    },
+    {
+      "@id": "#idpku5",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6v2ee9",
+      "name": "Wiktionary: keř",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/ke%C5%99#Czech",
+      "parent": "#idpku5"
+    },
+    {
+      "@id": "#qr7xwv",
+      "name": "Wiktionary: Proto-Slavic *kъřь",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/k%D1%8A%C5%99%D1%8C",
+      "parent": "#idpku5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

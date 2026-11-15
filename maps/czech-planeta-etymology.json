@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech planeta etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2tjhv3",
+      "name": "Meaning: “planet”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zecidz",
+      "name": "Planet",
+      "x": -318,
+      "y": -255,
+      "parent": "#2tjhv3"
+    },
+    {
+      "@id": "#4eedh2",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pr2sjy",
+      "name": "Old Czech planeta",
+      "x": 318,
+      "y": -255,
+      "parent": "#4eedh2"
+    },
+    {
+      "@id": "#6d28kz",
+      "name": "Latin planeta",
+      "x": 318,
+      "y": 255,
+      "parent": "#4eedh2"
+    },
+    {
+      "@id": "#mt3jwu",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jpfkpj",
+      "name": "Wiktionary: planeta",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/planeta#Czech",
+      "parent": "#mt3jwu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

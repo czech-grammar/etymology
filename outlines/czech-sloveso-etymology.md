@@ -1,0 +1,21 @@
+category: A2 nouns
+aliases: sloveso etymology, origin of sloveso, sloveso word origin, etymology of sloveso
+- Czech sloveso etymology
+  - Meaning: “verb”
+    - Verb
+  - Word history
+    - From slovo, “word” + -eso
+    - Root: Proto-Slavic *slovo
+    - Proto-Balto-Slavic *ślawas
+    - Proto-Indo-European *ḱléwos, “that which is heard”
+  - Cousins of the root *slovo
+    - Polish słowo
+    - Slovak slovo
+    - Russian слово
+  - Related Czech words
+    - slovesnost: literature
+    - slovník: dictionary
+    - slovo: word
+  - Sources
+    - [Wiktionary: sloveso](https://en.wiktionary.org/wiki/sloveso#Czech)
+    - [Wiktionary: Proto-Slavic *slovo](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/slovo)

@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech housle etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#4e5k83",
+      "name": "Meaning: “violin”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s74tbk",
+      "name": "Violin",
+      "x": -432,
+      "y": -101,
+      "parent": "#4e5k83"
+    },
+    {
+      "@id": "#scp28r",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#335wkc",
+      "name": "Old Czech húsle",
+      "x": -295,
+      "y": -272,
+      "parent": "#scp28r"
+    },
+    {
+      "@id": "#uj8k4w",
+      "name": "Proto-Slavic *gǫsli",
+      "x": -64,
+      "y": -356,
+      "parent": "#scp28r"
+    },
+    {
+      "@id": "#t7gp8s",
+      "name": "From *gǫsti + *-slь",
+      "x": 187,
+      "y": -327,
+      "parent": "#scp28r"
+    },
+    {
+      "@id": "#hxhct3",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pz9cmh",
+      "name": "Polish gęśle",
+      "x": 379,
+      "y": -195,
+      "parent": "#hxhct3"
+    },
+    {
+      "@id": "#68hmz2",
+      "name": "Slovak husle",
+      "x": 450,
+      "y": 0,
+      "parent": "#hxhct3"
+    },
+    {
+      "@id": "#mxsvxv",
+      "name": "Russian гусли",
+      "x": 379,
+      "y": 195,
+      "parent": "#hxhct3"
+    },
+    {
+      "@id": "#hdk6zy",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m6inay",
+      "name": "housličky: little violin",
+      "x": 187,
+      "y": 327,
+      "parent": "#hdk6zy"
+    },
+    {
+      "@id": "#ppiz6s",
+      "name": "houslista: violinist",
+      "x": -64,
+      "y": 356,
+      "parent": "#hdk6zy"
+    },
+    {
+      "@id": "#6n44py",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jep833",
+      "name": "Wiktionary: housle",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/housle#Czech",
+      "parent": "#6n44py"
+    },
+    {
+      "@id": "#ftjr8g",
+      "name": "Wiktionary: Proto-Slavic *gǫsli",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/g%C7%ABsli",
+      "parent": "#6n44py"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

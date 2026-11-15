@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech tělocvična etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#azihii",
+      "name": "Meaning: “gym (school)”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dmi7zs",
+      "name": "Gym (school)",
+      "x": -432,
+      "y": -101,
+      "parent": "#azihii"
+    },
+    {
+      "@id": "#y3fijv",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ybwhgd",
+      "name": "From tělocvik, “physical education” + -na",
+      "x": -295,
+      "y": -272,
+      "parent": "#y3fijv"
+    },
+    {
+      "@id": "#rr5x95",
+      "name": "Root: Proto-Slavic *tělo",
+      "x": -64,
+      "y": -356,
+      "parent": "#y3fijv"
+    },
+    {
+      "@id": "#5nbr5e",
+      "name": "Deeper origin uncertain",
+      "x": 203,
+      "y": -357,
+      "parent": "#y3fijv"
+    },
+    {
+      "@id": "#p33b7g",
+      "name": "Cousins of the root *tělo",
+      "x": 290,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jmrt55",
+      "name": "Polish ciało",
+      "x": 379,
+      "y": -195,
+      "parent": "#p33b7g"
+    },
+    {
+      "@id": "#n4z9ec",
+      "name": "Slovak telo",
+      "x": 510,
+      "y": 0,
+      "parent": "#p33b7g"
+    },
+    {
+      "@id": "#r9p9yh",
+      "name": "Russian тело",
+      "x": 379,
+      "y": 195,
+      "parent": "#p33b7g"
+    },
+    {
+      "@id": "#tynkty",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bka5aj",
+      "name": "tělocvik: physical education",
+      "x": 187,
+      "y": 327,
+      "parent": "#tynkty"
+    },
+    {
+      "@id": "#igkwjx",
+      "name": "tělocvikář: physical education teacher",
+      "x": -70,
+      "y": 388,
+      "parent": "#tynkty"
+    },
+    {
+      "@id": "#sq4mmb",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s6k8q3",
+      "name": "Wiktionary: tělocvična",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/t%C4%9Blocvi%C4%8Dna#Czech",
+      "parent": "#sq4mmb"
+    },
+    {
+      "@id": "#zncfjc",
+      "name": "Wiktionary: Proto-Slavic *tělo",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/t%C4%9Blo",
+      "parent": "#sq4mmb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

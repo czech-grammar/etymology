@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech seno etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fwar4h",
+      "name": "Meaning: “hay”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#79yzdx",
+      "name": "Hay",
+      "x": -428,
+      "y": -111,
+      "parent": "#fwar4h"
+    },
+    {
+      "@id": "#qr8grx",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s4py8w",
+      "name": "Old Czech sěno",
+      "x": -265,
+      "y": -291,
+      "parent": "#qr8grx"
+    },
+    {
+      "@id": "#cyphgc",
+      "name": "Proto-Slavic *sěno",
+      "x": 0,
+      "y": -360,
+      "parent": "#qr8grx"
+    },
+    {
+      "@id": "#tg8mir",
+      "name": "Proto-Balto-Slavic *śáinan",
+      "x": 265,
+      "y": -291,
+      "parent": "#qr8grx"
+    },
+    {
+      "@id": "#quya3e",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2dfd2r",
+      "name": "Polish siano",
+      "x": 428,
+      "y": -111,
+      "parent": "#quya3e"
+    },
+    {
+      "@id": "#fkgbnc",
+      "name": "Slovak seno",
+      "x": 428,
+      "y": 111,
+      "parent": "#quya3e"
+    },
+    {
+      "@id": "#cswq28",
+      "name": "Russian сено",
+      "x": 265,
+      "y": 291,
+      "parent": "#quya3e"
+    },
+    {
+      "@id": "#5v9nrz",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tjra68",
+      "name": "seník: hayshed",
+      "x": 0,
+      "y": 360,
+      "parent": "#5v9nrz"
+    },
+    {
+      "@id": "#ntkg6r",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#537mkv",
+      "name": "Wiktionary: seno",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/seno#Czech",
+      "parent": "#ntkg6r"
+    },
+    {
+      "@id": "#en6idv",
+      "name": "Wiktionary: Proto-Slavic *sěno",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/s%C4%9Bno",
+      "parent": "#ntkg6r"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

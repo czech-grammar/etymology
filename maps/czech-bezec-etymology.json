@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech běžec etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#tve6yb",
+      "name": "Meaning: “runner”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wedymr",
+      "name": "Runner",
+      "x": -225,
+      "y": -312,
+      "parent": "#tve6yb"
+    },
+    {
+      "@id": "#rfckvq",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ihf7ib",
+      "name": "From běžet + -ec",
+      "x": 450,
+      "y": 0,
+      "parent": "#rfckvq"
+    },
+    {
+      "@id": "#3gx5q6",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4nfr8j",
+      "name": "Wiktionary: běžec",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/b%C4%9B%C5%BEec#Czech",
+      "parent": "#3gx5q6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

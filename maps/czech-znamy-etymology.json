@@ -1,0 +1,239 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech známý etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ezffpr",
+      "name": "Meaning: “acquaintance”",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d3jk3k",
+      "name": "Acquaintance",
+      "x": -439,
+      "y": -80,
+      "parent": "#ezffpr"
+    },
+    {
+      "@id": "#mbb6bk",
+      "name": "Known",
+      "x": -352,
+      "y": -224,
+      "parent": "#ezffpr"
+    },
+    {
+      "@id": "#tbggpw",
+      "name": "Word history",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c9hfdy",
+      "name": "Old Czech známý",
+      "x": -195,
+      "y": -324,
+      "parent": "#tbggpw"
+    },
+    {
+      "@id": "#4s2crg",
+      "name": "Proto-Slavic *znajemъ",
+      "x": 0,
+      "y": -376,
+      "parent": "#tbggpw"
+    },
+    {
+      "@id": "#3s7jqx",
+      "name": "Proto-Balto-Slavic *źnōˀtei",
+      "x": 195,
+      "y": -324,
+      "parent": "#tbggpw"
+    },
+    {
+      "@id": "#ayg4bg",
+      "name": "Proto-Indo-European *ǵneh₃-, “to know”",
+      "x": 352,
+      "y": -224,
+      "parent": "#tbggpw"
+    },
+    {
+      "@id": "#92pyus",
+      "name": "Slavic cousins",
+      "x": 224,
+      "y": 41,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rxvjmm",
+      "name": "Polish znać",
+      "x": 439,
+      "y": -80,
+      "parent": "#92pyus"
+    },
+    {
+      "@id": "#z7in9b",
+      "name": "Slovak znať",
+      "x": 439,
+      "y": 80,
+      "parent": "#92pyus"
+    },
+    {
+      "@id": "#927jfh",
+      "name": "Russian знать",
+      "x": 352,
+      "y": 224,
+      "parent": "#92pyus"
+    },
+    {
+      "@id": "#qua7dk",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zwx4sw",
+      "name": "seznam: a list",
+      "x": 195,
+      "y": 324,
+      "parent": "#qua7dk"
+    },
+    {
+      "@id": "#yjpsgu",
+      "name": "seznamka: dating service",
+      "x": 0,
+      "y": 376,
+      "parent": "#qua7dk"
+    },
+    {
+      "@id": "#znn5pr",
+      "name": "oznámit: to announce",
+      "x": -195,
+      "y": 324,
+      "parent": "#qua7dk"
+    },
+    {
+      "@id": "#g5j572",
+      "name": "Sources",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#we7suq",
+      "name": "Wiktionary: známý",
+      "x": -352,
+      "y": 224,
+      "link": "https://en.wiktionary.org/wiki/zn%C3%A1m%C3%BD#Czech",
+      "parent": "#g5j572"
+    },
+    {
+      "@id": "#wt6yem",
+      "name": "Wiktionary: Proto-Slavic *znati",
+      "x": -459,
+      "y": 84,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/znati",
+      "parent": "#g5j572"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    }
+  ],
+  "selectedNode": 0
+}

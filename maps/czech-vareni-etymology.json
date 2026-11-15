@@ -1,0 +1,126 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech vaření etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#tdurf8",
+      "name": "Meaning: “cooking”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rf5kwe",
+      "name": "Cooking",
+      "x": -390,
+      "y": -180,
+      "parent": "#tdurf8"
+    },
+    {
+      "@id": "#hgudrn",
+      "name": "Verbal noun of vařit",
+      "x": 0,
+      "y": -360,
+      "parent": "#tdurf8"
+    },
+    {
+      "@id": "#it3b5z",
+      "name": "Word history",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#igqgi2",
+      "name": "Old Czech vařenie",
+      "x": 390,
+      "y": -180,
+      "parent": "#it3b5z"
+    },
+    {
+      "@id": "#g3xkz4",
+      "name": "Proto-Slavic *vařenьje",
+      "x": 390,
+      "y": 180,
+      "parent": "#it3b5z"
+    },
+    {
+      "@id": "#ddwr7m",
+      "name": "Proto-Indo-European *wer-, “to burn”",
+      "x": 0,
+      "y": 360,
+      "parent": "#it3b5z"
+    },
+    {
+      "@id": "#pjrbiu",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tj65dk",
+      "name": "Wiktionary: vaření",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/va%C5%99en%C3%AD#Czech",
+      "parent": "#pjrbiu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

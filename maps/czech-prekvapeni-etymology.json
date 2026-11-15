@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech překvapení etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fdjsiy",
+      "name": "Meaning: “surprise”",
+      "x": -176,
+      "y": -118,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kp62td",
+      "name": "Surprise",
+      "x": -423,
+      "y": -123,
+      "parent": "#fdjsiy"
+    },
+    {
+      "@id": "#nqnide",
+      "name": "Verbal noun of překvapit",
+      "x": -225,
+      "y": -312,
+      "parent": "#fdjsiy"
+    },
+    {
+      "@id": "#qamz9g",
+      "name": "Word history",
+      "x": 115,
+      "y": -159,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#49wgzs",
+      "name": "From překvapit + -ení",
+      "x": 78,
+      "y": -355,
+      "parent": "#qamz9g"
+    },
+    {
+      "@id": "#qemky6",
+      "name": "Root: Proto-Slavic *kvapiti",
+      "x": 345,
+      "y": -231,
+      "parent": "#qamz9g"
+    },
+    {
+      "@id": "#cmv6x5",
+      "name": "Cousins of the root *kvapiti",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yhhnsc",
+      "name": "Polish kwapić",
+      "x": 450,
+      "y": 0,
+      "parent": "#cmv6x5"
+    },
+    {
+      "@id": "#jq3ptu",
+      "name": "Slovak kvapať",
+      "x": 345,
+      "y": 231,
+      "parent": "#cmv6x5"
+    },
+    {
+      "@id": "#mjpx22",
+      "name": "Russian квапить",
+      "x": 78,
+      "y": 355,
+      "parent": "#cmv6x5"
+    },
+    {
+      "@id": "#ekxigm",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#myhh62",
+      "name": "Wiktionary: překvapení",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/p%C5%99ekvapen%C3%AD#Czech",
+      "parent": "#ekxigm"
+    },
+    {
+      "@id": "#antc3u",
+      "name": "Wiktionary: Proto-Slavic *kvapiti",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kvapiti",
+      "parent": "#ekxigm"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

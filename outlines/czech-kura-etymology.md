@@ -1,0 +1,21 @@
+category: B1 nouns
+aliases: kůra etymology, origin of kůra, kůra word origin, etymology of kůra
+- Czech kůra etymology
+  - Meaning: “bark; rind, crust”
+    - Bark; rind, crust
+  - Word history
+    - Old Czech kóra
+    - Proto-Slavic *kora
+    - Proto-Balto-Slavic *karā́ˀ
+    - Proto-Indo-European *(s)kor-eh₂
+  - Slavic cousins
+    - Polish kora
+    - Slovak kôra
+    - Russian кора
+  - Related Czech words
+    - kůrový: bark
+    - korek: cork
+    - korýš: crustacean
+  - Sources
+    - [Wiktionary: kůra](https://en.wiktionary.org/wiki/k%C5%AFra#Czech)
+    - [Wiktionary: Proto-Slavic *kora](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kora)

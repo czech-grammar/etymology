@@ -1,0 +1,184 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech jiskra etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#a29weh",
+      "name": "Meaning: “spark”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5u6gg3",
+      "name": "Spark",
+      "x": -423,
+      "y": -123,
+      "parent": "#a29weh"
+    },
+    {
+      "@id": "#qs4yhw",
+      "name": "Word history",
+      "x": -40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zkrupe",
+      "name": "Old Czech jiskra",
+      "x": -225,
+      "y": -312,
+      "parent": "#qs4yhw"
+    },
+    {
+      "@id": "#h5ym8d",
+      "name": "Proto-Slavic *jьskra",
+      "x": 78,
+      "y": -355,
+      "parent": "#qs4yhw"
+    },
+    {
+      "@id": "#pbsaqt",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s43e3i",
+      "name": "Polish iskra",
+      "x": 345,
+      "y": -231,
+      "parent": "#pbsaqt"
+    },
+    {
+      "@id": "#yh3x3y",
+      "name": "Slovak iskra",
+      "x": 450,
+      "y": 0,
+      "parent": "#pbsaqt"
+    },
+    {
+      "@id": "#jdiwsd",
+      "name": "Russian искра",
+      "x": 345,
+      "y": 231,
+      "parent": "#pbsaqt"
+    },
+    {
+      "@id": "#7izwx8",
+      "name": "Related Czech words",
+      "x": 40,
+      "y": 181,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ejzdje",
+      "name": "jiskřit: to sparkle",
+      "x": 78,
+      "y": 355,
+      "parent": "#7izwx8"
+    },
+    {
+      "@id": "#heghw9",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jiunxp",
+      "name": "Wiktionary: jiskra",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/jiskra#Czech",
+      "parent": "#heghw9"
+    },
+    {
+      "@id": "#8g2ihu",
+      "name": "Wiktionary: Proto-Slavic *jьskra",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/j%D1%8Cskra",
+      "parent": "#heghw9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    }
+  ],
+  "selectedNode": 0
+}

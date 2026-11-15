@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech led etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#6zpz4p",
+      "name": "Meaning: “ice”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qdseac",
+      "name": "Ice",
+      "x": -435,
+      "y": -93,
+      "parent": "#6zpz4p"
+    },
+    {
+      "@id": "#z7ew3t",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7rk5cb",
+      "name": "Old Czech led",
+      "x": -318,
+      "y": -255,
+      "parent": "#z7ew3t"
+    },
+    {
+      "@id": "#9gf89v",
+      "name": "Proto-Slavic *ledъ",
+      "x": -116,
+      "y": -348,
+      "parent": "#z7ew3t"
+    },
+    {
+      "@id": "#gxm2nb",
+      "name": "Proto-Balto-Slavic *ledús, “ice”",
+      "x": 136,
+      "y": -408,
+      "parent": "#z7ew3t"
+    },
+    {
+      "@id": "#t22ihd",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d98jyi",
+      "name": "Polish lód",
+      "x": 318,
+      "y": -255,
+      "parent": "#t22ihd"
+    },
+    {
+      "@id": "#matctt",
+      "name": "Slovak ľad",
+      "x": 435,
+      "y": -93,
+      "parent": "#t22ihd"
+    },
+    {
+      "@id": "#qdtuib",
+      "name": "Russian лёд",
+      "x": 435,
+      "y": 93,
+      "parent": "#t22ihd"
+    },
+    {
+      "@id": "#hx5shq",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qqt249",
+      "name": "leden: January",
+      "x": 318,
+      "y": 255,
+      "parent": "#hx5shq"
+    },
+    {
+      "@id": "#3f924t",
+      "name": "lednička: fridge",
+      "x": 116,
+      "y": 348,
+      "parent": "#hx5shq"
+    },
+    {
+      "@id": "#vpk45s",
+      "name": "ledňáček: kingfisher",
+      "x": -116,
+      "y": 348,
+      "parent": "#hx5shq"
+    },
+    {
+      "@id": "#ptvtti",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b4egst",
+      "name": "Wiktionary: led",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/led#Czech",
+      "parent": "#ptvtti"
+    },
+    {
+      "@id": "#p6mvpd",
+      "name": "Wiktionary: Proto-Slavic *ledъ",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/led%D1%8A",
+      "parent": "#ptvtti"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

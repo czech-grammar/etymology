@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech autor etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#we9d3c",
+      "name": "Meaning: “author, writer”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r6wkdk",
+      "name": "Author, writer",
+      "x": -390,
+      "y": -180,
+      "parent": "#we9d3c"
+    },
+    {
+      "@id": "#gwhtpy",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fjw8a7",
+      "name": "Borrowed from German Autor",
+      "x": 0,
+      "y": -360,
+      "parent": "#gwhtpy"
+    },
+    {
+      "@id": "#93bds4",
+      "name": "Related Czech words",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5z56z5",
+      "name": "autorský: author's",
+      "x": 390,
+      "y": -180,
+      "parent": "#93bds4"
+    },
+    {
+      "@id": "#e683xi",
+      "name": "autorita: authority",
+      "x": 390,
+      "y": 180,
+      "parent": "#93bds4"
+    },
+    {
+      "@id": "#egxuhq",
+      "name": "autoritativní: authoritative",
+      "x": 0,
+      "y": 360,
+      "parent": "#93bds4"
+    },
+    {
+      "@id": "#uiqy84",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j58q36",
+      "name": "Wiktionary: autor",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/autor#Czech",
+      "parent": "#uiqy84"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

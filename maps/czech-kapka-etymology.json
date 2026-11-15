@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kapka etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gfrwbi",
+      "name": "Meaning: “drop”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s5ebrs",
+      "name": "Drop",
+      "x": -428,
+      "y": -111,
+      "parent": "#gfrwbi"
+    },
+    {
+      "@id": "#uqwiei",
+      "name": "Word history",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9veuhf",
+      "name": "Proto-Slavic *kapъka",
+      "x": -265,
+      "y": -291,
+      "parent": "#uqwiei"
+    },
+    {
+      "@id": "#r7332n",
+      "name": "From *kapati (v.), *kapъ (n.) + *-ъka",
+      "x": 0,
+      "y": -360,
+      "parent": "#uqwiei"
+    },
+    {
+      "@id": "#7998pn",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mfqimk",
+      "name": "Polish kapka",
+      "x": 265,
+      "y": -291,
+      "parent": "#7998pn"
+    },
+    {
+      "@id": "#9ziuxq",
+      "name": "Slovak kvapka",
+      "x": 428,
+      "y": -111,
+      "parent": "#7998pn"
+    },
+    {
+      "@id": "#44tx4a",
+      "name": "Russian капка",
+      "x": 428,
+      "y": 111,
+      "parent": "#7998pn"
+    },
+    {
+      "@id": "#mged6x",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5re9s2",
+      "name": "kapalina: fluid",
+      "x": 265,
+      "y": 291,
+      "parent": "#mged6x"
+    },
+    {
+      "@id": "#auy99f",
+      "name": "kapička: droplet",
+      "x": 0,
+      "y": 360,
+      "parent": "#mged6x"
+    },
+    {
+      "@id": "#j4nr3a",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dhrccy",
+      "name": "Wiktionary: kapka",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/kapka#Czech",
+      "parent": "#j4nr3a"
+    },
+    {
+      "@id": "#9d5e2k",
+      "name": "Wiktionary: Proto-Slavic *kapъka",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kap%D1%8Aka",
+      "parent": "#j4nr3a"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

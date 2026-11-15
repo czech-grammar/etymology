@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech představení etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#976wg4",
+      "name": "Meaning: “performance, show”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4dndew",
+      "name": "Performance, show",
+      "x": -390,
+      "y": -180,
+      "parent": "#976wg4"
+    },
+    {
+      "@id": "#fzjmwx",
+      "name": "Verbal noun of představit",
+      "x": 0,
+      "y": -360,
+      "parent": "#976wg4"
+    },
+    {
+      "@id": "#xyt3yr",
+      "name": "Word history",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m5ix4e",
+      "name": "From představit + -ení",
+      "x": 390,
+      "y": -180,
+      "parent": "#xyt3yr"
+    },
+    {
+      "@id": "#ibe4dq",
+      "name": "Related Czech words",
+      "x": 115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y6tisr",
+      "name": "představa: image",
+      "x": 390,
+      "y": 180,
+      "parent": "#ibe4dq"
+    },
+    {
+      "@id": "#85rab3",
+      "name": "představivost: imagination",
+      "x": 0,
+      "y": 360,
+      "parent": "#ibe4dq"
+    },
+    {
+      "@id": "#ck4ww5",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ur6dse",
+      "name": "Wiktionary: představení",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/p%C5%99edstaven%C3%AD#Czech",
+      "parent": "#ck4ww5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

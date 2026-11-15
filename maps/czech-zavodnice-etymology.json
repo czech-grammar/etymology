@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech závodnice etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#iawxkv",
+      "name": "Meaning: “racer, competitor (f)”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yi68gq",
+      "name": "Racer, competitor (f)",
+      "x": -318,
+      "y": -255,
+      "parent": "#iawxkv"
+    },
+    {
+      "@id": "#mkrejr",
+      "name": "Female competitor",
+      "x": 318,
+      "y": -255,
+      "parent": "#iawxkv"
+    },
+    {
+      "@id": "#y49fea",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nj7dhe",
+      "name": "From závod + -nice",
+      "x": 318,
+      "y": 255,
+      "parent": "#y49fea"
+    },
+    {
+      "@id": "#bv88bx",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wpegnc",
+      "name": "Wiktionary: závodnice",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/z%C3%A1vodnice#Czech",
+      "parent": "#bv88bx"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

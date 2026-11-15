@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech jeviště etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#q3hr5d",
+      "name": "Meaning: “stage (theatre)”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2a7sf8",
+      "name": "Stage (theatre)",
+      "x": -432,
+      "y": -101,
+      "parent": "#q3hr5d"
+    },
+    {
+      "@id": "#7ukkue",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sg753i",
+      "name": "From jev, “phenomenon” + -iště",
+      "x": -295,
+      "y": -272,
+      "parent": "#7ukkue"
+    },
+    {
+      "@id": "#skxcij",
+      "name": "Root: Proto-Slavic *avь",
+      "x": -64,
+      "y": -356,
+      "parent": "#7ukkue"
+    },
+    {
+      "@id": "#ga4dfk",
+      "name": "From Proto-Indo-European *h₂ew-, “to perceive”",
+      "x": 235,
+      "y": -417,
+      "parent": "#7ukkue"
+    },
+    {
+      "@id": "#y7tg3p",
+      "name": "Cousins of the root *avь",
+      "x": 270,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m69rpd",
+      "name": "Polish jawa",
+      "x": 379,
+      "y": -195,
+      "parent": "#y7tg3p"
+    },
+    {
+      "@id": "#acz6q3",
+      "name": "Slovak jav",
+      "x": 490,
+      "y": 0,
+      "parent": "#y7tg3p"
+    },
+    {
+      "@id": "#etutr3",
+      "name": "Russian явь",
+      "x": 379,
+      "y": 195,
+      "parent": "#y7tg3p"
+    },
+    {
+      "@id": "#5bz2dg",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6vj5uf",
+      "name": "jev: phenomenon",
+      "x": 187,
+      "y": 327,
+      "parent": "#5bz2dg"
+    },
+    {
+      "@id": "#47wr6j",
+      "name": "jevit: to seem",
+      "x": -64,
+      "y": 356,
+      "parent": "#5bz2dg"
+    },
+    {
+      "@id": "#fymm2t",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#83r49k",
+      "name": "Wiktionary: jeviště",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/jevi%C5%A1t%C4%9B#Czech",
+      "parent": "#fymm2t"
+    },
+    {
+      "@id": "#bcs7p7",
+      "name": "Wiktionary: Proto-Slavic *avь",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/av%D1%8C",
+      "parent": "#fymm2t"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

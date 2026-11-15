@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech veterinář etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fa2vu5",
+      "name": "Meaning: “vet”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xkx6tq",
+      "name": "Vet",
+      "x": -318,
+      "y": -255,
+      "parent": "#fa2vu5"
+    },
+    {
+      "@id": "#kdyaqi",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cptjnx",
+      "name": "By surface analysis, Latin veterīnus + -ář",
+      "x": 318,
+      "y": -255,
+      "parent": "#kdyaqi"
+    },
+    {
+      "@id": "#atba4w",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4zfn45",
+      "name": "veterinární: veterinary",
+      "x": 318,
+      "y": 255,
+      "parent": "#atba4w"
+    },
+    {
+      "@id": "#bj27nt",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9v3gge",
+      "name": "Wiktionary: veterinář",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/veterin%C3%A1%C5%99#Czech",
+      "parent": "#bj27nt"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

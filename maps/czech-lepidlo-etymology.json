@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech lepidlo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#e43zq3",
+      "name": "Meaning: “glue”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#erc4m9",
+      "name": "Glue",
+      "x": -428,
+      "y": -111,
+      "parent": "#e43zq3"
+    },
+    {
+      "@id": "#gt78gg",
+      "name": "Word history",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9t2q9e",
+      "name": "Old Czech lepidlo",
+      "x": -265,
+      "y": -291,
+      "parent": "#gt78gg"
+    },
+    {
+      "@id": "#47thfw",
+      "name": "Proto-Slavic *lěpidlo",
+      "x": 0,
+      "y": -360,
+      "parent": "#gt78gg"
+    },
+    {
+      "@id": "#m8atjs",
+      "name": "From *lěpiti, “to stick” + *-dlo",
+      "x": 265,
+      "y": -291,
+      "parent": "#gt78gg"
+    },
+    {
+      "@id": "#hdn8fb",
+      "name": "Built from lepit + -dlo",
+      "x": 428,
+      "y": -111,
+      "parent": "#gt78gg"
+    },
+    {
+      "@id": "#qu2mz5",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cvdhw9",
+      "name": "Slovak lepidlo",
+      "x": 428,
+      "y": 111,
+      "parent": "#qu2mz5"
+    },
+    {
+      "@id": "#xhjp5f",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tvvgus",
+      "name": "lepek: gluten",
+      "x": 265,
+      "y": 291,
+      "parent": "#xhjp5f"
+    },
+    {
+      "@id": "#hahyjf",
+      "name": "lepit: to glue",
+      "x": 0,
+      "y": 360,
+      "parent": "#xhjp5f"
+    },
+    {
+      "@id": "#c54enn",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5tpe85",
+      "name": "Wiktionary: lepidlo",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/lepidlo#Czech",
+      "parent": "#c54enn"
+    },
+    {
+      "@id": "#vma9xw",
+      "name": "Wiktionary: Proto-Slavic *lěpidlo",
+      "x": -447,
+      "y": 116,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/l%C4%9Bpidlo",
+      "parent": "#c54enn"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

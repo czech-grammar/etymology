@@ -1,0 +1,194 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech strojek etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#zf3vq2",
+      "name": "Meaning: “shaver, clippers”",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ydvw7v",
+      "name": "Shaver, clippers",
+      "x": -451,
+      "y": -105,
+      "parent": "#zf3vq2"
+    },
+    {
+      "@id": "#nkdf8v",
+      "name": "Machine",
+      "x": -295,
+      "y": -272,
+      "parent": "#zf3vq2"
+    },
+    {
+      "@id": "#ay8rf2",
+      "name": "Word history",
+      "x": 151,
+      "y": -139,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xj8hyt",
+      "name": "From stroj + -ek",
+      "x": -64,
+      "y": -356,
+      "parent": "#ay8rf2"
+    },
+    {
+      "@id": "#cqnh7k",
+      "name": "Root: Proto-Slavic *strojь",
+      "x": 187,
+      "y": -327,
+      "parent": "#ay8rf2"
+    },
+    {
+      "@id": "#yu27ge",
+      "name": "Proto-Balto-Slavic *strájas",
+      "x": 379,
+      "y": -195,
+      "parent": "#ay8rf2"
+    },
+    {
+      "@id": "#28a57d",
+      "name": "Proto-Indo-European *stroyos",
+      "x": 450,
+      "y": 0,
+      "parent": "#ay8rf2"
+    },
+    {
+      "@id": "#ubhx4v",
+      "name": "Cousins of the root *strojь",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9bmbzy",
+      "name": "Polish strój",
+      "x": 379,
+      "y": 195,
+      "parent": "#ubhx4v"
+    },
+    {
+      "@id": "#n8i8fs",
+      "name": "Slovak stroj",
+      "x": 187,
+      "y": 327,
+      "parent": "#ubhx4v"
+    },
+    {
+      "@id": "#svdihs",
+      "name": "Russian строй",
+      "x": -64,
+      "y": 356,
+      "parent": "#ubhx4v"
+    },
+    {
+      "@id": "#drhp9s",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3h5nu3",
+      "name": "Wiktionary: strojek",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/strojek#Czech",
+      "parent": "#drhp9s"
+    },
+    {
+      "@id": "#w3qgc5",
+      "name": "Wiktionary: Proto-Slavic *strojь",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/stroj%D1%8C",
+      "parent": "#drhp9s"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

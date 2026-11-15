@@ -1,0 +1,21 @@
+category: B1 nouns
+aliases: kněz etymology, origin of kněz, kněz word origin, etymology of kněz
+- Czech kněz etymology
+  - Meaning: “priest”
+    - Priest
+  - Word history
+    - Old Czech kněz
+    - Proto-Slavic *kъnędzь
+    - Proto-Germanic *kuningaz
+    - Deeper origin uncertain
+  - Slavic cousins
+    - Polish ksiądz
+    - Slovak kňaz, “priest”
+    - Russian князь
+  - Related Czech words
+    - kněžka: priestess
+    - kněžna: princess
+    - kníže: prince
+  - Sources
+    - [Wiktionary: kněz](https://en.wiktionary.org/wiki/kn%C4%9Bz#Czech)
+    - [Wiktionary: Proto-Slavic *kъnędzь](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/k%D1%8An%C4%99dz%D1%8C)

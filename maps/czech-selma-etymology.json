@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech šelma etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#unk3mk",
+      "name": "Meaning: “beast of prey”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r3apv9",
+      "name": "Beast of prey",
+      "x": -225,
+      "y": -312,
+      "parent": "#unk3mk"
+    },
+    {
+      "@id": "#h5c7xg",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#76s7qx",
+      "name": "Borrowed from Middle High German schẹlme, “carrion”",
+      "x": 570,
+      "y": 0,
+      "parent": "#h5c7xg"
+    },
+    {
+      "@id": "#4ckgvx",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yukjpu",
+      "name": "Wiktionary: šelma",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/%C5%A1elma#Czech",
+      "parent": "#4ckgvx"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

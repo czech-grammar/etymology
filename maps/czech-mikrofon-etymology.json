@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech mikrofon etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3c6aam",
+      "name": "Meaning: “microphone”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6e64zd",
+      "name": "Microphone",
+      "x": -390,
+      "y": -180,
+      "parent": "#3c6aam"
+    },
+    {
+      "@id": "#aiab9p",
+      "name": "Word history",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sb8b8y",
+      "name": "Borrowed from German Mikrophon",
+      "x": 0,
+      "y": -360,
+      "parent": "#aiab9p"
+    },
+    {
+      "@id": "#asew52",
+      "name": "French microphone",
+      "x": 390,
+      "y": -180,
+      "parent": "#aiab9p"
+    },
+    {
+      "@id": "#hvr2si",
+      "name": "Ancient Greek μικρός (mikrós) + φωνή (phōnḗ)",
+      "x": 390,
+      "y": 180,
+      "parent": "#aiab9p"
+    },
+    {
+      "@id": "#6yitp8",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2e8arc",
+      "name": "fón: phon",
+      "x": 0,
+      "y": 360,
+      "parent": "#6yitp8"
+    },
+    {
+      "@id": "#kgnc4v",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5zadp3",
+      "name": "Wiktionary: mikrofon",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/mikrofon#Czech",
+      "parent": "#kgnc4v"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

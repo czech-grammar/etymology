@@ -1,0 +1,205 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech mužstvo etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ypvbnd",
+      "name": "Meaning: “team”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9qdzw7",
+      "name": "Team",
+      "x": -435,
+      "y": -93,
+      "parent": "#ypvbnd"
+    },
+    {
+      "@id": "#a4rtiz",
+      "name": "The men, crew",
+      "x": -318,
+      "y": -255,
+      "parent": "#ypvbnd"
+    },
+    {
+      "@id": "#7bqjbf",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vbvcyc",
+      "name": "From muž + -stvo",
+      "x": -116,
+      "y": -348,
+      "parent": "#7bqjbf"
+    },
+    {
+      "@id": "#ak3dhf",
+      "name": "Root: Proto-Slavic *mǫžь",
+      "x": 121,
+      "y": -363,
+      "parent": "#7bqjbf"
+    },
+    {
+      "@id": "#a34fxe",
+      "name": "Proto-Balto-Slavic *mangjás",
+      "x": 318,
+      "y": -255,
+      "parent": "#7bqjbf"
+    },
+    {
+      "@id": "#ps2t8k",
+      "name": "Proto-Indo-European *mon-gʷ-yó-s",
+      "x": 435,
+      "y": -93,
+      "parent": "#7bqjbf"
+    },
+    {
+      "@id": "#58ttcg",
+      "name": "Proto-Indo-European *mon-",
+      "x": 435,
+      "y": 93,
+      "parent": "#7bqjbf"
+    },
+    {
+      "@id": "#ym9n57",
+      "name": "Cousins of the root *mǫžь",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3fushj",
+      "name": "Polish mąż",
+      "x": 318,
+      "y": 255,
+      "parent": "#ym9n57"
+    },
+    {
+      "@id": "#qsm346",
+      "name": "Slovak muž",
+      "x": 116,
+      "y": 348,
+      "parent": "#ym9n57"
+    },
+    {
+      "@id": "#f7i3xv",
+      "name": "Russian муж",
+      "x": -116,
+      "y": 348,
+      "parent": "#ym9n57"
+    },
+    {
+      "@id": "#8h3chx",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mmtfu9",
+      "name": "Wiktionary: mužstvo",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/mu%C5%BEstvo#Czech",
+      "parent": "#8h3chx"
+    },
+    {
+      "@id": "#yvwys8",
+      "name": "Wiktionary: Proto-Slavic *mǫžь",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/m%C7%AB%C5%BE%D1%8C",
+      "parent": "#8h3chx"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 4,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

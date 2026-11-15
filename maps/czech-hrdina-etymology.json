@@ -1,0 +1,149 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech hrdina etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gpcyjs",
+      "name": "Meaning: “hero”",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mfwuhx",
+      "name": "Hero",
+      "x": -405,
+      "y": -156,
+      "parent": "#gpcyjs"
+    },
+    {
+      "@id": "#jqd827",
+      "name": "Word history",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#djgb9y",
+      "name": "Old Czech hrdina",
+      "x": -100,
+      "y": -351,
+      "parent": "#jqd827"
+    },
+    {
+      "@id": "#wexham",
+      "name": "Built from hrdý + -ina",
+      "x": 281,
+      "y": -281,
+      "parent": "#jqd827"
+    },
+    {
+      "@id": "#f2uxi7",
+      "name": "Related Czech words",
+      "x": 143,
+      "y": 144,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c22kbc",
+      "name": "hrdinka: heroine",
+      "x": 450,
+      "y": 0,
+      "parent": "#f2uxi7"
+    },
+    {
+      "@id": "#7ibjfk",
+      "name": "hrdinný: heroic",
+      "x": 281,
+      "y": 281,
+      "parent": "#f2uxi7"
+    },
+    {
+      "@id": "#8h2n7d",
+      "name": "hrdinství: heroism",
+      "x": -100,
+      "y": 351,
+      "parent": "#f2uxi7"
+    },
+    {
+      "@id": "#ejhr7s",
+      "name": "Sources",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#axzhwn",
+      "name": "Wiktionary: hrdina",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wiktionary.org/wiki/hrdina#Czech",
+      "parent": "#ejhr7s"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

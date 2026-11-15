@@ -1,0 +1,127 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech tábor etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#6g7qau",
+      "name": "Meaning: “camp”",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x338m5",
+      "name": "Camp",
+      "x": -364,
+      "y": -212,
+      "parent": "#6g7qau"
+    },
+    {
+      "@id": "#x3vkr4",
+      "name": "Word history",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fbwxsr",
+      "name": "a Turkic language",
+      "x": 139,
+      "y": -342,
+      "parent": "#x3vkr4"
+    },
+    {
+      "@id": "#7442fd",
+      "name": "Related Czech words",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kkcqnu",
+      "name": "táborák: campfire",
+      "x": 450,
+      "y": 0,
+      "parent": "#7442fd"
+    },
+    {
+      "@id": "#8cctgp",
+      "name": "tábořiště: campsite",
+      "x": 139,
+      "y": 342,
+      "parent": "#7442fd"
+    },
+    {
+      "@id": "#bqseg2",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#srhpbt",
+      "name": "Wiktionary: tábor",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/t%C3%A1bor#Czech",
+      "parent": "#bqseg2"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

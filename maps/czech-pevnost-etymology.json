@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech pevnost etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#k98w3q",
+      "name": "Meaning: “fortress”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#46r3jb",
+      "name": "Fortress",
+      "x": -423,
+      "y": -123,
+      "parent": "#k98w3q"
+    },
+    {
+      "@id": "#aadcfz",
+      "name": "Word history",
+      "x": 40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tdpx6s",
+      "name": "From pevný + -ost",
+      "x": -225,
+      "y": -312,
+      "parent": "#aadcfz"
+    },
+    {
+      "@id": "#tug55k",
+      "name": "Root: Proto-Slavic *pъvьnъ",
+      "x": 78,
+      "y": -355,
+      "parent": "#aadcfz"
+    },
+    {
+      "@id": "#ewu2m7",
+      "name": "From *pъvъ + *-ьnъ",
+      "x": 345,
+      "y": -231,
+      "parent": "#aadcfz"
+    },
+    {
+      "@id": "#2wxikq",
+      "name": "Cousins of the root *pъvьnъ",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tv65sp",
+      "name": "Polish pewny",
+      "x": 450,
+      "y": 0,
+      "parent": "#2wxikq"
+    },
+    {
+      "@id": "#f6tciv",
+      "name": "Slovak pevný",
+      "x": 345,
+      "y": 231,
+      "parent": "#2wxikq"
+    },
+    {
+      "@id": "#25xqwb",
+      "name": "Ukrainian певний",
+      "x": 78,
+      "y": 355,
+      "parent": "#2wxikq"
+    },
+    {
+      "@id": "#7j24av",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#epf87p",
+      "name": "Wiktionary: pevnost",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/pevnost#Czech",
+      "parent": "#7j24av"
+    },
+    {
+      "@id": "#b4p9ub",
+      "name": "Wiktionary: Proto-Slavic *pъvьnъ",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/p%D1%8Av%D1%8Cn%D1%8A",
+      "parent": "#7j24av"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

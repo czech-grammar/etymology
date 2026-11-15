@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech hřbet etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gsc48a",
+      "name": "Meaning: “back; spine of a book”",
+      "x": -176,
+      "y": -118,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eh3y4r",
+      "name": "Back; spine of a book",
+      "x": -480,
+      "y": -138,
+      "parent": "#gsc48a"
+    },
+    {
+      "@id": "#jmnkpp",
+      "name": "Back, ridge",
+      "x": -225,
+      "y": -312,
+      "parent": "#gsc48a"
+    },
+    {
+      "@id": "#35x4ng",
+      "name": "Word history",
+      "x": 115,
+      "y": -159,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xzhzgv",
+      "name": "Old Czech chřbet",
+      "x": 78,
+      "y": -355,
+      "parent": "#35x4ng"
+    },
+    {
+      "@id": "#cevmi2",
+      "name": "Proto-Slavic *xrьbьtъ",
+      "x": 345,
+      "y": -231,
+      "parent": "#35x4ng"
+    },
+    {
+      "@id": "#y43j8t",
+      "name": "Slavic cousins",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#26fegi",
+      "name": "Polish grzbiet",
+      "x": 450,
+      "y": 0,
+      "parent": "#y43j8t"
+    },
+    {
+      "@id": "#8ifck3",
+      "name": "Slovak chrbát",
+      "x": 345,
+      "y": 231,
+      "parent": "#y43j8t"
+    },
+    {
+      "@id": "#fm8uw2",
+      "name": "Russian хребет",
+      "x": 78,
+      "y": 355,
+      "parent": "#y43j8t"
+    },
+    {
+      "@id": "#zdd8x9",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g7znmr",
+      "name": "Wiktionary: hřbet",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/h%C5%99bet#Czech",
+      "parent": "#zdd8x9"
+    },
+    {
+      "@id": "#4jfitj",
+      "name": "Wiktionary: Proto-Slavic *xrьbьtъ",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/xr%D1%8Cb%D1%8Ct%D1%8A",
+      "parent": "#zdd8x9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

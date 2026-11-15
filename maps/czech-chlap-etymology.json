@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech chlap etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#cgh3mx",
+      "name": "Meaning: “guy, bloke”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rhedi4",
+      "name": "Guy, bloke",
+      "x": -435,
+      "y": -93,
+      "parent": "#cgh3mx"
+    },
+    {
+      "@id": "#q7kz2x",
+      "name": "Dude",
+      "x": -318,
+      "y": -255,
+      "parent": "#cgh3mx"
+    },
+    {
+      "@id": "#4uif29",
+      "name": "Word history",
+      "x": 60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7eb7i6",
+      "name": "Old Czech chlap",
+      "x": -116,
+      "y": -348,
+      "parent": "#4uif29"
+    },
+    {
+      "@id": "#tutda3",
+      "name": "Proto-Slavic *xolpъ of uncertain origin",
+      "x": 136,
+      "y": -408,
+      "parent": "#4uif29"
+    },
+    {
+      "@id": "#5h9e5r",
+      "name": "Deeper origin uncertain",
+      "x": 318,
+      "y": -255,
+      "parent": "#4uif29"
+    },
+    {
+      "@id": "#cvnv4x",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": 48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ysngwm",
+      "name": "Polish chłop",
+      "x": 435,
+      "y": -93,
+      "parent": "#cvnv4x"
+    },
+    {
+      "@id": "#sc9zis",
+      "name": "Slovak chlap",
+      "x": 435,
+      "y": 93,
+      "parent": "#cvnv4x"
+    },
+    {
+      "@id": "#ma9675",
+      "name": "Russian холоп",
+      "x": 318,
+      "y": 255,
+      "parent": "#cvnv4x"
+    },
+    {
+      "@id": "#jn2ra6",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8pjhay",
+      "name": "chlapec: boy",
+      "x": 116,
+      "y": 348,
+      "parent": "#jn2ra6"
+    },
+    {
+      "@id": "#4k5e5k",
+      "name": "chlapík: guy",
+      "x": -116,
+      "y": 348,
+      "parent": "#jn2ra6"
+    },
+    {
+      "@id": "#byragv",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bivasq",
+      "name": "Wiktionary: chlap",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/chlap#Czech",
+      "parent": "#byragv"
+    },
+    {
+      "@id": "#d7ngtb",
+      "name": "Wiktionary: Proto-Slavic *xolpъ",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/xolp%D1%8A",
+      "parent": "#byragv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

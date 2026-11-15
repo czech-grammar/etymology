@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech klenotnictví etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qwyxcw",
+      "name": "Meaning: “jeweller’s”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f79rg6",
+      "name": "Jeweller’s",
+      "x": -390,
+      "y": -180,
+      "parent": "#qwyxcw"
+    },
+    {
+      "@id": "#zvnqpz",
+      "name": "Jewelcrafting",
+      "x": 0,
+      "y": -360,
+      "parent": "#qwyxcw"
+    },
+    {
+      "@id": "#i4rggk",
+      "name": "Word history",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x822ik",
+      "name": "From klenotník, “jeweler” + -ctví",
+      "x": 390,
+      "y": -180,
+      "parent": "#i4rggk"
+    },
+    {
+      "@id": "#etuy6s",
+      "name": "Related Czech words",
+      "x": 115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k3qnzs",
+      "name": "klenot: jewel",
+      "x": 390,
+      "y": 180,
+      "parent": "#etuy6s"
+    },
+    {
+      "@id": "#vwe69r",
+      "name": "klenotník: jeweler",
+      "x": 0,
+      "y": 360,
+      "parent": "#etuy6s"
+    },
+    {
+      "@id": "#trq242",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tdm52d",
+      "name": "Wiktionary: klenotnictví",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/klenotnictv%C3%AD#Czech",
+      "parent": "#trq242"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

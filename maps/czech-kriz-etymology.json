@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kříž etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#k2c4yg",
+      "name": "Meaning: “cross”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x663mt",
+      "name": "Cross",
+      "x": -390,
+      "y": -180,
+      "parent": "#k2c4yg"
+    },
+    {
+      "@id": "#cmvvq8",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bf3m6a",
+      "name": "Old Czech kříž",
+      "x": 0,
+      "y": -360,
+      "parent": "#cmvvq8"
+    },
+    {
+      "@id": "#dqp2sm",
+      "name": "Related Czech words",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xm429b",
+      "name": "křížem: crosswise",
+      "x": 390,
+      "y": -180,
+      "parent": "#dqp2sm"
+    },
+    {
+      "@id": "#eqmu4z",
+      "name": "křižák: crusader",
+      "x": 390,
+      "y": 180,
+      "parent": "#dqp2sm"
+    },
+    {
+      "@id": "#pdadjk",
+      "name": "křižník: cruiser",
+      "x": 0,
+      "y": 360,
+      "parent": "#dqp2sm"
+    },
+    {
+      "@id": "#hvjxxa",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yjt22g",
+      "name": "Wiktionary: kříž",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/k%C5%99%C3%AD%C5%BE#Czech",
+      "parent": "#hvjxxa"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

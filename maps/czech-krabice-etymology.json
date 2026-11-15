@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech krabice etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#wi6k93",
+      "name": "Meaning: “box”",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ei2ehy",
+      "name": "Box",
+      "x": -416,
+      "y": -138,
+      "parent": "#wi6k93"
+    },
+    {
+      "@id": "#xgezbu",
+      "name": "Word history",
+      "x": 88,
+      "y": -170,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ufjfy6",
+      "name": "Old Czech krabicě",
+      "x": -172,
+      "y": -333,
+      "parent": "#xgezbu"
+    },
+    {
+      "@id": "#bfi32w",
+      "name": "Proto-Slavic *korbica, “container”",
+      "x": 172,
+      "y": -333,
+      "parent": "#xgezbu"
+    },
+    {
+      "@id": "#arwndt",
+      "name": "From *kȏrbъ + *-ica",
+      "x": 416,
+      "y": -138,
+      "parent": "#xgezbu"
+    },
+    {
+      "@id": "#jy2mwf",
+      "name": "Slavic cousins",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4iv9h8",
+      "name": "Slovak krabica",
+      "x": 416,
+      "y": 138,
+      "parent": "#jy2mwf"
+    },
+    {
+      "@id": "#bxaacf",
+      "name": "Russian коробица",
+      "x": 172,
+      "y": 333,
+      "parent": "#jy2mwf"
+    },
+    {
+      "@id": "#w2rxzp",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uh6htn",
+      "name": "Wiktionary: krabice",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wiktionary.org/wiki/krabice#Czech",
+      "parent": "#w2rxzp"
+    },
+    {
+      "@id": "#egfv4f",
+      "name": "Wiktionary: Proto-Slavic *korbica",
+      "x": -416,
+      "y": 138,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/korbica",
+      "parent": "#w2rxzp"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    }
+  ],
+  "selectedNode": 0
+}

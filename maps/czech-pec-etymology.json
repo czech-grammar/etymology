@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech pec etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#k259zd",
+      "name": "Meaning: “oven, furnace, kiln”",
+      "x": -242,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uzfdbs",
+      "name": "Oven, furnace, kiln",
+      "x": -494,
+      "y": -98,
+      "parent": "#k259zd"
+    },
+    {
+      "@id": "#78sf9i",
+      "name": "Word history",
+      "x": -28,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kxtx3y",
+      "name": "Old Czech pec",
+      "x": -337,
+      "y": -239,
+      "parent": "#78sf9i"
+    },
+    {
+      "@id": "#di24py",
+      "name": "Proto-Slavic *peťь",
+      "x": -160,
+      "y": -337,
+      "parent": "#78sf9i"
+    },
+    {
+      "@id": "#yujkbp",
+      "name": "Proto-Balto-Slavic *pektís",
+      "x": 58,
+      "y": -389,
+      "parent": "#78sf9i"
+    },
+    {
+      "@id": "#fnibnc",
+      "name": "Proto-Indo-European *pékʷtis",
+      "x": 256,
+      "y": -296,
+      "parent": "#78sf9i"
+    },
+    {
+      "@id": "#jwee9r",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#znawm5",
+      "name": "Polish piec",
+      "x": 398,
+      "y": -167,
+      "parent": "#jwee9r"
+    },
+    {
+      "@id": "#pzq35r",
+      "name": "Slovak pec",
+      "x": 450,
+      "y": 0,
+      "parent": "#jwee9r"
+    },
+    {
+      "@id": "#qhudv6",
+      "name": "Russian печь",
+      "x": 398,
+      "y": 167,
+      "parent": "#jwee9r"
+    },
+    {
+      "@id": "#hc7r9h",
+      "name": "Related Czech words",
+      "x": 28,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c9i637",
+      "name": "pecivál: homebody",
+      "x": 256,
+      "y": 296,
+      "parent": "#hc7r9h"
+    },
+    {
+      "@id": "#4p77ug",
+      "name": "pekař: baker",
+      "x": 54,
+      "y": 357,
+      "parent": "#hc7r9h"
+    },
+    {
+      "@id": "#pqidec",
+      "name": "péct: to bake",
+      "x": -160,
+      "y": 337,
+      "parent": "#hc7r9h"
+    },
+    {
+      "@id": "#hfv3jr",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4aaneh",
+      "name": "Wiktionary: pec",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/pec#Czech",
+      "parent": "#hfv3jr"
+    },
+    {
+      "@id": "#5a9fen",
+      "name": "Wiktionary: Proto-Slavic *peťь",
+      "x": -437,
+      "y": 86,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/pe%C5%A5%D1%8C",
+      "parent": "#hfv3jr"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

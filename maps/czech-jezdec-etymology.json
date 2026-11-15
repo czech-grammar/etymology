@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech jezdec etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#vq54rz",
+      "name": "Meaning: “rider, horseman”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qvvfmz",
+      "name": "Rider, horseman",
+      "x": -423,
+      "y": -123,
+      "parent": "#vq54rz"
+    },
+    {
+      "@id": "#j8iaah",
+      "name": "Word history",
+      "x": 40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mrpjp9",
+      "name": "From jezdit + -ec",
+      "x": -225,
+      "y": -312,
+      "parent": "#j8iaah"
+    },
+    {
+      "@id": "#sqxvuy",
+      "name": "Root: Proto-Slavic *ězditi",
+      "x": 78,
+      "y": -355,
+      "parent": "#j8iaah"
+    },
+    {
+      "@id": "#2bach5",
+      "name": "From *jězda + *-iti",
+      "x": 345,
+      "y": -231,
+      "parent": "#j8iaah"
+    },
+    {
+      "@id": "#yh9kj5",
+      "name": "Cousins of the root *ězditi",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r4ygsw",
+      "name": "Polish jeździć",
+      "x": 450,
+      "y": 0,
+      "parent": "#yh9kj5"
+    },
+    {
+      "@id": "#3rhq4t",
+      "name": "Slovak jazdiť",
+      "x": 345,
+      "y": 231,
+      "parent": "#yh9kj5"
+    },
+    {
+      "@id": "#fyrc99",
+      "name": "Russian ездить",
+      "x": 78,
+      "y": 355,
+      "parent": "#yh9kj5"
+    },
+    {
+      "@id": "#wqqdii",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#itv6cj",
+      "name": "Wiktionary: jezdec",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/jezdec#Czech",
+      "parent": "#wqqdii"
+    },
+    {
+      "@id": "#sghbnu",
+      "name": "Wiktionary: Proto-Slavic *ězditi",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C4%9Bzditi",
+      "parent": "#wqqdii"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

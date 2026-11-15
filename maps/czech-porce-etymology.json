@@ -1,0 +1,138 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech porce etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#33pmms",
+      "name": "Meaning: “portion, serving, helping”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4vmdz5",
+      "name": "Portion, serving, helping",
+      "x": -441,
+      "y": -204,
+      "parent": "#33pmms"
+    },
+    {
+      "@id": "#hm7s2u",
+      "name": "Serving, portion",
+      "x": 0,
+      "y": -360,
+      "parent": "#33pmms"
+    },
+    {
+      "@id": "#fayrpx",
+      "name": "Word history",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#atg2g9",
+      "name": "From Latin portiō",
+      "x": 390,
+      "y": -180,
+      "parent": "#fayrpx"
+    },
+    {
+      "@id": "#jf7nb4",
+      "name": "Related Czech words",
+      "x": 115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2ruw9y",
+      "name": "naporcovat: to carve up",
+      "x": 390,
+      "y": 180,
+      "parent": "#jf7nb4"
+    },
+    {
+      "@id": "#8siwtz",
+      "name": "porcovat: to carve",
+      "x": 0,
+      "y": 360,
+      "parent": "#jf7nb4"
+    },
+    {
+      "@id": "#xrd4jq",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3k44s4",
+      "name": "Wiktionary: porce",
+      "x": -390,
+      "y": 180,
+      "link": "https://en.wiktionary.org/wiki/porce#Czech",
+      "parent": "#xrd4jq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    }
+  ],
+  "selectedNode": 0
+}

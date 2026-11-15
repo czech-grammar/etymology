@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kabina etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#4bytv5",
+      "name": "Meaning: “cabin, booth”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3c84pu",
+      "name": "Cabin, booth",
+      "x": -318,
+      "y": -255,
+      "parent": "#4bytv5"
+    },
+    {
+      "@id": "#b2mz5w",
+      "name": "Cabin, cab, cockpit",
+      "x": 318,
+      "y": -255,
+      "parent": "#4bytv5"
+    },
+    {
+      "@id": "#f4bav8",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tmerki",
+      "name": "Borrowed from French cabine",
+      "x": 318,
+      "y": 255,
+      "parent": "#f4bav8"
+    },
+    {
+      "@id": "#ag4h4h",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4iavhw",
+      "name": "Wiktionary: kabina",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/kabina#Czech",
+      "parent": "#ag4h4h"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

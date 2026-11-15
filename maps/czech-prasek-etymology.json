@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech prášek etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#npw423",
+      "name": "Meaning: “pill; powder”",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bupkmi",
+      "name": "Pill; powder",
+      "x": -225,
+      "y": -312,
+      "parent": "#npw423"
+    },
+    {
+      "@id": "#uu3c9h",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4x7h3a",
+      "name": "From prach + -ek",
+      "x": 450,
+      "y": 0,
+      "parent": "#uu3c9h"
+    },
+    {
+      "@id": "#5kavhv",
+      "name": "Sources",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hd23cs",
+      "name": "Wiktionary: prášek",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/pr%C3%A1%C5%A1ek#Czech",
+      "parent": "#5kavhv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    }
+  ],
+  "selectedNode": 0
+}

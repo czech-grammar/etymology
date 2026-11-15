@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech rys etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#38zawh",
+      "name": "Meaning: “lynx”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vx989r",
+      "name": "Lynx",
+      "x": -435,
+      "y": -93,
+      "parent": "#38zawh"
+    },
+    {
+      "@id": "#4mn6ya",
+      "name": "Word history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e3dydr",
+      "name": "Old Czech rys",
+      "x": -318,
+      "y": -255,
+      "parent": "#4mn6ya"
+    },
+    {
+      "@id": "#t3jbqu",
+      "name": "Proto-Slavic *rysь",
+      "x": -116,
+      "y": -348,
+      "parent": "#4mn6ya"
+    },
+    {
+      "@id": "#ydf3vm",
+      "name": "Deeper origin uncertain",
+      "x": 126,
+      "y": -378,
+      "parent": "#4mn6ya"
+    },
+    {
+      "@id": "#su5dh8",
+      "name": "Slavic cousins",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n6y35v",
+      "name": "Polish ryś",
+      "x": 318,
+      "y": -255,
+      "parent": "#su5dh8"
+    },
+    {
+      "@id": "#km6gya",
+      "name": "Slovak rys",
+      "x": 435,
+      "y": -93,
+      "parent": "#su5dh8"
+    },
+    {
+      "@id": "#tk8ni5",
+      "name": "Russian рысь",
+      "x": 435,
+      "y": 93,
+      "parent": "#su5dh8"
+    },
+    {
+      "@id": "#27pi72",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ajzsur",
+      "name": "rysice: female lynx",
+      "x": 318,
+      "y": 255,
+      "parent": "#27pi72"
+    },
+    {
+      "@id": "#73v8uj",
+      "name": "bokorys: side elevation",
+      "x": 116,
+      "y": 348,
+      "parent": "#27pi72"
+    },
+    {
+      "@id": "#iy3f8p",
+      "name": "nárys: front elevation",
+      "x": -136,
+      "y": 408,
+      "parent": "#27pi72"
+    },
+    {
+      "@id": "#u57hmw",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6rfydy",
+      "name": "Wiktionary: rys",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/rys#Czech",
+      "parent": "#u57hmw"
+    },
+    {
+      "@id": "#sc4hyh",
+      "name": "Wiktionary: Proto-Slavic *rysь",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/rys%D1%8C",
+      "parent": "#u57hmw"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

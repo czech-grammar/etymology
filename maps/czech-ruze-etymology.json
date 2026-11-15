@@ -1,0 +1,149 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech růže etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ckbn9z",
+      "name": "Meaning: “rose”",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#943h8w",
+      "name": "Rose",
+      "x": -405,
+      "y": -156,
+      "parent": "#ckbn9z"
+    },
+    {
+      "@id": "#kmbwsk",
+      "name": "Word history",
+      "x": 143,
+      "y": -144,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#asxvay",
+      "name": "Old Czech róžě",
+      "x": -100,
+      "y": -351,
+      "parent": "#kmbwsk"
+    },
+    {
+      "@id": "#fvvbka",
+      "name": "Middle High German rôse",
+      "x": 281,
+      "y": -281,
+      "parent": "#kmbwsk"
+    },
+    {
+      "@id": "#bcwgfh",
+      "name": "Latin rosa",
+      "x": 450,
+      "y": 0,
+      "parent": "#kmbwsk"
+    },
+    {
+      "@id": "#cyweb6",
+      "name": "Related Czech words",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#czqi67",
+      "name": "růžice: rosette",
+      "x": 281,
+      "y": 281,
+      "parent": "#cyweb6"
+    },
+    {
+      "@id": "#6xjb2w",
+      "name": "růženec: rosary",
+      "x": -100,
+      "y": 351,
+      "parent": "#cyweb6"
+    },
+    {
+      "@id": "#nwbag7",
+      "name": "Sources",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ct77fd",
+      "name": "Wiktionary: růže",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wiktionary.org/wiki/r%C5%AF%C5%BEe#Czech",
+      "parent": "#nwbag7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

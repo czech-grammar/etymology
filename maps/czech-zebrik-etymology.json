@@ -1,0 +1,149 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech žebřík etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#q9txdh",
+      "name": "Meaning: “ladder”",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pdcm4e",
+      "name": "Ladder",
+      "x": -405,
+      "y": -156,
+      "parent": "#q9txdh"
+    },
+    {
+      "@id": "#zhinkm",
+      "name": "Word history",
+      "x": 143,
+      "y": -144,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#26ep7x",
+      "name": "Old Czech řebří + -k",
+      "x": -100,
+      "y": -351,
+      "parent": "#zhinkm"
+    },
+    {
+      "@id": "#sv8ebk",
+      "name": "Proto-Slavic *rebrьjь",
+      "x": 281,
+      "y": -281,
+      "parent": "#zhinkm"
+    },
+    {
+      "@id": "#7242eb",
+      "name": "Built from žebro + -ík",
+      "x": 450,
+      "y": 0,
+      "parent": "#zhinkm"
+    },
+    {
+      "@id": "#2pihsv",
+      "name": "Related Czech words",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jeiu4p",
+      "name": "žebro: rib",
+      "x": 281,
+      "y": 281,
+      "parent": "#2pihsv"
+    },
+    {
+      "@id": "#96iukn",
+      "name": "žebřiňák: ladder wagon",
+      "x": -100,
+      "y": 351,
+      "parent": "#2pihsv"
+    },
+    {
+      "@id": "#3zm639",
+      "name": "Sources",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bzvbtk",
+      "name": "Wiktionary: žebřík",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wiktionary.org/wiki/%C5%BEeb%C5%99%C3%ADk#Czech",
+      "parent": "#3zm639"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    }
+  ],
+  "selectedNode": 0
+}

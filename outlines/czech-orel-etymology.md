@@ -1,0 +1,21 @@
+category: B2 nouns
+aliases: orel etymology, origin of orel, orel word origin, etymology of orel
+- Czech orel etymology
+  - Meaning: “eagle”
+    - Eagle
+  - Word history
+    - Old Czech orel
+    - Proto-Slavic *orьlъ
+    - Proto-Balto-Slavic * erélis, *arélis
+    - Proto-Indo-European *h₃érō
+  - Slavic cousins
+    - Polish orzeł
+    - Slovak orol
+    - Russian орёл
+  - Related Czech words
+    - orlův: eagle's
+    - orle: eaglet
+    - orlice: female eagle
+  - Sources
+    - [Wiktionary: orel](https://en.wiktionary.org/wiki/orel#Czech)
+    - [Wiktionary: Proto-Slavic *orьlъ](https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/or%D1%8Cl%D1%8A)

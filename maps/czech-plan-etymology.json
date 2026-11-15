@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech plán etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#hk54u9",
+      "name": "Meaning: “plan”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hw3n76",
+      "name": "Plan",
+      "x": -318,
+      "y": -255,
+      "parent": "#hk54u9"
+    },
+    {
+      "@id": "#2yv9iy",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#99qiax",
+      "name": "Borrowed from German Plan",
+      "x": 318,
+      "y": -255,
+      "parent": "#2yv9iy"
+    },
+    {
+      "@id": "#4b9qeh",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bqmstf",
+      "name": "plánovat: to plan",
+      "x": 318,
+      "y": 255,
+      "parent": "#4b9qeh"
+    },
+    {
+      "@id": "#cwmaq6",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#epqv4g",
+      "name": "Wiktionary: plán",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/pl%C3%A1n#Czech",
+      "parent": "#cwmaq6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

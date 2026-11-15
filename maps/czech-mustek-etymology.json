@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech můstek etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#p2hvfa",
+      "name": "Meaning: “ski jump; footbridge”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j5ngwc",
+      "name": "Ski jump; footbridge",
+      "x": -423,
+      "y": -123,
+      "parent": "#p2hvfa"
+    },
+    {
+      "@id": "#rzjses",
+      "name": "Word history",
+      "x": 40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#prjsqq",
+      "name": "From most + -ek",
+      "x": -225,
+      "y": -312,
+      "parent": "#rzjses"
+    },
+    {
+      "@id": "#zpqzcx",
+      "name": "Root: Proto-Slavic *mostъ",
+      "x": 78,
+      "y": -355,
+      "parent": "#rzjses"
+    },
+    {
+      "@id": "#g3uyuy",
+      "name": "Deeper origin uncertain",
+      "x": 345,
+      "y": -231,
+      "parent": "#rzjses"
+    },
+    {
+      "@id": "#j6yev2",
+      "name": "Cousins of the root *mostъ",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mfkxvj",
+      "name": "Polish most",
+      "x": 450,
+      "y": 0,
+      "parent": "#j6yev2"
+    },
+    {
+      "@id": "#589csm",
+      "name": "Slovak most",
+      "x": 345,
+      "y": 231,
+      "parent": "#j6yev2"
+    },
+    {
+      "@id": "#mvhnbx",
+      "name": "Russian мост",
+      "x": 78,
+      "y": 355,
+      "parent": "#j6yev2"
+    },
+    {
+      "@id": "#prhndt",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k63tnb",
+      "name": "Wiktionary: můstek",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/m%C5%AFstek#Czech",
+      "parent": "#prhndt"
+    },
+    {
+      "@id": "#tm27y6",
+      "name": "Wiktionary: Proto-Slavic *mostъ",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/most%D1%8A",
+      "parent": "#prhndt"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    }
+  ],
+  "selectedNode": 0
+}

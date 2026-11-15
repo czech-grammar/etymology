@@ -1,0 +1,184 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech obuv etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#aw7v4f",
+      "name": "Meaning: “footwear”",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b4ux7v",
+      "name": "Footwear",
+      "x": -423,
+      "y": -123,
+      "parent": "#aw7v4f"
+    },
+    {
+      "@id": "#i4cda8",
+      "name": "Word history",
+      "x": -40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a5t7ya",
+      "name": "Proto-Slavic *obuvь",
+      "x": -225,
+      "y": -312,
+      "parent": "#i4cda8"
+    },
+    {
+      "@id": "#iu7tp9",
+      "name": "Deeper origin uncertain",
+      "x": 78,
+      "y": -355,
+      "parent": "#i4cda8"
+    },
+    {
+      "@id": "#d2g32f",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qnakab",
+      "name": "Polish obuwie",
+      "x": 345,
+      "y": -231,
+      "parent": "#d2g32f"
+    },
+    {
+      "@id": "#jyky4f",
+      "name": "Slovak obuv",
+      "x": 450,
+      "y": 0,
+      "parent": "#d2g32f"
+    },
+    {
+      "@id": "#55vb7q",
+      "name": "Russian обувь",
+      "x": 345,
+      "y": 231,
+      "parent": "#d2g32f"
+    },
+    {
+      "@id": "#xn5q37",
+      "name": "Related Czech words",
+      "x": 40,
+      "y": 181,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#44je5t",
+      "name": "obuvník: shoemaker",
+      "x": 78,
+      "y": 355,
+      "parent": "#xn5q37"
+    },
+    {
+      "@id": "#uncgq2",
+      "name": "Sources",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q8a7zx",
+      "name": "Wiktionary: obuv",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wiktionary.org/wiki/obuv#Czech",
+      "parent": "#uncgq2"
+    },
+    {
+      "@id": "#857fhe",
+      "name": "Wiktionary: Proto-Slavic *obuvь",
+      "x": -423,
+      "y": 123,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/obuv%D1%8C",
+      "parent": "#uncgq2"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    }
+  ],
+  "selectedNode": 0
+}

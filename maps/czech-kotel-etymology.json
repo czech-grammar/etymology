@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kotel etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2ubjcv",
+      "name": "Meaning: “boiler”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y3wj26",
+      "name": "Boiler",
+      "x": -432,
+      "y": -101,
+      "parent": "#2ubjcv"
+    },
+    {
+      "@id": "#zfdfgi",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#66ga7b",
+      "name": "Old Czech kotel",
+      "x": -295,
+      "y": -272,
+      "parent": "#zfdfgi"
+    },
+    {
+      "@id": "#yfe2x2",
+      "name": "Proto-Slavic *kotьlъ",
+      "x": -64,
+      "y": -356,
+      "parent": "#zfdfgi"
+    },
+    {
+      "@id": "#q87j2b",
+      "name": "Borrowed from Gothic 𐌺𐌰𐍄𐌹𐌻𐍃",
+      "x": 203,
+      "y": -357,
+      "parent": "#zfdfgi"
+    },
+    {
+      "@id": "#uugu6v",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7ehv65",
+      "name": "Polish kocioł",
+      "x": 379,
+      "y": -195,
+      "parent": "#uugu6v"
+    },
+    {
+      "@id": "#jpdvxa",
+      "name": "Slovak kotol",
+      "x": 450,
+      "y": 0,
+      "parent": "#uugu6v"
+    },
+    {
+      "@id": "#gnqcez",
+      "name": "Russian котёл",
+      "x": 379,
+      "y": 195,
+      "parent": "#uugu6v"
+    },
+    {
+      "@id": "#c85sbm",
+      "name": "Related Czech words",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kjvb9w",
+      "name": "kotelna: boiler room",
+      "x": 187,
+      "y": 327,
+      "parent": "#c85sbm"
+    },
+    {
+      "@id": "#mpd9af",
+      "name": "kotlina: deep valley",
+      "x": -64,
+      "y": 356,
+      "parent": "#c85sbm"
+    },
+    {
+      "@id": "#gg7c4a",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ejtedh",
+      "name": "Wiktionary: kotel",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/kotel#Czech",
+      "parent": "#gg7c4a"
+    },
+    {
+      "@id": "#z8gasx",
+      "name": "Wiktionary: Proto-Slavic *kotьlъ",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/kot%D1%8Cl%D1%8A",
+      "parent": "#gg7c4a"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

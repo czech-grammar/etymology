@@ -1,0 +1,127 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech stanoviště etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#w4cizh",
+      "name": "Meaning: “stand, taxi rank”",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hdrbj7",
+      "name": "Stand, taxi rank",
+      "x": -364,
+      "y": -212,
+      "parent": "#w4cizh"
+    },
+    {
+      "@id": "#gw28bk",
+      "name": "Stand, post, station",
+      "x": 139,
+      "y": -342,
+      "parent": "#w4cizh"
+    },
+    {
+      "@id": "#bfewp6",
+      "name": "Word history",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ju9a2m",
+      "name": "From stanovit + -iště",
+      "x": 450,
+      "y": 0,
+      "parent": "#bfewp6"
+    },
+    {
+      "@id": "#vtfaf8",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i6iqep",
+      "name": "stanovit: to determine",
+      "x": 139,
+      "y": 342,
+      "parent": "#vtfaf8"
+    },
+    {
+      "@id": "#3e254k",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nccz2j",
+      "name": "Wiktionary: stanoviště",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wiktionary.org/wiki/stanovi%C5%A1t%C4%9B#Czech",
+      "parent": "#3e254k"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech stín etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#x7suhb",
+      "name": "Meaning: “shadow, shade”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9ahe2w",
+      "name": "Shadow, shade",
+      "x": -428,
+      "y": -111,
+      "parent": "#x7suhb"
+    },
+    {
+      "@id": "#8v7p2c",
+      "name": "Word history",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hezu9u",
+      "name": "Proto-Slavic *těnь",
+      "x": -265,
+      "y": -291,
+      "parent": "#8v7p2c"
+    },
+    {
+      "@id": "#jdr43q",
+      "name": "Deeper origin uncertain",
+      "x": 0,
+      "y": -360,
+      "parent": "#8v7p2c"
+    },
+    {
+      "@id": "#qdqjhi",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mcq4sq",
+      "name": "Polish cień",
+      "x": 265,
+      "y": -291,
+      "parent": "#qdqjhi"
+    },
+    {
+      "@id": "#5h3624",
+      "name": "Slovak tieň",
+      "x": 428,
+      "y": -111,
+      "parent": "#qdqjhi"
+    },
+    {
+      "@id": "#ieaezv",
+      "name": "Russian тень",
+      "x": 428,
+      "y": 111,
+      "parent": "#qdqjhi"
+    },
+    {
+      "@id": "#77nukg",
+      "name": "Related Czech words",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#phbxvi",
+      "name": "stínový: shadow",
+      "x": 265,
+      "y": 291,
+      "parent": "#77nukg"
+    },
+    {
+      "@id": "#smeq5a",
+      "name": "odstín: shade",
+      "x": 0,
+      "y": 360,
+      "parent": "#77nukg"
+    },
+    {
+      "@id": "#scpzpf",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u2xpvp",
+      "name": "Wiktionary: stín",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/st%C3%ADn#Czech",
+      "parent": "#scpzpf"
+    },
+    {
+      "@id": "#443wep",
+      "name": "Wiktionary: Proto-Slavic *těnь",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/t%C4%9Bn%D1%8C",
+      "parent": "#scpzpf"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

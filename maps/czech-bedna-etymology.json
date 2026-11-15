@@ -1,0 +1,228 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech bedna etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gw8qqd",
+      "name": "Meaning: “crate, chest”",
+      "x": -204,
+      "y": -86,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cumidu",
+      "name": "Crate, chest",
+      "x": -437,
+      "y": -86,
+      "parent": "#gw8qqd"
+    },
+    {
+      "@id": "#ujcbui",
+      "name": "Box, crate",
+      "x": -337,
+      "y": -239,
+      "parent": "#gw8qqd"
+    },
+    {
+      "@id": "#mx6pdq",
+      "name": "Word history",
+      "x": 82,
+      "y": -172,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u2qkrr",
+      "name": "Proto-Slavic *bъdьňa",
+      "x": -160,
+      "y": -337,
+      "parent": "#mx6pdq"
+    },
+    {
+      "@id": "#6vbefk",
+      "name": "Proto-Germanic *budin-",
+      "x": 58,
+      "y": -389,
+      "parent": "#mx6pdq"
+    },
+    {
+      "@id": "#q3yubu",
+      "name": "Medieval Latin butina (Vulgar Latin *budina)",
+      "x": 256,
+      "y": -296,
+      "parent": "#mx6pdq"
+    },
+    {
+      "@id": "#hnhyak",
+      "name": "Ancient Greek πυτίνη (putínē, “flask”)",
+      "x": 398,
+      "y": -167,
+      "parent": "#mx6pdq"
+    },
+    {
+      "@id": "#r54dbw",
+      "name": "Slavic cousins",
+      "x": 204,
+      "y": 86,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2c8vtr",
+      "name": "Polish bednia",
+      "x": 450,
+      "y": 0,
+      "parent": "#r54dbw"
+    },
+    {
+      "@id": "#89qys9",
+      "name": "Slovak debna",
+      "x": 398,
+      "y": 167,
+      "parent": "#r54dbw"
+    },
+    {
+      "@id": "#xtzmh4",
+      "name": "Ukrainian бодня",
+      "x": 256,
+      "y": 296,
+      "parent": "#r54dbw"
+    },
+    {
+      "@id": "#nxz4s4",
+      "name": "Related Czech words",
+      "x": -28,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4w5cej",
+      "name": "bednárna: cooperage",
+      "x": 54,
+      "y": 357,
+      "parent": "#nxz4s4"
+    },
+    {
+      "@id": "#99gqm9",
+      "name": "bednář: cooper",
+      "x": -160,
+      "y": 337,
+      "parent": "#nxz4s4"
+    },
+    {
+      "@id": "#arxmpy",
+      "name": "Sources",
+      "x": -204,
+      "y": 86,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#thvu4e",
+      "name": "Wiktionary: bedna",
+      "x": -337,
+      "y": 239,
+      "link": "https://en.wiktionary.org/wiki/bedna#Czech",
+      "parent": "#arxmpy"
+    },
+    {
+      "@id": "#k2ma3x",
+      "name": "Wiktionary: Proto-Slavic *bъdьňa",
+      "x": -456,
+      "y": 90,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/b%D1%8Ad%D1%8C%C5%88a",
+      "parent": "#arxmpy"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech obec etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7w3xiv",
+      "name": "Meaning: “village, municipality”",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5myxhn",
+      "name": "Village, municipality",
+      "x": -492,
+      "y": -105,
+      "parent": "#7w3xiv"
+    },
+    {
+      "@id": "#dzuq5v",
+      "name": "Municipality, village, locality, community",
+      "x": -318,
+      "y": -255,
+      "parent": "#7w3xiv"
+    },
+    {
+      "@id": "#qfbg84",
+      "name": "Word history",
+      "x": 60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7r35ur",
+      "name": "Old Czech obec",
+      "x": -116,
+      "y": -348,
+      "parent": "#qfbg84"
+    },
+    {
+      "@id": "#a85rdh",
+      "name": "Proto-Slavic *obьťь",
+      "x": 116,
+      "y": -348,
+      "parent": "#qfbg84"
+    },
+    {
+      "@id": "#uznawg",
+      "name": "Proto-Indo-European *h₃ebʰi (see *ob) + *-tyos",
+      "x": 318,
+      "y": -255,
+      "parent": "#qfbg84"
+    },
+    {
+      "@id": "#tacmbn",
+      "name": "Slavic cousins",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2spfg3",
+      "name": "Polish obcy",
+      "x": 435,
+      "y": -93,
+      "parent": "#tacmbn"
+    },
+    {
+      "@id": "#kg2vvp",
+      "name": "Russian обчий",
+      "x": 435,
+      "y": 93,
+      "parent": "#tacmbn"
+    },
+    {
+      "@id": "#r4b8e9",
+      "name": "Related Czech words",
+      "x": 60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pt3k8k",
+      "name": "obcovat: to have sex",
+      "x": 318,
+      "y": 255,
+      "parent": "#r4b8e9"
+    },
+    {
+      "@id": "#txwyee",
+      "name": "občan: citizen",
+      "x": 116,
+      "y": 348,
+      "parent": "#r4b8e9"
+    },
+    {
+      "@id": "#y29fad",
+      "name": "občina: commons",
+      "x": -116,
+      "y": 348,
+      "parent": "#r4b8e9"
+    },
+    {
+      "@id": "#sba38y",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8sv4kr",
+      "name": "Wiktionary: obec",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/obec#Czech",
+      "parent": "#sba38y"
+    },
+    {
+      "@id": "#9tkdpv",
+      "name": "Wiktionary: Proto-Slavic *obьťь",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/ob%D1%8C%C5%A5%D1%8C",
+      "parent": "#sba38y"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

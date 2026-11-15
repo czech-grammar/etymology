@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech kůže etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#485ack",
+      "name": "Meaning: “skin; leather”",
+      "x": -221,
+      "y": -52,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7e53xs",
+      "name": "Skin; leather",
+      "x": -432,
+      "y": -101,
+      "parent": "#485ack"
+    },
+    {
+      "@id": "#j69f3a",
+      "name": "Word history",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ihf84q",
+      "name": "Old Czech kóžě",
+      "x": -295,
+      "y": -272,
+      "parent": "#j69f3a"
+    },
+    {
+      "@id": "#ter4mn",
+      "name": "Proto-Slavic *koža.",
+      "x": -64,
+      "y": -356,
+      "parent": "#j69f3a"
+    },
+    {
+      "@id": "#35zs56",
+      "name": "From *koza, “goat” + *-ja",
+      "x": 187,
+      "y": -327,
+      "parent": "#j69f3a"
+    },
+    {
+      "@id": "#zm86nf",
+      "name": "Slavic cousins",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zpzaam",
+      "name": "Slovak koža",
+      "x": 379,
+      "y": -195,
+      "parent": "#zm86nf"
+    },
+    {
+      "@id": "#u8fcc2",
+      "name": "Russian кожа",
+      "x": 450,
+      "y": 0,
+      "parent": "#zm86nf"
+    },
+    {
+      "@id": "#z7ixkg",
+      "name": "Related Czech words",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rhs84d",
+      "name": "kožený: leather",
+      "x": 379,
+      "y": 195,
+      "parent": "#z7ixkg"
+    },
+    {
+      "@id": "#5i2ga2",
+      "name": "kožní: skin",
+      "x": 187,
+      "y": 327,
+      "parent": "#z7ixkg"
+    },
+    {
+      "@id": "#4mhxib",
+      "name": "kožešina: fur",
+      "x": -64,
+      "y": 356,
+      "parent": "#z7ixkg"
+    },
+    {
+      "@id": "#cqp9fc",
+      "name": "Sources",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tfja8u",
+      "name": "Wiktionary: kůže",
+      "x": -295,
+      "y": 272,
+      "link": "https://en.wiktionary.org/wiki/k%C5%AF%C5%BEe#Czech",
+      "parent": "#cqp9fc"
+    },
+    {
+      "@id": "#vwxwxr",
+      "name": "Wiktionary: Proto-Slavic *koža",
+      "x": -432,
+      "y": 101,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/ko%C5%BEa",
+      "parent": "#cqp9fc"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    }
+  ],
+  "selectedNode": 0
+}

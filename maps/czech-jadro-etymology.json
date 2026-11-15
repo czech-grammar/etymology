@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech jádro etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2zc253",
+      "name": "Meaning: “core, kernel (apple, nut)”",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fiv465",
+      "name": "Core, kernel (apple, nut)",
+      "x": -454,
+      "y": -97,
+      "parent": "#2zc253"
+    },
+    {
+      "@id": "#h8zjpy",
+      "name": "Word history",
+      "x": 60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#296a68",
+      "name": "Old Czech jádro",
+      "x": -318,
+      "y": -255,
+      "parent": "#h8zjpy"
+    },
+    {
+      "@id": "#wvhybk",
+      "name": "Proto-Slavic *ędro",
+      "x": -116,
+      "y": -348,
+      "parent": "#h8zjpy"
+    },
+    {
+      "@id": "#vrqqhu",
+      "name": "Proto-Balto-Slavic *endran",
+      "x": 136,
+      "y": -408,
+      "parent": "#h8zjpy"
+    },
+    {
+      "@id": "#prh2t3",
+      "name": "Proto-Indo-European *h₁en-d(ʰ)r-óm",
+      "x": 318,
+      "y": -255,
+      "parent": "#h8zjpy"
+    },
+    {
+      "@id": "#c3j64u",
+      "name": "Proto-Indo-European *h₁én, “in”",
+      "x": 435,
+      "y": -93,
+      "parent": "#h8zjpy"
+    },
+    {
+      "@id": "#ntdf26",
+      "name": "Slavic cousins",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2587b2",
+      "name": "Polish jądro",
+      "x": 435,
+      "y": 93,
+      "parent": "#ntdf26"
+    },
+    {
+      "@id": "#qdk2vp",
+      "name": "Slovak jadro",
+      "x": 318,
+      "y": 255,
+      "parent": "#ntdf26"
+    },
+    {
+      "@id": "#incj9r",
+      "name": "Russian ядро",
+      "x": 116,
+      "y": 348,
+      "parent": "#ntdf26"
+    },
+    {
+      "@id": "#n5ax9t",
+      "name": "Related Czech words",
+      "x": -60,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vj6ywr",
+      "name": "vyjádřit: to express",
+      "x": -116,
+      "y": 348,
+      "parent": "#n5ax9t"
+    },
+    {
+      "@id": "#ziikzf",
+      "name": "Sources",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pfbssw",
+      "name": "Wiktionary: jádro",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/j%C3%A1dro#Czech",
+      "parent": "#ziikzf"
+    },
+    {
+      "@id": "#f44ryv",
+      "name": "Wiktionary: Proto-Slavic *ędro",
+      "x": -435,
+      "y": 93,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/%C4%99dro",
+      "parent": "#ziikzf"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 3,
+      "end": 7
+    },
+    {
+      "start": 3,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    }
+  ],
+  "selectedNode": 0
+}

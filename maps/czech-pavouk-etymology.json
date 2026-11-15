@@ -1,0 +1,195 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech pavouk etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2skshx",
+      "name": "Meaning: “spider”",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#niyvuy",
+      "name": "Spider",
+      "x": -428,
+      "y": -111,
+      "parent": "#2skshx"
+    },
+    {
+      "@id": "#8sqpj7",
+      "name": "Word history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vptqa9",
+      "name": "Old Czech paúk",
+      "x": -265,
+      "y": -291,
+      "parent": "#8sqpj7"
+    },
+    {
+      "@id": "#bq4k7p",
+      "name": "Proto-Slavic *paǫkъ",
+      "x": 0,
+      "y": -360,
+      "parent": "#8sqpj7"
+    },
+    {
+      "@id": "#bbuap5",
+      "name": "Deeper origin uncertain",
+      "x": 265,
+      "y": -291,
+      "parent": "#8sqpj7"
+    },
+    {
+      "@id": "#wp8j3j",
+      "name": "Slavic cousins",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zh9su7",
+      "name": "Polish pająk",
+      "x": 428,
+      "y": -111,
+      "parent": "#wp8j3j"
+    },
+    {
+      "@id": "#6enrmk",
+      "name": "Slovak pavúk",
+      "x": 428,
+      "y": 111,
+      "parent": "#wp8j3j"
+    },
+    {
+      "@id": "#6xqw2i",
+      "name": "Russian паук",
+      "x": 265,
+      "y": 291,
+      "parent": "#wp8j3j"
+    },
+    {
+      "@id": "#qb962x",
+      "name": "Related Czech words",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#itc5rc",
+      "name": "pavučina: web",
+      "x": 0,
+      "y": 360,
+      "parent": "#qb962x"
+    },
+    {
+      "@id": "#w5mjjy",
+      "name": "Sources",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k2eabq",
+      "name": "Wiktionary: pavouk",
+      "x": -265,
+      "y": 291,
+      "link": "https://en.wiktionary.org/wiki/pavouk#Czech",
+      "parent": "#w5mjjy"
+    },
+    {
+      "@id": "#ni4md8",
+      "name": "Wiktionary: Proto-Slavic *paǫkъ",
+      "x": -428,
+      "y": 111,
+      "link": "https://en.wiktionary.org/wiki/Reconstruction:Proto-Slavic/pa%C7%ABk%D1%8A",
+      "parent": "#w5mjjy"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 3,
+      "end": 5
+    },
+    {
+      "start": 3,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    }
+  ],
+  "selectedNode": 0
+}

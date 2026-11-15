@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech perla etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#76iax8",
+      "name": "Meaning: “pearl”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3qwek2",
+      "name": "Pearl",
+      "x": -318,
+      "y": -255,
+      "parent": "#76iax8"
+    },
+    {
+      "@id": "#9xxffv",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#69xntc",
+      "name": "Borrowed from German Perle",
+      "x": 318,
+      "y": -255,
+      "parent": "#9xxffv"
+    },
+    {
+      "@id": "#gtz99w",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zyuvzn",
+      "name": "perleť: nacre",
+      "x": 318,
+      "y": 255,
+      "parent": "#gtz99w"
+    },
+    {
+      "@id": "#pin37s",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9ie85e",
+      "name": "Wiktionary: perla",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/perla#Czech",
+      "parent": "#pin37s"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}

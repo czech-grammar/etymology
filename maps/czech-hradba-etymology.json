@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech hradba etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5t8kk3",
+      "name": "Meaning: “(city) wall, rampart”",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y2xkpf",
+      "name": "(city) wall, rampart",
+      "x": -318,
+      "y": -255,
+      "parent": "#5t8kk3"
+    },
+    {
+      "@id": "#7y9sab",
+      "name": "Rampart, wall, battlement",
+      "x": 318,
+      "y": -255,
+      "parent": "#5t8kk3"
+    },
+    {
+      "@id": "#6izb5s",
+      "name": "Word history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aniw7t",
+      "name": "From hradit + -ba",
+      "x": 318,
+      "y": 255,
+      "parent": "#6izb5s"
+    },
+    {
+      "@id": "#2x4ktd",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qgcr2f",
+      "name": "Wiktionary: hradba",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/hradba#Czech",
+      "parent": "#2x4ktd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    }
+  ],
+  "selectedNode": 0
+}

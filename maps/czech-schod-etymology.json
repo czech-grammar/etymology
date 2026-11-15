@@ -1,0 +1,116 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Czech schod etymology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#4bbknv",
+      "name": "Meaning: “step, stair”",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zbara6",
+      "name": "Step, stair",
+      "x": -318,
+      "y": -255,
+      "parent": "#4bbknv"
+    },
+    {
+      "@id": "#26a9s6",
+      "name": "Word history",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#py5gxp",
+      "name": "From s- + chodit",
+      "x": 318,
+      "y": -255,
+      "parent": "#26a9s6"
+    },
+    {
+      "@id": "#xnwhw8",
+      "name": "Related Czech words",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kaz38m",
+      "name": "schodiště: stairway",
+      "x": 318,
+      "y": 255,
+      "parent": "#xnwhw8"
+    },
+    {
+      "@id": "#7nzzcd",
+      "name": "Sources",
+      "x": -163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h4b3qu",
+      "name": "Wiktionary: schod",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wiktionary.org/wiki/schod#Czech",
+      "parent": "#7nzzcd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 0,
+      "end": 3
+    },
+    {
+      "start": 3,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    }
+  ],
+  "selectedNode": 0
+}
