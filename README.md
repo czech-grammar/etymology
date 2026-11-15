@@ -23,6 +23,7 @@ The facts come from English Wiktionary's Czech entries and its Proto-Slavic reco
 
 - `node tools/fetch.js --words tools/a1.json` caches the Czech entries (slowly: Wiktionary rate-limits)
 - `node tools/make.js tools/a1.json "A1 nouns"` reads them, fetches the Proto-Slavic entries they name and short glosses for related words, and writes `outlines/czech-<word>-etymology.md`. An outline that already exists is left alone, so hand edits survive.
+- `node tools/pics.js` copies each word's flash-card picture from a sibling checkout of [czech-grammar/nouns](https://github.com/czech-grammar/nouns) to `pics/<word>.svg` for the directory page
 
 Only cognates Wiktionary names as cognates are used, an uncertain origin says so, and a word built in Czech shows its root's Slavic cousins under that heading. Words with no etymology on Wiktionary are skipped.
 
